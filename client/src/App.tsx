@@ -5,31 +5,45 @@ import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
+import AboutUs from "./pages/AboutUs";
+import Services from "./pages/Services";
+import ServiceDetail from "./pages/ServiceDetail";
+import Locations from "./pages/Locations";
+import LocationDetail from "./pages/LocationDetail";
+import Blogs from "./pages/Blogs";
+import BlogDetail from "./pages/BlogDetail";
+import CategoryDetail from "./pages/CategoryDetail";
+import Booking from "./pages/Booking";
+import ContactUs from "./pages/ContactUs";
 
 function Router() {
-  // make sure to consider if you need authentication for certain routes
   return (
     <Switch>
-      <Route path={"/"} component={Home} />
-      <Route path={"/404"} component={NotFound} />
+      <Route path="/" component={Home} />
+      <Route path="/about-us" component={AboutUs} />
+      <Route path="/service" component={Services} />
+      <Route path="/service/:slug" component={ServiceDetail} />
+      <Route path="/locations" component={Locations} />
+      <Route path="/blogs" component={Blogs} />
+      <Route path="/category/:slug" component={CategoryDetail} />
+      <Route path="/booking" component={Booking} />
+      <Route path="/contact-us" component={ContactUs} />
+      {/* Dynamic routes for locations and blogs */}
+      <Route path="/best-physiotherapist-in-:area" component={LocationDetail} />
+      <Route path="/physiotherapist-in-:area" component={LocationDetail} />
+      <Route path="/home-physiotherapist-in-:area" component={LocationDetail} />
+      <Route path="/:slug" component={BlogDetail} />
+      <Route path="/404" component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />
     </Switch>
   );
 }
 
-// NOTE: About Theme
-// - First choose a default theme according to your design style (dark or light bg), than change color palette in index.css
-//   to keep consistent foreground/background color across components
-// - If you want to make theme switchable, pass `switchable` ThemeProvider and use `useTheme` hook
-
 function App() {
   return (
     <ErrorBoundary>
-      <ThemeProvider
-        defaultTheme="light"
-        // switchable
-      >
+      <ThemeProvider defaultTheme="light">
         <TooltipProvider>
           <Toaster />
           <Router />

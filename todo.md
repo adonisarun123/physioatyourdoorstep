@@ -1,0 +1,144 @@
+# Project TODO
+
+## Core Infrastructure
+- [x] Setup design system (colors, fonts, shadows)
+- [x] Create Header component with navigation and CTA buttons
+- [x] Create Footer component with NAP and links
+- [x] Create CTA bar component (fixed bottom on mobile)
+- [x] Setup database schema for services, locations, blogs, categories
+- [x] Configure environment variables
+
+## Core Pages
+- [x] Home page with hero, services overview, testimonials
+- [x] About Us page
+- [x] Contact Us page with contact form
+- [x] Locations index page
+- [x] Services index page
+- [x] Blogs index page
+- [x] Booking page with form
+
+## Service Pages (10 services)
+- [x] Sports Physiotherapy
+- [x] Pulmonary Physiotherapy
+- [x] Post-Surgical Physiotherapy
+- [x] Physiotherapy in Pregnancy
+- [x] Pediatric Physiotherapy
+- [x] Orthopaedic Physiotherapy
+- [x] Online Physiotherapy Consultation India
+- [x] Neurological Physiotherapy
+- [x] Geriatric Physiotherapy
+- [x] Corporate Wellness Physiotherapy Program
+
+## Location Pages (23 locations)
+- [x] Best Physiotherapist in Laxmi Chowk
+- [x] Best Physiotherapist in Baner
+- [x] Best Physiotherapist in Bellandur
+- [x] Best Physiotherapist in Whitefield
+- [x] Best Physiotherapist in Kudlu
+- [x] Best Physiotherapist in Hinjewadi
+- [x] Best Physiotherapist in Balewadi
+- [x] Best Physiotherapist in Vishal Nagar
+- [x] Best Physiotherapist in Wakad
+- [x] Best Physiotherapist in Electronic City
+- [x] Best Physiotherapist in Banashankari
+- [x] Home Physiotherapist in Hulimavu
+- [x] Best Physiotherapist in Marathahalli
+- [x] Best Physiotherapist in Arekere
+- [x] Physiotherapist in BTM Layout
+- [x] Physiotherapist in Ejipura
+- [x] Physiotherapist in Indiranagar
+- [x] Physiotherapist in Koramangala
+- [x] Physiotherapist in HSR Layout
+- [x] Physiotherapist in Bellandur
+- [x] Physiotherapist in JP Nagar
+- [x] Home Physiotherapist in Jayanagar
+- [x] Physiotherapist in Sarjapur Road
+
+## Blog/Content Pages (48 blogs)
+- [ ] Sciatica Physiotherapy
+- [ ] Physiotherapy for Pregnancy Back Pain and Cramping
+- [ ] Pediatric Physiotherapy Assessment
+- [ ] Geriatric Physiotherapy Rehabilitation
+- [ ] Types of Neurological Rehabilitation
+- [ ] Physiotherapy for Osteoarthritis
+- [ ] Musculoskeletal and Orthopedic Physiotherapy
+- [ ] Cervical PIVD Physiotherapy
+- [ ] CTEV Post Surgery Physiotherapy
+- [ ] Latest Technology in Physiotherapy
+- [ ] Telehealth Physiotherapy
+- [ ] Desk Job Syndrome Physiotherapy
+- [ ] Sports Assessment in Physiotherapy
+- [ ] Types of Pediatric Physiotherapy
+- [ ] Geriatric Physiotherapy Conditions
+- [ ] IRR vs Laser vs Electrotherapy
+- [ ] Lumbar Spondylosis Physiotherapy
+- [ ] Baker's Cyst Physiotherapy
+- [ ] ICT vs IPT vs IFT in Physiotherapy
+- [ ] CABG Post Surgical Physiotherapy Management
+- [ ] Orthopaedic Conditions in Physiotherapy
+- [ ] Physiotherapy for Cervical Disc Prolapse
+- [ ] Corporate Wellness Physical Therapy
+- [ ] Physiotherapy for Pulmonary Hypertension
+- [ ] Pediatric Physiotherapy Conditions
+- [ ] Angioplasty Post Surgical Physiotherapy
+- [ ] Geriatric Physiotherapy for Arthritis
+- [ ] Physiotherapy vs Remedial vs Chiropractic
+- [ ] Cardiac Rehabilitation Physio for Heart
+- [ ] Neurological Assessment in Physiotherapy
+- [ ] Physiotherapy in Post Surgical Rehabilitation
+- [ ] Physiotherapy Ultrasound Treatment in Pregnancy
+- [ ] Pulmonary Edema Physiotherapy
+- [ ] Physiotherapy for Knee Surgery
+- [ ] Neurological Physiotherapy Exercises
+- [ ] Geriatric Rehabilitation Physiotherapy
+- [ ] Physiotherapy Exercises After Knee Surgery
+- [ ] Physiotherapy for Pulmonary Fibrosis
+- [ ] Pediatric Physical Rehabilitation
+- [ ] Physiotherapy for Rheumatoid Arthritis
+- [ ] Geriatric Physiotherapy Assessment
+- [ ] Physiotherapy in Neurological Conditions
+- [ ] Taping
+- [ ] Plantar Fascitis
+- [ ] Cervicogenic Headache
+- [ ] Knee Pain
+- [ ] Back Ache
+- [ ] Difference Between Orthopaedic and Physiotherapy
+
+## Category Pages (9 categories)
+- [x] Physiotherapy
+- [x] Neurological Physiotherapy
+- [x] Geriatric Physiotherapy
+- [x] Pediatric Physiotherapy
+- [x] Pulmonary Physiotherapy
+- [x] Post-Surgical Physiotherapy
+- [x] Physiotherapy at Pregnancy
+- [x] Orthopaedic Physiotherapy
+- [x] Sports Physiotherapy
+
+## Reusable Components
+- [x] Service card component
+- [x] Blog card component
+- [x] FAQ accordion component
+- [ ] Breadcrumbs component
+- [ ] Testimonials carousel
+
+## SEO & Technical
+- [x] Add metadata to all pages (title, description, OG)
+- [ ] Implement JSON-LD schema (Organization, MedicalClinic, Service, BlogPosting, FAQPage, BreadcrumbList)
+- [ ] Setup sitemap.xml generation
+- [ ] Setup robots.txt
+- [ ] Add canonical URLs to all pages
+- [x] Optimize images and add alt text
+
+## Forms & API
+- [x] Contact form with validation
+- [x] Booking form with service/location/date selection
+- [x] Contact API route with email sending
+- [ ] Form spam protection (honeypot, rate limiting)
+
+## Final Steps
+- [x] Test all pages and links
+- [x] Verify SEO metadata
+- [x] Test forms and booking flow
+- [x] Mobile responsiveness check
+- [ ] Create checkpoint for deployment

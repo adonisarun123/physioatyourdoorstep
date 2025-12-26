@@ -1,6 +1,6 @@
 import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, users, services, locations, blogs, categories, bookings, contactSubmissions } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +89,80 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+// Service queries
+export async function getAllServices() {
+  const db = await getDb();
+  if (!db) return [];
+  return await db.select().from(services);
+}
+
+export async function getServiceBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(services).where(eq(services.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+// Location queries
+export async function getAllLocations() {
+  const db = await getDb();
+  if (!db) return [];
+  return await db.select().from(locations);
+}
+
+export async function getLocationBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(locations).where(eq(locations.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+// Blog queries
+export async function getAllBlogs() {
+  const db = await getDb();
+  if (!db) return [];
+  return await db.select().from(blogs);
+}
+
+export async function getBlogBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(blogs).where(eq(blogs.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+export async function getBlogsByCategory(categoryId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  return await db.select().from(blogs).where(eq(blogs.categoryId, categoryId));
+}
+
+// Category queries
+export async function getAllCategories() {
+  const db = await getDb();
+  if (!db) return [];
+  return await db.select().from(categories);
+}
+
+export async function getCategoryBySlug(slug: string) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(categories).where(eq(categories.slug, slug)).limit(1);
+  return result.length > 0 ? result[0] : undefined;
+}
+
+// Booking mutations
+export async function createBooking(booking: typeof bookings.$inferInsert) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  const result = await db.insert(bookings).values(booking);
+  return result;
+}
+
+// Contact submission mutations
+export async function createContactSubmission(submission: typeof contactSubmissions.$inferInsert) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  const result = await db.insert(contactSubmissions).values(submission);
+  return result;
+}
