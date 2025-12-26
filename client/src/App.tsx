@@ -3,6 +3,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
+import GoogleAnalytics from "./components/GoogleAnalytics";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import AboutUs from "./pages/AboutUs";
@@ -43,8 +44,12 @@ function Router() {
 function App() {
   return (
     <ErrorBoundary>
-      <ThemeProvider defaultTheme="light">
+      <ThemeProvider
+        defaultTheme="light"
+        // switchable
+      >
         <TooltipProvider>
+          <GoogleAnalytics />
           <Toaster />
           <Router />
         </TooltipProvider>
@@ -52,5 +57,4 @@ function App() {
     </ErrorBoundary>
   );
 }
-
 export default App;

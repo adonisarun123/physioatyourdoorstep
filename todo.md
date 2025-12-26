@@ -162,4 +162,15 @@
 - [x] Include all blog pages dynamically
 - [x] Add robots.txt file with sitemap reference
 - [x] Test sitemap generation
-- [ ] Create checkpoint with sitemap
+- [x] Create checkpoint with sitemap
+
+## Google Analytics Integration Tasks (New Request)
+- [x] Create Google Analytics component with GA4 integration
+- [x] Add GA4 tracking script to main layout
+- [x] Track page views automatically
+- [x] Add conversion tracking for booking form submissions
+- [x] Add conversion tracking for contact form submissions
+- [x] Add event tracking for phone number clicks
+- [x] Add event tracking for WhatsApp button clicks
+- [x] Test analytics implementation
+- [ ] Create checkpoint with Google Analytics

@@ -5,6 +5,7 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
+import { trackContactSubmission } from "@/components/GoogleAnalytics";
 import Header from "@/components/Header";
 import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
@@ -37,11 +38,14 @@ export default function ContactUs() {
       await submitContact.mutateAsync({
         name: formData.name,
         email: formData.email,
-        phone: formData.phone || undefined,
-        subject: formData.subject || undefined,
+        phone: formData.phone,
+        subject: formData.subject,
         message: formData.message,
       });
-      
+
+      // Track contact form conversion
+      trackContactSubmission(formData.subject);
+
       toast.success("Message sent successfully! We'll get back to you soon.");
       setFormData({
         name: "",

@@ -6,6 +6,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Textarea } from "@/components/ui/textarea";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
+import { trackBookingSubmission } from "@/components/GoogleAnalytics";
 import Header from "@/components/Header";
 import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
@@ -39,19 +40,22 @@ export default function Booking() {
     e.preventDefault();
     
     try {
-      await createBooking.mutateAsync({
+       await createBooking.mutateAsync({
         name: formData.name,
         email: formData.email,
         phone: formData.phone,
-        serviceId: formData.serviceId ? parseInt(formData.serviceId) : undefined,
-        locationArea: formData.locationArea || undefined,
-        preferredDate: formData.preferredDate || undefined,
-        preferredTime: formData.preferredTime || undefined,
-        condition: formData.condition || undefined,
-        notes: formData.notes || undefined,
+        serviceId: parseInt(formData.serviceId),
+        locationArea: formData.locationArea,
+        preferredDate: formData.preferredDate,
+        preferredTime: formData.preferredTime,
+        condition: formData.condition,
+        notes: formData.notes,
       });
-      
-      toast.success("Booking request submitted successfully! We'll contact you soon.");
+
+      // Track booking conversion
+      trackBookingSubmission(formData.serviceId, formData.locationArea);
+
+      toast.success("Booking submitted successfully! We'll contact you soon.");
       setFormData({
         name: "",
         email: "",
