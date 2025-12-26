@@ -1,0 +1,15 @@
+# robots.txt for Physio At Your Doorstep
+# https://physioatyourdoorstep.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://physioatyourdoorstep.com/sitemap.xml
+
+# Crawl-delay (optional, adjust if needed)
+# Crawl-delay: 1
+
+# Disallow admin or private areas (if any in future)
+# Disallow: /admin/
+# Disallow: /private/

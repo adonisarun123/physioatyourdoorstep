@@ -152,4 +152,14 @@
 - [x] Add BreadcrumbList schema to all pages
 - [x] Add BlogPosting schema to blog pages
 - [x] Test structured data with vitest
-- [ ] Create checkpoint with SEO enhancements
+- [x] Create checkpoint with SEO enhancements
+
+## Sitemap Generation Tasks (New Request)
+- [x] Create sitemap.xml API endpoint
+- [x] Include all static pages in sitemap
+- [x] Include all service pages dynamically
+- [x] Include all location pages dynamically
+- [x] Include all blog pages dynamically
+- [x] Add robots.txt file with sitemap reference
+- [x] Test sitemap generation
+- [ ] Create checkpoint with sitemap
