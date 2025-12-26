@@ -6,6 +6,7 @@ import { Textarea } from "@/components/ui/textarea";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { useState } from "react";
@@ -21,6 +22,13 @@ export default function ContactUs() {
     subject: "",
     message: "",
   });
+
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Contact Us', url: 'https://physioatyourdoorstep.com/contact-us' },
+    ]),
+  ];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -49,6 +57,12 @@ export default function ContactUs() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Contact Us | Get in Touch | Physio At Your Doorstep"
+        description="Contact Physio At Your Doorstep for professional physiotherapy services. Call us, email us, or fill out our contact form. We're here to help!"
+        canonical="https://physioatyourdoorstep.com/contact-us"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

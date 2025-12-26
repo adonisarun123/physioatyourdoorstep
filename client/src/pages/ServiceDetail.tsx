@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema, generateFAQSchema, generateServiceSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { Link, useParams } from "wouter";
 
@@ -40,8 +41,28 @@ export default function ServiceDetail() {
     );
   }
 
+  const structuredData = [
+    generateServiceSchema({
+      name: service.title,
+      description: service.metaDescription || '',
+      url: `https://physioatyourdoorstep.com/service/${service.slug}`,
+    }),
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Services', url: 'https://physioatyourdoorstep.com/service' },
+      { name: service.title, url: `https://physioatyourdoorstep.com/service/${service.slug}` },
+    ]),
+    ...(service.faqs && service.faqs.length > 0 ? [generateFAQSchema(service.faqs)] : []),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title={service.metaTitle || `${service.title} | Physio At Your Doorstep`}
+        description={service.metaDescription || ''}
+        canonical={`https://physioatyourdoorstep.com/service/${service.slug}`}
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

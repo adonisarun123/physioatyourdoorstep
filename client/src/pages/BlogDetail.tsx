@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBlogPostingSchema, generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { Calendar, Tag } from "lucide-react";
 import { Link, useParams } from "wouter";
@@ -44,8 +45,29 @@ export default function BlogDetail() {
     );
   }
 
+  const structuredData = [
+    generateBlogPostingSchema({
+      title: blog.title,
+      description: blog.excerpt || blog.metaDescription || '',
+      url: `https://physioatyourdoorstep.com/${blog.slug}`,
+      publishedAt: new Date(blog.publishedAt),
+      modifiedAt: blog.updatedAt ? new Date(blog.updatedAt) : undefined,
+    }),
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Blogs', url: 'https://physioatyourdoorstep.com/blogs' },
+      { name: blog.title, url: `https://physioatyourdoorstep.com/${blog.slug}` },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title={blog.metaTitle || `${blog.title} | Physio At Your Doorstep`}
+        description={blog.metaDescription || blog.excerpt || ''}
+        canonical={`https://physioatyourdoorstep.com/${blog.slug}`}
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

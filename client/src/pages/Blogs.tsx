@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { Calendar } from "lucide-react";
 import { Link } from "wouter";
@@ -11,8 +12,21 @@ export default function Blogs() {
   const { data: blogs, isLoading } = trpc.blogs.list.useQuery();
   const { data: categories } = trpc.categories.list.useQuery();
 
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Blogs', url: 'https://physioatyourdoorstep.com/blogs' },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Health & Wellness Blog | Physiotherapy Tips & Insights | Physio At Your Doorstep"
+        description="Expert articles and insights on physiotherapy, rehabilitation, injury prevention, and wellness. Learn from professional physiotherapists."
+        canonical="https://physioatyourdoorstep.com/blogs"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

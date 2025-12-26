@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { MapPin } from "lucide-react";
 import { Link } from "wouter";
@@ -19,8 +20,21 @@ export default function Locations() {
     return acc;
   }, {} as Record<string, typeof locations>);
 
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Locations', url: 'https://physioatyourdoorstep.com/locations' },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Our Locations | Physiotherapy Services Across India | Physio At Your Doorstep"
+        description="Find professional physiotherapy services in your area. We serve Bangalore, Pune, and expanding to more cities. Home visit physiotherapy near you."
+        canonical="https://physioatyourdoorstep.com/locations"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

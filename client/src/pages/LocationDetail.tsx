@@ -4,6 +4,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema, generateFAQSchema, generateLocalBusinessSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { MapPin, Phone } from "lucide-react";
 import { Link, useParams } from "wouter";
@@ -44,8 +45,29 @@ export default function LocationDetail() {
 
   const phoneNumber = "+918233787737";
 
+  const structuredData = [
+    generateLocalBusinessSchema({
+      name: location.title,
+      area: location.area,
+      city: location.city,
+      url: `https://physioatyourdoorstep.com/${location.slug}`,
+    }),
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Locations', url: 'https://physioatyourdoorstep.com/locations' },
+      { name: location.title, url: `https://physioatyourdoorstep.com/${location.slug}` },
+    ]),
+    ...(location.faqs && location.faqs.length > 0 ? [generateFAQSchema(location.faqs)] : []),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title={location.metaTitle || `${location.title} | Physio At Your Doorstep`}
+        description={location.metaDescription || ''}
+        canonical={`https://physioatyourdoorstep.com/${location.slug}`}
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

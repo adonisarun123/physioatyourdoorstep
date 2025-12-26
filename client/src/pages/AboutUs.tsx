@@ -3,12 +3,26 @@ import { Card, CardContent } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { Award, Heart, Target, Users } from "lucide-react";
 import { Link } from "wouter";
 
 export default function AboutUs() {
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'About Us', url: 'https://physioatyourdoorstep.com/about-us' },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="About Us | Professional Home Physiotherapy Services | Physio At Your Doorstep"
+        description="Learn about Physio At Your Doorstep - your trusted partner for professional home physiotherapy services. Expert care, convenient service, proven results."
+        canonical="https://physioatyourdoorstep.com/about-us"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

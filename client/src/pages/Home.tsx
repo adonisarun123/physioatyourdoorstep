@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema, generateOrganizationSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { Activity, Award, Clock, Heart, Home as HomeIcon, Shield, Users } from "lucide-react";
 import { Link } from "wouter";
@@ -45,8 +46,21 @@ export default function Home() {
 
   const whatsappNumber = "918233787737";
 
+  const structuredData = [
+    generateOrganizationSchema(),
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Physio At Your Doorstep | Professional Home Physiotherapy Services in India"
+        description="Expert physiotherapy services delivered to your home across India. Professional treatment for sports injuries, post-surgical rehabilitation, neurological conditions, and more. Book now!"
+        canonical="https://physioatyourdoorstep.com/"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

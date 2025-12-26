@@ -7,6 +7,7 @@ import { Textarea } from "@/components/ui/textarea";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { useState } from "react";
 import { toast } from "sonner";
@@ -26,6 +27,13 @@ export default function Booking() {
     condition: "",
     notes: "",
   });
+
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Book Appointment', url: 'https://physioatyourdoorstep.com/booking' },
+    ]),
+  ];
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -62,6 +70,12 @@ export default function Booking() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Book Appointment | Schedule Your Physiotherapy Session | Physio At Your Doorstep"
+        description="Book your home physiotherapy appointment online. Choose your service, preferred date and time. Professional physiotherapists at your doorstep."
+        canonical="https://physioatyourdoorstep.com/booking"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import SEO, { generateBreadcrumbSchema } from "@/components/SEO";
 import { trpc } from "@/lib/trpc";
 import { ArrowRight } from "lucide-react";
 import { Link } from "wouter";
@@ -10,8 +11,21 @@ import { Link } from "wouter";
 export default function Services() {
   const { data: services, isLoading } = trpc.services.list.useQuery();
 
+  const structuredData = [
+    generateBreadcrumbSchema([
+      { name: 'Home', url: 'https://physioatyourdoorstep.com/' },
+      { name: 'Services', url: 'https://physioatyourdoorstep.com/service' },
+    ]),
+  ];
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title="Our Services | Professional Physiotherapy Treatments | Physio At Your Doorstep"
+        description="Comprehensive physiotherapy services including sports physiotherapy, post-surgical rehabilitation, neurological care, geriatric therapy, and more. Expert treatment at your home."
+        canonical="https://physioatyourdoorstep.com/service"
+        structuredData={structuredData}
+      />
       <Header />
       
       <main className="flex-1">

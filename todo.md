@@ -141,4 +141,15 @@
 - [x] Verify SEO metadata
 - [x] Test forms and booking flow
 - [x] Mobile responsiveness check
-- [ ] Create checkpoint for deployment
+- [x] Create checkpoint for deployment
+
+## SEO Enhancement Tasks (New Request)
+- [x] Create SEO utility component for JSON-LD schemas
+- [x] Implement Organization schema
+- [x] Implement MedicalBusiness schema
+- [x] Add Service schema to service pages
+- [x] Add FAQPage schema to pages with FAQs
+- [x] Add BreadcrumbList schema to all pages
+- [x] Add BlogPosting schema to blog pages
+- [x] Test structured data with vitest
+- [ ] Create checkpoint with SEO enhancements
