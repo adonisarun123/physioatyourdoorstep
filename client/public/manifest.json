@@ -1,0 +1,23 @@
+{
+  "name": "Physio At Your Doorstep",
+  "short_name": "Physio@YourDoorstep",
+  "description": "Expert physiotherapy services delivered to your home. Convenient, professional, and personalized care for faster recovery and better health.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B3B6D",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
