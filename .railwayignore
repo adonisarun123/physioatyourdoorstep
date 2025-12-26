@@ -1,0 +1,14 @@
+# Railway ignore file
+node_modules/
+.git/
+.env
+.env.local
+*.log
+coverage/
+.vscode/
+.idea/
+*.test.ts
+*.test.tsx
+__tests__/
+screenshots/
+.DS_Store
