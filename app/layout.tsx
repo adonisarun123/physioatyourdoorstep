@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
-// import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import "./globals.css";
 
@@ -47,7 +46,6 @@ export default function RootLayout({
                 >
                     <TooltipProvider>
                         {children}
-                        // <Toaster />
                     </TooltipProvider>
                 </ThemeProvider>
             </body>
