@@ -43,7 +43,7 @@ export async function submitBooking(formData: FormData) {
         return { success: true, message: "Booking submitted successfully! We'll contact you soon." };
     } catch (error) {
         if (error instanceof z.ZodError) {
-            return { success: false, message: error.errors[0].message };
+            return { success: false, message: error.issues[0].message };
         }
         return { success: false, message: "Failed to submit booking. Please try again." };
     }
@@ -65,7 +65,7 @@ export async function submitContact(formData: FormData) {
         return { success: true, message: "Message sent successfully! We'll get back to you soon." };
     } catch (error) {
         if (error instanceof z.ZodError) {
-            return { success: false, message: error.errors[0].message };
+            return { success: false, message: error.issues[0].message };
         }
         return { success: false, message: "Failed to send message. Please try again." };
     }

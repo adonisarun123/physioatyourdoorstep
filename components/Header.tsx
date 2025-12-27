@@ -91,7 +91,7 @@ export default function Header() {
               <Link
                 key={item.name}
                 href={item.href}
-                className={`block py-2 text-base font-medium ${location === item.href
+                className={`block py-2 text-base font-medium ${pathname === item.href
                   ? "text-primary"
                   : "text-muted-foreground"
                   }`}
