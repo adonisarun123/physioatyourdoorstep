@@ -3,10 +3,42 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --radius-sm: calc(var(--radius) - 4px);
-  --radius-md: calc(var(--radius) - 2px);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
+  /* Physiocare Green Palette */
+  --color-physiogreen-900: #1F3F35;
+  --color-physiogreen-700: #2E5E50;
+  --color-physiogreen-600: #4F8F7A;
+  --color-physiogreen-500: #6FAF9C;
+  --color-physiogreen-300: #CFE7DD;
+  --color-physiogreen-100: #EAF5F1;
+
+  /* Physiocare Neutrals */
+  --color-physioneutral-white: #FFFFFF;
+  --color-physioneutral-900: #1F2933;
+  --color-physioneutral-700: #4B5563;
+  --color-physioneutral-500: #6B7280;
+  --color-physioneutral-300: #D1D5DB;
+  --color-physioneutral-100: #F9FAFB;
+
+  /* Radius tokens */
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-pill: 999px;
+
+  /* Shadow tokens */
+  --shadow-soft: 0 10px 30px rgba(31, 63, 53, 0.12);
+  --shadow-float: 0 12px 34px rgba(31, 63, 53, 0.16);
+
+  /* Spacing tokens */
+  --section-y: 96px;
+  --section-y-sm: 64px;
+
+  /* Motion tokens */
+  --ease-physiocare: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-physiocare: 250ms;
+
+  /* Map to Tailwind color system */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
@@ -26,106 +58,68 @@
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
-  --color-chart-1: var(--chart-1);
-  --color-chart-2: var(--chart-2);
-  --color-chart-3: var(--chart-3);
-  --color-chart-4: var(--chart-4);
-  --color-chart-5: var(--chart-5);
-  --color-sidebar: var(--sidebar);
-  --color-sidebar-foreground: var(--sidebar-foreground);
-  --color-sidebar-primary: var(--sidebar-primary);
-  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
-  --color-sidebar-accent: var(--sidebar-accent);
-  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
-  --color-sidebar-border: var(--sidebar-border);
-  --color-sidebar-ring: var(--sidebar-ring);
 }
 
 :root {
-  /* Brand Colors: Navy Blue (#3B3B6D) and Red (#E31E24) */
-  --primary: oklch(0.35 0.08 270);
-  /* Navy Blue */
-  --primary-foreground: oklch(1 0 0);
-  /* White */
-  --sidebar-primary: oklch(0.35 0.08 270);
-  /* Navy Blue */
-  --sidebar-primary-foreground: oklch(1 0 0);
-  --chart-1: oklch(0.55 0.12 270);
-  /* Light Navy */
-  --chart-2: oklch(0.45 0.10 270);
-  /* Medium Navy */
-  --chart-3: oklch(0.35 0.08 270);
-  /* Navy Blue */
-  --chart-4: oklch(0.55 0.22 25);
-  /* Light Red */
-  --chart-5: oklch(0.50 0.25 25);
-  /* Red */
-  --radius: 0.65rem;
-  --background: oklch(1 0 0);
-  /* White */
-  --foreground: oklch(0.15 0 0);
-  /* Almost Black */
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.15 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.15 0 0);
-  --secondary: oklch(0.50 0.25 25);
-  /* Red Accent */
-  --secondary-foreground: oklch(1 0 0);
-  --muted: oklch(0.96 0.005 270);
-  /* Light Navy Tint */
-  --muted-foreground: oklch(0.50 0.05 270);
-  --accent: oklch(0.50 0.25 25);
-  /* Red for accents */
-  --accent-foreground: oklch(1 0 0);
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(0.90 0.01 270);
-  /* Light Navy Border */
-  --input: oklch(0.90 0.01 270);
-  --ring: oklch(0.35 0.08 270);
-  /* Navy Blue Ring */
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.15 0 0);
-  --sidebar-accent: oklch(0.96 0.005 270);
-  --sidebar-accent-foreground: oklch(0.35 0.08 270);
-  --sidebar-border: oklch(0.90 0.01 270);
-  --sidebar-ring: oklch(0.35 0.08 270);
+  /* Physiocare Brand Colors */
+  --primary: #4F8F7A;
+  /* Brand Green */
+  --primary-foreground: #FFFFFF;
+  --secondary: #2E5E50;
+  /* Deep Green */
+  --secondary-foreground: #FFFFFF;
+
+  --background: #FFFFFF;
+  --foreground: #1F2933;
+
+  --card: #FFFFFF;
+  --card-foreground: #1F2933;
+
+  --popover: #FFFFFF;
+  --popover-foreground: #1F2933;
+
+  --muted: #EAF5F1;
+  /* Background Mint */
+  --muted-foreground: #4B5563;
+
+  --accent: #6FAF9C;
+  /* Soft Green */
+  --accent-foreground: #1F2933;
+
+  --destructive: #dc2626;
+  --destructive-foreground: #FFFFFF;
+
+  --border: #D1D5DB;
+  --input: #D1D5DB;
+  --ring: #4F8F7A;
+
+  --radius: 1rem;
 }
 
 .dark {
-  --primary: var(--color-blue-700);
-  --primary-foreground: var(--color-blue-50);
-  --sidebar-primary: var(--color-blue-500);
-  --sidebar-primary-foreground: var(--color-blue-50);
-  --background: oklch(0.141 0.005 285.823);
-  --foreground: oklch(0.85 0.005 65);
-  --card: oklch(0.21 0.006 285.885);
-  --card-foreground: oklch(0.85 0.005 65);
-  --popover: oklch(0.21 0.006 285.885);
-  --popover-foreground: oklch(0.85 0.005 65);
-  --secondary: oklch(0.24 0.006 286.033);
-  --secondary-foreground: oklch(0.7 0.005 65);
-  --muted: oklch(0.274 0.006 286.033);
-  --muted-foreground: oklch(0.705 0.015 286.067);
-  --accent: oklch(0.274 0.006 286.033);
-  --accent-foreground: oklch(0.92 0.005 65);
-  --destructive: oklch(0.704 0.191 22.216);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.488 0.243 264.376);
-  --chart-1: var(--color-blue-300);
-  --chart-2: var(--color-blue-500);
-  --chart-3: var(--color-blue-600);
-  --chart-4: var(--color-blue-700);
-  --chart-5: var(--color-blue-800);
-  --sidebar: oklch(0.21 0.006 285.885);
-  --sidebar-foreground: oklch(0.85 0.005 65);
-  --sidebar-accent: oklch(0.274 0.006 286.033);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.488 0.243 264.376);
+  --primary: #6FAF9C;
+  --primary-foreground: #1F2933;
+  --secondary: #4F8F7A;
+  --secondary-foreground: #FFFFFF;
+
+  --background: #1F2933;
+  --foreground: #FFFFFF;
+
+  --card: #2E5E50;
+  --card-foreground: #FFFFFF;
+
+  --popover: #2E5E50;
+  --popover-foreground: #FFFFFF;
+
+  --muted: #1F3F35;
+  --muted-foreground: #CFE7DD;
+
+  --accent: #4F8F7A;
+  --accent-foreground: #FFFFFF;
+
+  --border: rgba(207, 231, 221, 0.2);
+  --input: rgba(207, 231, 221, 0.2);
+  --ring: #6FAF9C;
 }
 
 @layer base {
@@ -133,8 +127,13 @@
     @apply border-border outline-ring/50;
   }
 
+  html {
+    font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  }
+
   body {
     @apply bg-background text-foreground;
+    line-height: 1.6;
   }
 
   button:not(:disabled),
@@ -152,48 +151,157 @@
 
 @layer components {
 
-  /**
-   * Custom container utility that centers content and adds responsive padding.
-   *
-   * This overrides Tailwind's default container behavior to:
-   * - Auto-center content (mx-auto)
-   * - Add responsive horizontal padding
-   * - Set max-width for large screens
-   *
-   * Usage: <div className="container">...</div>
-   *
-   * For custom widths, use max-w-* utilities directly:
-   * <div className="max-w-6xl mx-auto px-4">...</div>
-   */
+  /* Container */
   .container {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 1rem;
-    /* 16px - mobile padding */
-    padding-right: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    max-width: 1200px;
   }
 
+  /* Section spacing */
+  .section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  @media (min-width: 768px) {
+    .section {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
+  }
+
+  .section-sm {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  @media (min-width: 768px) {
+    .section-sm {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+    }
+  }
+
+  /* Pills */
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  /* Buttons */
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    background-color: #4F8F7A;
+    padding: 0.75rem 1.5rem;
+    color: #FFFFFF;
+    font-weight: 500;
+    transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .btn-primary:hover {
+    background-color: #2E5E50;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 34px rgba(31, 63, 53, 0.16);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    background-color: #FFFFFF;
+    padding: 0.75rem 1.5rem;
+    color: #2E5E50;
+    font-weight: 500;
+    border: 2px solid #CFE7DD;
+    transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .btn-secondary:hover {
+    background-color: #EAF5F1;
+    border-color: #4F8F7A;
+  }
+
+  /* Cards */
+  .card-physio {
+    border-radius: 16px;
+    border: 1px solid #CFE7DD;
+    background-color: #FFFFFF;
+    padding: 2rem;
+    transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .card-physio:hover {
+    box-shadow: 0 10px 30px rgba(31, 63, 53, 0.12);
+    transform: translateY(-2px);
+  }
+
+  .card-soft {
+    border-radius: 16px;
+    background-color: #EAF5F1;
+    padding: 2rem;
+  }
+
+  /* Image frames */
+  .img-frame {
+    overflow: hidden;
+    border-radius: 24px;
+  }
+
+  /* Typography helpers */
+  .heading-hero {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1.15;
+  }
+
+  @media (min-width: 768px) {
+    .heading-hero {
+      font-size: 4rem;
+    }
+  }
+
+  .heading-section {
+    font-size: 2.625rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  @media (min-width: 768px) {
+    .heading-section {
+      font-size: 3rem;
+    }
+  }
+
+  .heading-subsection {
+    font-size: 1.75rem;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  @media (min-width: 768px) {
+    .heading-subsection {
+      font-size: 2rem;
+    }
+  }
+
+  /* Flex fix */
   .flex {
     min-height: 0;
     min-width: 0;
-  }
-
-  @media (min-width: 640px) {
-    .container {
-      padding-left: 1.5rem;
-      /* 24px - tablet padding */
-      padding-right: 1.5rem;
-    }
-  }
-
-  @media (min-width: 1024px) {
-    .container {
-      padding-left: 2rem;
-      /* 32px - desktop padding */
-      padding-right: 2rem;
-      max-width: 1280px;
-      /* Standard content width */
-    }
   }
 }
