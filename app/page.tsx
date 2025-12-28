@@ -123,23 +123,45 @@ export default async function HomePage() {
                 {/* Hero Section */}
                 <section className="relative bg-gradient-to-br from-[#EAF5F1] via-white to-[#EAF5F1] section">
                     <div className="container">
-                        <div className="max-w-3xl">
-                            <span className="pill bg-[#6FAF9C]/10 text-[#2E5E50] border border-[#CFE7DD]">
-                                Best Physiotherapist in Bangalore
-                            </span>
-                            <h1 className="heading-hero mt-6 mb-6">
-                                You may be anywhere <span className="text-[#4F8F7A]">our physio</span> will be there
-                            </h1>
-                            <p className="text-lg text-[#4B5563] mb-8 leading-relaxed">
-                                Our doctors are on call 24/7. Professional physiotherapy services delivered to your home across Bangalore. Convenient, expert care for faster recovery and better health.
-                            </p>
-                            <div className="flex flex-col sm:flex-row gap-4">
-                                <Link href="/service" className="btn-primary">
-                                    Explore Services
-                                </Link>
-                                <Link href="/booking" className="btn-secondary">
-                                    Book Appointment
-                                </Link>
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                            <div>
+                                <span className="pill bg-[#6FAF9C]/10 text-[#2E5E50] border border-[#CFE7DD]">
+                                    Best Physiotherapist in Bangalore
+                                </span>
+                                <h1 className="heading-hero mt-6 mb-6">
+                                    You may be anywhere <span className="text-[#4F8F7A]">our physio</span> will be there
+                                </h1>
+                                <p className="text-lg text-[#4B5563] mb-8 leading-relaxed">
+                                    Our doctors are on call 24/7. Professional physiotherapy services delivered to your home across Bangalore. Convenient, expert care for faster recovery and better health.
+                                </p>
+                                <div className="flex flex-col sm:flex-row gap-4">
+                                    <Link href="/service" className="btn-primary">
+                                        Explore Services
+                                    </Link>
+                                    <Link href="/booking" className="btn-secondary">
+                                        Book Appointment
+                                    </Link>
+                                </div>
+                            </div>
+                            <div className="relative hidden lg:block">
+                                <div className="img-frame">
+                                    <img
+                                        src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop&q=80"
+                                        alt="Physiotherapy training session at home"
+                                        className="w-full h-auto object-cover"
+                                    />
+                                </div>
+                                <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-float">
+                                    <div className="flex items-center gap-4">
+                                        <div className="w-12 h-12 rounded-full bg-[#4F8F7A] flex items-center justify-center">
+                                            <Phone className="h-6 w-6 text-white" />
+                                        </div>
+                                        <div>
+                                            <div className="text-sm text-[#4B5563]">24/7 Available</div>
+                                            <div className="font-semibold text-[#1F2933]">Call Now</div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
