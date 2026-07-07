@@ -4,21 +4,22 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { ServiceFAQ } from "@/components/ServiceFAQ";
-import { getServiceMarkdown, getAllServiceSlugs } from "@/lib/markdown";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { getServiceMarkdown } from "@/lib/markdown";
+import { getAllServices, getServiceFile } from "@/lib/content";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
-    const slugs = getAllServiceSlugs();
-    return slugs.map((slug) => ({
-        slug: slug,
+    return getAllServices().map((service) => ({
+        slug: service.slug,
     }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
     const { slug } = await params;
-    const serviceContent = await getServiceMarkdown(slug);
+    const serviceContent = await getServiceMarkdown(getServiceFile(slug) ?? slug);
 
     if (!serviceContent) {
         return {
@@ -43,7 +44,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function ServiceDetailPage({ params }: { params: Promise<{ slug: string }> }) {
     const { slug } = await params;
-    const serviceContent = await getServiceMarkdown(slug);
+    const serviceContent = await getServiceMarkdown(getServiceFile(slug) ?? slug);
 
     if (!serviceContent) {
         notFound();
@@ -62,6 +63,13 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                 <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
                     <div className="container">
                         <div className="max-w-4xl mx-auto">
+                            <Breadcrumbs
+                                className="mb-6"
+                                items={[
+                                    { name: "Services", href: "/service" },
+                                    { name: serviceContent.title },
+                                ]}
+                            />
                             <h1 className="text-4xl md:text-5xl font-bold mb-6">
                                 {serviceContent.title}
                             </h1>

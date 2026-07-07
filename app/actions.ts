@@ -1,6 +1,7 @@
 "use server";
 
 import { createBooking, createContactSubmission } from "@/lib/db";
+import { checkSpam } from "@/lib/spam";
 import { z } from "zod";
 
 const bookingSchema = z.object({
@@ -25,6 +26,15 @@ const contactSchema = z.object({
 
 export async function submitBooking(formData: FormData) {
     try {
+        const spam = await checkSpam(formData);
+        if (!spam.ok) {
+            // Silently drop bot submissions with a success-looking message.
+            if (spam.silent) {
+                return { success: true, message: "Booking submitted successfully! We'll contact you soon." };
+            }
+            return { success: false, message: spam.message ?? "Unable to submit. Please try again later." };
+        }
+
         const data = {
             name: formData.get("name") as string,
             email: formData.get("email") as string,
@@ -51,6 +61,14 @@ export async function submitBooking(formData: FormData) {
 
 export async function submitContact(formData: FormData) {
     try {
+        const spam = await checkSpam(formData);
+        if (!spam.ok) {
+            if (spam.silent) {
+                return { success: true, message: "Message sent successfully! We'll get back to you soon." };
+            }
+            return { success: false, message: spam.message ?? "Unable to submit. Please try again later." };
+        }
+
         const data = {
             name: formData.get("name") as string,
             email: formData.get("email") as string,

@@ -55,6 +55,10 @@
 - [x] Physiotherapist in Sarjapur Road
 
 ## Blog/Content Pages (48 blogs)
+> NOTE: Migrated to file-based content — 74 blog posts now live in /content/blogs
+> (imported from WordPress export via scripts/convert-content.mjs). Individual
+> checkboxes below are legacy and superseded by the file-based content system.
+
 - [ ] Sciatica Physiotherapy
 - [ ] Physiotherapy for Pregnancy Back Pain and Cramping
 - [ ] Pediatric Physiotherapy Assessment
@@ -119,8 +123,8 @@
 - [x] Service card component
 - [x] Blog card component
 - [x] FAQ accordion component
-- [ ] Breadcrumbs component
-- [ ] Testimonials carousel
+- [x] Breadcrumbs component (with BreadcrumbList JSON-LD, wired into service/blog/category/location pages)
+- [x] Testimonials carousel
 
 ## SEO & Technical
 - [x] Add metadata to all pages (title, description, OG)
@@ -134,7 +138,7 @@
 - [x] Contact form with validation
 - [x] Booking form with service/location/date selection
 - [x] Contact API route with email sending
-- [ ] Form spam protection (honeypot, rate limiting)
+- [x] Form spam protection (honeypot, time-trap, in-memory IP rate limiting)
 
 ## Final Steps
 - [x] Test all pages and links

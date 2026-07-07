@@ -4,12 +4,12 @@
 
 @theme inline {
   /* Physiocare Green Palette */
-  --color-physiogreen-900: #1F3F35;
-  --color-physiogreen-700: #2E5E50;
-  --color-physiogreen-600: #4F8F7A;
-  --color-physiogreen-500: #6FAF9C;
-  --color-physiogreen-300: #CFE7DD;
-  --color-physiogreen-100: #EAF5F1;
+  --color-physiogreen-900: #23234A;
+  --color-physiogreen-700: #2A2A57;
+  --color-physiogreen-600: #3B3B6D;
+  --color-physiogreen-500: #6A6AA3;
+  --color-physiogreen-300: #DCDCEC;
+  --color-physiogreen-100: #EEEEF7;
 
   /* Physiocare Neutrals */
   --color-physioneutral-white: #FFFFFF;
@@ -27,8 +27,8 @@
   --radius-pill: 999px;
 
   /* Shadow tokens */
-  --shadow-soft: 0 10px 30px rgba(31, 63, 53, 0.12);
-  --shadow-float: 0 12px 34px rgba(31, 63, 53, 0.16);
+  --shadow-soft: 0 10px 30px rgba(35, 35, 74, 0.12);
+  --shadow-float: 0 12px 34px rgba(35, 35, 74, 0.16);
 
   /* Spacing tokens */
   --section-y: 96px;
@@ -62,10 +62,10 @@
 
 :root {
   /* Physiocare Brand Colors */
-  --primary: #4F8F7A;
+  --primary: #3B3B6D;
   /* Brand Green */
   --primary-foreground: #FFFFFF;
-  --secondary: #2E5E50;
+  --secondary: #2A2A57;
   /* Deep Green */
   --secondary-foreground: #FFFFFF;
 
@@ -78,11 +78,11 @@
   --popover: #FFFFFF;
   --popover-foreground: #1F2933;
 
-  --muted: #EAF5F1;
+  --muted: #EEEEF7;
   /* Background Mint */
   --muted-foreground: #4B5563;
 
-  --accent: #6FAF9C;
+  --accent: #6A6AA3;
   /* Soft Green */
   --accent-foreground: #1F2933;
 
@@ -91,35 +91,35 @@
 
   --border: #D1D5DB;
   --input: #D1D5DB;
-  --ring: #4F8F7A;
+  --ring: #3B3B6D;
 
   --radius: 1rem;
 }
 
 .dark {
-  --primary: #6FAF9C;
+  --primary: #6A6AA3;
   --primary-foreground: #1F2933;
-  --secondary: #4F8F7A;
+  --secondary: #3B3B6D;
   --secondary-foreground: #FFFFFF;
 
   --background: #1F2933;
   --foreground: #FFFFFF;
 
-  --card: #2E5E50;
+  --card: #2A2A57;
   --card-foreground: #FFFFFF;
 
-  --popover: #2E5E50;
+  --popover: #2A2A57;
   --popover-foreground: #FFFFFF;
 
-  --muted: #1F3F35;
-  --muted-foreground: #CFE7DD;
+  --muted: #23234A;
+  --muted-foreground: #DCDCEC;
 
-  --accent: #4F8F7A;
+  --accent: #3B3B6D;
   --accent-foreground: #FFFFFF;
 
   --border: rgba(207, 231, 221, 0.2);
   --input: rgba(207, 231, 221, 0.2);
-  --ring: #6FAF9C;
+  --ring: #6A6AA3;
 }
 
 @layer base {
@@ -204,17 +204,17 @@
     justify-content: center;
     gap: 0.5rem;
     border-radius: 999px;
-    background-color: #4F8F7A;
+    background-color: #E31E24;
     padding: 0.75rem 1.5rem;
     color: #FFFFFF;
-    font-weight: 500;
+    font-weight: 600;
     transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   .btn-primary:hover {
-    background-color: #2E5E50;
+    background-color: #C0181D;
     transform: translateY(-1px);
-    box-shadow: 0 12px 34px rgba(31, 63, 53, 0.16);
+    box-shadow: 0 12px 34px rgba(227, 30, 36, 0.28);
   }
 
   .btn-secondary {
@@ -225,34 +225,34 @@
     border-radius: 999px;
     background-color: #FFFFFF;
     padding: 0.75rem 1.5rem;
-    color: #2E5E50;
+    color: #2A2A57;
     font-weight: 500;
-    border: 2px solid #CFE7DD;
+    border: 2px solid #DCDCEC;
     transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   .btn-secondary:hover {
-    background-color: #EAF5F1;
-    border-color: #4F8F7A;
+    background-color: #EEEEF7;
+    border-color: #3B3B6D;
   }
 
   /* Cards */
   .card-physio {
     border-radius: 16px;
-    border: 1px solid #CFE7DD;
+    border: 1px solid #DCDCEC;
     background-color: #FFFFFF;
     padding: 2rem;
     transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   .card-physio:hover {
-    box-shadow: 0 10px 30px rgba(31, 63, 53, 0.12);
+    box-shadow: 0 10px 30px rgba(35, 35, 74, 0.12);
     transform: translateY(-2px);
   }
 
   .card-soft {
     border-radius: 16px;
-    background-color: #EAF5F1;
+    background-color: #EEEEF7;
     padding: 2rem;
   }
 

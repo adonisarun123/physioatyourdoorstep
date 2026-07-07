@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { Calendar } from "lucide-react";
 import Link from "next/link";
-import { getAllBlogs } from "@/lib/db";
+import { getAllBlogs } from "@/lib/content";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -39,7 +39,18 @@ export default async function BlogsPage() {
                         {blogs && blogs.length > 0 ? (
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {blogs.map((blog) => (
-                                    <Card key={blog.id} className="hover:shadow-lg transition-shadow">
+                                    <Card key={blog.slug} className="overflow-hidden pt-0 hover:shadow-lg transition-shadow">
+                                        {blog.coverImage && (
+                                            <Link href={`/${blog.slug}`} className="block aspect-[16/9] overflow-hidden bg-muted">
+                                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                <img
+                                                    src={blog.coverImage}
+                                                    alt={blog.title}
+                                                    loading="lazy"
+                                                    className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
+                                                />
+                                            </Link>
+                                        )}
                                         <CardHeader>
                                             <div className="flex items-center gap-2 text-sm text-muted-foreground mb-2">
                                                 <Calendar className="h-4 w-4" />
@@ -48,12 +59,18 @@ export default async function BlogsPage() {
                                                     month: 'long',
                                                     day: 'numeric'
                                                 })}
+                                                <span aria-hidden>·</span>
+                                                <Link href={`/category/${blog.categorySlug}`} className="hover:text-primary">
+                                                    {blog.category}
+                                                </Link>
                                             </div>
-                                            <CardTitle className="text-xl">{blog.title}</CardTitle>
+                                            <CardTitle className="text-xl">
+                                                <Link href={`/${blog.slug}`} className="hover:text-primary">{blog.title}</Link>
+                                            </CardTitle>
                                         </CardHeader>
                                         <CardContent>
-                                            <CardDescription className="mb-4">
-                                                {blog.excerpt || blog.metaDescription?.slice(0, 150)}...
+                                            <CardDescription className="mb-4 line-clamp-3">
+                                                {blog.excerpt || blog.metaDescription?.slice(0, 150)}
                                             </CardDescription>
                                             <Button variant="outline" className="w-full" asChild>
                                                 <Link href={`/${blog.slug}`}>

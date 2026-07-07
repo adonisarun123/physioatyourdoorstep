@@ -2,7 +2,7 @@ import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { BookingForm } from "@/components/BookingForm";
-import { getAllServices } from "@/lib/db";
+import { getAllServices } from "@/lib/content";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {

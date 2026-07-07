@@ -3,7 +3,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { getAllCategories, getCategoryBySlug, getBlogsByCategory } from "@/lib/db";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { getAllCategories, getCategoryBySlug, getBlogsByCategory } from "@/lib/content";
 import { Calendar } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -40,7 +41,7 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
         notFound();
     }
 
-    const blogs = await getBlogsByCategory(category.id);
+    const blogs = await getBlogsByCategory(category.slug);
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -50,6 +51,13 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
                 {/* Hero Section */}
                 <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
                     <div className="container">
+                        <Breadcrumbs
+                            className="mb-6 [&_ol]:justify-center"
+                            items={[
+                                { name: "Blog", href: "/blogs" },
+                                { name: category.name },
+                            ]}
+                        />
                         <div className="max-w-3xl mx-auto text-center">
                             <h1 className="text-4xl md:text-5xl font-bold mb-6">{category.name}</h1>
                             {category.description && (
@@ -65,7 +73,18 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
                         {blogs && blogs.length > 0 ? (
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {blogs.map((blog) => (
-                                    <Card key={blog.id} className="hover:shadow-lg transition-shadow">
+                                    <Card key={blog.slug} className="overflow-hidden pt-0 hover:shadow-lg transition-shadow">
+                                        {blog.coverImage && (
+                                            <Link href={`/${blog.slug}`} className="block aspect-[16/9] overflow-hidden bg-muted">
+                                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                <img
+                                                    src={blog.coverImage}
+                                                    alt={blog.title}
+                                                    loading="lazy"
+                                                    className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
+                                                />
+                                            </Link>
+                                        )}
                                         <CardHeader>
                                             <div className="flex items-center gap-2 text-sm text-muted-foreground mb-2">
                                                 <Calendar className="h-4 w-4" />
@@ -75,11 +94,13 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
                                                     day: 'numeric'
                                                 })}
                                             </div>
-                                            <CardTitle className="text-xl">{blog.title}</CardTitle>
+                                            <CardTitle className="text-xl">
+                                                <Link href={`/${blog.slug}`} className="hover:text-primary">{blog.title}</Link>
+                                            </CardTitle>
                                         </CardHeader>
                                         <CardContent>
-                                            <CardDescription className="mb-4">
-                                                {blog.excerpt || blog.metaDescription?.slice(0, 150)}...
+                                            <CardDescription className="mb-4 line-clamp-3">
+                                                {blog.excerpt || blog.metaDescription?.slice(0, 150)}
                                             </CardDescription>
                                             <Button variant="outline" className="w-full" asChild>
                                                 <Link href={`/${blog.slug}`}>

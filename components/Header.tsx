@@ -24,27 +24,27 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 w-full bg-white shadow-sm">
       {/* Top Utility Bar */}
-      <div className="bg-[#EAF5F1] border-b border-[#CFE7DD]">
+      <div className="bg-[#EEEEF7] border-b border-[#DCDCEC]">
         <div className="container">
           <div className="flex items-center justify-between py-2 text-sm">
             <div className="hidden md:flex items-center gap-6">
-              <a href={`mailto:${email}`} className="flex items-center gap-2 text-[#2E5E50] hover:text-[#4F8F7A] transition-colors">
+              <a href={`mailto:${email}`} className="flex items-center gap-2 text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Mail className="h-4 w-4" />
                 <span>{email}</span>
               </a>
-              <a href={`tel:${phoneNumber}`} className="flex items-center gap-2 text-[#2E5E50] hover:text-[#4F8F7A] transition-colors">
+              <a href={`tel:${phoneNumber}`} className="flex items-center gap-2 text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Phone className="h-4 w-4" />
                 <span>{phoneNumber}</span>
               </a>
             </div>
             <div className="flex items-center gap-3 ml-auto">
-              <a href="#" className="text-[#2E5E50] hover:text-[#4F8F7A] transition-colors">
+              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Facebook className="h-4 w-4" />
               </a>
-              <a href="#" className="text-[#2E5E50] hover:text-[#4F8F7A] transition-colors">
+              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Twitter className="h-4 w-4" />
               </a>
-              <a href="#" className="text-[#2E5E50] hover:text-[#4F8F7A] transition-colors">
+              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Linkedin className="h-4 w-4" />
               </a>
             </div>
@@ -58,7 +58,7 @@ export default function Header() {
         <Link href="/" className="flex items-center space-x-2">
           <img src="/logo.webp" alt="Physio At Your Doorstep" className="h-12 w-12" />
           <div className="flex flex-col">
-            <span className="text-xl font-bold text-[#4F8F7A]">Physio At Your Doorstep</span>
+            <span className="text-xl font-bold text-[#3B3B6D]">Physio At Your Doorstep</span>
           </div>
         </Link>
 
@@ -68,8 +68,8 @@ export default function Header() {
             <Link
               key={item.name}
               href={item.href}
-              className={`text-sm font-medium uppercase tracking-wide transition-colors hover:text-[#4F8F7A] ${pathname === item.href
-                ? "text-[#4F8F7A]"
+              className={`text-sm font-medium uppercase tracking-wide transition-colors hover:text-[#3B3B6D] ${pathname === item.href
+                ? "text-[#3B3B6D]"
                 : "text-[#1F2933]"
                 }`}
             >
@@ -102,14 +102,14 @@ export default function Header() {
 
       {/* Mobile menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden border-t border-[#CFE7DD]">
+        <div className="md:hidden border-t border-[#DCDCEC]">
           <div className="container py-4 space-y-3">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
                 className={`block py-2 text-base font-medium ${pathname === item.href
-                  ? "text-[#4F8F7A]"
+                  ? "text-[#3B3B6D]"
                   : "text-[#1F2933]"
                   }`}
                 onClick={() => setMobileMenuOpen(false)}
@@ -117,7 +117,7 @@ export default function Header() {
                 {item.name}
               </Link>
             ))}
-            <div className="flex flex-col gap-2 pt-4 border-t border-[#CFE7DD]">
+            <div className="flex flex-col gap-2 pt-4 border-t border-[#DCDCEC]">
               <a href={`tel:${phoneNumber}`} className="btn-primary">
                 <Phone className="h-4 w-4" />
                 Call Now

@@ -1,15 +1,12 @@
-import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import TestimonialsCarousel from "@/components/TestimonialsCarousel";
 import {
-    Activity, Award, Check, Clock, Heart, Home as HomeIcon,
-    Shield, Users, Stethoscope, Phone, Zap, Target,
-    Brain, HandMetal, Dumbbell, Wind, Droplet, Sparkles, MapPin
+    Check, Heart, Users, Stethoscope, Phone, Zap, MapPin,
 } from "lucide-react";
 import Link from "next/link";
-import { getAllServices } from "@/lib/db";
+import { getAllServices } from "@/lib/content";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -22,7 +19,8 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-    const services = await getAllServices();
+    const services = getAllServices();
+    const featuredServices = services.slice(0, 6);
 
     const featureHighlights = [
         {
@@ -49,51 +47,50 @@ export default async function HomePage() {
         "Sports Physiotherapy",
     ];
 
-    const servicesList = [
+    const bookingSteps = [
         {
-            icon: Dumbbell,
-            title: "Sports Physiotherapy",
-            description: "Specialized care for athletes and sports injuries to enhance performance and recovery.",
+            icon: "/images/step-connect.png",
+            title: "Connect",
+            description: "Call or WhatsApp us with your location and requirements.",
         },
         {
-            icon: HandMetal,
-            title: "Orthopaedic Physiotherapy",
-            description: "Expert treatment for musculoskeletal conditions, joint pain, and mobility issues.",
+            icon: "/images/step-calendar.png",
+            title: "Appointment",
+            description: "We appoint the best suited physiotherapist for your needs. The physio contacts you to arrange a convenient time slot.",
         },
         {
-            icon: Brain,
-            title: "Neurological Physiotherapy",
-            description: "Comprehensive care for neurological conditions to improve function and quality of life.",
-        },
-        {
-            icon: Heart,
-            title: "Geriatric Physiotherapy",
-            description: "Specialized care for elderly patients focusing on mobility, balance, and independence.",
-        },
-        {
-            icon: Activity,
-            title: "Post Surgical Physiotherapy",
-            description: "Rehabilitation programs designed to accelerate recovery after surgical procedures.",
-        },
-        {
-            icon: Wind,
-            title: "Pulmonary Physiotherapy",
-            description: "Breathing exercises and techniques to improve respiratory function and lung capacity.",
+            icon: "/images/step-confirmation.png",
+            title: "Confirmed",
+            description: "Confirmed! Your physiotherapist arrives at your doorstep at the scheduled time.",
         },
     ];
 
-    const whyChooseFeatures = {
-        left: [
-            "Experienced and certified physiotherapists",
-            "Personalized treatment plans",
-            "Convenient home-based care",
-        ],
-        right: [
-            "Latest advancements in physical therapy",
-            "Comprehensive range of services",
-            "Serving multiple areas across Bangalore",
-        ],
-    };
+    const whyChooseFeatures = [
+        "Experienced and certified physiotherapists",
+        "Personalized treatment plans",
+        "Convenient home-based care",
+        "Latest advancements in physical therapy",
+        "Same day appointments",
+        "Serving Bangalore and Pune",
+    ];
+
+    const testimonials = [
+        {
+            quote: "Loved the way the doctor handled the issue and understood the problem. Being a sportsperson, I regularly face tissue pains and Dr. Atharva helps me get over them — it's not medicine he prefers, it's the exercises that help me recover faster.",
+            name: "Prateek Mathur",
+            role: "Computer Engineer, Accenture",
+        },
+        {
+            quote: "Dr. Atharva Mishra helped me with physio after my MPFL surgery. He is very helpful and encouraging, which helped me recover fast. Within a week of physio I gained a lot of improvement in my knee. Strongly recommended!",
+            name: "Pavithra",
+            role: "MBA Scholar",
+        },
+        {
+            quote: "I was suffering from severe back pain from the early stage of my pregnancy. Dr. Atharva came to my home for the treatment along with simple exercises, and was so friendly and worked around my convenience. Thank you doctor!",
+            name: "Leela S",
+            role: "Homemaker",
+        },
+    ];
 
     const servingAreas = [
         "JP Nagar",
@@ -105,6 +102,7 @@ export default async function HomePage() {
         "Bellandur",
         "Marathahalli",
         "Indiranagar",
+        "Electronic City",
     ];
 
     const stats = [
@@ -113,55 +111,54 @@ export default async function HomePage() {
         { value: "10+", label: "Years Experience" },
     ];
 
-    const whatsappNumber = "918233787737";
-
     return (
         <div className="min-h-screen flex flex-col">
             <Header />
 
             <main className="flex-1">
                 {/* Hero Section */}
-                <section className="relative bg-gradient-to-br from-[#EAF5F1] via-white to-[#EAF5F1] section">
+                <section className="relative bg-gradient-to-br from-[#EEEEF7] via-white to-[#EEEEF7] section">
                     <div className="container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                             <div>
-                                <span className="pill bg-[#6FAF9C]/10 text-[#2E5E50] border border-[#CFE7DD]">
+                                <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                     Best Physiotherapist in Bangalore
                                 </span>
                                 <h1 className="heading-hero mt-6 mb-6">
-                                    You may be anywhere <span className="text-[#4F8F7A]">our physio</span> will be there
+                                    You may be anywhere, <span className="text-[#E31E24]">our physio</span> will be there
                                 </h1>
                                 <p className="text-lg text-[#4B5563] mb-8 leading-relaxed">
-                                    Our doctors are on call 24/7. Professional physiotherapy services delivered to your home across Bangalore. Convenient, expert care for faster recovery and better health.
+                                    Our doctors are on call 24/7. Professional physiotherapy delivered to your home across Bangalore and Pune — convenient, expert care for faster recovery and better health.
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-4">
-                                    <Link href="/service" className="btn-primary">
-                                        Explore Services
+                                    <Link href="/booking" className="btn-primary">
+                                        Book an Appointment
                                     </Link>
-                                    <Link href="/booking" className="btn-secondary">
-                                        Book Appointment
+                                    <Link href="/service" className="btn-secondary">
+                                        Explore Services
                                     </Link>
                                 </div>
                             </div>
                             <div className="relative hidden lg:block">
-                                <div className="img-frame">
+                                <div className="img-frame shadow-float">
+                                    {/* eslint-disable-next-line @next/next/no-img-element */}
                                     <img
-                                        src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop&q=80"
-                                        alt="Physiotherapy training session at home"
+                                        src="/images/hero-home.webp"
+                                        alt="Physiotherapist helping a patient with rehabilitation at home"
                                         className="w-full h-auto object-cover"
                                     />
                                 </div>
-                                <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-float">
+                                <a href="tel:+918233787737" className="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-float block">
                                     <div className="flex items-center gap-4">
-                                        <div className="w-12 h-12 rounded-full bg-[#4F8F7A] flex items-center justify-center">
+                                        <div className="w-12 h-12 rounded-full bg-[#E31E24] flex items-center justify-center">
                                             <Phone className="h-6 w-6 text-white" />
                                         </div>
                                         <div>
                                             <div className="text-sm text-[#4B5563]">24/7 Available</div>
-                                            <div className="font-semibold text-[#1F2933]">Call Now</div>
+                                            <div className="font-semibold text-[#1F2933]">+91 82337 87737</div>
                                         </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -173,8 +170,8 @@ export default async function HomePage() {
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             {featureHighlights.map((feature, index) => (
                                 <div key={index} className="card-physio text-center">
-                                    <div className="w-16 h-16 rounded-2xl bg-[#EAF5F1] flex items-center justify-center mx-auto mb-4">
-                                        <feature.icon className="h-8 w-8 text-[#4F8F7A]" />
+                                    <div className="w-16 h-16 rounded-2xl bg-[#EEEEF7] flex items-center justify-center mx-auto mb-4">
+                                        <feature.icon className="h-8 w-8 text-[#3B3B6D]" />
                                     </div>
                                     <h3 className="text-xl font-semibold text-[#1F2933] mb-3">{feature.title}</h3>
                                     <p className="text-[#4B5563]">{feature.description}</p>
@@ -185,24 +182,24 @@ export default async function HomePage() {
                 </section>
 
                 {/* About Section */}
-                <section className="section bg-[#EAF5F1]/50">
+                <section className="section bg-[#EEEEF7]/50">
                     <div className="container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                             <div>
-                                <span className="text-sm font-semibold text-[#4F8F7A] uppercase tracking-wide">About Us</span>
+                                <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">About Us</span>
                                 <h2 className="heading-section mt-4 mb-6">
-                                    Best Physiotherapist in <span className="text-[#4F8F7A]">Bangalore at Home</span>
+                                    Best Physiotherapist in <span className="text-[#3B3B6D]">Bangalore at Home</span>
                                 </h2>
                                 <p className="text-[#4B5563] mb-6 leading-relaxed">
-                                    At Physio At Your Doorstep, we bring the best Physiotherapists at your home, ensuring comfort, convenience, and effective treatment. Founded by Dr. Atharva Mishra, our platform provides specialized physiotherapy services across Bangalore, tailored to meet your unique needs.
+                                    At Physio At Your Doorstep, we bring the best Physiotherapists to your home, ensuring comfort, convenience, and effective treatment. Founded by Dr. Atharva Mishra, our platform provides specialized physiotherapy services across Bangalore and Pune, tailored to meet your unique needs.
                                 </p>
                                 <p className="text-[#4B5563] mb-6 leading-relaxed">
                                     We offer a wide range of treatments, including:
                                 </p>
-                                <div className="grid grid-cols-2 gap-4 mb-8">
+                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                                     {aboutFeatures.map((feature, index) => (
                                         <div key={index} className="flex items-center gap-2">
-                                            <div className="w-6 h-6 rounded-full bg-[#4F8F7A] flex items-center justify-center flex-shrink-0">
+                                            <div className="w-6 h-6 rounded-full bg-[#3B3B6D] flex items-center justify-center flex-shrink-0">
                                                 <Check className="h-4 w-4 text-white" />
                                             </div>
                                             <span className="text-[#1F2933] font-medium">{feature}</span>
@@ -214,20 +211,23 @@ export default async function HomePage() {
                                 </Link>
                             </div>
                             <div className="relative">
-                                <div className="card-soft">
-                                    <div className="text-center py-8">
-                                        <div className="text-6xl font-bold text-[#4F8F7A] mb-2">10+</div>
-                                        <div className="text-lg text-[#2E5E50] font-semibold">Years of Experience</div>
-                                    </div>
+                                <div className="img-frame shadow-soft">
+                                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                                    <img
+                                        src="/images/about-hero.webp"
+                                        alt="Physiotherapy exercise session"
+                                        loading="lazy"
+                                        className="w-full h-auto object-cover"
+                                    />
                                 </div>
                                 <div className="mt-6 card-physio">
                                     <div className="flex items-center gap-4">
-                                        <div className="w-16 h-16 rounded-full bg-[#EAF5F1] flex items-center justify-center">
-                                            <Stethoscope className="h-8 w-8 text-[#4F8F7A]" />
+                                        <div className="w-16 h-16 rounded-full bg-[#EEEEF7] flex items-center justify-center">
+                                            <Stethoscope className="h-8 w-8 text-[#3B3B6D]" />
                                         </div>
                                         <div>
                                             <div className="font-semibold text-[#1F2933]">Dr. Atharva Mishra</div>
-                                            <div className="text-sm text-[#4B5563]">Founder & Lead Physiotherapist</div>
+                                            <div className="text-sm text-[#4B5563]">Founder &amp; Lead Physiotherapist</div>
                                         </div>
                                     </div>
                                 </div>
@@ -236,44 +236,84 @@ export default async function HomePage() {
                     </div>
                 </section>
 
-                {/* Services Section */}
+                {/* 3 Steps to Book */}
                 <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#4F8F7A] uppercase tracking-wide">Our Services</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">How It Works</span>
                             <h2 className="heading-section mt-4">
-                                Comprehensive <span className="text-[#4F8F7A]">Physiotherapy Services</span>
+                                3 Steps to <span className="text-[#3B3B6D]">Book</span>
                             </h2>
                         </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                            {servicesList.map((service, index) => (
-                                <div key={index} className="card-physio">
-                                    <div className="w-14 h-14 rounded-xl bg-[#EAF5F1] flex items-center justify-center mb-4">
-                                        <service.icon className="h-7 w-7 text-[#4F8F7A]" />
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            {bookingSteps.map((step, index) => (
+                                <div key={index} className="card-physio text-center relative">
+                                    <div className="absolute top-4 right-6 text-5xl font-bold text-[#EEEEF7]">{index + 1}</div>
+                                    <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
+                                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                                        <img src={step.icon} alt={step.title} className="w-16 h-16 object-contain" loading="lazy" />
                                     </div>
-                                    <h3 className="text-xl font-semibold text-[#1F2933] mb-3">{service.title}</h3>
-                                    <p className="text-[#4B5563] mb-4">{service.description}</p>
-                                    <Link href="/service" className="text-[#4F8F7A] font-medium hover:underline">
-                                        Learn More →
-                                    </Link>
+                                    <h3 className="text-xl font-semibold text-[#1F2933] mb-3">{step.title}</h3>
+                                    <p className="text-[#4B5563]">{step.description}</p>
                                 </div>
                             ))}
                         </div>
-                        <div className="text-center mt-8">
-                            <Link href="/service" className="btn-primary">
-                                View All Services
+                        <div className="text-center mt-10">
+                            <Link href="/booking" className="btn-primary">Book an Appointment</Link>
+                        </div>
+                    </div>
+                </section>
+
+                {/* Services Section */}
+                <section className="section bg-[#EEEEF7]/50">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Our Services</span>
+                            <h2 className="heading-section mt-4">
+                                Comprehensive <span className="text-[#3B3B6D]">Physiotherapy Services</span>
+                            </h2>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {featuredServices.map((service) => (
+                                <Link
+                                    key={service.slug}
+                                    href={`/service/${service.slug}`}
+                                    className="card-physio overflow-hidden !p-0 group"
+                                >
+                                    <div className="aspect-[16/10] overflow-hidden bg-[#EEEEF7]">
+                                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                                        <img
+                                            src={service.heroImage ?? "/images/hero-home.webp"}
+                                            alt={service.title}
+                                            loading="lazy"
+                                            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                        />
+                                    </div>
+                                    <div className="p-6">
+                                        <h3 className="text-xl font-semibold text-[#1F2933] mb-2 group-hover:text-[#3B3B6D]">
+                                            {service.title}
+                                        </h3>
+                                        <p className="text-[#4B5563] mb-4 text-sm leading-relaxed">{service.metaDescription}</p>
+                                        <span className="text-[#E31E24] font-medium">Know More →</span>
+                                    </div>
+                                </Link>
+                            ))}
+                        </div>
+                        <div className="text-center mt-10">
+                            <Link href="/service" className="btn-secondary">
+                                View All {services.length} Services
                             </Link>
                         </div>
                     </div>
                 </section>
 
                 {/* Stats Section */}
-                <section className="section bg-[#EAF5F1]/50">
+                <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#4F8F7A] uppercase tracking-wide">Our Track Record</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Our Track Record</span>
                             <h2 className="heading-section mt-4">
-                                We Empower You to Achieve <span className="text-[#4F8F7A]">Better Results</span>
+                                We Empower You to Achieve <span className="text-[#3B3B6D]">Better Results</span>
                             </h2>
                             <p className="text-[#4B5563] mt-4 max-w-3xl mx-auto">
                                 By leveraging the latest advancements in physical therapy, we help you move better, perform better, and focus more on what truly matters.
@@ -282,7 +322,7 @@ export default async function HomePage() {
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             {stats.map((stat, index) => (
                                 <div key={index} className="card-physio text-center">
-                                    <div className="text-5xl font-bold text-[#4F8F7A] mb-2">{stat.value}</div>
+                                    <div className="text-5xl font-bold text-[#3B3B6D] mb-2">{stat.value}</div>
                                     <div className="text-[#1F2933] font-medium">{stat.label}</div>
                                 </div>
                             ))}
@@ -291,66 +331,81 @@ export default async function HomePage() {
                 </section>
 
                 {/* Why Choose Us */}
-                <section className="section bg-white">
+                <section className="section bg-[#EEEEF7]/50">
                     <div className="container">
-                        <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#4F8F7A] uppercase tracking-wide">Why Choose Us</span>
-                            <h2 className="heading-section mt-4">
-                                Excellence In <span className="text-[#4F8F7A]">Care and Rehabilitation</span>
-                            </h2>
-                        </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-                            <div className="space-y-4">
-                                {whyChooseFeatures.left.map((feature, index) => (
-                                    <div key={index} className="flex items-start gap-3 p-4 rounded-xl hover:bg-[#EAF5F1] transition-colors">
-                                        <div className="w-6 h-6 rounded-full bg-[#4F8F7A] flex items-center justify-center flex-shrink-0 mt-1">
-                                            <Check className="h-4 w-4 text-white" />
-                                        </div>
-                                        <span className="text-[#1F2933] font-medium">{feature}</span>
-                                    </div>
-                                ))}
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                            <div className="img-frame shadow-soft order-2 lg:order-1">
+                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                <img
+                                    src="/images/why-choose-us.webp"
+                                    alt="Woman in a physical rehabilitation session"
+                                    loading="lazy"
+                                    className="w-full h-auto object-cover"
+                                />
                             </div>
-                            <div className="space-y-4">
-                                {whyChooseFeatures.right.map((feature, index) => (
-                                    <div key={index} className="flex items-start gap-3 p-4 rounded-xl hover:bg-[#EAF5F1] transition-colors">
-                                        <div className="w-6 h-6 rounded-full bg-[#4F8F7A] flex items-center justify-center flex-shrink-0 mt-1">
-                                            <Check className="h-4 w-4 text-white" />
+                            <div className="order-1 lg:order-2">
+                                <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Why Choose Us</span>
+                                <h2 className="heading-section mt-4 mb-8">
+                                    Excellence In <span className="text-[#3B3B6D]">Care and Rehabilitation</span>
+                                </h2>
+                                <div className="space-y-4">
+                                    {whyChooseFeatures.map((feature, index) => (
+                                        <div key={index} className="flex items-start gap-3 p-3 rounded-xl hover:bg-white transition-colors">
+                                            <div className="w-6 h-6 rounded-full bg-[#3B3B6D] flex items-center justify-center flex-shrink-0 mt-1">
+                                                <Check className="h-4 w-4 text-white" />
+                                            </div>
+                                            <span className="text-[#1F2933] font-medium">{feature}</span>
                                         </div>
-                                        <span className="text-[#1F2933] font-medium">{feature}</span>
-                                    </div>
-                                ))}
+                                    ))}
+                                </div>
                             </div>
                         </div>
                     </div>
                 </section>
 
-                {/* Serving Areas Section */}
-                <section className="section bg-[#EAF5F1]/50">
+                {/* Testimonials */}
+                <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#4F8F7A] uppercase tracking-wide">Serving Areas in Bangalore</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Testimonials</span>
                             <h2 className="heading-section mt-4">
-                                Wherever You Are, <span className="text-[#4F8F7A]">We're There</span>
+                                What Our <span className="text-[#3B3B6D]">Patients Say</span>
+                            </h2>
+                        </div>
+                        <TestimonialsCarousel testimonials={testimonials} />
+                    </div>
+                </section>
+
+                {/* Serving Areas Section */}
+                <section className="section bg-[#EEEEF7]/50">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Serving Areas</span>
+                            <h2 className="heading-section mt-4">
+                                Wherever You Are, <span className="text-[#3B3B6D]">We&apos;re There</span>
                             </h2>
                             <p className="text-[#4B5563] mt-4 max-w-3xl mx-auto">
-                                We proudly serve several areas across Bangalore. Expert physiotherapy care is just a call away.
+                                We proudly serve areas across Bangalore and Pune. Expert physiotherapy care is just a call away.
                             </p>
                         </div>
                         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
                             {servingAreas.map((area, index) => (
-                                <div key={index} className="card-physio text-center hover:bg-[#EAF5F1] cursor-pointer">
-                                    <div className="w-12 h-12 rounded-full bg-[#EAF5F1] flex items-center justify-center mx-auto mb-3">
-                                        <MapPin className="h-6 w-6 text-[#4F8F7A]" />
+                                <Link key={index} href="/locations" className="card-physio text-center hover:bg-white block">
+                                    <div className="w-12 h-12 rounded-full bg-[#EEEEF7] flex items-center justify-center mx-auto mb-3">
+                                        <MapPin className="h-6 w-6 text-[#3B3B6D]" />
                                     </div>
                                     <div className="text-sm font-medium text-[#1F2933]">{area}</div>
-                                </div>
+                                </Link>
                             ))}
+                        </div>
+                        <div className="text-center mt-10">
+                            <Link href="/locations" className="btn-secondary">View All Locations</Link>
                         </div>
                     </div>
                 </section>
 
                 {/* CTA Section */}
-                <section className="section bg-[#2E5E50] text-white">
+                <section className="section bg-[#2A2A57] text-white">
                     <div className="container text-center">
                         <h2 className="heading-section mb-4">Ready to Start Your Recovery?</h2>
                         <p className="text-lg mb-8 opacity-90 max-w-2xl mx-auto">
@@ -360,9 +415,9 @@ export default async function HomePage() {
                             <Link href="/booking" className="btn-primary">
                                 Book Now
                             </Link>
-                            <Link href="/contact-us" className="btn-secondary">
-                                Contact Us
-                            </Link>
+                            <a href="tel:+918233787737" className="btn-secondary">
+                                Call +91 82337 87737
+                            </a>
                         </div>
                     </div>
                 </section>

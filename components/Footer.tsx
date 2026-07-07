@@ -5,9 +5,9 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#1F3F35] text-white">
+    <footer className="bg-[#23234A] text-white">
       {/* CTA Strip */}
-      <div className="bg-[#4F8F7A] py-6">
+      <div className="bg-[#3B3B6D] py-6">
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
             <div className="flex flex-col md:flex-row items-center gap-3">
