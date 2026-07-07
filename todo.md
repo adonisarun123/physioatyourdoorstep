@@ -129,10 +129,11 @@
 ## SEO & Technical
 - [x] Add metadata to all pages (title, description, OG)
 - [ ] Implement JSON-LD schema (Organization, MedicalClinic, Service, BlogPosting, FAQPage, BreadcrumbList)
-- [ ] Setup sitemap.xml generation
-- [ ] Setup robots.txt
-- [ ] Add canonical URLs to all pages
+- [x] Setup sitemap.xml generation (app/sitemap.ts — Next metadata route)
+- [x] Setup robots.txt (app/robots.ts)
+- [x] Add canonical/absolute URL base (metadataBase in layout)
 - [x] Optimize images and add alt text
+- [x] Google Analytics wired into Next app (env-gated, NEXT_PUBLIC_GA_MEASUREMENT_ID)
 
 ## Forms & API
 - [x] Contact form with validation
