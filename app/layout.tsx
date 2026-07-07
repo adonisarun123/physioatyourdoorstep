@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "./globals.css";
 
 export const metadata: Metadata = {
+    metadataBase: new URL("https://physioatyourdoorstep.com"),
     title: {
         default: "Physio At Your Doorstep - Professional Physiotherapy Services at Home",
         template: "%s | Physio At Your Doorstep"
@@ -38,6 +40,7 @@ export default function RootLayout({
     return (
         <html lang="en" suppressHydrationWarning>
             <body>
+                <GoogleAnalytics />
                 <ThemeProvider
                     attribute="class"
                     defaultTheme="light"

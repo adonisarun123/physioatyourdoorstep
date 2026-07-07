@@ -3,7 +3,9 @@ import { Card, CardContent } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { getAllBlogs, getBlogBySlug } from "@/lib/db";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { MarkdownContent } from "@/components/MarkdownContent";
+import { getAllBlogs, getBlogBySlug } from "@/lib/content";
 import { Calendar } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -49,6 +51,13 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                 <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
                     <div className="container">
                         <div className="max-w-4xl mx-auto">
+                            <Breadcrumbs
+                                className="mb-6"
+                                items={[
+                                    { name: "Blog", href: "/blogs" },
+                                    { name: blog.title },
+                                ]}
+                            />
                             <div className="flex items-center gap-2 text-sm text-muted-foreground mb-4">
                                 <Calendar className="h-4 w-4" />
                                 {new Date(blog.publishedAt).toLocaleDateString('en-IN', {
@@ -61,6 +70,16 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                             {blog.excerpt && (
                                 <p className="text-xl text-muted-foreground">{blog.excerpt}</p>
                             )}
+                            {blog.coverImage && (
+                                <div className="mt-8 overflow-hidden rounded-xl shadow-lg">
+                                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                                    <img
+                                        src={blog.coverImage}
+                                        alt={blog.title}
+                                        className="w-full max-h-[420px] object-cover"
+                                    />
+                                </div>
+                            )}
                         </div>
                     </div>
                 </section>
@@ -69,10 +88,7 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                 <section className="py-16 md:py-24">
                     <div className="container max-w-4xl">
                         {blog.content && (
-                            <div
-                                className="prose prose-lg max-w-none mb-12"
-                                dangerouslySetInnerHTML={{ __html: blog.content }}
-                            />
+                            <MarkdownContent>{blog.content}</MarkdownContent>
                         )}
 
                         {/* CTA */}

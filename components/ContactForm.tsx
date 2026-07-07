@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { submitContact } from "@/app/actions";
+import HoneypotFields from "@/components/HoneypotFields";
 import { useState, useTransition } from "react";
 import { toast } from "sonner";
 
@@ -51,6 +52,7 @@ export function ContactForm() {
             </CardHeader>
             <CardContent>
                 <form onSubmit={handleSubmit} className="space-y-6">
+                    <HoneypotFields />
                     <div>
                         <Label htmlFor="name">Full Name *</Label>
                         <Input

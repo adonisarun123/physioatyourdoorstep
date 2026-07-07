@@ -96,6 +96,32 @@ export function MarkdownContent({ children, className }: MarkdownComponentsProps
                     em: ({ children }) => (
                         <em className="italic">{children}</em>
                     ),
+                    table: ({ children }) => (
+                        <div className="my-8 overflow-x-auto rounded-lg border border-border">
+                            <table className="w-full border-collapse text-left text-base">
+                                {children}
+                            </table>
+                        </div>
+                    ),
+                    thead: ({ children }) => (
+                        <thead className="bg-muted/60">{children}</thead>
+                    ),
+                    tbody: ({ children }) => (
+                        <tbody className="divide-y divide-border">{children}</tbody>
+                    ),
+                    tr: ({ children }) => (
+                        <tr className="border-b border-border last:border-0">{children}</tr>
+                    ),
+                    th: ({ children }) => (
+                        <th className="px-4 py-3 font-semibold text-foreground align-top">
+                            {children}
+                        </th>
+                    ),
+                    td: ({ children }) => (
+                        <td className="px-4 py-3 text-muted-foreground align-top">
+                            {children}
+                        </td>
+                    ),
                 }}
             >
                 {children}

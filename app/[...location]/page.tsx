@@ -3,7 +3,9 @@ import { Card, CardContent } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { getAllLocations, getLocationBySlug } from "@/lib/db";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import { MarkdownContent } from "@/components/MarkdownContent";
+import { getAllLocations, getLocationBySlug } from "@/lib/content";
 import { MapPin } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -51,6 +53,13 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                 <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
                     <div className="container">
                         <div className="max-w-4xl mx-auto">
+                            <Breadcrumbs
+                                className="mb-6"
+                                items={[
+                                    { name: "Locations", href: "/locations" },
+                                    { name: locationData.title },
+                                ]}
+                            />
                             <div className="flex items-center gap-2 text-muted-foreground mb-4">
                                 <MapPin className="h-5 w-5" />
                                 <span>{locationData.area}, {locationData.city}</span>
@@ -67,10 +76,7 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                 <section className="py-16 md:py-24">
                     <div className="container max-w-4xl">
                         {locationData.content && (
-                            <div
-                                className="prose prose-lg max-w-none mb-12"
-                                dangerouslySetInnerHTML={{ __html: locationData.content }}
-                            />
+                            <MarkdownContent>{locationData.content}</MarkdownContent>
                         )}
 
                         {/* FAQs */}
