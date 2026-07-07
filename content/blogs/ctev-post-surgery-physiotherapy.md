@@ -51,7 +51,7 @@ Surgery typically involves 4-6 weeks of cast immobilization post-operatively, fo
 
 ## Why Post-Surgical Physiotherapy Is Non-Negotiable
 
-[Post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)**for CTEV is not optional—it’s essential**
+[Post-surgical physiotherapy](/service/post-surgical-physiotherapy)**for CTEV is not optional—it’s essential**
 . Here’s why:
 
 ### Prevention of Complications:
@@ -357,7 +357,7 @@ One of the most common questions parents ask is:
 ### Why Choose Home-Based Physiotherapy for CTEV
 
 Services like
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio At Your Doorstep](/)
  offer significant advantages for CTEV post-surgical rehabilitation:
 
 - **Consistency** : Same therapist builds rapport with child and family
@@ -436,7 +436,7 @@ While professional physiotherapy guidance is essential,
 
 - Connect with other CTEV families (online groups, support organizations)
 - Don’t hesitate to seek help when feeling overwhelmed
-- Utilize resources like [home physiotherapy services](https://physioatyourdoorstep.com/neurological-physiotherapy/) for added support
+- Utilize resources like [home physiotherapy services](/service/neurological-physiotherapy) for added support
 
 ## Optimizing Long-Term Outcomes: Evidence and Best Practices
 
@@ -581,8 +581,8 @@ Your orthopedic surgeon and physiotherapist will provide specific recommendation
 
 ### Professional Care
 
-- **Physio At Your Doorstep – Paediatric Physiotherapy Services** : [Visit Website](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) Expert home-based pediatric rehabilitation services including specialized CTEV post-surgical management across major Indian cities.
-- **Physio At Your Doorstep – Home Physiotherapy** : [Visit Website](https://physioatyourdoorstep.com/) Comprehensive home-based physiotherapy services for all ages and conditions.
+- **Physio At Your Doorstep – Paediatric Physiotherapy Services** : [Visit Website](/service/pediatric-physiotherapy) Expert home-based pediatric rehabilitation services including specialized CTEV post-surgical management across major Indian cities.
+- **Physio At Your Doorstep – Home Physiotherapy** : [Visit Website](/) Comprehensive home-based physiotherapy services for all ages and conditions.
 
 ### Medical Literature and Evidence
 
@@ -607,5 +607,5 @@ This article is for educational purposes and should not replace professional med
 Physio At Your Doorstep is a leading provider of specialized home-based physiotherapy services across India, with particular expertise in pediatric orthopedic conditions including CTEV post-surgical rehabilitation. Our qualified physiotherapists bring hospital-quality care to the comfort of your home, ensuring consistent, family-centered treatment that optimizes outcomes while minimizing stress for both children and parents.
 
 For consultations or to schedule home-based CTEV rehabilitation services, visit
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/contact-us/)
+[Physio At Your Doorstep](/contact-us)
  or contact us directly.

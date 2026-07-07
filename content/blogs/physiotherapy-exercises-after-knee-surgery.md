@@ -9,13 +9,13 @@ category: "Post-Surgical Physiotherapy"
 ---
 ## Introduction
 
-Exercises that can help you recover from your knee specials can be time-consuming ensure you take the few moments needed to do them. Be it Total KNEE replacement, ACL reconstruction, or MENISCUS surgery, [physiotherapy](https://physioatyourdoorstep.com/) is a significant treatment in restoring mobility and strength. Moreover, how vital it is to stick to a structured rehabilitation program at each stage of the healing process, including various exercises.
+Exercises that can help you recover from your knee specials can be time-consuming ensure you take the few moments needed to do them. Be it Total KNEE replacement, ACL reconstruction, or MENISCUS surgery, [physiotherapy](/) is a significant treatment in restoring mobility and strength. Moreover, how vital it is to stick to a structured rehabilitation program at each stage of the healing process, including various exercises.
 
-In this guide, we will discuss the [most effective physiotherapy exercises](https://physioatyourdoorstep.com/back-ache/) for knee surgery recovery, when to begin them and the contribution that physiotherapy makes in restoring the knee to normal function.
+In this guide, we will discuss the [most effective physiotherapy exercises](/back-ache) for knee surgery recovery, when to begin them and the contribution that physiotherapy makes in restoring the knee to normal function.
 
 ## Physiotherapy after knee surgery – Why Poses Great Benefits?
 
-Physiotherapy is not just movement, it's healing in the right way. Below are some major gains of [post-surgical](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) workout:
+Physiotherapy is not just movement, it's healing in the right way. Below are some major gains of [post-surgical](/service/post-surgical-physiotherapy) workout:
 
 **Increased mobility and flexibility**: Routine physiotherapy keeps knee stiffness at bay and promotes motion range.
 
@@ -137,7 +137,7 @@ Step back down slowly, and repeat.
 
 Do 10 reps on each leg.
 
-**Benefits**: Stregthens the quadriceps and [improves control of the knee](https://physioatyourdoorstep.com/knee-pain/).
+**Benefits**: Stregthens the quadriceps and [improves control of the knee](/knee-pain).
 
 #### Stationary Cycling
 

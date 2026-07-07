@@ -15,7 +15,7 @@ Pediatric physiotherapy (also called pediatric physical therapy or paediatric ph
 
 Because kids aren’t just “small adults,” pediatric physio considers growth, sensory processing, attention, family routines, and motivation. Therapists use games, songs, visual cues, and adaptive equipment to make hard work feel fun. Care is family-centered: parents and caregivers learn to support progress in everyday routines.
 
-If you’re exploring local support, learn more about our pediatric physiotherapy service in Bangalore: [Pediatric physiotherapy service overview](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+If you’re exploring local support, learn more about our pediatric physiotherapy service in Bangalore: [Pediatric physiotherapy service overview](/service/pediatric-physiotherapy)
 
 ### Who benefits?
 
@@ -27,7 +27,7 @@ If you’re exploring local support, learn more about our pediatric physiotherap
 - Sensory and vestibular challenges affecting balance and motor planning
 - Sports injuries, pain, or recurrent sprains in children and teens
 
-Explore common pediatric physiotherapy conditions: [Pediatric physiotherapy conditions](https://physioatyourdoorstep.com/pediatric-physiotherapy-conditions/)
+Explore common pediatric physiotherapy conditions: [Pediatric physiotherapy conditions](/pediatric-physiotherapy-conditions)
 
 ## Signs your child may benefit from pediatric physio
 
@@ -182,7 +182,7 @@ The approaches below reflect what leading clinics, hospitals, and professional b
 **Techniques**: Live video coaching, home equipment hacks, parent-led practice with feedback; therapist travel for in-home care when needed.
 **Outcomes**: Higher adherence, realistic goal-setting, fewer logistics barriers.
 
-Want a practical overview of what pediatric rehabilitation can look like week-to-week? Guide to [pediatric physical rehabilitation](https://physioatyourdoorstep.com/pediatric-physical-rehabilitation/)
+Want a practical overview of what pediatric rehabilitation can look like week-to-week? Guide to [pediatric physical rehabilitation](/pediatric-physical-rehabilitation)
 
 ## What a pediatric physio session looks like
 
@@ -213,7 +213,7 @@ Outcome measures commonly used in pediatric physiotherapy include:
 
 Evidence consistently shows that intensity and repetition matter for motor learning. Short blocks of higher-frequency therapy (e.g., 2–5 sessions/week for specific goals) plus daily home practice often outperform low-frequency, ad-hoc schedules. The best plan balances clinical intensity with family capacity and school demands.
 
-Neurological conditions often benefit from targeted mobility and motor learning strategies: Explore [neurological physiotherapy exercises](https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/)
+Neurological conditions often benefit from targeted mobility and motor learning strategies: Explore [neurological physiotherapy exercises](/neurological-physiotherapy-exercises)
 
 ## How to choose the right pediatric physiotherapist in Bangalore
 
@@ -224,7 +224,7 @@ Neurological conditions often benefit from targeted mobility and motor learning 
 **Practicality**: Can they see your child at home? Do they help you adapt exercises to your space, schedule, and school routines?
 **Communication**: Reports for pediatricians, orthotists, and schools when needed.
 
-If you’re new to our clinic, read about our ethos and team here: [About Physio at Your Doorstep](https://physioatyourdoorstep.com/about-us/)
+If you’re new to our clinic, read about our ethos and team here: [About Physio at Your Doorstep](/about-us)
 
 ## Parent tips to maximize results
 
@@ -233,12 +233,12 @@ If you’re new to our clinic, read about our ethos and team here: [About Physio
 
 ## SEO-friendly internal links for deeper reading
 
-- Pediatric physiotherapy service (Bangalore): <https://physioatyourdoorstep.com/service/pediatric-physiotherapy/>
-- Pediatric physical rehabilitation guide: <https://physioatyourdoorstep.com/pediatric-physical-rehabilitation/>
-- Conditions pediatric physiotherapists treat: <https://physioatyourdoorstep.com/pediatric-physiotherapy-conditions/>
-- About Physio at Your Doorstep: <https://physioatyourdoorstep.com/about-us/>
-- Neurological physiotherapy exercises: <https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/>
-- Physiotherapy blog insights: <https://physioatyourdoorstep.com/category/physiotherapy/>
+- Pediatric physiotherapy service (Bangalore): </service/pediatric-physiotherapy/>
+- Pediatric physical rehabilitation guide: </pediatric-physical-rehabilitation/>
+- Conditions pediatric physiotherapists treat: </pediatric-physiotherapy-conditions/>
+- About Physio at Your Doorstep: </about-us/>
+- Neurological physiotherapy exercises: </neurological-physiotherapy-exercises/>
+- Physiotherapy blog insights: </category/physiotherapy/>
 
 ## Conclusion
 

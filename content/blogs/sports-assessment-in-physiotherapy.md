@@ -33,7 +33,7 @@ Semantic terms you might recognize: musculoskeletal screening, functional moveme
 **Performance plateaus**: identify bottlenecks and refine training priorities.
 **New to sport/returning after a break**: build a safe ramp-up plan, especially if you’re restarting running or gym work.
 
-For musculoskeletal background and common issues athletes face, explore our overview: [Orthopaedic conditions in physiotherapy](https://physioatyourdoorstep.com/orthopaedic-conditions-in-physiotherapy/)
+For musculoskeletal background and common issues athletes face, explore our overview: [Orthopaedic conditions in physiotherapy](/orthopaedic-conditions-in-physiotherapy)
 
 ## Core components of a gold-standard sports physio assessment
 
@@ -98,7 +98,7 @@ Smartphone slow-motion video and 2D angles. Wearables for load (GPS/accelerometr
 **Lower limb (post ACL/ankle/hamstring):** limb symmetry indices ≥90%+ for key strength and hop tests, quality metrics (valgus, trunk control), and progressive match-play tolerance.
 **Shoulder/throwers**: pain-free total arc, strength ratios, closed-kinetic-chain upper extremity tests, graded return-to-throw plan. Psychological readiness scales where appropriate (e.g., ACL-RSI).
 
-Coming back after surgery? A dedicated RTS plan is essential: [Post-surgical rehabilitation](https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/)
+Coming back after surgery? A dedicated RTS plan is essential: [Post-surgical rehabilitation](/physiotherapy-in-post-surgical-rehabilitation)
 
 ## What makes a sports physio assessment different from a general physio assessment?
 
@@ -112,7 +112,7 @@ Coming back after surgery? A dedicated RTS plan is essential: [Post-surgical reh
 **Clinic advantages**: specialized tools (force plates, harnessed treadmills), maximal testing environments, controlled surfaces.
 **Best of both**: test in clinic for depth, follow up at home for carryover and consistency.
 
-Curious how we structure neurological assessments and apply similar objectivity to sport? [Neurological assessment in physiotherapy](https://physioatyourdoorstep.com/neurological-assessment-in-physiotherapy/)
+Curious how we structure neurological assessments and apply similar objectivity to sport? [Neurological assessment in physiotherapy](/neurological-assessment-in-physiotherapy)
 
 ## From assessment to action: your plan
 
@@ -143,7 +143,7 @@ If anything hurts, stop and book a professional assessment.
 **The cricketer with shoulder tightness and back ache**: total arc deficits, scapular control, thoracic extension, hip rotation asymmetry, bowling workload log.
 **The badminton player with anterior knee pain**: lunge mechanics, hip control, ankle mobility, eccentric quads capacity, footwear and court schedule.
 
-Not sure whether physio is the right fit for you vs other services? [Physiotherapy vs remedial massage vs chiropractic](https://physioatyourdoorstep.com/physiotherapy-vs-remedial-vs-chiropractic/)
+Not sure whether physio is the right fit for you vs other services? [Physiotherapy vs remedial massage vs chiropractic](/physiotherapy-vs-remedial-vs-chiropractic)
 
 **What competitors cover — and how this guide goes further**
 
@@ -156,7 +156,7 @@ Gaps we address here:
 
 ## Condition spotlights that matter to athletes
 
-Baker’s cyst and knee overload: how to calm inflammation, restore mechanics, and return to sport without fear. Read more: [Baker’s cyst physiotherapy](https://physioatyourdoorstep.com/bakers-cyst-physiotherapy/)
+Baker’s cyst and knee overload: how to calm inflammation, restore mechanics, and return to sport without fear. Read more: [Baker’s cyst physiotherapy](/bakers-cyst-physiotherapy)
 
 ## What a first session with us looks like
 
@@ -166,7 +166,7 @@ Baker’s cyst and knee overload: how to calm inflammation, restore mechanics, a
 **10 minutes**: results briefing, red flags (if any), and your first-week plan (prehab/rehab, load targets, do/don’t list)
 **Follow-ups**: progressions every 7–14 days, re-screens every 4–8 weeks
 
-New here? Meet the team and approach: [About us](https://physioatyourdoorstep.com/about-us/)
+New here? Meet the team and approach: [About us](/about-us)
 
 ## How often should athletes get screened?
 
@@ -190,13 +190,13 @@ Whether you’re a runner, weekend footballer, badminton player, or a competitiv
 
 ## Related internal links (unique URLs, used once each)
 
-- Orthopaedic conditions in physiotherapy: <https://physioatyourdoorstep.com/orthopaedic-conditions-in-physiotherapy/>
-- Post-surgical rehabilitation: <https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/>
-- Neurological assessment in physiotherapy: <https://physioatyourdoorstep.com/neurological-assessment-in-physiotherapy/>
-- Baker’s cyst physiotherapy: <https://physioatyourdoorstep.com/bakers-cyst-physiotherapy/>
-- Physiotherapy vs remedial vs chiropractic: <https://physioatyourdoorstep.com/physiotherapy-vs-remedial-vs-chiropractic/>
-- About us: <https://physioatyourdoorstep.com/about-us/>
-- Physiotherapy articles: <https://physioatyourdoorstep.com/category/physiotherapy/>
+- Orthopaedic conditions in physiotherapy: </orthopaedic-conditions-in-physiotherapy/>
+- Post-surgical rehabilitation: </physiotherapy-in-post-surgical-rehabilitation/>
+- Neurological assessment in physiotherapy: </neurological-assessment-in-physiotherapy/>
+- Baker’s cyst physiotherapy: </bakers-cyst-physiotherapy/>
+- Physiotherapy vs remedial vs chiropractic: </physiotherapy-vs-remedial-vs-chiropractic/>
+- About us: </about-us/>
+- Physiotherapy articles: </category/physiotherapy/>
 
 ## FAQs: Sports assessment in physiotherapy
 
@@ -242,8 +242,8 @@ Sport shoes/boots, any orthotics/braces, shorts/singlet for visibility, training
 
 ### Can you do sports assessments at home in Bangalore?
 
-Yes. Home-based sessions improve adherence and real-world carryover. We can also schedule clinic sessions when specialized equipment is needed. See our physio blog for more insights and updates: [Physiotherapy articles](https://physioatyourdoorstep.com/category/physiotherapy/)
+Yes. Home-based sessions improve adherence and real-world carryover. We can also schedule clinic sessions when specialized equipment is needed. See our physio blog for more insights and updates: [Physiotherapy articles](/category/physiotherapy)
 
 ### How does this tie in with post-surgical rehab and return-to-play?
 
-We benchmark recovery at milestones and apply sport-specific RTP criteria before clearing return. Learn more here: [Post-surgical rehabilitation](https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/)
+We benchmark recovery at milestones and apply sport-specific RTP criteria before clearing return. Learn more here: [Post-surgical rehabilitation](/physiotherapy-in-post-surgical-rehabilitation)

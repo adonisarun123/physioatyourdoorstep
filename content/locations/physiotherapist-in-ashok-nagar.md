@@ -19,25 +19,17 @@ In Ashok Nagar’s context, home physiotherapy has clear advantages. The neighbo
 
 Choosing home physiotherapy in Ashok Nagar offers multiple key benefits:
 
-                                            **
-
 ### Convenience at Your Doorstep
 
 Skip the commute on congested routes like MG Road, Residency Road or Trinity Circle. We come to your doorstep at the scheduled time, so you save on travel time and energy. For busy IT/office workers, this means therapy fits easily into your day without fighting traffic or hunting for parking.
-
-                                            **
 
 ### Personalized Treatment Plans
 
 At-home sessions provide undivided attention from your therapist. There are no other patients or distractions – it’s just you and the therapist. This allows our professionals to focus entirely on your condition, monitor your movements closely, and correct your form in real time.
 
-                                            **
-
 ### Safe, Hygienic & Comfortable
 
 Receiving care in your own home greatly reduces exposure to germs and infections that are often found in hospitals or crowded clinics. This is especially important in a dense area like central Bangalore, where clinics can be busy.
-
-                                            **
 
 ### Faster Recovery
 
@@ -47,41 +39,41 @@ Many patients find they heal more quickly at home. Being comfortable and stress-
 
 Physio At Your Doorstep provides a comprehensive range of home physiotherapy treatments, all tailored for Ashok Nagar residents. Our licensed therapists have expertise in multiple specialties:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
 We guide you through recovery at home after any surgery. Common cases include knee replacements, hip surgeries, spine procedures, ACL repairs, shoulder surgeries, and fracture fixations. **, avoiding the need to travel with a walker or crutches
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
-            We treat musculoskeletal issues right at home. This covers problems like chronic back pain (common in office workers who commute through MG Road traffic), neck pain, frozen shoulder, sports injuries, arthritis, sciatica, ligament sprains , and fracture recovery.
+We treat musculoskeletal issues right at home. This covers problems like chronic back pain (common in office workers who commute through MG Road traffic), neck pain, frozen shoulder, sports injuries, arthritis, sciatica, ligament sprains , and fracture recovery.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
-            We offer home-based rehab for neurological conditions such as stroke, Parkinson’s disease, multiple sclerosis (MS), neuropathies, cerebral palsy, and spinal cord injuries. These conditions often require long-term therapy, which is more consistent when done at home.
+We offer home-based rehab for neurological conditions such as stroke, Parkinson’s disease, multiple sclerosis (MS), neuropathies, cerebral palsy, and spinal cord injuries. These conditions often require long-term therapy, which is more consistent when done at home.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
-            For fitness enthusiasts and athletes in Bangalore (whether you play at Indira Gandhi Sports Complex or run around nearby parks), we treat common sports and activity-related injuries. This includes ligament tears (like ACL or ankle ligaments), muscle strains, tendinopathies (tennis elbow, golfer’s elbow), runner’s knee, shin splints, and more
+For fitness enthusiasts and athletes in Bangalore (whether you play at Indira Gandhi Sports Complex or run around nearby parks), we treat common sports and activity-related injuries. This includes ligament tears (like ACL or ankle ligaments), muscle strains, tendinopathies (tennis elbow, golfer’s elbow), runner’s knee, shin splints, and more
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
-            Our therapists are experienced working with elderly clients in the Ashok Nagar area. We help seniors with age-related issues such as osteoarthritis (knee and hip stiffness), low back pain, balance and gait difficulties, Parkinson’s-related mobility issues, and post-stroke care for older adults
+Our therapists are experienced working with elderly clients in the Ashok Nagar area. We help seniors with age-related issues such as osteoarthritis (knee and hip stiffness), low back pain, balance and gait difficulties, Parkinson’s-related mobility issues, and post-stroke care for older adults
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
-            We provide child-friendly physio at home for infants, toddlers, and older children with various needs. This includes early intervention for developmental delays (e.g., late sitting or walking), therapy for cerebral palsy, Down syndrome-related delays, torticollis, and pediatric orthopedic issues (like clubfoot, flat feet) or post-injury rehab.
+We provide child-friendly physio at home for infants, toddlers, and older children with various needs. This includes early intervention for developmental delays (e.g., late sitting or walking), therapy for cerebral palsy, Down syndrome-related delays, torticollis, and pediatric orthopedic issues (like clubfoot, flat feet) or post-injury rehab.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -91,50 +83,50 @@ Getting started with at-home physiotherapy in Ashok Nagar is simple:
 
 ### Book a Consultation
 
-            Call us at +91 82337 87737 or book online. We’ll ask a few details about your condition and location in Ashok Nagar. This helps us match you with the right therapist and schedule your first home visit at a convenient time.
+Call us at +91 82337 87737 or book online. We’ll ask a few details about your condition and location in Ashok Nagar. This helps us match you with the right therapist and schedule your first home visit at a convenient time.
 
 ### Assessment & Appointment
 
-            For the first session, our physiotherapist arrives on time with portable equipment (exercise mats, bands, balance aids, TENS/ultrasound device if needed). They conduct a thorough assessment: discussing your medical history and current issues, evaluating pain levels, muscle strength, joint mobility, posture, and functional activities (like sitting, standing, walking on your floor).
+For the first session, our physiotherapist arrives on time with portable equipment (exercise mats, bands, balance aids, TENS/ultrasound device if needed). They conduct a thorough assessment: discussing your medical history and current issues, evaluating pain levels, muscle strength, joint mobility, posture, and functional activities (like sitting, standing, walking on your floor).
 
 ### Treatment & Recovery
 
-            Using the assessment, the therapist creates a personalized therapy plan for you. They will explain exactly what exercises and treatments will be done – for example, prescribing core-strengthening routines for back pain, balance drills for dizziness, or gait training for post-stroke.
+Using the assessment, the therapist creates a personalized therapy plan for you. They will explain exactly what exercises and treatments will be done – for example, prescribing core-strengthening routines for back pain, balance drills for dizziness, or gait training for post-stroke.
 
 ### Ongoing Support
 
-            After the initial visit, follow-up sessions continue as per plan. Each visit builds on the last – your therapist guides you through exercises, performs hands-on techniques (like mobilizations or massage to reduce pain), and gently pushes your progress.
+After the initial visit, follow-up sessions continue as per plan. Each visit builds on the last – your therapist guides you through exercises, performs hands-on techniques (like mobilizations or massage to reduce pain), and gently pushes your progress.
 
 ## Patient Testimonials & Success Stories
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
-                            Rajkumari Jain
-
-### See what our satisfied patients have to say:
-
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
-
-                            Priyanshu Gupta
+Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
-                            Rishi Verma
+Priyanshu Gupta
 
-                                                                            County Road Association
+### See what our satisfied patients have to say:
+
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+
+Rishi Verma
+
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
-                            John Smith
-                                                            CEO
+John Smith
+CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Ashok Nagar
 
@@ -168,17 +160,13 @@ Don’t let pain or mobility issues hold you back. Start your recovery with expe
 
 #### Info
 
-                                                                **
-
 +91 82337 87737
-
-                                                                **
 
 physioatyourdoorstep24x7@gmail.com
 
 #### Address
 
-        Sector 3, HSR Layout, Bangalore, 560102
+Sector 3, HSR Layout, Bangalore, 560102
 
 Your Name
 

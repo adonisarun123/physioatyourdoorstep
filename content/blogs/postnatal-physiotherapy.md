@@ -53,7 +53,7 @@ Pelvic girdle pain and lower back pain that began during pregnancy frequently pe
 
 The physiotherapist evaluates how the woman performs daily tasks such as lifting the baby from a cot, getting up from the floor, and carrying a car seat to identify movements that create excessive intra-abdominal pressure or place undue load on the healing pelvic floor and core.
 
-If you are in Bangalore and prefer a convenient assessment without leaving home, our [Physiotherapy in Pregnancy and Postpartum](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) service brings a qualified physiotherapist to your doorstep for a comprehensive evaluation.
+If you are in Bangalore and prefer a convenient assessment without leaving home, our [Physiotherapy in Pregnancy and Postpartum](/service/physiotherapy-in-pregnancy) service brings a qualified physiotherapist to your doorstep for a comprehensive evaluation.
 
 ## Postpartum Physiotherapy Exercises: A Phase-Based Approach
 
@@ -88,7 +88,7 @@ The traditional six-week clearance from an obstetrician indicates that wounds ha
 
 International return-to-running guidelines published by Goom, Donnelly, and Brockwell (2019) recommend that women wait at least three months before resuming running or high-impact exercise postpartum, and only after passing specific physiotherapy benchmarks. These include single-leg balance for 10 seconds, 20 single-leg calf raises, 20 single-leg bridges, and 10 single-leg hops, all without symptoms of leakage or pelvic heaviness.
 
-For women recovering from surgery, our [Post-Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) service provides a structured rehabilitation pathway, including for Caesarean section recovery.
+For women recovering from surgery, our [Post-Surgical Physiotherapy](/service/post-surgical-physiotherapy) service provides a structured rehabilitation pathway, including for Caesarean section recovery.
 
 ## Diastasis Recti: Assessment, Symptoms, and Evidence-Based Management
 
@@ -131,7 +131,7 @@ Pain is frequently normalised in the postpartum period, yet much of it is direct
 
 These are among the most prevalent postpartum complaints. The sacroiliac joints and pubic symphysis, loosened by relaxin during pregnancy, need time and targeted rehabilitation to restabilise. A physiotherapist uses manual therapy, muscle energy techniques, joint mobilisation, and progressive loading exercises to reduce pain and restore function.
 
-If you experienced back pain during pregnancy, our [Prenatal Physiotherapy During Pregnancy guide](https://physioatyourdoorstep.com/prenatal-physiotherapy-during-pregnancy/) explains how early intervention can reduce postpartum complications.
+If you experienced back pain during pregnancy, our [Prenatal Physiotherapy During Pregnancy guide](/prenatal-physiotherapy-during-pregnancy) explains how early intervention can reduce postpartum complications.
 
 ### De Quervain’s Tenosynovitis (Wrist Pain)
 
@@ -157,18 +157,18 @@ It is also worth noting that postpartum cardiovascular health deserves attention
 
 One of the most significant barriers to postpartum physiotherapy is access. With a newborn at home, sleep deprivation, breastfeeding schedules, and the logistical challenge of travelling to a clinic, many women delay or skip the care they need. Research consistently confirms that fatigue and caregiving demands limit participation in in-person physiotherapy programmes, and these barriers disproportionately affect new mothers in the critical early postpartum weeks.
 
-At-home physiotherapy eliminates this barrier entirely. At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our qualified physiotherapists visit your home across Bangalore, covering JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas, to conduct postnatal assessments and deliver evidence-based treatment in a comfortable, familiar environment. Same-day appointments are available.
+At-home physiotherapy eliminates this barrier entirely. At [Physio at Your Doorstep](/), our qualified physiotherapists visit your home across Bangalore, covering JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas, to conduct postnatal assessments and deliver evidence-based treatment in a comfortable, familiar environment. Same-day appointments are available.
 
-For mothers who prefer remote access, our [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) service provides expert guidance from anywhere in India.
+For mothers who prefer remote access, our [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) service provides expert guidance from anywhere in India.
 
 ## Related Resources and Further Reading
 
-- [Physiotherapy in Pregnancy and Postpartum – Physio at Your Doorstep](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/)
-- [Prenatal Physiotherapy During Pregnancy: Your Complete Guide](https://physioatyourdoorstep.com/prenatal-physiotherapy-during-pregnancy/)
-- [Post-Surgical Physiotherapy (including Caesarean Recovery)](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
-- [Online Physiotherapy Consultation India](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
-- [Orthopaedic Physiotherapy – Musculoskeletal Pain Management](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
-- [Physio at Your Doorstep Blog – All Articles](https://physioatyourdoorstep.com/blogs/)
+- [Physiotherapy in Pregnancy and Postpartum – Physio at Your Doorstep](/service/physiotherapy-in-pregnancy)
+- [Prenatal Physiotherapy During Pregnancy: Your Complete Guide](/prenatal-physiotherapy-during-pregnancy)
+- [Post-Surgical Physiotherapy (including Caesarean Recovery)](/service/post-surgical-physiotherapy)
+- [Online Physiotherapy Consultation India](/service/online-physiotherapy-consultation-india)
+- [Orthopaedic Physiotherapy – Musculoskeletal Pain Management](/service/orthopaedic-physiotherapy)
+- [Physio at Your Doorstep Blog – All Articles](/blogs)
 - [Current Guidelines for Postnatal Exercise – Physio-Pedia](https://www.physio-pedia.com/Current_Guidelines_and_Recommendations_for_Postnatal_Exercise)
 - [Pregnancy & Postpartum Physical Therapy – APTA Pelvic Health](https://www.aptapelvichealth.org/pregnancy-and-postpartum)
 - Goom T, Donnelly G, Brockwell E. *Returning to running postnatal – guidelines for medical, health and fitness professionals.* Absolute Physio. 2019.

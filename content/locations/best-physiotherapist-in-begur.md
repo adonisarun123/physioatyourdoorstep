@@ -19,25 +19,17 @@ Begur’s growth as an IT-friendly suburb is no accident. Its proximity to Elect
 
 Choosing home physiotherapy in Begur comes with several key benefits for your health, convenience, and peace of mind:
 
-                                            **
-
 ### Convenience & Time-Saving at Your Doorstep
 
 Skip the hassle of traffic on Begur Road or on NH-44. Our therapist comes to your home at a convenient time, saving you hours of commuting. This is especially valuable in Begur’s busy corridor where travel to a clinic (for example near Silk Board or Hosur Road) can take 30+ minutes.
-
-                                            **
 
 ### Personalized One-on-One Attention
 
 At-home sessions ensure undivided attention. Unlike a clinic, where multiple patients share a space, in-home physiotherapy is just you and the therapist. This allows fully customized care. For instance, your Begur physiotherapist can suggest ergonomic adjustments specific to your work-from-home setup or adapt exercises to your actual living room layout
 
-                                            **
-
 ### Safe, Hygienic & Comfortable Care
 
 Recovering at home is much safer and more comfortable than in a crowded clinic. By avoiding public spaces, you reduce the risk of infection – an important consideration post-surgery or for seniors.
-
-                                            **
 
 ### Faster Recovery at Home
 
@@ -47,41 +39,41 @@ When therapy is convenient and comfortable, people tend to stick with it. Withou
 
 We offer a full spectrum of physiotherapy services at home to address various conditions. Our Begur physiotherapists are experienced in all these specialty areas:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
 Recovery after surgeries like knee replacements, hip surgeries, ACL repairs, rotator cuff surgeries, or fracture fixations. If you’ve had an operation at a nearby hospital (such as Fortis, Apollo in Bannerghatta Road, or Sparsh Hospital) we will help you regain strength and mobility at home.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
 Treatment for bone, joint, and muscle problems. Common issues include chronic back and neck pain (often from long office hours or driving), frozen shoulder, knee injuries (like meniscus tears or ligament strains), arthritis pain, ankle sprains, and post-fracture rehab.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
 Rehabilitation for neurological conditions. We help patients at home with stroke recovery, Parkinson’s disease, MS, cerebral palsy, & spinal cord injuries. For instance, someone in Koramangala recovering from a stroke can receive guided strength and balance training at home.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
 Care for athletes and active individuals. Whether you play cricket in HSR Layout parks, cycle on Begur Road, or jog by Begur Lake, sports injuries can happen. Our therapists treat injuries like torn ligaments (ACL, MCL), muscle strains, shin splints, tennis elbow, jumper’s knee, and more
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
 Special care for the elderly, delivered with patience and respect. Many seniors in Begur experience issues like osteoarthritis (stiff knees, hips), osteoporosis, chronic back pain, or balance problems. We help address these through gentle strengthening, flexibility, and balance exercises tailored to seniors
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
 Therapy for infants, children, and teens at home. Our child-friendly therapists handle developmental conditions (like delayed crawling or walking), torticollis in babies, cerebral palsy, muscular dystrophy, and recovery from childhood injuries. Sessions are made fun and engaging: we use toys and games to do exercises so kids cooperate happily
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -89,25 +81,17 @@ Therapy for infants, children, and teens at home. Our child-friendly therapists 
 
 Getting started with at-home physiotherapy in Begur is simple:
 
-                                            **
-
 ### Book a Consultation
 
 Contact us by phone or through our website. Tell us you’re in Begur, Bangalore, and briefly describe your condition. Our coordinator will match you with a suitable physiotherapist.
-
-                                            **
 
 ### Home Visit & Assessment
 
 Our qualified physiotherapist will arrive at your Begur residence on time, bringing all necessary portable equipment (exercise bands, massage tools, etc.). In the first session, they’ll perform a thorough assessment: reviewing your medical history and symptoms, testing your range of motion, strength, flexibility, and functional movements.
 
-                                            **
-
 ### Custom Treatment Plan
 
 Based on the assessment, the physiotherapist will explain a personalized treatment plan. This plan outlines the recommended exercises, manual techniques (like joint mobilizations), pain-relief modalities (heat, TENS if needed), and the frequency of visits.
-
-                                            **
 
 ### Ongoing Therapy & Monitoring
 
@@ -117,33 +101,33 @@ We then proceed with the regular therapy sessions at your home. During each visi
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Begur
 
@@ -174,21 +158,17 @@ If your neighborhood is not listed above, just call us – chances are we servic
 
 ## Book a Physiotherapy Session Today
 
-        Don’t let pain or injury hold you back. Get expert physiotherapy at home in Begur and start your recovery journey now.
+Don’t let pain or injury hold you back. Get expert physiotherapy at home in Begur and start your recovery journey now.
 
 #### Info
 
-                                                                **
-
 +91 82337 87737
-
-                                                                **
 
 physioatyourdoorstep24x7@gmail.com
 
 #### Address
 
-        Sector 3, HSR Layout, Bangalore, 560102
+Sector 3, HSR Layout, Bangalore, 560102
 
 Your Name
 

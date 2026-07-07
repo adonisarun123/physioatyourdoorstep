@@ -15,7 +15,7 @@ When a physiotherapist recommends either TENS or traction as part of your treatm
 This guide provides a research-backed, side-by-side comparison of TENS physiotherapy treatment vs traction physiotherapy treatment. Whether you are managing chronic back pain, a herniated disc, nerve compression, or musculoskeletal discomfort, understanding these two approaches will help you make an informed decision alongside your physiotherapist.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our certified physiotherapists bring expert care directly to your home across Bangalore, tailoring treatment plans that may include TENS, traction, or a combination of both depending on your clinical needs.
 
 ## What Is TENS Physiotherapy Treatment?
@@ -73,7 +73,7 @@ TENS is used across a broad spectrum of acute and chronic pain conditions, inclu
 - Sports injuries
 
 Our
-[Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy)
  team regularly incorporates TENS as part of comprehensive treatment plans for joint and musculoskeletal conditions.
 
 ### Benefits of TENS Therapy
@@ -172,9 +172,9 @@ Traction physiotherapy is most effective for conditions where mechanical compres
 - Chronic neck pain with nerve involvement
 
 If you are experiencing any of these conditions, our
-[Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy)
  service and
-[Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Post Surgical Physiotherapy](/service/post-surgical-physiotherapy)
  team are equipped to assess whether traction is appropriate for your case.
 
 ### Benefits of Traction Therapy
@@ -221,156 +221,156 @@ Traction therapy is contraindicated in:
 <tbody>
 <tr>
 <td>
-<p><b>Feature</b></p>
+<b>Feature</b>
 </td>
 <td>
-<p><b>TENS Physiotherapy</b></p>
+<b>TENS Physiotherapy</b>
 </td>
 <td>
-<p><b>Traction Physiotherapy</b></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Primary Mechanism</b></p>
-</td>
-<td>
-<p><span>Electrical nerve stimulation to block pain signals and release endorphins</span></p>
-</td>
-<td>
-<p><span>Mechanical stretching to decompress spinal structures</span></p>
+<b>Traction Physiotherapy</b>
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Type of Treatment</b></p>
+<b>Primary Mechanism</b>
 </td>
 <td>
-<p><span>Electrotherapy (non-mechanical)</span></p>
+Electrical nerve stimulation to block pain signals and release endorphins
 </td>
 <td>
-<p><span>Manual or mechanical decompression</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Target Tissue</b></p>
-</td>
-<td>
-<p><span>Peripheral nerves, muscle tissue, sensory pathways</span></p>
-</td>
-<td>
-<p><span>Intervertebral discs, facet joints, nerve roots, paravertebral muscles</span></p>
+Mechanical stretching to decompress spinal structures
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Best Suited For</b></p>
+<b>Type of Treatment</b>
 </td>
 <td>
-<p><span>Widespread chronic pain, neuropathic pain, musculoskeletal pain, fibromyalgia</span></p>
+Electrotherapy (non-mechanical)
 </td>
 <td>
-<p><span>Disc herniation, radiculopathy, spinal stenosis, nerve root compression</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Mechanism of Pain Relief</b></p>
-</td>
-<td>
-<p><span>Neurological modulation (gate control + endorphin release)</span></p>
-</td>
-<td>
-<p><span>Mechanical decompression and disc hydration</span></p>
+Manual or mechanical decompression
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Invasiveness</b></p>
+<b>Target Tissue</b>
 </td>
 <td>
-<p><span>Non-invasive (electrode pads on skin)</span></p>
+Peripheral nerves, muscle tissue, sensory pathways
 </td>
 <td>
-<p><span>Non-invasive (mechanical or manual force application)</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Session Duration</b></p>
-</td>
-<td>
-<p><span>Typically 20 to 60 minutes</span></p>
-</td>
-<td>
-<p><span>Typically 15 to 30 minutes</span></p>
+Intervertebral discs, facet joints, nerve roots, paravertebral muscles
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Onset of Relief</b></p>
+<b>Best Suited For</b>
 </td>
 <td>
-<p><span>Immediate during session; may last up to 24 hours post-session</span></p>
+Widespread chronic pain, neuropathic pain, musculoskeletal pain, fibromyalgia
 </td>
 <td>
-<p><span>Gradual over multiple sessions; cumulative structural benefit</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Requires Specialized Equipment</b></p>
-</td>
-<td>
-<p><span>TENS unit (portable or clinical)</span></p>
-</td>
-<td>
-<p><span>Traction table or motorized traction machine</span></p>
+Disc herniation, radiculopathy, spinal stenosis, nerve root compression
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Can Be Used at Home</b></p>
+<b>Mechanism of Pain Relief</b>
 </td>
 <td>
-<p><span>Yes, under physio supervision</span></p>
+Neurological modulation (gate control + endorphin release)
 </td>
 <td>
-<p><span>No, requires clinical setting</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><b>Addresses Root Cause</b></p>
-</td>
-<td>
-<p><span>No (symptom relief only)</span></p>
-</td>
-<td>
-<p><span>Partially (reduces mechanical compression)</span></p>
+Mechanical decompression and disc hydration
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Evidence Strength</b></p>
+<b>Invasiveness</b>
 </td>
 <td>
-<p><span>Strong for acute and chronic musculoskeletal pain</span></p>
+Non-invasive (electrode pads on skin)
 </td>
 <td>
-<p><span>Strong for disc herniation and radiculopathy</span></p>
+Non-invasive (mechanical or manual force application)
 </td>
 </tr>
 <tr>
 <td>
-<p><b>Typical Number of Sessions</b></p>
+<b>Session Duration</b>
 </td>
 <td>
-<p><span>Ongoing (as required for pain management)</span></p>
+Typically 20 to 60 minutes
 </td>
 <td>
-<p><span>8 to 15 sessions depending on condition severity</span></p>
+Typically 15 to 30 minutes
+</td>
+</tr>
+<tr>
+<td>
+<b>Onset of Relief</b>
+</td>
+<td>
+Immediate during session; may last up to 24 hours post-session
+</td>
+<td>
+Gradual over multiple sessions; cumulative structural benefit
+</td>
+</tr>
+<tr>
+<td>
+<b>Requires Specialized Equipment</b>
+</td>
+<td>
+TENS unit (portable or clinical)
+</td>
+<td>
+Traction table or motorized traction machine
+</td>
+</tr>
+<tr>
+<td>
+<b>Can Be Used at Home</b>
+</td>
+<td>
+Yes, under physio supervision
+</td>
+<td>
+No, requires clinical setting
+</td>
+</tr>
+<tr>
+<td>
+<b>Addresses Root Cause</b>
+</td>
+<td>
+No (symptom relief only)
+</td>
+<td>
+Partially (reduces mechanical compression)
+</td>
+</tr>
+<tr>
+<td>
+<b>Evidence Strength</b>
+</td>
+<td>
+Strong for acute and chronic musculoskeletal pain
+</td>
+<td>
+Strong for disc herniation and radiculopathy
+</td>
+</tr>
+<tr>
+<td>
+<b>Typical Number of Sessions</b>
+</td>
+<td>
+Ongoing (as required for pain management)
+</td>
+<td>
+8 to 15 sessions depending on condition severity
 </td>
 </tr>
 </tbody>
@@ -391,7 +391,7 @@ In practice, a typical combined treatment session may look like this:
 - **Therapeutic exercises** to stabilize and strengthen the treated region
 
 This multimodal approach is consistent with evidence-based physiotherapy practice and is what our clinical team at
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
  delivers during home visits across Bangalore.
 
 ## Which Treatment Is Right for You?
@@ -429,7 +429,7 @@ The choice between TENS and traction, or a combination of both, should always be
 - Your physiotherapist recommends a multimodal approach as part of your rehabilitation
 
 Our
-[Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Neurological Physiotherapy](/service/neurological-physiotherapy)
  team also works with patients who experience nerve-related pain from non-spinal causes, and can assess whether TENS is appropriate for neurological pain management.
 
 ## Home Physiotherapy for TENS and Traction in Bangalore
@@ -437,7 +437,7 @@ Our
 One of the most frequently asked questions is whether these treatments can be received at home. TENS therapy is entirely portable and can be administered during home visits by a qualified physiotherapist. Manual traction can also be performed at home by a skilled physiotherapist without the need for a motorized machine.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our team of experienced physiotherapists brings certified clinical care directly to your home across JP Nagar, BTM Layout, Koramangala, Jayanagar, HSR Layout, Whitefield, and other areas of Bangalore.
 
 **We offer:**
@@ -455,12 +455,12 @@ At
 Whether you are recovering from surgery, managing a chronic condition, or dealing with an acute injury, home physiotherapy ensures you receive consistent, high-quality care in the comfort and safety of your own environment.
 
 Explore our
-[Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Sports Physiotherapy](/service/sports-physiotherapy)
  and
-[Geriatric Physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Geriatric Physiotherapy](/service/geriatric-physiotherapy)
  services for specialized care tailored to your age group and lifestyle.
 
-[Book an Appointment Today](https://physioatyourdoorstep.com/booking/)
+[Book an Appointment Today](/booking)
 
 ## Key Takeaways
 
@@ -488,7 +488,7 @@ Explore our
 
 *This blog is intended for informational purposes only and does not constitute medical advice. Always consult a qualified physiotherapist or healthcare professional for diagnosis and treatment recommendations specific to your condition.*
 
-*Written by the clinical team at*[Physio at Your Doorstep](https://physioatyourdoorstep.com/)*| Home Physiotherapy in Bangalore | Call: +91 82337 87737*
+*Written by the clinical team at*[Physio at Your Doorstep](/)*| Home Physiotherapy in Bangalore | Call: +91 82337 87737*
 
 ## Frequently Asked Questions (FAQ)
 
@@ -500,9 +500,9 @@ Explore our
 
 - [How many sessions of traction therapy do I need?](#acc-xg8q427-3) The number of sessions varies depending on the severity and type of your condition. Most clinical protocols recommend between 8 and 15 sessions, typically scheduled 3 to 5 times per week. Your physiotherapist will reassess your progress regularly and adjust the frequency and intensity of traction accordingly.
 
-- [Can TENS be used during pregnancy?](#acc-xg8q427-4) TENS is generally not recommended over the abdomen or lower back during the first trimester of pregnancy due to insufficient safety data. However, it can be used under close physiotherapy supervision for pregnancy-related pelvic girdle pain and back pain in the later stages of pregnancy. Our team offers specialized [Physiotherapy in Pregnancy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) services with safe, evidence-based treatment options.
+- [Can TENS be used during pregnancy?](#acc-xg8q427-4) TENS is generally not recommended over the abdomen or lower back during the first trimester of pregnancy due to insufficient safety data. However, it can be used under close physiotherapy supervision for pregnancy-related pelvic girdle pain and back pain in the later stages of pregnancy. Our team offers specialized [Physiotherapy in Pregnancy](/service/physiotherapy-in-pregnancy) services with safe, evidence-based treatment options.
 
-- [Can I receive TENS or traction therapy at home in Bangalore?](#acc-xg8q427-5) TENS therapy can be fully administered at home by a qualified physiotherapist. Manual traction techniques can also be performed at home during physiotherapy visits without the need for a motorized machine. Physio at Your Doorstep offers home physiotherapy services across Bangalore, including TENS and manual therapy. [Contact us](https://physioatyourdoorstep.com/contact-us/) to book a home visit.
+- [Can I receive TENS or traction therapy at home in Bangalore?](#acc-xg8q427-5) TENS therapy can be fully administered at home by a qualified physiotherapist. Manual traction techniques can also be performed at home during physiotherapy visits without the need for a motorized machine. Physio at Your Doorstep offers home physiotherapy services across Bangalore, including TENS and manual therapy. [Contact us](/contact-us) to book a home visit.
 
 - [Are TENS and traction physiotherapy painful?](#acc-xg8q427-6) TENS therapy is generally comfortable. Patients typically experience a mild tingling or buzzing sensation. The intensity is always kept within the patient’s comfort range. Traction therapy may feel unusual at first, as patients experience a gentle pulling sensation, but it should not be painful. Any discomfort should be reported to the physiotherapist immediately so the force or position can be adjusted.
 

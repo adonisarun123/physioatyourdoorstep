@@ -24,7 +24,7 @@ The fluid buildup makes oxygen exchange nearly impossible, leading to oxygen dep
 
 ### Causes and Risk Factors
 
-The causes of pulmonary edema are varied and can be either direct or indirect. Understanding these causes is essential when [developing a treatment and physiotherapy plan](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/).
+The causes of pulmonary edema are varied and can be either direct or indirect. Understanding these causes is essential when [developing a treatment and physiotherapy plan](/service/pulmonary-physiotherapy).
 
 **Common causes include:**
 
@@ -53,7 +53,7 @@ The causes of pulmonary edema are varied and can be either direct or indirect. U
 
 - Diabetes mellitus
 
-Identifying and managing these risk factors is the first step in preventing pulmonary edema and also helps guide [physiotherapists](https://physioatyourdoorstep.com/about-us/) in tailoring effective treatment strategies.
+Identifying and managing these risk factors is the first step in preventing pulmonary edema and also helps guide [physiotherapists](/about-us) in tailoring effective treatment strategies.
 
 ### Symptoms and Diagnosis
 
@@ -83,7 +83,7 @@ When a patient presents with these symptoms, doctors typically jump into action 
 
 - **Blood Tests:** Especially BNP (B-type natriuretic peptide), which signals heart failure.
 
-Diagnosing the condition early is vital for applying the right interventions, including timely physiotherapy, to [help improve breathing](https://physioatyourdoorstep.com/physiotherapy-for-pulmonary-fibrosis/) and prevent deterioration.
+Diagnosing the condition early is vital for applying the right interventions, including timely physiotherapy, to [help improve breathing](/physiotherapy-for-pulmonary-fibrosis) and prevent deterioration.
 
 ## Understanding the Role of Physiotherapy in Pulmonary Edema
 
@@ -160,7 +160,7 @@ The physiotherapist’s role isn’t just reactive but
 . By catching early signs of respiratory distress or fluid overload, they can adjust treatment to prevent worsening. Assessment is the
 **foundation**
  for designing a
-[personalized physiotherapy program](https://physioatyourdoorstep.com/booking/)
+[personalized physiotherapy program](/booking)
  tailored to the patient’s respiratory capacity, energy levels, and medical condition.
 
 ### Diagnostic Tests Used

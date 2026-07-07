@@ -58,7 +58,7 @@ Clinical studies demonstrate that early physiotherapy intervention—within 90 d
 
 ### What Makes Home-Based Physiotherapy Effective
 
-When dealing with sciatica, traveling to a clinic can aggravate your symptoms. [Home-based physiotherapy services](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) offer distinct advantages:
+When dealing with sciatica, traveling to a clinic can aggravate your symptoms. [Home-based physiotherapy services](/service/orthopaedic-physiotherapy) offer distinct advantages:
 
 - **Comfort During Treatment**: Receive care in your familiar environment without painful commutes
 - **Personalized Attention**: One-on-one sessions focused entirely on your recovery
@@ -292,7 +292,7 @@ Anti-inflammatory foods support healing:
 
 ## Preventing Future Sciatica Episodes
 
-Once you’ve recovered, prevention becomes paramount. Your [physiotherapy treatment plan](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) should include long-term strategies:
+Once you’ve recovered, prevention becomes paramount. Your [physiotherapy treatment plan](/service/post-surgical-physiotherapy) should include long-term strategies:
 
 ### Maintaining Core Strength
 
@@ -334,11 +334,11 @@ When you choose Physio At Your Doorstep, you receive:
 - **Comprehensive Education**: Empowering you with knowledge to manage and prevent recurrence
 - **Continuous Support**: Regular follow-ups ensuring optimal recovery progress
 
-Our physiotherapists specialize in [orthopedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/), with extensive experience treating sciatica and related spinal conditions. Whether you’re in JP Nagar, BTM Layout, Koramangala, HSR Layout, or anywhere else in Bangalore, professional help is just a call away.
+Our physiotherapists specialize in [orthopedic physiotherapy](/service/orthopaedic-physiotherapy), with extensive experience treating sciatica and related spinal conditions. Whether you’re in JP Nagar, BTM Layout, Koramangala, HSR Layout, or anywhere else in Bangalore, professional help is just a call away.
 
 ### Integration with Other Services
 
-Sciatica recovery sometimes benefits from multidisciplinary approaches. We can coordinate with other healthcare providers and offer complementary services like [sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) for athletes or [geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) for older adults dealing with age-related spinal changes.
+Sciatica recovery sometimes benefits from multidisciplinary approaches. We can coordinate with other healthcare providers and offer complementary services like [sports physiotherapy](/service/sports-physiotherapy) for athletes or [geriatric physiotherapy](/service/geriatric-physiotherapy) for older adults dealing with age-related spinal changes.
 
 ## Take the First Step Toward Relief Today
 
@@ -348,7 +348,7 @@ At Physio At Your Doorstep, we’re committed to providing exceptional care that
 
 Don’t let sciatica control your life any longer. Whether you’re experiencing your first episode or dealing with recurring symptoms, early intervention provides the best outcomes. Our experienced team is ready to help you develop a comprehensive treatment plan tailored to your specific needs.
 
-**Ready to start your recovery journey?** Contact Physio At Your Doorstep today at **+91 82337 87737** or email us at **physioatyourdoorstep24x7@gmail.com** to [book your first assessment](https://physioatyourdoorstep.com/booking/). Same-day appointments are available for acute cases, and we serve all areas across Bangalore.
+**Ready to start your recovery journey?** Contact Physio At Your Doorstep today at **+91 82337 87737** or email us at **physioatyourdoorstep24x7@gmail.com** to [book your first assessment](/booking). Same-day appointments are available for acute cases, and we serve all areas across Bangalore.
 
 Remember, the sooner you begin treatment, the faster your path to recovery. Take control of your sciatica today with professional physiotherapy care delivered right to your doorstep.
 
@@ -356,9 +356,9 @@ Remember, the sooner you begin treatment, the faster your path to recovery. Take
 
 For more information about our physiotherapy services and how we can help with various conditions:
 
-- [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) – Virtual consultations available for those unable to schedule home visits
-- [Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) – For conditions affecting the nervous system
-- [Corporate Wellness Programs](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/) – Workplace injury prevention and wellness
+- [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) – Virtual consultations available for those unable to schedule home visits
+- [Neurological Physiotherapy](/service/neurological-physiotherapy) – For conditions affecting the nervous system
+- [Corporate Wellness Programs](/service/corporate-wellness-physiotherapy-program) – Workplace injury prevention and wellness
 
 ### External Resources for Further Reading
 

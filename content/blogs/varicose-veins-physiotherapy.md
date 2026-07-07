@@ -99,13 +99,13 @@ Water-based exercises and contrast baths are often incorporated into physiothera
 
 ### 6. Electrotherapy Modalities
 
-In clinical settings, physiotherapists may use electrotherapy tools such as Transcutaneous Electrical Nerve Stimulation (TENS) or [Interferential Therapy](https://physioatyourdoorstep.com/ict-vs-ipt-vs-ift-in-physiotherapy/) (IFT) to manage pain and reduce edema, particularly in the early stages of rehabilitation when exercise tolerance is limited.
+In clinical settings, physiotherapists may use electrotherapy tools such as Transcutaneous Electrical Nerve Stimulation (TENS) or [Interferential Therapy](/ict-vs-ipt-vs-ift-in-physiotherapy) (IFT) to manage pain and reduce edema, particularly in the early stages of rehabilitation when exercise tolerance is limited.
 
 ## Lifestyle Modifications That Physiotherapy Addresses
 
 Physiotherapy for varicose veins goes beyond exercise. A comprehensive program includes patient education on lifestyle factors that directly influence symptom progression:
 
-**Weight Management:** Obesity increases intra-abdominal pressure, which impairs venous return from the legs. Even modest weight reduction can significantly ease symptoms. [Physiotherapists](https://physioatyourdoorstep.com/about-us/) often provide guidance on activity modifications that support healthy weight management without aggravating the veins.
+**Weight Management:** Obesity increases intra-abdominal pressure, which impairs venous return from the legs. Even modest weight reduction can significantly ease symptoms. [Physiotherapists](/about-us) often provide guidance on activity modifications that support healthy weight management without aggravating the veins.
 
 **Leg Elevation:** Elevating the legs above the level of the heart for 15 to 20 minutes several times a day allows gravity to assist venous return, reducing swelling and discomfort. Patients are advised to sleep with the foot of the bed slightly elevated.
 
@@ -169,11 +169,11 @@ Swimming, cycling, yoga (restorative and non-inverted postures), and walking rem
 
 For patients managing varicose veins in Bangalore, traveling to a clinic multiple times a week can itself become a barrier to recovery — particularly when pain or swelling makes commuting uncomfortable. Home physiotherapy removes that barrier entirely.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our registered physiotherapists visit your home across all major areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. Each session is conducted on a one-to-one basis, allowing the physiotherapist to focus entirely on your assessment, treatment, and progress.
+At [Physio at Your Doorstep](/), our registered physiotherapists visit your home across all major areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. Each session is conducted on a one-to-one basis, allowing the physiotherapist to focus entirely on your assessment, treatment, and progress.
 
-Our [Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) services cover musculoskeletal and vascular rehabilitation, including structured programs for varicose vein management. For patients recovering from vascular surgery, our [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) team designs phased recovery protocols to ensure safe, progressive return to normal activity. Older adults managing varicose veins as part of broader mobility concerns can also benefit from our [Geriatric Physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) program, which addresses the unique needs of aging limb health.
+Our [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) services cover musculoskeletal and vascular rehabilitation, including structured programs for varicose vein management. For patients recovering from vascular surgery, our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) team designs phased recovery protocols to ensure safe, progressive return to normal activity. Older adults managing varicose veins as part of broader mobility concerns can also benefit from our [Geriatric Physiotherapy](/service/geriatric-physiotherapy) program, which addresses the unique needs of aging limb health.
 
-If you prefer to begin your consultation from the convenience of your home before scheduling in-person sessions, our [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) service is also available.
+If you prefer to begin your consultation from the convenience of your home before scheduling in-person sessions, our [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) service is also available.
 
 ## What to Expect From Your First Physiotherapy Session
 
@@ -196,7 +196,7 @@ For those who want to explore the clinical evidence further, the following resou
 
 Living with varicose veins does not mean accepting a life of discomfort, restricted activity, or permanent dependency on medication. Physiotherapy offers a clinically grounded, personalized approach to treatment that strengthens your legs, improves circulation, and supports lasting recovery — whether you are managing early-stage symptoms or rehabilitating after a vascular procedure.
 
-If you are in Bangalore and looking for expert physiotherapy care that comes to you, [book an appointment with Physio at Your Doorstep](https://physioatyourdoorstep.com/booking/) today. Our team of experienced, background-verified physiotherapists will assess your condition, design a treatment plan around your needs, and guide you step by step toward healthier legs — in the comfort of your own home.
+If you are in Bangalore and looking for expert physiotherapy care that comes to you, [book an appointment with Physio at Your Doorstep](/booking) today. Our team of experienced, background-verified physiotherapists will assess your condition, design a treatment plan around your needs, and guide you step by step toward healthier legs — in the comfort of your own home.
 
 **Call us: +91 82337 87737** **Email: physioatyourdoorstep24x7@gmail.com**
 
@@ -230,7 +230,7 @@ Gentle movement, including ankle exercises and short walks, typically begins on 
 
 ### Does physiotherapy help with varicose veins during pregnancy?
 
-Yes. Pregnancy physiotherapy for varicose veins focuses on gentle circulation exercises, appropriate compression garments, safe postural guidance, and leg elevation strategies. Since many pharmacological and surgical options are not appropriate during pregnancy, physiotherapy becomes an especially important primary management tool. Our team at Physio at Your Doorstep offers specialized [Physiotherapy in Pregnancy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) services that are adapted for each trimester.
+Yes. Pregnancy physiotherapy for varicose veins focuses on gentle circulation exercises, appropriate compression garments, safe postural guidance, and leg elevation strategies. Since many pharmacological and surgical options are not appropriate during pregnancy, physiotherapy becomes an especially important primary management tool. Our team at Physio at Your Doorstep offers specialized [Physiotherapy in Pregnancy](/service/physiotherapy-in-pregnancy) services that are adapted for each trimester.
 
 ### Do compression stockings really help varicose veins?
 

@@ -8,7 +8,7 @@ metaDescription: "Book a certified home physiotherapist in JP Nagar for personal
 
 ## Expert Home Physiotherapy Services in JP Nagar
 
-Looking for a trusted and professional **home physiotherapist in JP Nagar**? Your search ends here. At **[Physio At Your Doorstep](https://physioatyourdoorstep.com/)**, we specialize in delivering expert physiotherapy care right at your home—so you can focus on healing without worrying about travel, traffic, or clinic queues. Whether you're recovering from surgery, dealing with chronic pain, or seeking mobility support for a loved one, our experienced physiotherapists in JP Nagar are here to provide evidence-based treatment tailored just for you.
+Looking for a trusted and professional **home physiotherapist in JP Nagar**? Your search ends here. At **[Physio At Your Doorstep](/)**, we specialize in delivering expert physiotherapy care right at your home—so you can focus on healing without worrying about travel, traffic, or clinic queues. Whether you're recovering from surgery, dealing with chronic pain, or seeking mobility support for a loved one, our experienced physiotherapists in JP Nagar are here to provide evidence-based treatment tailored just for you.
 
 JP Nagar, short for Jayaprakash Narayan Nagar, is one of Bangalore's most popular residential localities, known for its mix of peaceful neighborhoods, senior citizens, working professionals, and active community spaces. With its proximity to places like Banashankari, Jayanagar, BTM Layout, and Bannerghatta Road, **JP Nagar is home to individuals who prioritize high-quality healthcare without the inconvenience of stepping out.**
 
@@ -44,37 +44,37 @@ We offer a wide range of **home physiotherapy services in JP Nagar** designed to
 
 Recovering from surgery? We help restore movement and strength post knee replacement, spine surgery, ligament repair, or fractures.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Back & Neck Pain Physiotherapy
 
 Our expert therapists combine manual therapy, stretching, and ergonomic correction to provide relief for chronic back pain, neck stiffness, and posture-related issues.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Stroke & Neurological Rehabilitation
 
 Our therapists help patients with stroke, Parkinson's, multiple sclerosis, and neuropathies through targeted rehabilitation and neuro-motor training.
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Therapy
 
 Whether you're a weekend cricketer at the JP Nagar ground, a runner, or a gym-goer, we treat common injuries like sprains, strains, tennis elbow, and ligament tears.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Elderly & Geriatric Physiotherapy
 
 We help senior citizens to improve mobility, manage pain, prevent falls, and lead a more active life in the safety of their homes.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Our pediatric physiotherapists work with young patients and parents to deliver fun, goal-oriented treatment that supports physical development.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

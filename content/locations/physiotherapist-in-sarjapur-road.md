@@ -40,37 +40,37 @@ Physio At Your Doorstep offers a comprehensive range of physiotherapy services t
 
 Guided recovery after operations with physiotherapy at home. If you've had orthopedic surgeries (like knee replacement, hip replacement, etc), our therapists will help you regain strength, joint movement, and function.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for bones, joints, and muscle conditions. We help with back pain, neck pain, knee and shoulder injuries, arthritis, sprains, and fracture rehabilitation.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease, multiple sclerosis, neuropathies, and paralysis
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. We treat sports injuries such as ligament tears, muscle strains, tennis elbow, runner's knee, and shoulder injuries.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults. We help senior citizens on Sarjapur Road with age-related issues like arthritis pain management, osteoporosis care, balance and gait training, and post-stroke rehabilitation
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy care for infants, children, and teenagers. Our physios treat developmental delays, cerebral palsy, muscular dystrophy, pediatric injuries, and other childhood conditions.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How Home Physiotherapy Works
 

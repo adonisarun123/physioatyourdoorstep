@@ -20,25 +20,17 @@ Varthur is a fast-evolving residential and commercial suburb in East Bangalore, 
 
 Choosing home physiotherapy in Varthur comes with several key benefits for your health, convenience, and peace of mind:
 
-                                            **
-
 ### Convenience & Time-Saving at Your Doorstep
 
-            The Marathahalli–Varthur–Whitefield corridor is frequently congested, and bottlenecks around junctions/underpasses can turn short distances into long travel times. Home visits remove this friction completely—particularly valuable for people in pain, post-surgery patients, or busy professionals returning from Whitefield/ITPL shifts
-
-                                            **
+The Marathahalli–Varthur–Whitefield corridor is frequently congested, and bottlenecks around junctions/underpasses can turn short distances into long travel times. Home visits remove this friction completely—particularly valuable for people in pain, post-surgery patients, or busy professionals returning from Whitefield/ITPL shifts
 
 ### Personalized One-on-One Attention
 
-            Physical therapy fundamentally relies on correct assessment, exercise selection, progression, and feedback. Cleveland Clinic describes physiotherapy as a combination of exercises, stretches, and movements that improve strength, flexibility, and mobility so you can move more safely and confidently.
-
-                                            **
+Physical therapy fundamentally relies on correct assessment, exercise selection, progression, and feedback. Cleveland Clinic describes physiotherapy as a combination of exercises, stretches, and movements that improve strength, flexibility, and mobility so you can move more safely and confidently.
 
 ### Safe, Hygienic & Comfortable Care
 
 Seniors and post-operative patients benefit from reduced exposure to crowded clinics and reduced fall-risk from travel. Several home-care physiotherapy providers explicitly highlight geriatrics-trained therapists who address balance, arthritis pain, strength, and fall prevention within the home setting.
-
-                                            **
 
 ### Faster Recovery at Home
 
@@ -46,44 +38,44 @@ Evidence from rehabilitation research suggests that home-based rehabilitation ca
 
 ## Home physiotherapy services offered in Varthur
 
-        **Physio At Your Doorstep**
+**Physio At Your Doorstep**
  offers a comprehensive range of physiotherapy services at home to address various health conditions. Our Varthur physiotherapists are experienced in multiple specialties, including
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
-            Post-operative rehab is one of the most common reasons patients need physiotherapy services. In the Varthur–Whitefield belt, many patients undergo orthopedic procedures and prefer recovery at home to avoid repeated travel with pain, stitches, braces, or walkers.
+Post-operative rehab is one of the most common reasons patients need physiotherapy services. In the Varthur–Whitefield belt, many patients undergo orthopedic procedures and prefer recovery at home to avoid repeated travel with pain, stitches, braces, or walkers.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
-            Orthopedic physiotherapy in Varthur often overlaps with tech-lifestyle problems: chronic neck stiffness, shoulder pain, and low-back pain from long working hours or long commutes. Physical therapy is designed to improve mobility and function and reduce symptoms that affect how you move.
+Orthopedic physiotherapy in Varthur often overlaps with tech-lifestyle problems: chronic neck stiffness, shoulder pain, and low-back pain from long working hours or long commutes. Physical therapy is designed to improve mobility and function and reduce symptoms that affect how you move.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
-            Neuro physiotherapy supports patients with stroke recovery, Parkinson’s, neuropathy, and other neurological movement disorders. While your exact hospital pathway may vary, the home-based advantage is consistent: training happens in the same environment where you need independence.
+Neuro physiotherapy supports patients with stroke recovery, Parkinson’s, neuropathy, and other neurological movement disorders. While your exact hospital pathway may vary, the home-based advantage is consistent: training happens in the same environment where you need independence.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
 Varthur residents frequently train in gyms, apartment clubhouses, and nearby sports centers in the Whitefield belt. Sports physiotherapy focuses on restoring mobility, strength, and movement patterns so you can return to activity safely.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
-            For seniors, home physiotherapy is often the safest and most realistic format because it reduces travel stress while enabling direct fall-prevention training in the real home layout. Providers of home physiotherapy services explicitly note geriatric-trained therapists addressing balance, strength, arthritis, and fall prevention in home settings
+For seniors, home physiotherapy is often the safest and most realistic format because it reduces travel stress while enabling direct fall-prevention training in the real home layout. Providers of home physiotherapy services explicitly note geriatric-trained therapists addressing balance, strength, arthritis, and fall prevention in home settings
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
-            Pediatric physiotherapy at home supports developmental delays, coordination challenges, and injury recovery in children. Home delivery is particularly useful because kids tend to cooperate better in familiar spaces, and parents can learn how to continue exercises safely between sessions.
+Pediatric physiotherapy at home supports developmental delays, coordination challenges, and injury recovery in children. Home delivery is particularly useful because kids tend to cooperate better in familiar spaces, and parents can learn how to continue exercises safely between sessions.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -91,61 +83,53 @@ Varthur residents frequently train in gyms, apartment clubhouses, and nearby spo
 
 Getting started with at-home physiotherapy in Varthur is simple:
 
-                                            **
-
 ### Book a Consultation
 
 You contact us via phone/WhatsApp or online booking and share your primary issue (e.g., back pain, post-op rehab, stroke recovery). We schedule your visit at your preferred time—often evenings or weekends for IT professionals.
 
-                                            **
-
 ### Assessment & Appointment
 
-            The first appointment typically includes history review, movement testing, strength/range checks, and functional screening. Many home-care physiotherapy frameworks describe the initial evaluation as the foundation for building an appropriate plan.
-
-                                            **
+The first appointment typically includes history review, movement testing, strength/range checks, and functional screening. Many home-care physiotherapy frameworks describe the initial evaluation as the foundation for building an appropriate plan.
 
 ### Treatment & Recovery
 
-            Your therapist creates a structured plan: pain relief + mobility goals + strengthening progression + home exercise program. Physical therapy is fundamentally a program of exercises, stretches, and movement training designed to improve safe function.
-
-                                            **
+Your therapist creates a structured plan: pain relief + mobility goals + strengthening progression + home exercise program. Physical therapy is fundamentally a program of exercises, stretches, and movement training designed to improve safe function.
 
 ### Ongoing Support
 
-            Each session updates your progression, adjusts exercise difficulty, and tracks outcomes (pain score trends, ROM improvements, walking tolerance, strength milestones). In evidence-based rehab contexts, home-based rehabilitation can achieve outcomes comparable to outpatient rehab for certain orthopedic recoveries—supporting the discipline of structured home programs.
+Each session updates your progression, adjusts exercise difficulty, and tracks outcomes (pain score trends, ROM improvements, walking tolerance, strength milestones). In evidence-based rehab contexts, home-based rehabilitation can achieve outcomes comparable to outpatient rehab for certain orthopedic recoveries—supporting the discipline of structured home programs.
 
 ## Patient Testimonials & Success Stories
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage areas and nearby localities served
 
@@ -169,21 +153,17 @@ Commercial zones and work hubs served include the Whitefield tech belt and adjac
 
 ## Book a Physiotherapy Session Today
 
-        If you want clinic-quality physiotherapy without traffic, waiting rooms, or travel pain, book a home visit in Varthur today. 
+If you want clinic-quality physiotherapy without traffic, waiting rooms, or travel pain, book a home visit in Varthur today. 
 
 #### Info
 
-                                                                **
-
 +91 82337 87737
-
-                                                                **
 
 physioatyourdoorstep24x7@gmail.com
 
 #### Address
 
-        Sector 3, HSR Layout, Bangalore, 560102
+Sector 3, HSR Layout, Bangalore, 560102
 
 Your Name
 
@@ -203,13 +183,13 @@ Message
 
 ### Frequently Asked Question
 
-                [Is home physiotherapy in Varthur as effective as clinic-based therapy?](#acc-314s010-0)
+[Is home physiotherapy in Varthur as effective as clinic-based therapy?](#acc-314s010-0)
 
-        For many conditions, yes—when the program is structured correctly and supervised by qualified physiotherapists. Research evidence in orthopedic rehab contexts (e.g., knee arthroplasty) indicates home-based rehabilitation can be comparable to outpatient rehab in knee function outcomes. The practical advantage in Varthur is that reduced travel friction often improves consistency, which is a major driver of results.
+For many conditions, yes—when the program is structured correctly and supervised by qualified physiotherapists. Research evidence in orthopedic rehab contexts (e.g., knee arthroplasty) indicates home-based rehabilitation can be comparable to outpatient rehab in knee function outcomes. The practical advantage in Varthur is that reduced travel friction often improves consistency, which is a major driver of results.
 
-                [How long is each session?](#acc-314s010-1)
+[How long is each session?](#acc-314s010-1)
 
-        Most in-home physiotherapy sessions commonly last 45–60 minutes**
+Most in-home physiotherapy sessions commonly last 45–60 minutes**
 . Your first session can take longer if assessment complexity is higher.
 
 - [What is the cost of home physiotherapy in Varthur?](#acc-314s010-2) Typical Bangalore home physiotherapy pricing commonly falls around **₹500–₹800 per session** for many general cases, depending on condition complexity and session duration. We confirm exact pricing upfront at booking

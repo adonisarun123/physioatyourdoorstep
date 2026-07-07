@@ -13,7 +13,7 @@ When dealing with bone, joint, or muscle issues, two major medical fields often 
 
 Orthopaedics is a **medical specialty that diagnoses, treats, and prevents disorders of the bones, joints, ligaments, tendons, and muscles**. Orthopaedic doctors often use surgical and non-surgical methods to address musculoskeletal issues.
 
-On the other hand, [physiotherapy](https://physioatyourdoorstep.com/) is a **non-invasive treatment approach that focuses on restoring movement, improving function, and reducing pain through exercises, manual therapy, and rehabilitation techniques**.
+On the other hand, [physiotherapy](/) is a **non-invasive treatment approach that focuses on restoring movement, improving function, and reducing pain through exercises, manual therapy, and rehabilitation techniques**.
 
 Understanding the **difference between orthopaedic and physiotherapy** is crucial for making informed healthcare decisions. In this blog, we will explore their key differences, treatment methods, and when to seek each specialist.
 
@@ -141,7 +141,7 @@ Physiotherapy is recommended for:
 
 ### How Orthopaedics and Physiotherapy Work Together
 
-In many cases, **[orthopaedics and physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) go hand in hand**. For example:
+In many cases, **[orthopaedics and physiotherapy](/service/orthopaedic-physiotherapy) go hand in hand**. For example:
 
 - **After joint replacement surgery**, physiotherapy helps restore movement.
 - **For fractures**, orthopaedic surgeons treat the injury, while physiotherapists help regain mobility.
@@ -153,7 +153,7 @@ Like any medical treatment, orthopaedics has its advantages and limitations.
 
 #### Pros of Orthopaedic Treatment:
 
-✅ **Effective for severe injuries:** Orthopaedic [surgeons](https://physioatyourdoorstep.com/about-us/) can treat complex fractures, dislocations, and joint deformities.
+✅ **Effective for severe injuries:** Orthopaedic [surgeons](/about-us) can treat complex fractures, dislocations, and joint deformities.
 ✅ **Permanent solutions:** Surgeries like joint replacements or spinal corrections provide long-term relief.
 ✅ **Advanced medical technology:** Procedures like robotic surgery, arthroscopy, and minimally invasive surgery improve outcomes.
 ✅ **Immediate pain relief:** Medications, injections, and surgical interventions can quickly alleviate severe pain.

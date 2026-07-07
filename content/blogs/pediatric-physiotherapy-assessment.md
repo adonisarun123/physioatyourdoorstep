@@ -33,7 +33,7 @@ Parents often wonder when it’s appropriate to seek a pediatric physiotherapy a
 
 **Sports Injuries or Musculoskeletal Pain**: Active children experiencing sports-related injuries, joint pain, or muscle weakness benefit from professional assessment to prevent long-term complications.
 
-For specialized [Pediatric Physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) services at your doorstep in Bangalore, experienced physiotherapists can conduct thorough assessments in the comfort of your home, reducing stress for both parent and child.
+For specialized [Pediatric Physiotherapy](/service/pediatric-physiotherapy) services at your doorstep in Bangalore, experienced physiotherapists can conduct thorough assessments in the comfort of your home, reducing stress for both parent and child.
 
 ## Components of a Comprehensive Pediatric Physiotherapy Assessment
 
@@ -69,7 +69,7 @@ Following the interview, the physiotherapist conducts a hands-on physical examin
 
 **Sensory Examination**: Testing touch sensation, proprioception (body position awareness), and vestibular function (balance and spatial orientation) helps identify sensory processing issues that affect motor performance.
 
-For children requiring [Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/), specialized neurological examination techniques assess cranial nerve function, coordination, and motor planning abilities.
+For children requiring [Neurological Physiotherapy](/service/neurological-physiotherapy), specialized neurological examination techniques assess cranial nerve function, coordination, and motor planning abilities.
 
 ### Movement Analysis and Functional Assessment
 
@@ -85,7 +85,7 @@ Observing how your child moves during functional activities provides crucial inf
 
 **Functional Mobility**: Assessment of how children move through their daily environment includes transfers (moving from sitting to standing), stair negotiation, floor mobility, and use of assistive devices if applicable.
 
-Children recovering from surgery may benefit from specialized [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) that focuses on restoring optimal movement patterns and preventing compensatory habits.
+Children recovering from surgery may benefit from specialized [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) that focuses on restoring optimal movement patterns and preventing compensatory habits.
 
 ## Standardized Assessment Tools and Outcome Measures
 
@@ -161,7 +161,7 @@ For children with orthopedic conditions or sports injuries:
 
 **Strength and Flexibility Testing**: Quantifying strength deficits and flexibility limitations provides baseline data and measurable outcomes for rehabilitation programs.
 
-Active children often benefit from [Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) that focuses on injury prevention, performance optimization, and safe return to sport.
+Active children often benefit from [Sports Physiotherapy](/service/sports-physiotherapy) that focuses on injury prevention, performance optimization, and safe return to sport.
 
 ## The Assessment Process: What to Expect
 
@@ -177,7 +177,7 @@ Older children and adolescents participate more directly in structured testing p
 
 ### Creating a Comfortable Environment
 
-Home-based assessments, like those provided by [Physio at Your Doorstep](https://physioatyourdoorstep.com/), offer significant advantages for pediatric evaluations. Children feel more relaxed in familiar surroundings, display more typical behavior patterns, and parents can more easily demonstrate daily routines and challenges.
+Home-based assessments, like those provided by [Physio at Your Doorstep](/), offer significant advantages for pediatric evaluations. Children feel more relaxed in familiar surroundings, display more typical behavior patterns, and parents can more easily demonstrate daily routines and challenges.
 
 The physiotherapist brings any necessary equipment and adapts the assessment to the available space. Home assessment also allows the therapist to observe the actual environment where the child lives and plays, providing realistic insights for practical recommendations.
 
@@ -234,7 +234,7 @@ Based on assessment findings, your physiotherapist creates a customized interven
 
 **Parent Education and Training**: Teaching parents and caregivers handling techniques, positioning strategies, and ways to facilitate development during daily activities.
 
-Many families appreciate the convenience of [Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) at home for children recovering from fractures, surgeries, or dealing with musculoskeletal conditions.
+Many families appreciate the convenience of [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) at home for children recovering from fractures, surgeries, or dealing with musculoskeletal conditions.
 
 ### Ongoing Monitoring and Reassessment
 
@@ -328,7 +328,7 @@ Home-based physiotherapy assessment offers unique advantages for families:
 
 **Flexible Scheduling**: Home-based services often offer more scheduling flexibility, accommodating family routines and reducing missed therapy sessions due to scheduling conflicts.
 
-For comprehensive [Geriatric Physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) alongside pediatric care when grandparents live with the family, home visits efficiently address multiple generations’ needs.
+For comprehensive [Geriatric Physiotherapy](/service/geriatric-physiotherapy) alongside pediatric care when grandparents live with the family, home visits efficiently address multiple generations’ needs.
 
 ## Cost Considerations and Insurance Coverage
 
@@ -370,7 +370,7 @@ For families in Bangalore seeking convenient, high-quality pediatric physiothera
 
 Don’t wait if you have concerns about your child’s development. Early identification and intervention offer the best opportunity for optimal outcomes. Contact a qualified pediatric physiotherapist today to schedule an assessment and take the first step toward supporting your child’s physical potential.
 
-For comprehensive pediatric physiotherapy assessment at your doorstep in Bangalore, [contact Physio at Your Doorstep](https://physioatyourdoorstep.com/contact-us/) to schedule a consultation with experienced pediatric specialists who understand your child’s unique needs.
+For comprehensive pediatric physiotherapy assessment at your doorstep in Bangalore, [contact Physio at Your Doorstep](/contact-us) to schedule a consultation with experienced pediatric specialists who understand your child’s unique needs.
 
 ## Additional Resources
 

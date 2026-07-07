@@ -40,37 +40,37 @@ Physio At Your Doorstep offers a comprehensive range of physiotherapy services a
 
 Guided recovery at home after surgeries with specialized physiotherapy. If you've had orthopedic operations like a knee replacement, hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, restore joint mobility, and improve function right in your Arekere home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for bone, joint, and muscle issues. We provide relief for common problems such as back pain, neck pain, frozen shoulder, knee injuries, arthritis, sprains, and fracture rehabilitation. Our orthopedic physiotherapy helps correct posture and alleviate those aches
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve, spine, and brain-related conditions. We offer home therapy for stroke recovery, Parkinson's disease, multiple sclerosis, neuropathies, and paralysis rehabilitation. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility, balance, and daily function
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy jogging and playing sports on weekends, we can treat sports injuries like ligament tears, muscle strains, tennis elbow, runner's knee, and more. We come equipped with therapy tools to manage your injury on-site and help you safely return to your activities.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults. We help senior citizens in Arekere with age-related issues like chronic knee and back pain, osteoarthritis, joint stiffness, and post-stroke rehabilitation. Our gentle, elder-friendly physiotherapy improves mobility, balance, and confidence for seniors so they can stay independent and active.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative throughout the session.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

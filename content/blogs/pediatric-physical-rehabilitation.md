@@ -7,7 +7,7 @@ metaDescription: "Learn how pediatric physical rehabilitation helps children imp
 excerpt: "Pediatric physical rehabilitation is essential for children with developmental delays, injuries, or medical conditions affecting movement. It helps them build strength, improve coordination, and enhance their overall quality of life."
 category: "Pediatric Physiotherapy"
 ---
-Pediatric physical rehabilitation is essential for children with developmental delays, injuries, or medical conditions affecting movement. It helps them build strength, improve coordination, and enhance their overall quality of life. You might have several questions if your child has been recommended for physical therapy. This guide covers everything parents need to know about [pediatric rehabilitation](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/), from its benefits to how to choose the right therapist.
+Pediatric physical rehabilitation is essential for children with developmental delays, injuries, or medical conditions affecting movement. It helps them build strength, improve coordination, and enhance their overall quality of life. You might have several questions if your child has been recommended for physical therapy. This guide covers everything parents need to know about [pediatric rehabilitation](/service/pediatric-physiotherapy), from its benefits to how to choose the right therapist.
 
 ### What is Pediatric Physical Rehabilitation?
 
@@ -19,7 +19,7 @@ Unlike adult rehabilitation, pediatric therapy is tailored to a child's growing 
 
 #### Differences Between Pediatric and Adult Rehabilitation
 
-While both focus on improving mobility, pediatric rehabilitation differs significantly from [adult therapy](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/):
+While both focus on improving mobility, pediatric rehabilitation differs significantly from [adult therapy](/service/online-physiotherapy-consultation-india):
 
 - **Play-Based Therapy:** Children learn best through play, so therapists incorporate games, toys, and fun activities.
 - **Growth Considerations:** Children's bones, muscles, and nervous systems still develop, requiring specialized techniques.

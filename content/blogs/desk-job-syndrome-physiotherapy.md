@@ -259,7 +259,7 @@ For busy professionals struggling with desk job syndrome, at-home physiotherapy 
 
 **Time Efficiency**: No travel time means you can fit physiotherapy into even the busiest schedules.
 
-Services like [Physio at Your Doorstep](https://physioatyourdoorstep.com/) specialize in bringing professional physiotherapy care directly to your home across Bangalore, making it easier than ever to prioritize your musculoskeletal health.
+Services like [Physio at Your Doorstep](/) specialize in bringing professional physiotherapy care directly to your home across Bangalore, making it easier than ever to prioritize your musculoskeletal health.
 
 ## Preventing Desk Job Syndrome: Long-Term Strategies
 
@@ -364,7 +364,7 @@ The key to success lies in commitment to your treatment program, implementing er
 
 Taking the first step toward relief is simple:
 
-1. **Schedule an Assessment**: Contact a qualified physiotherapist for a comprehensive evaluation. Services like [orthopedic physiotherapy](https://physioatyourdoorstep.com/) specialize in musculoskeletal conditions like desk job syndrome.
+1. **Schedule an Assessment**: Contact a qualified physiotherapist for a comprehensive evaluation. Services like [orthopedic physiotherapy](/) specialize in musculoskeletal conditions like desk job syndrome.
 2. **Implement Immediate Changes**: While awaiting your appointment, begin implementing basic ergonomic improvements and performing simple stretches.
 3. **Commit to the Process**: Understand that reversing months or years of postural dysfunction takes time. Consistency is crucial for lasting results.
 4. **Track Your Progress**: Keep a symptom diary to monitor improvements and identify patterns.

@@ -33,7 +33,7 @@ Neurological rehabilitation benefits individuals with various conditions, includ
 - **Post-surgical neurological patients** recovering from brain or spinal cord operations
 
 Understanding your condition is the first step toward effective rehabilitation. Our team at Physio At Your Doorstep provides
-[specialized neurological physiotherapy services](https://physioatyourdoorstep.com/)
+[specialized neurological physiotherapy services](/)
  tailored to your specific diagnosis and recovery goals.
 
 ## Major Types of Neurological Rehabilitation
@@ -67,7 +67,7 @@ Balance impairments significantly increase fall risk and limit independence. Spe
 This technique focuses on retraining your nervous system to control muscles effectively. Through repetitive, task-specific movements, neuromuscular re-education capitalizes on neuroplasticity—your brain’s ability to reorganize and form new neural connections. The more you practice functional movements, the stronger these neural pathways become.
 
 For comprehensive care that comes to you, explore our
-[home physiotherapy services in Jayanagar](https://physioatyourdoorstep.com/home-physiotherapist-in-jayanagar/)
+[home physiotherapy services in Jayanagar](/home-physiotherapist-in-jayanagar)
  and surrounding areas.
 
 ### 2. Occupational Therapy and Functional Training
@@ -157,7 +157,7 @@ Executive functions encompass planning, organization, decision-making, and probl
 Living with a neurological condition often brings psychological challenges, including depression, anxiety, grief, and adjustment difficulties. Neuropsychological counseling provides a supportive environment to address emotional well-being alongside cognitive recovery.
 
 Similar to how we approach emotional well-being in our
-[geriatric physiotherapy programs](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/)
+[geriatric physiotherapy programs](/geriatric-physiotherapy-for-arthritis)
 , neurological rehabilitation must consider the whole person, not just isolated symptoms.
 
 ### 5. Advanced Technology-Based Rehabilitation
@@ -195,7 +195,7 @@ FES delivers small electrical currents to paralyzed or weakened muscles, causing
 Non-invasive brain stimulation methods, including transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS), modulate brain activity to enhance motor and cognitive recovery. These techniques show promise when combined with traditional therapy approaches.
 
 Learn more about how we incorporate
-[modern technology in physiotherapy](https://physioatyourdoorstep.com/latest-technology-in-physiotherapy/)
+[modern technology in physiotherapy](/latest-technology-in-physiotherapy)
  to optimize your recovery outcomes.
 
 ### 6. Constraint-Induced Movement Therapy (CIMT)
@@ -284,7 +284,7 @@ Spasticity—velocity-dependent muscle stiffness—commonly occurs after upper m
 Effective spasticity management is essential for optimizing function and preventing complications.
 
 Just as we address muscle tone issues in our
-[pediatric physical rehabilitation programs](https://physioatyourdoorstep.com/pediatric-physical-rehabilitation/)
+[pediatric physical rehabilitation programs](/pediatric-physical-rehabilitation)
 , spasticity management requires individualized, multifaceted approaches.
 
 ## Inpatient vs. Outpatient Neurological Rehabilitation
@@ -329,7 +329,7 @@ Home-based rehabilitation brings therapy directly to your residence, combining t
 - **Contextual learning** : Practicing functional tasks in your actual living environment
 
 Our
-[home physiotherapy services](https://physioatyourdoorstep.com/)
+[home physiotherapy services](/)
  ensure you receive expert neurological rehabilitation without leaving your home, making recovery more accessible and effective.
 
 ## The Multidisciplinary Rehabilitation Team
@@ -642,7 +642,7 @@ At Physio At Your Doorstep, we’re committed to bringing expert neurological re
 Recovery is rarely linear—expect setbacks, plateaus, and challenges alongside progress and achievements. With persistence, appropriate professional support, family involvement, and evidence-based interventions, you can work toward regaining independence, improving quality of life, and achieving your rehabilitation goals.
 
 Don’t let neurological challenges define your future. Take the first step toward recovery by
-[booking an appointment](https://physioatyourdoorstep.com/booking/)
+[booking an appointment](/booking)
  with our expert physiotherapy team today. Whether you’re in JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, or anywhere else in Bangalore, professional neurological rehabilitation support is just a call away.
 
 Your journey toward recovery and independence begins now—and we’re here to support you every step of the way.
@@ -651,17 +651,17 @@ Your journey toward recovery and independence begins now—and we’re here to s
 
 For more information about specialized physiotherapy services we offer:
 
-- **Orthopedic Rehabilitation** : Learn about our [comprehensive orthopedic physiotherapy approaches](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/) for joint and muscle conditions
-- **Pediatric Care** : Discover our [pediatric physical rehabilitation services](https://physioatyourdoorstep.com/pediatric-physical-rehabilitation/) for children with developmental or neurological challenges
-- **Advanced Technology** : Explore how we incorporate [cutting-edge technology in physiotherapy](https://physioatyourdoorstep.com/latest-technology-in-physiotherapy/) to enhance your recovery
-- **Sports Rehabilitation** : Access specialized [sports physiotherapy](https://physioatyourdoorstep.com/taping/) techniques for athletic injuries and performance optimization
+- **Orthopedic Rehabilitation** : Learn about our [comprehensive orthopedic physiotherapy approaches](/geriatric-physiotherapy-for-arthritis) for joint and muscle conditions
+- **Pediatric Care** : Discover our [pediatric physical rehabilitation services](/pediatric-physical-rehabilitation) for children with developmental or neurological challenges
+- **Advanced Technology** : Explore how we incorporate [cutting-edge technology in physiotherapy](/latest-technology-in-physiotherapy) to enhance your recovery
+- **Sports Rehabilitation** : Access specialized [sports physiotherapy](/taping) techniques for athletic injuries and performance optimization
 
 ### Contact Information
 
 **Physio At Your Doorstep**
  Founded by Dr. Atharva Mishra Serving all areas across Bangalore
 
-[Contact us today](https://physioatyourdoorstep.com/contact-us/)
+[Contact us today](/contact-us)
  to discuss your neurological rehabilitation needs and schedule your first home visit. Your recovery is our priority.
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult with qualified healthcare professionals regarding your specific condition and treatment options. Individual results may vary based on multiple factors including the severity of condition, adherence to treatment, and overall health status.*

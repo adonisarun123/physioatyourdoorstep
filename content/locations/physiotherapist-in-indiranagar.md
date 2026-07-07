@@ -40,37 +40,37 @@ Physio At Your Doorstep offers a **comprehensive range of physiotherapy services
 
 Guided recovery after operations with physiotherapy at home. If you've had orthopedic surgeries (like a knee replacement, hip replacement, ACL reconstruction, etc.), our therapists will help you regain strength, joint movement, and function right in your Indiranagar home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for bones, joints, and muscle conditions. We help with common issues like back pain, neck pain, frozen shoulder, knee injuries, arthritis, sprains, and fracture rehabilitation. Indiranagar's working professionals often suffer posture-related pains
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease management, multiple sclerosis, neuropathies, and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or a weekend cricket player at Indiranagar's local sports clubs, we treat sports injuries such as ligament tears, muscle strains, tennis elbow, runner's knee, and more.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults. We help senior citizens in Indiranagar with age-related issues like knee and back pain, osteoarthritis, joint stiffness, and post-stroke rehabilitation. Our gentle, **elderly-friendly physiotherapy** focuses on improving mobility, balance, and confidence.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy care for infants, children, and teenagers at home. Our child-friendly physiotherapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, and pediatric injuries.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

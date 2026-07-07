@@ -75,7 +75,7 @@ Standardized tools such as the Numerical Pain Rating Scale (NPRS), the Disabilit
 
 ## Physiotherapy for Wrist Drop: A Comprehensive Approach
 
-Physiotherapy is the cornerstone of non-surgical management for wrist drop and radial nerve palsy. A structured rehabilitation program focuses on preventing secondary complications, restoring nerve and muscle function, and helping you return to daily activities. Our [Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) team at Physio at Your Doorstep follows an evidence-based protocol tailored to the stage and severity of each individual case.
+Physiotherapy is the cornerstone of non-surgical management for wrist drop and radial nerve palsy. A structured rehabilitation program focuses on preventing secondary complications, restoring nerve and muscle function, and helping you return to daily activities. Our [Neurological Physiotherapy](/service/neurological-physiotherapy) team at Physio at Your Doorstep follows an evidence-based protocol tailored to the stage and severity of each individual case.
 
 ### 1. Splinting and Orthotics
 
@@ -145,13 +145,13 @@ Most cases of wrist drop from radial nerve palsy resolve with conservative manag
 - **Nerve transfer**: A nearby functioning nerve is redirected to restore function.
 - **Tendon transfer**: For irreversible nerve damage, tendons from functioning muscles are repositioned to replicate wrist and finger extension. The modified Merle D’Aubigne tendon transfer is a recognized procedure for restoring wrist and finger movement in cases where the radial nerve cannot regenerate.
 
-Following any surgical intervention, physiotherapy is essential to optimize outcomes. Our [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) program is designed to help patients regain function safely and progressively after such procedures.
+Following any surgical intervention, physiotherapy is essential to optimize outcomes. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) program is designed to help patients regain function safely and progressively after such procedures.
 
 ## The Role of Home-Based Physiotherapy in Wrist Drop Recovery
 
 For many patients, travelling to a clinic multiple times a week is not practical, especially in the early stages of recovery when the arm is still healing. Home-based physiotherapy removes this barrier and brings expert care directly to you.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our qualified physiotherapists travel across Bangalore to provide one-on-one sessions at home. This means your therapist can assess your daily environment, help adapt activities to your current level of function, and ensure your exercise program is consistently monitored and progressed. For patients with wrist drop, this continuity is particularly important because nerve recovery is slow and demands regular expert oversight. If you prefer not to travel, we also offer [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) for remote assessments and exercise guidance.
+At [Physio at Your Doorstep](/), our qualified physiotherapists travel across Bangalore to provide one-on-one sessions at home. This means your therapist can assess your daily environment, help adapt activities to your current level of function, and ensure your exercise program is consistently monitored and progressed. For patients with wrist drop, this continuity is particularly important because nerve recovery is slow and demands regular expert oversight. If you prefer not to travel, we also offer [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) for remote assessments and exercise guidance.
 
 ## Recovery Timeline: What to Realistically Expect
 
@@ -176,10 +176,10 @@ While recovery progresses, there are several practical strategies to make daily 
 ## Resources and Further Reading
 
 1. National Institutes of Health (NIH) – Integrated Physical Therapy in Radial Palsy Case Report: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11055539/>
-2. Neurological Physiotherapy Services at Physio at Your Doorstep: <https://physioatyourdoorstep.com/service/neurological-physiotherapy/>
-3. Post Surgical Physiotherapy at Physio at Your Doorstep: <https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/>
-4. Orthopaedic Physiotherapy at Physio at Your Doorstep: <https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/>
-5. Neurological Physiotherapy Tests Blog: <https://physioatyourdoorstep.com/neurological-physiotherapy-tests/>
+2. Neurological Physiotherapy Services at Physio at Your Doorstep: </service/neurological-physiotherapy/>
+3. Post Surgical Physiotherapy at Physio at Your Doorstep: </service/post-surgical-physiotherapy/>
+4. Orthopaedic Physiotherapy at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>
+5. Neurological Physiotherapy Tests Blog: </neurological-physiotherapy-tests/>
 
 ## Frequently Asked Questions (FAQ)
 
@@ -209,10 +209,10 @@ Yes. Post-surgical physiotherapy is essential for patients who have had nerve re
 
 ### When should I see a doctor or physiotherapist for wrist drop?
 
-You should seek assessment promptly if you notice a sudden inability to lift your wrist or extend your fingers, especially after an injury, a period of prolonged pressure on the arm, or alongside other neurological symptoms. Early diagnosis allows treatment to begin before secondary complications such as contractures or muscle wasting develop. If you are in Bangalore, you can [book a home physiotherapy appointment](https://physioatyourdoorstep.com/booking/) with Physio at Your Doorstep and have a qualified physiotherapist assess and begin treatment right at your home.
+You should seek assessment promptly if you notice a sudden inability to lift your wrist or extend your fingers, especially after an injury, a period of prolonged pressure on the arm, or alongside other neurological symptoms. Early diagnosis allows treatment to begin before secondary complications such as contractures or muscle wasting develop. If you are in Bangalore, you can [book a home physiotherapy appointment](/booking) with Physio at Your Doorstep and have a qualified physiotherapist assess and begin treatment right at your home.
 
 ### Is wrist drop painful?
 
 Wrist drop itself is not always painful, but the underlying nerve injury frequently causes discomfort. Patients often describe burning, aching, or sharp pain along the course of the radial nerve, as well as uncomfortable tingling or numbness on the back of the hand and thumb. Pain management is an integral part of physiotherapy and is addressed through electrotherapy, manual therapy, and positioning strategies.
 
-Ready to start your recovery? Our experienced physiotherapy team at [Physio at Your Doorstep](https://physioatyourdoorstep.com/) brings specialized neurological and orthopaedic physiotherapy directly to your home across Bangalore. Contact us at +91 82337 87737 or [book an appointment online](https://physioatyourdoorstep.com/booking/).
+Ready to start your recovery? Our experienced physiotherapy team at [Physio at Your Doorstep](/) brings specialized neurological and orthopaedic physiotherapy directly to your home across Bangalore. Contact us at +91 82337 87737 or [book an appointment online](/booking).

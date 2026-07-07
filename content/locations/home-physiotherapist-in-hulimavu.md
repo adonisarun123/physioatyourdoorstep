@@ -40,37 +40,37 @@ We provide a comprehensive range of physiotherapy services in Hulimavu, all deli
 
 Personalized rehab programs to help you regain strength and mobility after operations. Whether you've had a knee replacement, hip surgery, or back surgery at a nearby hospital, our physiotherapists will guide you through safe exercises and pain management techniques at home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for musculoskeletal issues such as **back pain**, **neck pain**, **joint injuries**, and **arthritis**. Our orthopedic physiotherapist will design exercises and therapies to reduce pain, improve joint function, and strengthen muscles – all done right at your residence.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Specialized care for conditions affecting the nervous system. We provide home physiotherapy for **stroke rehabilitation**, **Parkinson's disease**, neuropathies, spinal cord injuries, and more. The therapist uses techniques to improve muscle control, balance, and coordination
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 For athletes and active individuals in Hulimavu, we offer rehab for sports-related injuries and accidents. Whether it's a **ligament tear**, **muscle strain**, **tennis elbow**, or post-fracture rehab, our physiotherapist will help you recover and get back to your sport.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Elderly patients often face challenges like **knee pain**, **osteoarthritis**, balance issues, or general weakness. Our geriatric physiotherapy at home is tailored for seniors, focusing on gentle exercises, improving balance, enhancing mobility, and reducing pain.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 We also provide physiotherapy for children who need it – for example, kids with **developmental delays**, **cerebral palsy**, or those recovering from injuries. Our pediatric physiotherapist engages children with friendly, fun exercise routines right at home, where they feel most secure.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works – Our Home Physio Process
 

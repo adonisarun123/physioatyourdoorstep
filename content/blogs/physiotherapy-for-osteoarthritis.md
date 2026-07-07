@@ -262,7 +262,7 @@ Think of physiotherapy as disease management rather than cure—it helps you liv
 
 ## When Should You Consider Physiotherapy at Home?
 
-[Home physiotherapy services in Bangalore](https://physioatyourdoorstep.com/)
+[Home physiotherapy services in Bangalore](/)
  offer exceptional convenience and benefits for osteoarthritis patients. Consider home-based treatment if you:
 
 - Have limited mobility or difficulty traveling to clinics
@@ -342,7 +342,7 @@ Your physiotherapist can:
 - Recommend appropriate activity levels based on your current fitness
 - Provide guidance on safe progression as weight decreases
 - Refer you to nutritionists or dietitians for comprehensive weight management support
-[Orthopedic physiotherapy specialists](https://physioatyourdoorstep.com/orthopedic-physiotherapy/)
+[Orthopedic physiotherapy specialists](/service/orthopaedic-physiotherapy)
  understand the complex relationship between weight, joint mechanics, and osteoarthritis symptoms, creating integrated treatment plans.
 
 ## What Is the Role of Physiotherapy Before and After Joint Surgery?
@@ -376,7 +376,7 @@ After joint replacement surgery, physiotherapy is essential for:
 - Improving balance and coordination
 - Returning to functional activities safely
 - Preventing complications like blood clots or stiffness
-[Physiotherapy for knee surgery](https://physioatyourdoorstep.com/physiotherapy-for-knee-surgery/)
+[Physiotherapy for knee surgery](/physiotherapy-for-knee-surgery)
  follows structured protocols that progress from early mobilization to advanced functional training over several months.
 
 ## Can Elderly Patients Benefit from Physiotherapy for Osteoarthritis?
@@ -464,7 +464,7 @@ Understanding how physiotherapy compares to other common osteoarthritis treatmen
 **Physiotherapy**
 : Includes active exercise that creates lasting changes in strength, flexibility, and function, allowing you to manage symptoms independently over time.
 
-[Understanding the difference between orthopedic and physiotherapy](https://physioatyourdoorstep.com/difference-between-orthopaedic-and-physiotherapy/)
+[Understanding the difference between orthopedic and physiotherapy](/difference-between-orthopaedic-and-physiotherapy)
  helps you appreciate how these disciplines work together for optimal osteoarthritis management.
 
 ## What Are the Latest Research Findings on Physiotherapy for Osteoarthritis?
@@ -507,7 +507,7 @@ The key to success lies in early intervention, consistent participation in your 
 Remember that osteoarthritis management is a journey, not a destination. Progress may be gradual, but with patience, persistence, and professional guidance, you can achieve meaningful improvements in pain, function, and quality of life.
 
 Ready to take control of your osteoarthritis?
-[Contact Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Contact Physio at Your Doorstep](/)
  for a comprehensive assessment and personalized treatment plan delivered in the comfort of your home across Bangalore. Our experienced physiotherapists specialize in osteoarthritis management and are committed to helping you move better, feel better, and live better.
 
 ## Additional Resources
@@ -540,6 +540,6 @@ For more information about physiotherapy and musculoskeletal health, explore the
 
 - [Do I need a doctor's referral for physiotherapy?](#acc-2qwd379-7) Many physiotherapists accept direct access or self-referral without a doctor’s prescription, though insurance coverage may vary. Check with your physiotherapy provider and insurance company about referral requirements.
 
-- [How much does physiotherapy for osteoarthritis cost?](#acc-2qwd379-8) Costs vary based on location and insurance coverage. Many insurance plans cover physiotherapy, especially when prescribed by a physician. [Home physiotherapy services](https://physioatyourdoorstep.com/) may save money by eliminating travel costs and time off work.
+- [How much does physiotherapy for osteoarthritis cost?](#acc-2qwd379-8) Costs vary based on location and insurance coverage. Many insurance plans cover physiotherapy, especially when prescribed by a physician. [Home physiotherapy services](/) may save money by eliminating travel costs and time off work.
 
 - [Should I continue physiotherapy exercises during pain flare-ups?](#acc-2qwd379-9) Yes, but with modifications. During flare-ups, focus on gentle range-of-motion exercises rather than strengthening. Apply ice after activities and consult your physiotherapist about adjusting your program temporarily until symptoms improve.

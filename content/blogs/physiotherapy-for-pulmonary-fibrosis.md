@@ -11,7 +11,7 @@ category: "Pulmonary Physiotherapy"
 
 Pulmonary fibrosis is a chronic and progressive lung disease that causes scarring of lung tissue, leading to difficulty in breathing. Managing this condition requires a multidisciplinary approach, and physiotherapy is crucial in improving lung function, reducing symptoms, and enhancing the quality of life.
 
-This article explores the impact of pulmonary fibrosis, the benefits of physiotherapy, and effective exercises and techniques to help patients breathe better and maintain mobility. Whether you are a patient, caregiver, or healthcare professional, understanding how physiotherapy can aid in [pulmonary fibrosis management](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) is essential.
+This article explores the impact of pulmonary fibrosis, the benefits of physiotherapy, and effective exercises and techniques to help patients breathe better and maintain mobility. Whether you are a patient, caregiver, or healthcare professional, understanding how physiotherapy can aid in [pulmonary fibrosis management](/service/pulmonary-physiotherapy) is essential.
 
 ## Understanding Pulmonary Fibrosis
 
@@ -43,7 +43,7 @@ As the disease progresses, complications such as respiratory failure, pulmonary 
 
 ## Role of Physiotherapy in Pulmonary Fibrosis
 
-[Physiotherapy](https://physioatyourdoorstep.com/) is an essential component of pulmonary fibrosis management, focusing on improving lung function, reducing breathlessness, and enhancing overall physical endurance. Since pulmonary fibrosis causes scarring and stiffening of lung tissue, breathing becomes progressively difficult. Physiotherapy aims to optimize the efficiency of breathing, improve mobility, and help patients maintain an active lifestyle despite their condition.
+[Physiotherapy](/) is an essential component of pulmonary fibrosis management, focusing on improving lung function, reducing breathlessness, and enhancing overall physical endurance. Since pulmonary fibrosis causes scarring and stiffening of lung tissue, breathing becomes progressively difficult. Physiotherapy aims to optimize the efficiency of breathing, improve mobility, and help patients maintain an active lifestyle despite their condition.
 
 ### How Physiotherapy Helps
 

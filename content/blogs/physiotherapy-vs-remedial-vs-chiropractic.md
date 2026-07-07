@@ -386,7 +386,7 @@ Before beginning any treatment, consider asking potential practitioners:
 
 ## How Physio at your Doorstep Can Help
 
-At **[Physio at your Doorstep](https://physioatyourdoorstep.com/)**, we specialize in bringing expert physiotherapy services directly to your home in Bangalore. Our approach combines the best elements of hands-on treatment with active rehabilitation to address both immediate symptoms and long-term recovery.
+At **[Physio at your Doorstep](/)**, we specialize in bringing expert physiotherapy services directly to your home in Bangalore. Our approach combines the best elements of hands-on treatment with active rehabilitation to address both immediate symptoms and long-term recovery.
 
 ### Our Specialized Services
 
@@ -430,7 +430,7 @@ At Physio at your Doorstep, we’re committed to helping you navigate these choi
 
 Whether you choose physiotherapy, remedial massage, chiropractic care, or a combination approach, the most important factor is finding qualified practitioners who listen to your concerns, thoroughly assess your condition, and develop a treatment plan aligned with your goals.
 
-Remember that your health journey is unique, and the right treatment pathway should be as individual as you are. To discuss your specific needs and determine the best approach for your condition, [contact our team](https://physioatyourdoorstep.com/contact/) today for a personalized consultation in the comfort of your home.
+Remember that your health journey is unique, and the right treatment pathway should be as individual as you are. To discuss your specific needs and determine the best approach for your condition, [contact our team](/contact-us) today for a personalized consultation in the comfort of your home.
 
 *This blog is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare provider before beginning any treatment program.*
 
@@ -443,7 +443,7 @@ Remember that your health journey is unique, and the right treatment pathway sho
 5. Journal of Bodywork and Movement Therapies. (2023). Effectiveness of Massage Therapy for Common Musculoskeletal Conditions.
 6. The Spine Journal. (2024). Evidence-Based Approach to Spinal Manipulation.
 
-*For personalized advice on which treatment approach might best suit your needs,* [*contact Physio at your Doorstep*](https://physioatyourdoorstep.com/contact/) *today.*
+*For personalized advice on which treatment approach might best suit your needs,* [*contact Physio at your Doorstep*](/contact-us) *today.*
 
 ## Frequently Asked Questions
 

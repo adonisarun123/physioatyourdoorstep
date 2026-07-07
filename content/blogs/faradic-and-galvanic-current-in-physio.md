@@ -19,9 +19,9 @@ Electrotherapy refers to the use of low-voltage, low-frequency electrical impuls
 An electrical muscle stimulator, sometimes called an EMS or NMES device, generates and delivers these currents through electrodes placed on the skin over the affected muscle or nerve pathway. This creates a closed circuit through which the electrical impulse travels, triggering a physiological response in the underlying tissue.
 
 If you want a broader look at how electrotherapy compares with other physical modalities, our detailed comparisons on
-[ICT vs IPT vs IFT in physiotherapy](https://physioatyourdoorstep.com/ict-vs-ipt-vs-ift-in-physiotherapy/)
+[ICT vs IPT vs IFT in physiotherapy](/ict-vs-ipt-vs-ift-in-physiotherapy)
  and
-[IRR vs laser vs electrotherapy](https://physioatyourdoorstep.com/irr-vs-laser-vs-electrotherapy/)
+[IRR vs laser vs electrotherapy](/irr-vs-laser-vs-electrotherapy)
  explain where faradic and galvanic current fit into the wider toolkit.
 
 ## What Is Faradic Current?
@@ -118,101 +118,101 @@ The electrolytic effect of galvanic current has been used to encourage cell migr
 <tbody>
 <tr>
 <td>
-<p><b>Parameter</b></p>
+<b>Parameter</b>
 </td>
 <td>
-<p><b>Faradic Current</b></p>
+<b>Faradic Current</b>
 </td>
 <td>
-<p><b>Galvanic Current</b></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span>Type of current</span></p>
-</td>
-<td>
-<p><span>Interrupted direct current (short duration)</span></p>
-</td>
-<td>
-<p><span>Continuous or long-duration interrupted direct current</span></p>
+<b>Galvanic Current</b>
 </td>
 </tr>
 <tr>
 <td>
-<p><span>Pulse duration</span></p>
+Type of current
 </td>
 <td>
-<p><span>0.1 to 1 millisecond</span></p>
+Interrupted direct current (short duration)
 </td>
 <td>
-<p><span>100 milliseconds or longer</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span>Frequency</span></p>
-</td>
-<td>
-<p><span>50 to 100 Hz</span></p>
-</td>
-<td>
-<p><span>Around 30 pulses per minute (interrupted form)</span></p>
+Continuous or long-duration interrupted direct current
 </td>
 </tr>
 <tr>
 <td>
-<p><span>Works on denervated muscle</span></p>
+Pulse duration
 </td>
 <td>
-<p><span>No</span></p>
+0.1 to 1 millisecond
 </td>
 <td>
-<p><span>Yes</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span>Chemical/ion effect</span></p>
-</td>
-<td>
-<p><span>Minimal</span></p>
-</td>
-<td>
-<p><span>Significant</span></p>
+100 milliseconds or longer
 </td>
 </tr>
 <tr>
 <td>
-<p><span>Primary use</span></p>
+Frequency
 </td>
 <td>
-<p><span>Muscle re-education, strengthening, muscle spasm relief</span></p>
+50 to 100 Hz
 </td>
 <td>
-<p><span>Denervated muscle stimulation, iontophoresis, chronic pain, edema</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span>Typical session length</span></p>
-</td>
-<td>
-<p><span>10 to 15 minutes</span></p>
-</td>
-<td>
-<p><span>15 to 30 minutes</span></p>
+Around 30 pulses per minute (interrupted form)
 </td>
 </tr>
 <tr>
 <td>
-<p><span>Common target muscles</span></p>
+Works on denervated muscle
 </td>
 <td>
-<p><span>Larger muscle groups such as the quadriceps and deltoid</span></p>
+No
 </td>
 <td>
-<p><span>Smaller muscles, facial muscles, denervated limb muscles</span></p>
+Yes
+</td>
+</tr>
+<tr>
+<td>
+Chemical/ion effect
+</td>
+<td>
+Minimal
+</td>
+<td>
+Significant
+</td>
+</tr>
+<tr>
+<td>
+Primary use
+</td>
+<td>
+Muscle re-education, strengthening, muscle spasm relief
+</td>
+<td>
+Denervated muscle stimulation, iontophoresis, chronic pain, edema
+</td>
+</tr>
+<tr>
+<td>
+Typical session length
+</td>
+<td>
+10 to 15 minutes
+</td>
+<td>
+15 to 30 minutes
+</td>
+</tr>
+<tr>
+<td>
+Common target muscles
+</td>
+<td>
+Larger muscle groups such as the quadriceps and deltoid
+</td>
+<td>
+Smaller muscles, facial muscles, denervated limb muscles
 </td>
 </tr>
 </tbody>
@@ -226,7 +226,7 @@ The electrolytic effect of galvanic current has been used to encourage cell migr
 
 - Post-surgical muscle weakness, such as after ACL reconstruction or joint replacement
 
-- Muscle re-education following [orthopaedic conditions](https://physioatyourdoorstep.com/orthopaedic-conditions-in-physiotherapy/) and soft tissue injuries
+- Muscle re-education following [orthopaedic conditions](/orthopaedic-conditions-in-physiotherapy) and soft tissue injuries
 
 - Sports-related muscle strains where rapid restoration of strength is needed
 
@@ -238,14 +238,14 @@ The electrolytic effect of galvanic current has been used to encourage cell migr
 
 - Facial nerve palsy (Bell’s palsy) and trigeminal neuralgia
 
-- Chronic pain management in conditions such as [osteoarthritis](https://physioatyourdoorstep.com/physiotherapy-for-osteoarthritis/) and [lumbar spondylosis](https://physioatyourdoorstep.com/lumbar-spondylosis-physiotherapy/)
+- Chronic pain management in conditions such as [osteoarthritis](/physiotherapy-for-osteoarthritis) and [lumbar spondylosis](/lumbar-spondylosis-physiotherapy)
 
 - Iontophoresis-based drug delivery for localized inflammation
 
 - Early-stage edema management after soft tissue trauma
 
 For patients recovering from peripheral nerve injuries specifically, our detailed guide on
-[physiotherapy for wrist drop](https://physioatyourdoorstep.com/physiotherapy-for-wrist-drop/)
+[physiotherapy for wrist drop](/physiotherapy-for-wrist-drop)
  explains how electrotherapy fits into a complete recovery protocol alongside splinting, manual therapy, and staged exercises.
 
 ## Contraindications and Safety Precautions
@@ -293,15 +293,15 @@ Yes, and in many real-world treatment plans, they are. For example, a patient re
 Electrotherapy is often more effective when it is part of a broader, personalized rehabilitation plan rather than a standalone treatment. This is particularly true for conditions involving nerve injury or post-surgical recovery, where progress needs to be tracked closely and treatment parameters adjusted as the tissue responds.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our physiotherapists bring clinical-grade electrotherapy equipment and expertise directly to your home across Bangalore, so you receive properly monitored faradic or galvanic current treatment alongside manual therapy and a progressive exercise program. This is especially valuable for patients under our
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
 ,
-[orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 , and
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  programs, where consistent, supervised electrical stimulation forms one part of a larger recovery strategy. If travel is difficult, our
-[online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[online physiotherapy consultation](/service/online-physiotherapy-consultation-india)
  service can also help guide your overall rehabilitation plan remotely.
 
 ## What Does Research Say?
@@ -312,18 +312,18 @@ Clinical literature on low-frequency currents generally supports their role as a
 
 - Physiopedia – Faradic Stimulation: [https://www.physio-pedia.com/Faradic_Stimulation](https://www.physio-pedia.com/Faradic_Stimulation)
 
-- Neurological Physiotherapy Services at Physio at Your Doorstep: [https://physioatyourdoorstep.com/service/neurological-physiotherapy/](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+- Neurological Physiotherapy Services at Physio at Your Doorstep: [/service/neurological-physiotherapy/](/service/neurological-physiotherapy)
 
-- Orthopaedic Physiotherapy at Physio at Your Doorstep: [https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+- Orthopaedic Physiotherapy at Physio at Your Doorstep: [/service/orthopaedic-physiotherapy/](/service/orthopaedic-physiotherapy)
 
-- Physiotherapy for Wrist Drop, Radial Nerve Care Guide: [https://physioatyourdoorstep.com/physiotherapy-for-wrist-drop/](https://physioatyourdoorstep.com/physiotherapy-for-wrist-drop/)
+- Physiotherapy for Wrist Drop, Radial Nerve Care Guide: [/physiotherapy-for-wrist-drop/](/physiotherapy-for-wrist-drop)
 
-- ICT vs IPT vs IFT in Physiotherapy: [https://physioatyourdoorstep.com/ict-vs-ipt-vs-ift-in-physiotherapy/](https://physioatyourdoorstep.com/ict-vs-ipt-vs-ift-in-physiotherapy/)
+- ICT vs IPT vs IFT in Physiotherapy: [/ict-vs-ipt-vs-ift-in-physiotherapy/](/ict-vs-ipt-vs-ift-in-physiotherapy)
 
 Ready to experience professionally supervised electrotherapy and physiotherapy at home? Our qualified physiotherapists at
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
  bring evidence-based faradic and galvanic current treatment, along with complete rehabilitation programs, directly to your doorstep across Bangalore. Call us at +91 82337 87737 or
-[book an appointment online](https://physioatyourdoorstep.com/booking/)
+[book an appointment online](/booking)
  today.
 
 ## Frequently Asked Questions (FAQ)

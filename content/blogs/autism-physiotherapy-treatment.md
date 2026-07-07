@@ -49,7 +49,7 @@ Children with ASD commonly face the following physical challenges that a physiot
  Flat feet, hyperextension of elbows and knees, and generalised joint laxity are frequently seen, requiring targeted strengthening work to provide joint stability.
 
 Our
-[Pediatric Physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Pediatric Physiotherapy](/service/pediatric-physiotherapy)
  service is specifically designed to address these challenges in a child-friendly, family-centred way.
 
 ## Autism Physiotherapy Assessment: What It Involves
@@ -117,7 +117,7 @@ A 2024 study published in
 Many children with ASD have weak core muscles, which contributes to poor posture and difficulty maintaining upright positions for sustained periods. Core strengthening exercises using therapy balls, floor-based activities, and age-appropriate challenges build the endurance needed for classroom sitting, physical play, and daily function.
 
 Our
-[Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Neurological Physiotherapy](/service/neurological-physiotherapy)
  team has extensive experience with postural rehabilitation in children with neurodevelopmental conditions.
 
 ### 5. Muscle Strengthening and Flexibility
@@ -145,13 +145,13 @@ For many children on the autism spectrum, the familiar surroundings of home are 
 Home-based physiotherapy removes these barriers. The child is in their own space, with their own toys and routines nearby. The physiotherapist can observe the child in the actual environment where they spend most of their time and can tailor recommendations to fit seamlessly into the family’s daily life.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , we bring experienced physiotherapists directly to families across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. Same-day appointments are available, and sessions are entirely personalised to your child’s needs and temperament.
 
 Explore our
-[Pediatric Physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Pediatric Physiotherapy](/service/pediatric-physiotherapy)
  service to understand how we approach children with neurodevelopmental conditions, or read more on our
-[Blogs](https://physioatyourdoorstep.com/blogs/)
+[Blogs](/blogs)
  page for related articles on child health and physiotherapy.
 
 ## What to Expect From Autism Physiotherapy: Realistic Outcomes
@@ -175,7 +175,7 @@ Not every physiotherapist will have specific experience with autism and neurodev
 
 A good physiotherapist will be willing to go at the child’s pace, adapt their communication style, and work closely with your family. They will also collaborate with other professionals involved in your child’s care rather than working in isolation.
 
-[Book an Appointment](https://physioatyourdoorstep.com/booking/)
+[Book an Appointment](/booking)
  with Physio at Your Doorstep today to get started with a comprehensive assessment in the comfort of your home.
 
 ## Resources
@@ -202,4 +202,4 @@ A good physiotherapist will be willing to go at the child’s pace, adapt their 
 
 - [Is physiotherapy recommended alongside other autism therapies?](#acc-oxlq200-6) Absolutely. Physiotherapy works best as part of a multidisciplinary approach. When delivered alongside speech therapy, occupational therapy, and ABA (Applied Behaviour Analysis) where appropriate, the combined effect on the child’s development is greater than any single therapy alone. A good physiotherapist will communicate with other members of your child’s care team
 
-- [Does Physio at Your Doorstep offer physiotherapy for children with autism in Bangalore?](#acc-oxlq200-7) Yes. Physio at Your Doorstep provides specialised paediatric physiotherapy services at home across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, BTM Layout, and Jayanagar. Our physiotherapists have experience with children with neurodevelopmental conditions including autism. You can [book an appointment here](https://physioatyourdoorstep.com/booking/) .
+- [Does Physio at Your Doorstep offer physiotherapy for children with autism in Bangalore?](#acc-oxlq200-7) Yes. Physio at Your Doorstep provides specialised paediatric physiotherapy services at home across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, BTM Layout, and Jayanagar. Our physiotherapists have experience with children with neurodevelopmental conditions including autism. You can [book an appointment here](/booking) .

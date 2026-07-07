@@ -733,7 +733,7 @@ Preventing progression of early degenerative changes.
 
 ***Risk Factor Management:***
 
-- [Regular physiotherapy](https://physioatyourdoorstep.com/services/back-pain-physiotherapy): Periodic assessment and treatment
+- [Regular physiotherapy](/service/orthopaedic-physiotherapy): Periodic assessment and treatment
 - Exercise maintenance: Consistent strength and flexibility programs
 - Postural awareness: Ongoing attention to body mechanics
 - Stress management: Techniques for reducing physical and emotional tension
@@ -876,7 +876,7 @@ Continuous oversight of recovery progress with immediate intervention capabiliti
 
 ## Related Services for Comprehensive Spinal Health
 
-### [Comprehensive Back Pain Management](https://physioatyourdoorstep.com/services/back-pain-physiotherapy)
+### [Comprehensive Back Pain Management](/service/orthopaedic-physiotherapy)
 
 Expert treatment for all types of lower back conditions:
 
@@ -885,7 +885,7 @@ Expert treatment for all types of lower back conditions:
 - Postural dysfunction correction and ergonomic training
 - Work-related back injury prevention and management
 
-### [Sciatica and Nerve Pain Treatment](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+### [Sciatica and Nerve Pain Treatment](/service/neurological-physiotherapy)
 
 Specialized care for nerve-related pain and symptoms:
 
@@ -894,7 +894,7 @@ Specialized care for nerve-related pain and symptoms:
 - Piriformis syndrome and deep gluteal syndrome management
 - Nerve conduction optimization and symptom prevention
 
-### [Post-Surgical Spinal Rehabilitation](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+### [Post-Surgical Spinal Rehabilitation](/service/post-surgical-physiotherapy)
 
 Comprehensive recovery programs for spinal surgery patients:
 
@@ -903,7 +903,7 @@ Comprehensive recovery programs for spinal surgery patients:
 - Minimally invasive surgery rehabilitation
 - Accelerated recovery programs for faster functional return
 
-### [Corporate Wellness and Ergonomic Services](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/)
+### [Corporate Wellness and Ergonomic Services](/service/corporate-wellness-physiotherapy-program)
 
 Workplace health programs focusing on spinal health:
 
@@ -912,7 +912,7 @@ Workplace health programs focusing on spinal health:
 - Corporate physiotherapy services for large organizations
 - Productivity enhancement through health optimization
 
-### [Elderly Care and Geriatric Spinal Health](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+### [Elderly Care and Geriatric Spinal Health](/service/geriatric-physiotherapy)
 
 Specialized services for older adults with spinal conditions:
 
@@ -921,7 +921,7 @@ Specialized services for older adults with spinal conditions:
 - Chronic condition management and healthcare coordination
 - Family caregiver education and long-term care planning
 
-### [Sports-Related Spinal Injury Management](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+### [Sports-Related Spinal Injury Management](/service/sports-physiotherapy)
 
 Expert care for athletic spinal conditions:
 

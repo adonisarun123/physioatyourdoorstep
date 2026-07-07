@@ -349,7 +349,7 @@ Home sessions allow family members to participate in education, learning how to 
 Home-based physiotherapists typically manage fewer clients than those in busy clinics, allowing for longer, more focused treatment sessions. You receive undivided attention without the distractions common in clinical environments.
 
 If you’re in Bangalore and seeking expert PIVD treatment at home,
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio At Your Doorstep](/)
  offers professional, evidence-based care delivered to your doorstep by experienced physiotherapists.
 
 ## Preventing PIVD Recurrence: Long-Term Strategies
@@ -381,7 +381,7 @@ If you work at a desk, proper ergonomic setup is crucial:
 - Take movement breaks every 30-40 minutes
 
 For those working from home, consider
-[corporate wellness physiotherapy programs](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/)
+[corporate wellness physiotherapy programs](/service/corporate-wellness-physiotherapy-program)
  that can assess and optimize your home office setup.
 
 ### Maintain Healthy Body Weight
@@ -425,7 +425,7 @@ Surgery is typically considered only after 6-12 weeks of conservative treatment 
 - **Disc Replacement** : Replaces the damaged disc with an artificial one
 
 Even if surgery becomes necessary,
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  remains crucial for optimal recovery and preventing future problems.
 
 ## Integrating PIVD Care with Other Physiotherapy Services
@@ -436,28 +436,28 @@ PIVD doesn’t exist in isolation. Your overall health and other conditions impa
 
 **Elderly Patients**
 : Older adults with PIVD often present with additional concerns like balance deficits and fall risk.
-[Geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Geriatric physiotherapy](/service/geriatric-physiotherapy)
  programs address these interconnected issues comprehensively.
 
 **Athletes**
 : Sports-related PIVD requires sport-specific rehabilitation.
-[Sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Sports physiotherapy](/service/sports-physiotherapy)
  programs focus on safe return to athletic activities and performance optimization.
 
 **Pregnant Women**
 : Pregnancy-related back pain and PIVD require specialized approaches.
-[Physiotherapy in pregnancy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/)
+[Physiotherapy in pregnancy](/service/physiotherapy-in-pregnancy)
  provides safe, effective treatment tailored to maternal and fetal needs.
 
 **Neurological Conditions**
 : If PIVD occurs alongside neurological conditions like stroke or Parkinson’s,
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  offers integrated care addressing multiple systems.
 
 ### Comprehensive Orthopedic Care
 
 PIVD often coexists with other musculoskeletal conditions like arthritis, muscle strains, or joint problems.
-[Orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
  provides comprehensive treatment for all your skeletal and muscular concerns.
 
 ## Living Well with PIVD: Lifestyle Modifications
@@ -510,19 +510,19 @@ The key to successful recovery lies in three fundamental principles: early inter
 Remember that recovery is a journey, not a destination. Each day of consistent effort brings you closer to pain-free movement and improved quality of life. Don’t let back pain and nerve symptoms control your life—take the first step toward recovery today.
 
 If you’re in Bangalore and ready to begin your PIVD recovery journey,
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio At Your Doorstep](/)
  brings expert physiotherapy care directly to your home. Our experienced team specializes in evidence-based PIVD treatment, supporting you every step toward complete recovery.
 
 ## Helpful Resources
 
 For more information on related physiotherapy services:
 
-- [Cervical PIVD Physiotherapy Treatment](https://physioatyourdoorstep.com/cervical-pivd-physiotherapy/)
-- [Back Pain Relief and Management](https://physioatyourdoorstep.com/blogs/)
-- [Orthopaedic Physiotherapy Services](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
-- [Post-Surgical Rehabilitation](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
-- [Sports Injury Treatment](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
-- [Geriatric Physiotherapy Care](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+- [Cervical PIVD Physiotherapy Treatment](/cervical-pivd-physiotherapy)
+- [Back Pain Relief and Management](/blogs)
+- [Orthopaedic Physiotherapy Services](/service/orthopaedic-physiotherapy)
+- [Post-Surgical Rehabilitation](/service/post-surgical-physiotherapy)
+- [Sports Injury Treatment](/service/sports-physiotherapy)
+- [Geriatric Physiotherapy Care](/service/geriatric-physiotherapy)
 
 ## Medical References
 

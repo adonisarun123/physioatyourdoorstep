@@ -36,7 +36,7 @@ Geriatric rehabilitation specialists understand these changes and design treatme
 
 **Osteoarthritis**
  represents one of the most prevalent conditions affecting seniors. Unlike rheumatoid arthritis, osteoarthritis involves the progressive wear and tear of joint cartilage, particularly affecting weight-bearing joints like the knees, hips, and lumbar spine. Our
-[specialized arthritis rehabilitation program](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/)
+[specialized arthritis rehabilitation program](/geriatric-physiotherapy-for-arthritis)
  focuses on maintaining joint mobility while reducing pain and inflammation.
 
 **Osteoporosis**
@@ -45,7 +45,7 @@ Geriatric rehabilitation specialists understand these changes and design treatme
 ### Neurological Conditions
 
 Post-stroke rehabilitation is critical for seniors who have experienced cerebrovascular accidents. Physiotherapy helps restore motor control, improve coordination, and rebuild functional independence. Our
-[neurological physiotherapy services](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/)
+[neurological physiotherapy services](/physiotherapy-in-neurological-conditions)
  address conditions including:
 
 - Stroke and hemiparesis (weakness on one side of the body)
@@ -57,7 +57,7 @@ Post-stroke rehabilitation is critical for seniors who have experienced cerebrov
 ### Post-Surgical Recovery
 
 Following procedures like joint replacements, seniors often face significant mobility challenges. Geriatric rehabilitation after surgery accelerates healing and restores functional capacity. Learn more about our
-[post-surgical rehabilitation approach](https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/)
+[post-surgical rehabilitation approach](/physiotherapy-in-post-surgical-rehabilitation)
 .
 
 ### Fall Risk and Balance Impairment
@@ -389,7 +389,7 @@ Modern technology enhances geriatric rehabilitation outcomes. We utilize:
 - **Robotic-assisted therapy** : For severe mobility impairments, enabling safe movement training
 
 Discover more about
-[our latest physiotherapy technologies](https://physioatyourdoorstep.com/latest-technology-in-physiotherapy/)
+[our latest physiotherapy technologies](/latest-technology-in-physiotherapy)
 .
 
 ## Recovery Timeline: What to Expect from Geriatric Rehabilitation
@@ -485,10 +485,10 @@ Your independence is precious. Your quality of life matters. And you don’t hav
 
 ### Related Resources and Further Reading
 
-- [Geriatric Physiotherapy for Arthritis: A Recovery Guide](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/) – Specialized treatment approaches for age-related joint conditions
-- [Physiotherapy in Neurological Conditions & Recovery Guide](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/) – Comprehensive rehabilitation for stroke and neurological disorders
-- [The Role of Physiotherapy in Post-Surgical Rehabilitation](https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/) – Optimizing recovery after surgical procedures
-- [Latest Technology in Physiotherapy: Smart Techniques](https://physioatyourdoorstep.com/latest-technology-in-physiotherapy/) – Innovative approaches enhancing rehabilitation outcomes
+- [Geriatric Physiotherapy for Arthritis: A Recovery Guide](/geriatric-physiotherapy-for-arthritis) – Specialized treatment approaches for age-related joint conditions
+- [Physiotherapy in Neurological Conditions & Recovery Guide](/physiotherapy-in-neurological-conditions) – Comprehensive rehabilitation for stroke and neurological disorders
+- [The Role of Physiotherapy in Post-Surgical Rehabilitation](/physiotherapy-in-post-surgical-rehabilitation) – Optimizing recovery after surgical procedures
+- [Latest Technology in Physiotherapy: Smart Techniques](/latest-technology-in-physiotherapy) – Innovative approaches enhancing rehabilitation outcomes
 *Disclaimer: This article is for informational purposes and should not replace professional medical advice. Always consult with a qualified healthcare provider before beginning any rehabilitation program. Individual results vary based on specific conditions and compliance with treatment protocols.*
 
 ## Frequently Asked Questions

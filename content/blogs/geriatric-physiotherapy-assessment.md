@@ -9,7 +9,7 @@ category: "Geriatric Physiotherapy"
 ---
 ## Introduction
 
-Aging comes with its own set of challenges, especially when it comes to mobility and physical function. [**Geriatric physiotherapy**](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) plays a crucial role in maintaining independence, improving strength, and enhancing the overall quality of life for older adults. But before designing a treatment plan, a **geriatric physiotherapy assessment** is essential. This assessment helps identify mobility limitations, balance issues, and other physical challenges that could impact daily life.
+Aging comes with its own set of challenges, especially when it comes to mobility and physical function. [**Geriatric physiotherapy**](/service/geriatric-physiotherapy) plays a crucial role in maintaining independence, improving strength, and enhancing the overall quality of life for older adults. But before designing a treatment plan, a **geriatric physiotherapy assessment** is essential. This assessment helps identify mobility limitations, balance issues, and other physical challenges that could impact daily life.
 
 The goal of geriatric physiotherapy assessment is to:
 

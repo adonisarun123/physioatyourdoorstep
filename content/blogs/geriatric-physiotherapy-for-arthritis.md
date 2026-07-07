@@ -10,7 +10,7 @@ category: "Geriatric Physiotherapy"
 
 As we age, arthritis becomes an increasingly common companion, affecting millions of seniors worldwide. While the stiffness, pain, and reduced mobility can feel overwhelming, there’s hope. Geriatric physiotherapy for arthritis offers a proven, evidence-based approach to managing symptoms, improving quality of life, and helping seniors maintain their independence.
 
-At [Physio At Your Doorstep](https://physioatyourdoorstep.com/), we understand that each senior’s journey with arthritis is unique. Our specialized approach to geriatric physiotherapy brings expert care directly to your home, ensuring comfort, convenience, and personalized treatment that addresses your specific needs.
+At [Physio At Your Doorstep](/), we understand that each senior’s journey with arthritis is unique. Our specialized approach to geriatric physiotherapy brings expert care directly to your home, ensuring comfort, convenience, and personalized treatment that addresses your specific needs.
 
 ## Understanding Arthritis in Seniors
 
@@ -41,7 +41,7 @@ Geriatric physiotherapy is a specialized branch of physical therapy that focuses
 - Social support systems
 - Home environment safety
 
-2. Individualized Treatment Plans Every senior is different, and our [orthopedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) approach recognizes this by creating personalized treatment plans that consider:
+2. Individualized Treatment Plans Every senior is different, and our [orthopedic physiotherapy](/service/orthopaedic-physiotherapy) approach recognizes this by creating personalized treatment plans that consider:
 
 - Severity of arthritis
 - Other health conditions
@@ -114,7 +114,7 @@ Affecting both joints and skin, requiring specialized care.
 - Stress reduction techniques
 - Functional training
 
-Our [neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) services also support seniors with arthritis who may have concurrent neurological conditions.
+Our [neurological physiotherapy](/service/neurological-physiotherapy) services also support seniors with arthritis who may have concurrent neurological conditions.
 
 ## Physiotherapy Techniques for Seniors
 
@@ -253,7 +253,7 @@ One of the significant advantages of our service is bringing professional physio
 - Have emergency contacts readily available
 - Use appropriate supportive equipment
 
-Our [sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) expertise also helps seniors who want to return to recreational activities safely.
+Our [sports physiotherapy](/service/sports-physiotherapy) expertise also helps seniors who want to return to recreational activities safely.
 
 ## When to Seek Professional Help
 
@@ -341,7 +341,7 @@ While arthritis is often progressive, proper management can significantly slow i
 - Bone health: Preventing osteoporosis and fractures
 - Mental health: Managing depression and anxiety
 
-Our [pregnancy physiotherapy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) services also extend to helping expectant mothers prepare for healthy aging.
+Our [pregnancy physiotherapy](/service/physiotherapy-in-pregnancy) services also extend to helping expectant mothers prepare for healthy aging.
 
 ## Conclusion
 

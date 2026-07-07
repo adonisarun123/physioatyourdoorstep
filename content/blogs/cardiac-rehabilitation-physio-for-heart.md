@@ -7,7 +7,7 @@ excerpt: "In the journey toward heart health recovery, cardiac rehabilitation st
 coverImage: "/images/blog/cardiac-rehabilitation-physio-for-heart.jpg"
 category: "Physiotherapy"
 ---
-In the journey toward heart health recovery, cardiac rehabilitation stands as a beacon of hope and healing for heart attack survivors, post-surgery patients, and those with chronic heart conditions. At Physio at your Doorstep, [Bangalore's leading home physiotherapy service](https://physioatyourdoorstep.com/), we understand that recovery from a heart attack, heart surgery, or a cardiac diagnosis requires not just medical intervention but a comprehensive cardio physiotherapy approach to restore your heart's function and improve your quality of life.
+In the journey toward heart health recovery, cardiac rehabilitation stands as a beacon of hope and healing for heart attack survivors, post-surgery patients, and those with chronic heart conditions. At Physio at your Doorstep, [Bangalore's leading home physiotherapy service](/), we understand that recovery from a heart attack, heart surgery, or a cardiac diagnosis requires not just medical intervention but a comprehensive cardio physiotherapy approach to restore your heart's function and improve your quality of life.
 
 This comprehensive guide explores the transformative power of cardio physiotherapy and cardiac rehab programs in Bangalore, offering evidence-based guidance and practical cardiac exercises for those navigating the path to heart health recovery. Whether you're looking for "cardiac physiotherapy near me" or "best cardio rehab in Bangalore," our expert team delivers professional rehabilitation services directly to your home, ensuring accessibility and convenience during your recovery journey.
 
@@ -324,7 +324,7 @@ Remember that cardiac rehabilitation is not merely about returning to your previ
 4. American Association of Cardiovascular and Pulmonary Rehabilitation. (2023). Guidelines for Cardiac Rehabilitation Programs.
 5. American College of Cardiology. (2024). Cardiac Rehabilitation: Core Components and Implementation.
 
-*For more information about our cardiac rehabilitation services,* [*contact Physio at your Doorstep*](https://physioatyourdoorstep.com/contact/) *today.*
+*For more information about our cardiac rehabilitation services,* [*contact Physio at your Doorstep*](/contact-us) *today.*
 
 ## Frequently Asked Questions About Cardiac Rehabilitation
 

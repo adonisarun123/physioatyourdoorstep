@@ -119,11 +119,11 @@ Immediate cessation of physical activity is necessary if any of the following sy
 
 ## Specialized Care in Bangalore
 
-For expectant mothers in Bangalore dealing with pulmonary hypertension, accessing specialized physiotherapy care is essential. [Physio At Your Doorstep](https://physioatyourdoorstep.com/) offers comprehensive home-based physiotherapy services specifically designed to meet the unique needs of pregnant women with complex medical conditions.
+For expectant mothers in Bangalore dealing with pulmonary hypertension, accessing specialized physiotherapy care is essential. [Physio At Your Doorstep](/) offers comprehensive home-based physiotherapy services specifically designed to meet the unique needs of pregnant women with complex medical conditions.
 
 ### Pregnancy Physiotherapy Services
 
-The specialized [pregnancy physiotherapy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) services include:
+The specialized [pregnancy physiotherapy](/service/physiotherapy-in-pregnancy) services include:
 
 - Individualized assessment of cardiovascular function and pregnancy-related changes
 - Customized exercise programs designed for high-risk pregnancies
@@ -380,9 +380,9 @@ Remember that every pregnancy with pulmonary hypertension is unique, and treatme
 ### Local Resources in Bangalore
 
 - Physio At Your Doorstep – Specialized home-based physiotherapy services
-- [Orthopedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) – Comprehensive musculoskeletal care
-- [Neurological Physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) – Specialized neurological rehabilitation
-- [Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) – Athletic injury management and prevention
+- [Orthopedic Physiotherapy](/service/orthopaedic-physiotherapy) – Comprehensive musculoskeletal care
+- [Neurological Physiotherapy](/service/neurological-physiotherapy) – Specialized neurological rehabilitation
+- [Sports Physiotherapy](/service/sports-physiotherapy) – Athletic injury management and prevention
 
 *Serving areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield*
 
@@ -432,4 +432,4 @@ Postpartum physiotherapy focuses on gradual recovery and return to pre-pregnancy
 
 ### How do I find qualified physiotherapists experienced in managing PH during pregnancy?
 
-Look for physiotherapists with specialized training in cardiovascular rehabilitation and pregnancy care. [Physio At Your Doorstep](https://physioatyourdoorstep.com/) offers specialized services for high-risk pregnancies in Bangalore. Always ensure the physiotherapist works closely with your medical team and has experience managing complex cardiovascular conditions during pregnancy.
+Look for physiotherapists with specialized training in cardiovascular rehabilitation and pregnancy care. [Physio At Your Doorstep](/) offers specialized services for high-risk pregnancies in Bangalore. Always ensure the physiotherapist works closely with your medical team and has experience managing complex cardiovascular conditions during pregnancy.

@@ -61,9 +61,9 @@ This is a significant advantage over standard TENS. Medium-frequency currents me
 The physiological effects of IFT include analgesia through the same gate control and opioid mechanisms as TENS, reduction of oedema through improved circulation, and muscle stimulation at certain beat frequencies.
 
 IFT is commonly used in Indian physiotherapy practice for conditions including back pain, knee osteoarthritis, shoulder pain, post-surgical oedema, and acute soft tissue injuries once the very acute phase has resolved. Many patients receiving
-[orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
  or
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  at home benefit from IFT as part of their initial pain management before active exercises are progressed.
 
 ### 3. Neuromuscular Electrical Stimulation (NMES)
@@ -78,11 +78,11 @@ NMES applies electrical impulses to stimulate motor nerves, causing muscle contr
 A closely related modality,
 **Functional Electrical Stimulation (FES)**
 , uses electrical stimulation to produce functionally useful movements. FES has well-established evidence for improving upper limb function in stroke rehabilitation and is now integrated into
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  protocols.
 
 In
-[geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[geriatric physiotherapy](/service/geriatric-physiotherapy)
 , NMES is particularly valuable for maintaining muscle mass in older adults with sarcopenia, especially when voluntary exercise capacity is limited.
 
 ### 4. Therapeutic Ultrasound
@@ -100,7 +100,7 @@ The effects are classified as:
 The evidence for therapeutic ultrasound is mixed. A 2020 Cochrane review found little to no difference between therapeutic ultrasound and placebo for chronic low back pain. However, evidence supports its use as part of a comprehensive treatment plan for conditions such as calcific tendinitis of the shoulder, carpal tunnel syndrome (at specific parameters), and delayed wound healing. The key, as with all electrotherapy, is appropriate patient selection, correct dosing, and integration with active rehabilitation.
 
 Patients undergoing
-[physiotherapy in pregnancy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/)
+[physiotherapy in pregnancy](/service/physiotherapy-in-pregnancy)
  should note that therapeutic ultrasound is contraindicated over the uterus and abdomen during pregnancy.
 
 ### 5. Shortwave Diathermy (SWD)
@@ -127,7 +127,7 @@ Low-level laser therapy (LLLT), increasingly referred to as photobiomodulation (
 LLLT has a growing body of evidence supporting its use for musculoskeletal conditions. A notable systematic review published in
 *BMJ Open Sport and Exercise Medicine*
  (2019) found moderate evidence for LLLT in reducing pain and improving function in chronic musculoskeletal conditions including shoulder tendinopathy, neck pain, and lateral epicondylitis. It is increasingly used in
-[sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[sports physiotherapy](/service/sports-physiotherapy)
  for soft tissue injuries, tendon pathologies, and facilitating return to play.
 
 ### 7. Iontophoresis
@@ -161,7 +161,7 @@ The principle articulated by leading researchers is clear: used wisely and at th
 
 ## Conditions Where Electrotherapy Modalities Are Commonly Integrated Into Treatment
 
-<table><tbody><tr><td><p><b>Condition</b></p></td><td><p><b>Commonly Used Modalities</b></p></td></tr><tr><td><p><span>Chronic low back pain</span></p></td><td><p><span>TENS, IFT, PSWD, therapeutic ultrasound</span></p></td></tr><tr><td><p><span>Knee osteoarthritis</span></p></td><td><p><span>IFT, TENS, PEMF, therapeutic ultrasound</span></p></td></tr><tr><td><p><span>Shoulder tendinopathy</span></p></td><td><p><span>LLLT, therapeutic ultrasound, IFT</span></p></td></tr><tr><td><p><span>Post-surgical rehabilitation</span></p></td><td><p><span>TENS, NMES, IFT, PSWD</span></p></td></tr><tr><td><p><span>Stroke and neurological conditions</span></p></td><td><p><span>NMES, FES, TENS</span></p></td></tr><tr><td><p><span>Sports injuries (acute phase)</span></p></td><td><p><span>TENS, PSWD, cryotherapy combined</span></p></td></tr><tr><td><p><span>Plantar fasciitis</span></p></td><td><p><span>Iontophoresis, LLLT, ultrasound</span></p></td></tr><tr><td><p><span>Peripheral neuropathy</span></p></td><td><p><span>TENS, LLLT</span></p></td></tr><tr><td><p><span>Cervical spondylosis</span></p></td><td><p><span>IFT, TENS, shortwave diathermy</span></p></td></tr><tr><td><p><span>Muscle atrophy / weakness</span></p></td><td><p><span>NMES</span></p></td></tr></tbody></table>
+<table><tbody><tr><td><b>Condition</b></td><td><b>Commonly Used Modalities</b></td></tr><tr><td>Chronic low back pain</td><td>TENS, IFT, PSWD, therapeutic ultrasound</td></tr><tr><td>Knee osteoarthritis</td><td>IFT, TENS, PEMF, therapeutic ultrasound</td></tr><tr><td>Shoulder tendinopathy</td><td>LLLT, therapeutic ultrasound, IFT</td></tr><tr><td>Post-surgical rehabilitation</td><td>TENS, NMES, IFT, PSWD</td></tr><tr><td>Stroke and neurological conditions</td><td>NMES, FES, TENS</td></tr><tr><td>Sports injuries (acute phase)</td><td>TENS, PSWD, cryotherapy combined</td></tr><tr><td>Plantar fasciitis</td><td>Iontophoresis, LLLT, ultrasound</td></tr><tr><td>Peripheral neuropathy</td><td>TENS, LLLT</td></tr><tr><td>Cervical spondylosis</td><td>IFT, TENS, shortwave diathermy</td></tr><tr><td>Muscle atrophy / weakness</td><td>NMES</td></tr></tbody></table>
 
 ## Contraindications Shared Across Most Electrotherapy Modalities
 
@@ -189,7 +189,7 @@ During treatment, you will typically be positioned comfortably. Electrodes, prob
 After the session, your physiotherapist will usually progress you into manual therapy, therapeutic exercise, or patient education as part of the broader treatment plan. Electrotherapy is rarely, if ever, an appropriate standalone treatment.
 
 At Physio at Your Doorstep, all electrotherapy sessions are conducted in your home environment across Bangalore. Our physiotherapists bring portable clinical-grade equipment and integrate electrotherapy as part of a personalised, evidence-based treatment programme. If you or a family member requires physiotherapy at home, you can
-[book an appointment here](https://physioatyourdoorstep.com/booking/)
+[book an appointment here](/booking)
 .
 
 ## How Electrotherapy Fits Into Home-Based Physiotherapy
@@ -199,7 +199,7 @@ One of the most practical advantages of home-based physiotherapy is that electro
 This is particularly beneficial for older adults who find clinic visits difficult, patients recovering from surgery who are not yet mobile, pregnant women who require physiotherapy management, and children with neurological or developmental conditions requiring consistent therapy.
 
 Our
-[online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[online physiotherapy consultation](/service/online-physiotherapy-consultation-india)
  service allows patients to connect with our team for initial guidance, triage, and treatment planning before a home visit is arranged.
 
  
@@ -221,11 +221,11 @@ It is worth emphasising that electrotherapy is one component in a comprehensive 
  support this process by managing pain, reducing inflammation, facilitating muscle activation, and promoting tissue repair at stages of healing where these goals are appropriate.
 
 For patients dealing with complex neurological conditions, our
-[neurological physiotherapy service](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy service](/service/neurological-physiotherapy)
  integrates all of these approaches, including NMES and FES where indicated. For children with developmental challenges, our
-[pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[pediatric physiotherapy](/service/pediatric-physiotherapy)
  team tailors treatment to age-appropriate needs. For those returning from surgery,
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  protocols at Physio at Your Doorstep ensure a structured, safe return to function.
 
 ## Resources
@@ -277,13 +277,13 @@ Yes. Functional electrical stimulation (FES), a specialised form of NMES, has es
 **Is electrotherapy suitable for elderly patients?**
 
 Yes, with appropriate precautions. Older adults often have multiple comorbidities, reduced skin sensation, and impaired circulation, all of which require careful assessment before electrotherapy is applied. When used appropriately, TENS, IFT, and NMES are safe and effective for elderly patients. NMES in particular is valuable in geriatric care for managing sarcopenia and supporting functional rehabilitation. Our
-[geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[geriatric physiotherapy](/service/geriatric-physiotherapy)
  service is specifically designed to address the unique needs of older adults, with experienced physiotherapists who assess all relevant risk factors before treatment.
 
 **Where can I receive electrotherapy physiotherapy at home in Bangalore?**
 
 Physio at Your Doorstep provides professional physiotherapy services at home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas. Our physiotherapists bring portable clinical-grade electrotherapy equipment to your home and integrate it into a personalised treatment programme.
-[Book an appointment here](https://physioatyourdoorstep.com/booking/)
+[Book an appointment here](/booking)
  or explore our full range of
-[physiotherapy services](https://physioatyourdoorstep.com/blogs/)
+[physiotherapy services](/blogs)
 .

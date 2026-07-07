@@ -40,37 +40,37 @@ Healing in a familiar, relaxed environment can often lead to quicker progress. M
 
 Guided recovery at home after surgeries with specialized physiotherapy care. If you've undergone an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Whitefield home**
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic **back pain**, neck pain, frozen shoulder, knee injuries (like ACL/PCL sprains or meniscus tears), arthritis pain, sciatica, muscle strains, and fracture rehabilitation
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions in the comfort of home. We offer physiotherapy at home for **stroke recovery**, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, neuropathies, and paralysis rehabilitation. Our **physiotherapist** will work patiently with you to improve mobility and balance
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast, or a runner training around Whitefield's parks, we can help treat and prevent sports-related injuries. We address issues like ligament tears, muscle strains, **tennis elbow**, runner's knee, ankle sprains, shin splints, and more.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults, delivered with kindness and patience. We assist senior citizens in Whitefield with age-related issues such as chronic knee and back pain, osteoarthritis, joint stiffness, osteoporosis-related weakness, and balance problems that increase fall risk.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, provided in the comfort of home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, torticollis, delayed milestones, and recovery after injuries or orthopedic surgeries.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

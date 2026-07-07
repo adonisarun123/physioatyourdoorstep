@@ -15,7 +15,7 @@ Living with neck pain that radiates down your arms can be debilitating. If youâ€
 ## What is Cervical PIVD?
 
 Cervical PIVD, also known as
-[cervical disc](https://physioatyourdoorstep.com/physiotherapy-for-cervical-disc-prolapse/)
+[cervical disc](/physiotherapy-for-cervical-disc-prolapse)
  herniation or neck disc prolapse, occurs when the soft, gel-like center (nucleus pulposus) of an intervertebral disc in your neck pushes through a weakened outer layer (annulus fibrosus). This prolapsed disc material can compress nearby nerve roots or the spinal cord, causing pain, numbness, and weakness in your neck, shoulders, arms, and hands.
 
 The cervical spine consists of seven vertebrae (C1-C7) stacked on top of each other, with intervertebral discs acting as cushions between them. These discs absorb shock and allow flexibility in your neck movements. When a disc prolapses, it disrupts this natural function and can significantly impact your quality of life.
@@ -38,7 +38,7 @@ Cervical disc prolapse rarely happens overnight. Multiple factors contribute to 
 
 **Age-Related Degeneration**
 : As we age, intervertebral discs naturally lose water content, becoming less flexible and more prone to tears or ruptures. This degenerative process, called cervical
-[spondylosis](https://physioatyourdoorstep.com/lumbar-spondylosis-physiotherapy/)
+[spondylosis](/lumbar-spondylosis-physiotherapy)
 , typically begins in your 30s and progresses gradually.
 
 **Traumatic Injury**
@@ -110,7 +110,7 @@ Accurate diagnosis combines clinical examination with imaging studies. Your heal
 
 **Physical Examination**
 :
-[Assessment](https://physioatyourdoorstep.com/sports-assessment-in-physiotherapy/)
+[Assessment](/sports-assessment-in-physiotherapy)
 of neck range of motion, muscle strength, reflexes, and sensation patterns. Special tests like Spurlingâ€™s test help identify nerve root compression.
 
 **Imaging Studies**
@@ -140,7 +140,7 @@ A comprehensive physiotherapy program for cervical PIVD aims to:
 ### Why Choose Physiotherapy Over Surgery?
 
 While severe cases may require
-[surgical intervention](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[surgical intervention](/service/post-surgical-physiotherapy)
 , research shows that 75-90% of cervical disc herniation patients improve with conservative treatment. Physiotherapy offers several advantages:
 
 - Non-invasive approach with minimal side effects
@@ -165,7 +165,7 @@ While severe cases may require
 
 **Joint Mobilization**
 : Gentle, graded oscillatory movements applied to cervical joints to restore normal motion, reduce stiffness, and modulate pain through
-[neurophysiological](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurophysiological](/service/neurological-physiotherapy)
 mechanisms.
 
 **Neural Mobilization**
@@ -313,7 +313,7 @@ While exercise is beneficial, certain activities may aggravate cervical disc iss
 ## Home-Based Physiotherapy: Convenience Meets Quality Care
 
 Services like
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio At Your Doorstep](/)
  bring expert cervical PIVD treatment to your home, offering several advantages:
 
 **Personalized Environment**

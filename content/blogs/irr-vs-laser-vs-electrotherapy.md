@@ -491,7 +491,7 @@ Electrotherapy offers versatile treatment options from immediate pain relief to 
 
 The future of physiotherapy lies in personalized treatment approaches that combine these modalities based on individual patient needs, condition characteristics, and evidence-based protocols. Working with qualified physiotherapists ensures safe, effective treatment selection and optimal recovery outcomes.
 
-For residents in Bangalore seeking professional physiotherapy services, [home-based physiotherapy](https://physioatyourdoorstep.com/) offers convenient access to these advanced treatment modalities with personalized care in familiar environments. Whether dealing with [orthopaedic conditions](https://physioatyourdoorstep.com/orthopaedic-conditions-in-physiotherapy/) or requiring [post-surgical rehabilitation](https://physioatyourdoorstep.com/physiotherapy-in-post-surgical-rehabilitation/), professional guidance ensures optimal treatment outcomes.
+For residents in Bangalore seeking professional physiotherapy services, [home-based physiotherapy](/) offers convenient access to these advanced treatment modalities with personalized care in familiar environments. Whether dealing with [orthopaedic conditions](/orthopaedic-conditions-in-physiotherapy) or requiring [post-surgical rehabilitation](/physiotherapy-in-post-surgical-rehabilitation), professional guidance ensures optimal treatment outcomes.
 
 ### Resource Links and Further Reading
 

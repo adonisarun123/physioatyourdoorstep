@@ -38,7 +38,7 @@ The diagnosis is typically confirmed through nerve conduction velocity (NCV) stu
 Medical treatment involves immunotherapy, either plasma exchange (plasmapheresis) or intravenous immunoglobulin (IVIg). Both have demonstrated significant efficacy in accelerating recovery. However, medical treatment alone is not enough. Without structured rehabilitation, patients risk prolonged disability, contractures, deconditioning, and reduced quality of life.
 
 This is where
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  becomes essential.
 
 ## Why Physiotherapy Is Critical in GBS Recovery
@@ -214,7 +214,7 @@ Below is a practical overview of evidence-based exercises used at each stage of 
 For many GBS patients, the transition from hospital to home is one of the most anxiety-inducing moments of recovery. The structure and supervision of the hospital setting disappears, and the patient and family must suddenly manage a complex rehabilitation program on their own.
 
 This is where home physiotherapy fills a critical gap. At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our specialist neurological physiotherapists travel to patients across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield, to deliver professional, personalized GBS rehabilitation directly at home.
 
 **Benefits of home physiotherapy for GBS patients:**
@@ -227,11 +227,11 @@ This is where home physiotherapy fills a critical gap. At
 - Continuity of care is maintained through the crucial months following hospital discharge
 
 Our
-[neurological physiotherapy service](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy service](/service/neurological-physiotherapy)
  is specifically designed for complex conditions like GBS, stroke, Parkinson’s disease, and multiple sclerosis. Our physiotherapists use standardized outcome measures at every assessment to track your progress objectively and adjust your program accordingly.
 
 For patients who prefer or require remote support, we also offer
-[online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[online physiotherapy consultation](/service/online-physiotherapy-consultation-india)
  to provide guidance, exercise prescription reviews, and progress monitoring via video.
 
 ## GBS Physiotherapy and Complications: What to Watch For
@@ -266,7 +266,7 @@ Physiotherapy should begin as early as medically stable, even in the ICU. Early 
 If you or a family member has been discharged from hospital following GBS and have not yet commenced structured physiotherapy, it is not too late. Functions can continue to improve for many months, and starting rehabilitation, even weeks after discharge, can still produce meaningful gains.
 
 To book a home physiotherapy assessment with our specialist team in Bangalore, visit our
-[booking page](https://physioatyourdoorstep.com/booking/)
+[booking page](/booking)
  or call us at +91 82337 87737.
 
 ## Resources

@@ -86,7 +86,7 @@ Two of the most established frameworks for hemiparesis treatment in neurological
  PNF uses diagonal movement patterns that mirror natural functional movements. By combining resistance, stretching, and rotational movements, it activates multiple muscle groups simultaneously and improves neuromuscular coordination. PNF patterns are particularly effective for strengthening the affected shoulder, trunk, and hip in hemiparesis.
 
 Both approaches are commonly used together in a well-rounded
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  program. At Physio at Your Doorstep, our neurological physiotherapy service integrates these classical approaches with the latest evidence-based techniques for optimal outcomes.
 
 ### 3. Constraint-Induced Movement Therapy (CIMT)
@@ -181,7 +181,7 @@ A physiotherapist designs a personalized HEP that the patient practices between 
 Studies consistently show that patients who adhere to HEPs achieve significantly better outcomes than those who rely solely on clinic-based sessions.
 
 This is one of the major advantages of choosing home-based physiotherapy. When a trained physiotherapist visits you at home, they can directly design and supervise exercises in the actual environment where you live. For patients with hemiparesis in Bangalore, our
-[home physiotherapy service](https://physioatyourdoorstep.com/booking/)
+[home physiotherapy service](/booking)
  brings expert neurological rehabilitation directly to you, eliminating the transport challenges that often lead to missed sessions and slowed recovery.
 
 ## Hemiparesis vs. Hemiplegia: Understanding the Difference
@@ -218,7 +218,7 @@ There is no ceiling on recovery if rehabilitation is sustained. Patients who are
 For people managing hemiparesis, traveling to a clinic for sessions can be genuinely difficult, tiring, and sometimes unsafe. Home-based physiotherapy removes these barriers entirely.
 
 At Physio at Your Doorstep, we provide specialized
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  for hemiparesis patients across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. Our physiotherapists are trained in Bobath, PNF, CIMT, mirror therapy, FES, gait retraining, and spasticity management.
 
 Home sessions offer several distinct advantages for hemiparesis management:
@@ -232,9 +232,9 @@ Home sessions offer several distinct advantages for hemiparesis management:
 Whether you need post-stroke rehabilitation, post-surgical physiotherapy for a neurological condition, or ongoing management of chronic hemiparesis, our team is available for same-day appointments and 24/7 support.
 
 You may also be interested in our
-[geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[geriatric physiotherapy](/service/geriatric-physiotherapy)
  services for older adults managing hemiparesis, and our
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  program for those recovering from neurosurgical procedures.
 
 ## Key Takeaways: What Makes Hemiparesis Physiotherapy Effective
@@ -256,7 +256,7 @@ You may also be interested in our
 - PMC Systematic Review – Effective Interventions for Upper Extremity Hemiparesis (2026): [https://pmc.ncbi.nlm.nih.gov/articles/PMC13108678/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13108678/)
 *This article is intended for educational purposes and does not replace professional medical or physiotherapy advice. Please consult a qualified physiotherapist or physician for a personalized assessment and treatment plan.*
 
-*Published by Physio at Your Doorstep | Bangalore’s Home Physiotherapy Specialists***[https://physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
+*Published by Physio at Your Doorstep | Bangalore’s Home Physiotherapy Specialists***[https://physioatyourdoorstep.com](/)
 
 ## Frequently Asked Questions (FAQ)
 

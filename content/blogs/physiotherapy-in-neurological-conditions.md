@@ -11,7 +11,7 @@ category: "Neurological Physiotherapy"
 
 Physiotherapy plays a crucial role in managing and rehabilitating patients with neurological conditions. These conditions often affect movement, coordination, balance, and muscle control, making daily activities challenging. Physiotherapists use specialized techniques to restore mobility, improve strength, and enhance overall function in individuals with neurological disorders.
 
-The primary goal of [physiotherapy in neurological conditions](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) is to help patients regain independence and enhance their quality of life. Since the nervous system controls muscle movement, damage to the brain or spinal cord can lead to significant motor dysfunction. Physiotherapy interventions focus on neuroplasticity—the brain's ability to reorganize itself—to maximize recovery.
+The primary goal of [physiotherapy in neurological conditions](/service/neurological-physiotherapy) is to help patients regain independence and enhance their quality of life. Since the nervous system controls muscle movement, damage to the brain or spinal cord can lead to significant motor dysfunction. Physiotherapy interventions focus on neuroplasticity—the brain's ability to reorganize itself—to maximize recovery.
 
 This article explores the role of physiotherapy in various neurological conditions, common rehabilitation techniques, and the impact of innovative therapies in enhancing patient outcomes.
 
@@ -40,7 +40,7 @@ Early intervention is crucial in neurological rehabilitation. The sooner a patie
 
 ## Common Physiotherapy Techniques in Neurological Rehabilitation
 
-[Physiotherapists](https://physioatyourdoorstep.com/about-us/) use a variety of techniques tailored to individual patient needs. Some of the most effective methods include:
+[Physiotherapists](/about-us) use a variety of techniques tailored to individual patient needs. Some of the most effective methods include:
 
 #### Neuroplasticity-Based Rehabilitation
 
@@ -256,7 +256,7 @@ Despite its benefits, neurological physiotherapy has challenges that impact pati
 #### Financial and Accessibility Challenges
 
 - High costs of long-term rehabilitation.
-- Limited access to [specialized physiotherapy centers](https://physioatyourdoorstep.com/) in some regions.
+- Limited access to [specialized physiotherapy centers](/) in some regions.
 
 #### Overcoming Plateaus in Recovery
 

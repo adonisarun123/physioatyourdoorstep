@@ -46,7 +46,7 @@ Each of these conditions can be managed without the need for medications, making
 
 ### The Basic Mechanism Behind Ultrasound Therapy
 
-[Ultrasound therapy in physiotherapy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) is completely different from the prenatal ultrasound you might be familiar with. While diagnostic ultrasound creates images,
+[Ultrasound therapy in physiotherapy](/service/physiotherapy-in-pregnancy) is completely different from the prenatal ultrasound you might be familiar with. While diagnostic ultrasound creates images,
 *therapeutic ultrasound*
  uses sound waves to create a deep heating effect in tissues like muscles, tendons, and ligaments.
 
@@ -80,7 +80,7 @@ One of the biggest questions expectant mothers ask is: “Is ultrasound therapy 
 
 The short answer is yes—
 **when used correctly and cautiously**
-. Therapeutic ultrasound is generally safe during pregnancy when the treatment area is away from the abdomen and uterus. [Trained physiotherapists](https://physioatyourdoorstep.com/about-us/) are fully aware of these precautions and avoid using ultrasound near reproductive organs.
+. Therapeutic ultrasound is generally safe during pregnancy when the treatment area is away from the abdomen and uterus. [Trained physiotherapists](/about-us) are fully aware of these precautions and avoid using ultrasound near reproductive organs.
 
 The risk arises only when ultrasound is misapplied, such as using thermal modes near sensitive or contraindicated zones. This is why it’s critical to work with a certified prenatal physiotherapist.
 
@@ -104,7 +104,7 @@ It’s about being smart and safe—not fearful. When used wisely, ultrasound th
 
 ### Lower Back Pain and Pelvic Girdle Pain
 
-[Back pain](https://physioatyourdoorstep.com/back-ache/) during pregnancy is so common it’s practically expected. Your spine has to carry extra weight, your posture shifts, and ligaments loosen up—all leading to discomfort. Physiotherapy ultrasound can provide targeted relief by reducing inflammation and improving blood flow in the lumbar and pelvic region.
+[Back pain](/back-ache) during pregnancy is so common it’s practically expected. Your spine has to carry extra weight, your posture shifts, and ligaments loosen up—all leading to discomfort. Physiotherapy ultrasound can provide targeted relief by reducing inflammation and improving blood flow in the lumbar and pelvic region.
 
 But here’s the important part: ultrasound isn’t applied directly on the spine or pelvis in pregnant women. Instead, physiotherapists work around safe zones like the glutes, upper thighs, or lower lumbar muscles to alleviate tension and pain. This approach is particularly useful in managing
 **pelvic girdle pain (PGP)**

@@ -103,7 +103,7 @@ Your physiotherapy journey begins with a thorough assessment where the physiothe
 - Develop a personalized treatment plan tailored to your needs
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our experienced physiotherapists conduct detailed assessments in the comfort of your home, eliminating the stress of traveling while in pain.
 
 ### Manual Therapy Techniques
@@ -272,7 +272,7 @@ When physiotherapy comes to you, you’re more likely to maintain regular sessio
 Family members can observe treatment sessions and learn how to support your recovery, from assisting with exercises to understanding activity modifications.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , we specialize in bringing expert physiotherapy services to your home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield.
 
 ## When to Seek Immediate Medical Attention
@@ -362,7 +362,7 @@ Chronic stress often manifests as muscle tension in the shoulders and upper back
 ## Integrating Physiotherapy with Other Treatment Approaches
 
 While
-[orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
  forms the primary treatment for shoulder blade pain, a multi-faceted approach often yields the best results:
 
 ### Massage Therapy
@@ -399,11 +399,11 @@ For managing discomfort during recovery:
 
 Depending on your specific situation, you might benefit from:
 
-- [Sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) if pain stems from athletic activities
+- [Sports physiotherapy](/service/sports-physiotherapy) if pain stems from athletic activities
 
-- [Corporate wellness programs](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/) for work-related shoulder issues
+- [Corporate wellness programs](/service/corporate-wellness-physiotherapy-program) for work-related shoulder issues
 
-- [Post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) if surgery becomes necessary
+- [Post-surgical physiotherapy](/service/post-surgical-physiotherapy) if surgery becomes necessary
 
 ## The Recovery Timeline: What to Expect
 
@@ -600,12 +600,12 @@ These success stories highlight how professional physiotherapy, combined with pa
 Shoulder blade pain doesn’t have to control your life. With proper physiotherapy treatment, most people experience significant relief and return to their normal activities. The key is taking that first step, reaching out for professional help.
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , we’re committed to helping you achieve lasting relief from shoulder blade pain through evidence-based physiotherapy delivered in the comfort of your home. Our experienced physiotherapists serving Bangalore understand the unique challenges you face and are dedicated to creating personalized treatment plans that fit your lifestyle.
 
 Don’t let shoulder blade pain hold you back any longer. Whether you’re in JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, or any other area in Bangalore, expert physiotherapy care is just a call away.
 
-[Book an appointment](https://physioatyourdoorstep.com/booking/)
+[Book an appointment](/booking)
  today and take the first step toward a pain-free tomorrow.
 
 ## Frequently Asked Questions About Shoulder Blade Pain
@@ -665,7 +665,7 @@ Stress causes unconscious muscle tension, particularly in the neck, shoulders, a
 - Physiotherapy Research International: Manual therapy for upper back pain
 
 For more information about our physiotherapy services and how we can help you, visit our
-[services page](https://physioatyourdoorstep.com/)
+[services page](/)
  or
-[contact us](https://physioatyourdoorstep.com/contact-us/)
+[contact us](/contact-us)
  today. Our team is available 24/7 to answer your questions and schedule your first home physiotherapy session.

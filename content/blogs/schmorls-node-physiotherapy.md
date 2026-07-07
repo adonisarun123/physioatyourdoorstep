@@ -13,7 +13,7 @@ If you have been diagnosed with a Schmorl’s node or discovered one incidentall
 
 A Schmorl’s node is a type of vertical disc herniation where the soft inner material of an intervertebral disc pushes upward or downward through a weakened area in the vertebral endplate and into the spongy bone of the vertebral body itself. Unlike a traditional disc herniation that bulges outward and presses on nerve roots, Schmorl’s nodes herniate inward into the vertebra.
 
-The condition is actually quite common. Research suggests that Schmorl’s nodes are detected in approximately 38% to 75% of the population, with a higher prevalence among males. Most people who have them never experience a single symptom and the nodes are discovered only by chance during imaging for an unrelated concern. However, in a smaller percentage of individuals, Schmorl’s nodes can become a genuine source of spinal pain, stiffness, and reduced mobility, and that is where [professional physiotherapy](https://physioatyourdoorstep.com/) management becomes essential.
+The condition is actually quite common. Research suggests that Schmorl’s nodes are detected in approximately 38% to 75% of the population, with a higher prevalence among males. Most people who have them never experience a single symptom and the nodes are discovered only by chance during imaging for an unrelated concern. However, in a smaller percentage of individuals, Schmorl’s nodes can become a genuine source of spinal pain, stiffness, and reduced mobility, and that is where [professional physiotherapy](/) management becomes essential.
 
 The term was named after the German pathologist Christian Georg Schmorl, who first described the finding in the early 20th century after examining post-mortem spine specimens.
 
@@ -23,7 +23,7 @@ Understanding the root cause helps shape the most appropriate physiotherapy trea
 
 **Genetic Predisposition**
 
-Research published in [Arthritis](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/) and [Rheumatism](https://physioatyourdoorstep.com/physiotherapy-for-rheumatoid-arthritis/) found that Schmorl’s nodes are highly heritable. Studies estimate that up to 70% of individuals diagnosed with the condition have a genetic predisposition, meaning the structural composition of their vertebral endplates may be inherently weaker than average.
+Research published in [Arthritis](/geriatric-physiotherapy-for-arthritis) and [Rheumatism](/physiotherapy-for-rheumatoid-arthritis) found that Schmorl’s nodes are highly heritable. Studies estimate that up to 70% of individuals diagnosed with the condition have a genetic predisposition, meaning the structural composition of their vertebral endplates may be inherently weaker than average.
 
 **Age-Related Spinal Degeneration**
 
@@ -63,7 +63,7 @@ In rare cases, the inflammatory reaction around an active Schmorl’s node may i
 
 **Secondary Disc Degeneration**
 
-Because the endplate plays a critical role in providing nutrition to the [avascular intervertebral disc](https://physioatyourdoorstep.com/physiotherapy-for-cervical-disc-prolapse/), a damaged endplate can compromise disc health and accelerate degeneration at that spinal level.
+Because the endplate plays a critical role in providing nutrition to the [avascular intervertebral disc](/physiotherapy-for-cervical-disc-prolapse), a damaged endplate can compromise disc health and accelerate degeneration at that spinal level.
 
 ## Symptoms of Schmorl’s Node
 
@@ -90,13 +90,13 @@ Symptoms can range in duration from a few weeks in acute presentations to severa
 
 If a Schmorl’s node is suspected, your doctor will typically request imaging studies. A standard X-ray may show indentation of the vertebral endplate, but MRI is widely considered the gold-standard diagnostic tool because it reveals not only the node itself but also the surrounding bone marrow edema that indicates whether the node is active and symptomatic.
 
-In some cases of persistent unexplained back pain, provocative discography may be performed to confirm whether the affected disc is the actual pain generator. A thorough [physiotherapy assessment](https://physioatyourdoorstep.com/sports-assessment-in-physiotherapy/) will additionally evaluate posture, spinal mobility, core muscle strength, movement patterns, and functional limitations to design a personalized treatment plan.
+In some cases of persistent unexplained back pain, provocative discography may be performed to confirm whether the affected disc is the actual pain generator. A thorough [physiotherapy assessment](/sports-assessment-in-physiotherapy) will additionally evaluate posture, spinal mobility, core muscle strength, movement patterns, and functional limitations to design a personalized treatment plan.
 
 ## Physiotherapy Management of Schmorl’s Node: A Comprehensive Approach
 
 Physiotherapy is the cornerstone of conservative management for symptomatic Schmorl’s nodes. A 2025 case report published in the Journal of Clinical and Diagnostic Research confirmed that a comprehensive physiotherapeutic approach combining electrotherapy, manual therapy, exercise therapy, and postural education produced significant improvement in pain, core strength, and functional outcomes in a patient with lumbar Schmorl’s node.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our experienced physiotherapists bring this evidence-based care directly to your home in Bangalore, removing the barrier of travel during pain and recovery.
+At [Physio at Your Doorstep](/), our experienced physiotherapists bring this evidence-based care directly to your home in Bangalore, removing the barrier of travel during pain and recovery.
 
 ### Phase 1: Acute Pain Management (Week 1 to 2)
 
@@ -184,13 +184,13 @@ According to published clinical data, symptoms typically resolve with conservati
 
 ## How Our Home Physiotherapy Service Helps You Recover Faster
 
-Recovering from Schmorl’s node pain while managing travel to a clinic can feel overwhelming, particularly during the acute phase when movement is uncomfortable. Our [Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) service brings qualified physiotherapists directly to your door anywhere in Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield.
+Recovering from Schmorl’s node pain while managing travel to a clinic can feel overwhelming, particularly during the acute phase when movement is uncomfortable. Our [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) service brings qualified physiotherapists directly to your door anywhere in Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield.
 
 Your physiotherapist will conduct a thorough clinical assessment at your home, design a personalized rehabilitation program based on your imaging findings and functional limitations, and guide you through each phase of recovery in the comfort of your own space.
 
-For those who prefer remote guidance or live outside Bangalore, our [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) service allows you to access the same expert care through a video call, with a detailed exercise program delivered digitally.
+For those who prefer remote guidance or live outside Bangalore, our [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) service allows you to access the same expert care through a video call, with a detailed exercise program delivered digitally.
 
-If your Schmorl’s node is associated with a post-surgical spine condition, our [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) team has the experience to support your recovery safely and effectively.
+If your Schmorl’s node is associated with a post-surgical spine condition, our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) team has the experience to support your recovery safely and effectively.
 
 ## What to Avoid During Schmorl’s Node Recovery
 
@@ -223,9 +223,9 @@ A realistic overview:
 - Mattei TA, Rehman AA. “Schmorl’s nodes: current pathophysiological, diagnostic, and therapeutic paradigms.” Neurosurgery Review. 2014; 37(1):39-46.
 - PubMed Central: “Acute Lumbar Schmorl’s Node Following Chiropractic Adjustment.” PMC9213262.
 
-*If you are experiencing back pain and suspect it may be related to a spinal condition, the team at* [*Physio at Your Doorstep*](https://physioatyourdoorstep.com/) *is here to help. Book an appointment today and let our expert physiotherapists design a recovery plan tailored to your needs, delivered right at your home in Bangalore.*
+*If you are experiencing back pain and suspect it may be related to a spinal condition, the team at* [*Physio at Your Doorstep*](/) *is here to help. Book an appointment today and let our expert physiotherapists design a recovery plan tailored to your needs, delivered right at your home in Bangalore.*
 
-[Book an Appointment](https://physioatyourdoorstep.com/booking/) | [View All Services](https://physioatyourdoorstep.com/) | [Read More Blogs](https://physioatyourdoorstep.com/blogs/)
+[Book an Appointment](/booking) | [View All Services](/) | [Read More Blogs](/blogs)
 
 ## Frequently Asked Questions
 

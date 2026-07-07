@@ -47,7 +47,7 @@ Physiotherapists typically recommend heat therapy for:
 - **Scar tissue management**: heat softens fibrotic tissue, making physiotherapy exercises more effective
 - **Sciatica and lumbago**: for chronic, non-inflamed presentations
 
-If you’re recovering from surgery or managing a long-term orthopaedic condition, your physiotherapist may incorporate thermotherapy as part of a broader [orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) program.
+If you’re recovering from surgery or managing a long-term orthopaedic condition, your physiotherapist may incorporate thermotherapy as part of a broader [orthopaedic physiotherapy](/service/orthopaedic-physiotherapy) program.
 
 ## What Is Cryotherapy in Physiotherapy?
 
@@ -86,7 +86,7 @@ Physiotherapists use cold therapy for:
 - **Sports injury management**: rapid return to activity often begins with effective cryotherapy
 - **Headaches and migraines**: cold application to the neck and head can provide relief
 
-For athletes and active individuals, [sports physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) programmes at Physio at Your Doorstep frequently incorporate structured cryotherapy protocols as part of acute injury management and post-performance recovery plans.
+For athletes and active individuals, [sports physiotherapy](/service/sports-physiotherapy) programmes at Physio at Your Doorstep frequently incorporate structured cryotherapy protocols as part of acute injury management and post-performance recovery plans.
 
 ## Thermotherapy vs Cryotherapy: A Head-to-Head Comparison
 
@@ -163,7 +163,7 @@ However, current evidence suggests contrast therapy does not offer significantly
 - Over joint prostheses (especially with deep heating: ultrasound can cause prosthetic damage)
 - During **pregnancy** over the abdomen or lumbar region
 
-Patients undergoing [physiotherapy in pregnancy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) should receive particular guidance from their physiotherapist before any heat modality is applied.
+Patients undergoing [physiotherapy in pregnancy](/service/physiotherapy-in-pregnancy) should receive particular guidance from their physiotherapist before any heat modality is applied.
 
 ### When NOT to Use Cryotherapy
 
@@ -174,7 +174,7 @@ Patients undergoing [physiotherapy in pregnancy](https://physioatyourdoorstep.co
 - In patients with **paroxysmal cold haemoglobinuria**
 - Never apply directly to skin, always use a barrier (cloth, towel) to prevent frostbite
 
-Older adults and patients with neurological conditions require special care, as their temperature regulation and sensory awareness may be reduced. If you or a loved one requires specialised care, our [geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) or [neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) services are delivered by experienced clinicians who carefully assess each patient before applying any thermal modality.
+Older adults and patients with neurological conditions require special care, as their temperature regulation and sensory awareness may be reduced. If you or a loved one requires specialised care, our [geriatric physiotherapy](/service/geriatric-physiotherapy) or [neurological physiotherapy](/service/neurological-physiotherapy) services are delivered by experienced clinicians who carefully assess each patient before applying any thermal modality.
 
 ## Can You Do This at Home? Tips for Safe Self-Application
 
@@ -194,7 +194,7 @@ While thermotherapy and cryotherapy are safe when used correctly, there are prac
 - Apply for 15–30 minutes at a time
 - Never sleep with a heat pack applied, as prolonged exposure causes burns
 
-For complex or chronic conditions, self-applied home therapy should always complement: not replace, hands-on professional physiotherapy. If you’re unsure which modality is right for your condition, our [online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) service allows you to receive expert guidance from the comfort of your home.
+For complex or chronic conditions, self-applied home therapy should always complement: not replace, hands-on professional physiotherapy. If you’re unsure which modality is right for your condition, our [online physiotherapy consultation](/service/online-physiotherapy-consultation-india) service allows you to receive expert guidance from the comfort of your home.
 
 ## How Physio at Your Doorstep Integrates Thermal Therapies Into Your Treatment
 
@@ -208,9 +208,9 @@ Our approach includes:
 4. **Patient education**: teaching you how to safely continue thermal therapy at home between sessions
 5. **Progress review**: adjusting the treatment plan as you move through different healing phases
 
-We offer specialised physiotherapy for a wide range of conditions, including [post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) where thermal modalities play a critical role in managing post-operative pain and swelling. Our physiotherapists come to your home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield, making professional care truly accessible.
+We offer specialised physiotherapy for a wide range of conditions, including [post-surgical physiotherapy](/service/post-surgical-physiotherapy) where thermal modalities play a critical role in managing post-operative pain and swelling. Our physiotherapists come to your home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield, making professional care truly accessible.
 
-[**Book an appointment today →**](https://physioatyourdoorstep.com/booking/)
+[**Book an appointment today →**](/booking)
 
 ## Key Takeaways
 
@@ -252,7 +252,7 @@ Yes, this is called contrast therapy. It involves alternating between heat and c
 
 ### Is cryotherapy safe during pregnancy?
 
-Local cryotherapy (ice packs) applied to safe areas like the upper back, neck, or limbs is generally considered safe during pregnancy. However, whole-body cryotherapy (cryochambers) is not recommended during pregnancy. Heat therapy applied over the abdomen or lower back should be avoided during pregnancy. Always consult your physiotherapist or doctor before using any thermal modality while pregnant. Our [pregnancy physiotherapy](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/) service provides safe, supervised care tailored specifically for expectant mothers.
+Local cryotherapy (ice packs) applied to safe areas like the upper back, neck, or limbs is generally considered safe during pregnancy. However, whole-body cryotherapy (cryochambers) is not recommended during pregnancy. Heat therapy applied over the abdomen or lower back should be avoided during pregnancy. Always consult your physiotherapist or doctor before using any thermal modality while pregnant. Our [pregnancy physiotherapy](/service/physiotherapy-in-pregnancy) service provides safe, supervised care tailored specifically for expectant mothers.
 
 ### What is the difference between superficial and deep thermotherapy?
 
@@ -272,4 +272,4 @@ Yes, but the type of arthritis matters. For **rheumatoid arthritis** during an a
 
 ### Where can I get professional thermotherapy or cryotherapy in Bangalore?
 
-Physio at Your Doorstep provides expert physiotherapy services, including thermal modalities, right in your home across Bangalore. Our physiotherapists bring the equipment and expertise to you, saving you the effort of travelling to a clinic. [Book an appointment here](https://physioatyourdoorstep.com/booking/) or explore our full range of [physiotherapy services](https://physioatyourdoorstep.com/blogs/).
+Physio at Your Doorstep provides expert physiotherapy services, including thermal modalities, right in your home across Bangalore. Our physiotherapists bring the equipment and expertise to you, saving you the effort of travelling to a clinic. [Book an appointment here](/booking) or explore our full range of [physiotherapy services](/blogs).

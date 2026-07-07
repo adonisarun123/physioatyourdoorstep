@@ -22,7 +22,7 @@ This in-depth guide explains the most common geriatric physiotherapy conditions,
 
 Geriatric physiotherapy is a specialized branch of physical therapy focused on older adults. The goals are to maintain or restore physical function, prevent falls, manage pain, and maximize independence. Treatment is tailored to age-related changes—slower reaction times, decreased bone density, reduced muscle mass, and multiple co-morbidities—while carefully accounting for medications, cardiovascular safety, and fatigue.
 
-For a deeper look at how seniors are assessed and prioritized during the first visit, see this thorough overview of a [geriatric physiotherapy assessment](https://physioatyourdoorstep.com/geriatric-physiotherapy-assessment/)
+For a deeper look at how seniors are assessed and prioritized during the first visit, see this thorough overview of a [geriatric physiotherapy assessment](/geriatric-physiotherapy-assessment)
 
 ## Most common geriatric physiotherapy conditions (and exactly how physio helps)
 
@@ -32,7 +32,7 @@ For a deeper look at how seniors are assessed and prioritized during the first v
 **Physio focus:** Progressive strengthening (quadriceps, glutes, core), joint mobility drills, balance training, activity pacing, gait retraining, weight management advice, heat/cold therapy when appropriate.
 **At-home tips:** Use supportive footwear, avoid long periods of sitting, keep daily step goals realistic, use railings for stairs, consider assistive devices during flare-ups.
 
-Learn more about tailored [arthritis care for seniors](https://physioatyourdoorstep.com/geriatric-physiotherapy-for-arthritis/)
+Learn more about tailored [arthritis care for seniors](/geriatric-physiotherapy-for-arthritis)
 
 ### Osteoporosis and fracture prevention
 
@@ -51,28 +51,28 @@ Learn more about tailored [arthritis care for seniors](https://physioatyourdoors
 **Symptoms:** Achy or sharp pain, worse with certain postures or deconditioning; may co-exist with spinal stenosis.
 **Physio focus:** Core stabilization, hip mobility, graded activity exposure, manual therapy as indicated, posture education, and flare-up planning.
 
-Exercise ideas for [back pain relief](https://physioatyourdoorstep.com/back-ache/)
+Exercise ideas for [back pain relief](/back-ache)
 
 ### Knee pain from OA, meniscal degeneration, or weakness
 
 **Symptoms:** Pain on walking/stairs, swelling, instability, stiffness after sitting.
 **Physio focus:** Quadriceps and hip strengthening, neuromuscular training, gait retraining, taping or bracing when useful, activity progression.
 
-Explore a comprehensive [guide to knee pain causes and treatment](https://physioatyourdoorstep.com/knee-pain/)
+Explore a comprehensive [guide to knee pain causes and treatment](/knee-pain)
 
 ### Stroke (CVA) rehabilitation
 
 **Symptoms:** Weakness or paralysis on one side, impaired balance, reduced coordination, spasticity, neglect, difficulty walking, fatigue.
 **Physio focus:** Neuro-rehabilitation using task-specific training, constraint-induced movement strategies, balance and gait work, transfers, stair practice, caregiver training, and home modifications.
 
-Early, intensive, and task-specific rehab improves outcomes dramatically. Read how [physiotherapy supports neurological recovery](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/). For practical neuro exercise ideas that encourage neuroplasticity, see: [Neurological exercises](https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/)
+Early, intensive, and task-specific rehab improves outcomes dramatically. Read how [physiotherapy supports neurological recovery](/physiotherapy-in-neurological-conditions). For practical neuro exercise ideas that encourage neuroplasticity, see: [Neurological exercises](/neurological-physiotherapy-exercises)
 
 ### Parkinson’s disease
 
 **Symptoms:** Bradykinesia (slowness), rigidity, tremor, freezing of gait, postural instability, reduced step length, difficulty with turns.
 **Physio focus:** Amplitude-based movement training, cueing strategies (visual/auditory), dual-task training, balance and fall prevention, gait re-education, home safety modifications.
 
-Assessment guides help personalize care—learn more on [neurological evaluation](https://physioatyourdoorstep.com/neurological-assessment-in-physiotherapy/)
+Assessment guides help personalize care—learn more on [neurological evaluation](/neurological-assessment-in-physiotherapy)
 
 ### Peripheral neuropathy and balance disorders
 
@@ -86,21 +86,21 @@ Assessment guides help personalize care—learn more on [neurological evaluation
 **Symptoms (after pulmonary edema):** Shortness of breath, decreased activity tolerance post-hospitalization.
 **Physio focus:** Pursed-lip breathing, paced ambulation, inspiratory muscle training, airway clearance techniques, energy conservation, and gradual endurance building.
 
-Learn about [pulmonary edema and physiotherapy’s role in recovery](https://physioatyourdoorstep.com/pulmonary-edema-physiotherapy/)
+Learn about [pulmonary edema and physiotherapy’s role in recovery](/pulmonary-edema-physiotherapy)
 
 ### Cardiac rehabilitation after surgery or cardiac events
 
 **Symptoms:** Deconditioning, reduced endurance, restricted mobility, fear of exertion.
 **Physio focus:** Vital sign monitoring, medically safe graded exercise, walking programs, risk-factor education, and return-to-ADLs planning in collaboration with cardiology.
 
-Detailed guidance for [CABG post-surgical rehab](https://physioatyourdoorstep.com/cabg-post-surgical-physiotherapy-management/)
+Detailed guidance for [CABG post-surgical rehab](/cabg-post-surgical-physiotherapy-management)
 
 ### Post-surgical orthopaedic rehab (hip/knee replacements, spine procedures)
 
 **Symptoms:** Pain, swelling, stiffness, weakness, difficulty with transfers or stairs.
 **Physio focus:** Edema control, early range of motion, strength progression, gait training with/without assistive devices, scar care education, and adherence to surgical precautions.
 
-For an overview of orthopaedic conditions managed via physiotherapy, see: [Orthopaedic conditions in Physiotherapy](https://physioatyourdoorstep.com/orthopaedic-conditions-in-physiotherapy/)
+For an overview of orthopaedic conditions managed via physiotherapy, see: [Orthopaedic conditions in Physiotherapy](/orthopaedic-conditions-in-physiotherapy)
 
 ### Pelvic floor dysfunction and incontinence in older adults
 
@@ -123,7 +123,7 @@ For an overview of orthopaedic conditions managed via physiotherapy, see: [Ortho
 - Gait analysis (speed, step length, foot clearance)
 - Environmental and fall-risk assessment at home
 
-For a full breakdown of what happens during a geriatric assessment, revisit: [Geriatric Physiotherapy Assessment](https://physioatyourdoorstep.com/geriatric-physiotherapy-assessment/)
+For a full breakdown of what happens during a geriatric assessment, revisit: [Geriatric Physiotherapy Assessment](/geriatric-physiotherapy-assessment)
 
 ### B) Clear, measurable goals
 
@@ -161,7 +161,7 @@ For a full breakdown of what happens during a geriatric assessment, revisit: [Ge
 - Ensure proper footwear—closed-heel, non-slip soles.
 - Review medications that cause dizziness; hydrate well.
 - Practice balance tasks daily and keep assistive devices within reach.
-- Consider joint support or taping during activity when indicated; read about safe [taping principles](https://physioatyourdoorstep.com/taping/) here: [https://physioatyourdoorstep.com/taping/](https://physioatyourdoorstep.com/taping/)
+- Consider joint support or taping during activity when indicated; read about safe [taping principles](/taping) here: [/taping/](/taping)
 
 ## Safety first: when to pause exercise and call your doctor
 
@@ -173,14 +173,14 @@ For a full breakdown of what happens during a geriatric assessment, revisit: [Ge
 
 ## How doorstep physiotherapy in Bangalore works
 
-**Step 1:** Schedule a home visit. Use the simple booking form and choose your preferred date/time: [Booking](https://physioatyourdoorstep.com/booking/)
+**Step 1:** Schedule a home visit. Use the simple booking form and choose your preferred date/time: [Booking](/booking)
 **Step 2:** A geriatric-specialist physiotherapist assesses you at home, sets goals, and initiates treatment.
 **Step 3:** You receive a personalized home program with progressive targets and regular follow-ups. Caregivers are coached for safe assistance.
 
-**Coverage**: Services are available across Bangalore neighborhoods. See the full list of service areas here: <https://physioatyourdoorstep.com/locations/>
-**Team expertise**: Learn about the clinicians who deliver this care: <https://physioatyourdoorstep.com/about-us/>
+**Coverage**: Services are available across Bangalore neighborhoods. See the full list of service areas here: </locations/>
+**Team expertise**: Learn about the clinicians who deliver this care: </about-us/>
 
-Want to explore more topics? Browse the latest physiotherapy articles and **resources**: <https://physioatyourdoorstep.com/blogs/>
+Want to explore more topics? Browse the latest physiotherapy articles and **resources**: </blogs/>
 
 ## Local SEO note for Bangalore seniors and families
 
@@ -218,7 +218,7 @@ Yes. Structured, cue-based, repetitive training improves mobility and reduces fa
 
 ### What’s the best exercise for knee osteoarthritis?
 
-There’s no single “best,” but consistent quadriceps and hip strengthening, cycling or walking as tolerated, and balance drills produce strong results. See this knee-specific guide for more ideas: <https://physioatyourdoorstep.com/knee-pain/>
+There’s no single “best,” but consistent quadriceps and hip strengthening, cycling or walking as tolerated, and balance drills produce strong results. See this knee-specific guide for more ideas: </knee-pain/>
 
 ### I’m afraid of falling. How can physio help quickly?
 
@@ -226,7 +226,7 @@ A therapist will test your balance and gait, recommend the right assistive devic
 
 ### Can I do physiotherapy after a stroke at home?
 
-Absolutely. Early, intensive, task-specific training drives neuroplasticity. Learn how physiotherapy supports neurological recovery: <https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/>
+Absolutely. Early, intensive, task-specific training drives neuroplasticity. Learn how physiotherapy supports neurological recovery: </physiotherapy-in-neurological-conditions/>
 
 ### Is pain normal during exercises?
 
@@ -234,16 +234,16 @@ Mild muscular soreness is common when starting, but sharp or joint pain isn’t.
 
 ### Do you offer support for chest or lung conditions?
 
-Yes. Programs include breathing exercises, pacing, endurance training, and safe activity progression. For pulmonary edema recovery details, visit: <https://physioatyourdoorstep.com/pulmonary-edema-physiotherapy/>
+Yes. Programs include breathing exercises, pacing, endurance training, and safe activity progression. For pulmonary edema recovery details, visit: </pulmonary-edema-physiotherapy/>
 
 ### I’ve had bypass surgery. Is it safe to exercise?
 
-With medical clearance and proper monitoring, graded cardiac rehab is strongly recommended. Here’s a detailed guide specific to CABG recovery: <https://physioatyourdoorstep.com/cabg-post-surgical-physiotherapy-management/>
+With medical clearance and proper monitoring, graded cardiac rehab is strongly recommended. Here’s a detailed guide specific to CABG recovery: </cabg-post-surgical-physiotherapy-management/>
 
 ### How do I choose between orthopaedics and physiotherapy?
 
-Orthopaedics diagnoses and manages medical/surgical aspects; physiotherapy restores movement and function non-invasively. Many seniors benefit from a joint approach. Learn the differences here: [https://physioatyourdoorstep.com/difference-between-orthopaedic-and-physiotherapy](https://physioatyourdoorstep.com/difference-between-orthopaedic-and-physiotherapy/)
+Orthopaedics diagnoses and manages medical/surgical aspects; physiotherapy restores movement and function non-invasively. Many seniors benefit from a joint approach. Learn the differences here: [/difference-between-orthopaedic-and-physiotherapy](/difference-between-orthopaedic-and-physiotherapy)
 
 ### Which areas in Bangalore do you cover?
 
-Most major neighborhoods are covered. Check your locality here: <https://physioatyourdoorstep.com/locations/>
+Most major neighborhoods are covered. Check your locality here: </locations/>

@@ -11,7 +11,7 @@ category: "Orthopaedic Physiotherapy"
 
 Rheumatoid arthritis (RA) is a chronic autoimmune condition that causes inflammation, pain, and joint stiffness. Unlike osteoarthritis, which results from wear and tear, RA occurs when the immune system mistakenly attacks the joints, leading to damage over time. Managing RA effectively requires a combination of medication, lifestyle modifications, and physiotherapy.
 
-Physiotherapy plays a crucial role in RA management by helping patients maintain mobility, reduce pain, and prevent joint deformities. With the right [physiotherapy approach](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/), individuals with RA can improve their quality of life and continue performing daily activities with less discomfort.
+Physiotherapy plays a crucial role in RA management by helping patients maintain mobility, reduce pain, and prevent joint deformities. With the right [physiotherapy approach](/service/orthopaedic-physiotherapy), individuals with RA can improve their quality of life and continue performing daily activities with less discomfort.
 
 In this article, we will explore how physiotherapy can benefit RA patients, the best techniques used, and how to incorporate these methods into daily life.
 
@@ -79,7 +79,7 @@ A combination of these methods often yields the best results for RA patients.
 - **Stretching and flexibility exercises** (e.g., yoga, tai chi)
 - **Strength training** (e.g., resistance bands, light weights)
 
-**Strengthening vs. Flexibility Exercises** [Strengthening exercises](https://physioatyourdoorstep.com/back-ache/) focus on improving muscle support around joints, while flexibility exercises prevent stiffness and maintain range of motion. A combination of both is ideal for RA patients.
+**Strengthening vs. Flexibility Exercises** [Strengthening exercises](/back-ache) focus on improving muscle support around joints, while flexibility exercises prevent stiffness and maintain range of motion. A combination of both is ideal for RA patients.
 
 ### Manual Therapy and Joint Mobilization
 

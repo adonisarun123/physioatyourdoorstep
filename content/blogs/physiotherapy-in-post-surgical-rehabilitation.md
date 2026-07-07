@@ -7,13 +7,13 @@ excerpt: "Surgery is often a necessary intervention for many health conditions, 
 coverImage: "/images/blog/physiotherapy-in-post-surgical-rehabilitation.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
-Surgery is often a necessary intervention for many health conditions, but the journey to complete recovery doesn't end when you leave the operating room. Post-surgical rehabilitation plays a vital role in ensuring optimal healing, restoring function, and helping patients return to their normal activities. At [Physio At Your Doorstep](https://physioatyourdoorstep.com/), we understand that proper physiotherapy following surgery can make the difference between merely recovering and thriving after a surgical procedure.
+Surgery is often a necessary intervention for many health conditions, but the journey to complete recovery doesn't end when you leave the operating room. Post-surgical rehabilitation plays a vital role in ensuring optimal healing, restoring function, and helping patients return to their normal activities. At [Physio At Your Doorstep](/), we understand that proper physiotherapy following surgery can make the difference between merely recovering and thriving after a surgical procedure.
 
 In this comprehensive guide, we'll explore how physiotherapy facilitates post-surgical rehabilitation, the techniques involved, recovery timelines, and practical advice for patients navigating their healing journey.
 
 ## Understanding Post-Surgical Rehabilitation
 
-[Post-surgical rehabilitation](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) refers to the structured process of helping patients recover physically and functionally after undergoing surgery. This specialized form of rehabilitation addresses the unique challenges that arise following surgical procedures, including:
+[Post-surgical rehabilitation](/service/post-surgical-physiotherapy) refers to the structured process of helping patients recover physically and functionally after undergoing surgery. This specialized form of rehabilitation addresses the unique challenges that arise following surgical procedures, including:
 
 - Managing pain and inflammation
 - Restoring mobility and range of motion
@@ -46,7 +46,7 @@ Perhaps most importantly, physiotherapy helps you regain your independence by im
 
 ### 5. Education and Self-Management
 
-[A good physiotherapist](https://physioatyourdoorstep.com/about-us/) doesn't just treat you—they educate you about your condition, the healing process, and how to manage your recovery. This empowers you to take an active role in your rehabilitation and make informed decisions about your health.
+[A good physiotherapist](/about-us) doesn't just treat you—they educate you about your condition, the healing process, and how to manage your recovery. This empowers you to take an active role in your rehabilitation and make informed decisions about your health.
 
 ## Common Surgeries Requiring Physiotherapy Rehabilitation
 
@@ -55,7 +55,7 @@ While virtually all surgeries can benefit from some form of physiotherapy, certa
 ### Orthopedic Surgeries
 
 - **Joint Replacements**: Hip, knee, and shoulder replacements require specialized protocols to ensure proper healing and function of the new joint.
-- **ACL Reconstruction**: Following anterior cruciate ligament repair, progressive rehabilitation is essential to [restore knee stability](https://physioatyourdoorstep.com/physiotherapy-for-knee-surgery/) and function.
+- **ACL Reconstruction**: Following anterior cruciate ligament repair, progressive rehabilitation is essential to [restore knee stability](/physiotherapy-for-knee-surgery) and function.
 - **Spinal Surgeries**: Procedures such as discectomy, laminectomy, or spinal fusion require careful rehabilitation to restore mobility while protecting the surgical site.
 - **Fracture Repairs**: After surgical fixation of fractures, physiotherapy helps restore strength and function to the affected limb.
 
@@ -65,7 +65,7 @@ While virtually all surgeries can benefit from some form of physiotherapy, certa
 - Heart Valve Replacements
 - Cardiac Transplantation
 
-### [Neurological Surgeries](https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/)
+### [Neurological Surgeries](/neurological-physiotherapy-exercises)
 
 - Brain Surgeries
 - Spinal Cord Surgeries
@@ -98,7 +98,7 @@ During this initial phase, our focus is on:
 
 - **Pain and swelling management**: Using techniques such as gentle manual therapy, modalities like ice or heat, and appropriate positioning.
 - **Protecting the surgical site**: Ensuring all activities are safe and don't compromise the healing process.
-- [**Gentle mobility exercises**](https://physioatyourdoorstep.com/physiotherapy-exercises-after-knee-surgery/): Introducing movement within safe parameters to prevent stiffness and complications.
+- [**Gentle mobility exercises**](/physiotherapy-exercises-after-knee-surgery): Introducing movement within safe parameters to prevent stiffness and complications.
 - **Patient education**: Teaching proper wound care, precautions, and early home exercises.
 
 ### Phase 2: Mobility and Basic Strengthening (Typically 2-6 Weeks Post-Surgery)
@@ -269,7 +269,7 @@ Post-surgical rehabilitation through physiotherapy is not merely an optional add
 
 At Physio At Your Doorstep, we're committed to providing evidence-based, compassionate care to support your journey from surgery to full recovery. Our home-based physiotherapy services are designed to make this journey as comfortable and successful as possible, bringing expert care directly to you when you need it most.
 
-If you're preparing for surgery or have recently undergone a procedure, we invite you to [contact us](https://physioatyourdoorstep.com/contact) to discuss how our post-surgical rehabilitation services can help you achieve the best possible outcome.
+If you're preparing for surgery or have recently undergone a procedure, we invite you to [contact us](/contact-us) to discuss how our post-surgical rehabilitation services can help you achieve the best possible outcome.
 
 *This article is meant for informational purposes only and does not constitute medical advice. Always consult with healthcare professionals regarding your specific medical condition and treatment options.*
 

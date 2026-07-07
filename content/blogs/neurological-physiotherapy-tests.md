@@ -214,7 +214,7 @@ Goal setting becomes collaborative and realistic based on objective measurements
 ## Why Choose Home-Based Neurological Physiotherapy?
 
 For individuals with significant neurological impairments, traveling to clinic appointments can be physically exhausting and logistically challenging.
-[Neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Neurological physiotherapy](/service/neurological-physiotherapy)
  delivered at home offers distinct advantages: assessment and treatment in your actual living environment, personalized attention without time constraints, reduced stress and fatigue from travel, and ability to involve family members in your rehabilitation process.
 
 Home-based assessment allows therapists to evaluate real-world functional challenges in your specific environment, identifying obstacles and safety concerns that wouldn’t be apparent in a clinic setting. This contextual understanding leads to more practical, relevant interventions that directly improve your daily function.
@@ -242,9 +242,9 @@ Neurological physiotherapy tests and subsequent treatments benefit individuals w
 : Systematic sensory testing in dermatomal and peripheral nerve distributions helps distinguish between different neuropathy types and guides appropriate management strategies.
 
 For specialized care addressing your specific neurological condition, our
-[geriatric physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[geriatric physiotherapy](/service/geriatric-physiotherapy)
  services help older adults maintain mobility and independence, while
-[post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[post-surgical physiotherapy](/service/post-surgical-physiotherapy)
  supports recovery following neurosurgical procedures.
 
 ## The Importance of Regular Re-Assessment
@@ -279,7 +279,7 @@ To get the most from your neurological physiotherapy assessment:
 At Physio at Your Doorstep, we understand that neurological conditions present unique challenges that extend beyond physical symptoms. Founded by Dr. Atharva Mishra, our specialized team brings expert neurological assessment and treatment directly to your home across Bangalore. Whether you’re in JP Nagar, BTM Layout, Koramangala, HSR Layout, Whitefield, or surrounding areas, professional neurological care is just a call away.
 
 Our comprehensive approach combines evidence-based assessment techniques with personalized treatment planning, ensuring you receive the highest quality care in the comfort of your home. We also offer
-[online physiotherapy](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[online physiotherapy](/service/online-physiotherapy-consultation-india)
  consultations for ongoing guidance and support between in-person sessions.
 
 ## Resources and References

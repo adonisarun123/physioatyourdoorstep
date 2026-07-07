@@ -28,15 +28,11 @@ Are you searching for the
 **Choosing home physiotherapy in Domlur offers key benefits:**
  it saves you precious time, delivers personalized care, and provides a safer recovery environment, all tailored to this neighborhood’s unique context.
 
-                                            **
-
 ### Convenience at Your Doorstep
 
 Domlur’s roads can be busy – especially near the Domlur (Airport Road) Flyover and the Domlur TTMC transit hub. Driving or commuting through these junctions with pain or mobility limits can be exhausting. When you book us, we come to
 *your doorstep*
  at a convenient time, eliminating the need to navigate peak-hour traffic or search for parking near Indiranagar or Domlur Layout.
-
-                                            **
 
 ### Personalized Treatment Plans
 
@@ -44,13 +40,9 @@ In-home sessions focus entirely on you, with
 **no distractions**
 . Your physiotherapist can thoroughly assess how you move in your actual home environment (e.g. getting up from your own sofa or climbing your staircase) to design the most effective exercises. This level of one-on-one care—hard to get in a busy clinic—is especially beneficial for Domlur patients.
 
-                                            **
-
 ### Safe, Hygienic & Comfortable
 
 Many patients recover more quickly when they’re at ease. Being in your own home—perhaps after a long day on 100 Feet Road or late-night work in Glassworks—helps you relax and focus. You can wear comfortable clothes, take breaks as needed, and even have family members present for support. Research suggests patients often stay more consistent with at-home rehab when they feel comfortable.
-
-                                            **
 
 ### Faster Recovery
 
@@ -62,47 +54,47 @@ Our qualified physiotherapists provide a
 **full spectrum of services at home**
 , addressing almost any condition that would usually require a clinic visit:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
 Regain strength and mobility safely after surgeries like knee or hip replacement, ACL reconstruction, shoulder repair, or spine surgery. We follow your surgeon’s rehab plan to restore function and reduce swelling/pain, all in the comfort of your Domlur home.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
 Treat chronic joint, muscle, and bone issues. Common cases include
 **back pain, neck pain, frozen shoulder, knee arthritis or meniscus injuries, sciatic pain, sprains, and fractures**
 . Many Domlur residents get posture-related pains from office work or long commutes.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
 Support for neurological conditions that affect movement and balance. This includes
 **stroke rehabilitation, Parkinson’s disease, multiple sclerosis, peripheral neuropathy, and spinal cord injuries**
 . Our neuro-specialists work with you to improve muscle control, walking, and daily function.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
 Recovery and conditioning tailored to athletes and active people. Domlur is near Indiranagar’s gyms, local sports clubs, and parks. We treat injuries like ankle sprains, ligament tears, runner’s knee, tendonitis (e.g. tennis elbow), shoulder strains, and more.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
 Compassionate care for older adults in Domlur. Conditions like knee/hip osteoarthritis, chronic back pain, balance disorders, or post-stroke issues are common among seniors here. Our gentle therapy sessions focus on improving mobility, flexibility, and safety for daily activities
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
 Home-based treatment for children with developmental or orthopedic issues. We work with infants and kids who have
 **developmental delays (late crawling or walking), cerebral palsy, torticollis, Down syndrome, muscular dystrophy**
 , or who are recovering from childhood injuries/surgeries.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -112,27 +104,19 @@ We’ve streamlined the process so you can start physiotherapy
 **easily and quickly**
  in Domlur:
 
-                                            **
-
 ### Book a Consultation
 
 Give us a call or book online with a few details (your condition, address in Domlur, preferred timing). Our coordinator will answer any initial questions and schedule the first visit at a convenient time for you.
 
-                                            **
-
 ### Assessment & Appointment
 
 We match you with the best physiotherapist for your needs. In the first home session, the therapist arrives on time (we often serve Domlur within 24 hours of booking) equipped with portable therapy tools (resistance bands, TheraRoller, TENS/ultrasound device, etc.).
-
-                                            **
 
 ### Customized Treatment Plan
 
 Based on the assessment, your therapist creates a
 **personalized rehabilitation plan**
 . They’ll explain the plan in clear terms – for example, gentle spine exercises if you have a herniated disc, or step-training drills if you’re recovering from hip surgery.
-
-                                            **
 
 ### Ongoing Support
 
@@ -142,33 +126,33 @@ Recovery is a journey, and we stay with you every step. At each follow-up visit,
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Domlur
 
@@ -198,17 +182,13 @@ Don’t let pain or mobility issues hold you back. Start your recovery with expe
 
 #### Info
 
-                                                                **
-
 +91 82337 87737
-
-                                                                **
 
 physioatyourdoorstep24x7@gmail.com
 
 #### Address
 
-        Sector 3, HSR Layout, Bangalore, 560102
+Sector 3, HSR Layout, Bangalore, 560102
 
 Your Name
 
@@ -224,17 +204,17 @@ Your Name
 
 ### Frequently Asked Question
 
-                [Is home physiotherapy in Domlur as effective as clinic-based physiotherapy?](#acc-m30k929-0)
+[Is home physiotherapy in Domlur as effective as clinic-based physiotherapy?](#acc-m30k929-0)
 
-        Absolutely. Home physiotherapy in Domlur** delivers the same quality and outcomes as clinic treatment, because our therapists are fully qualified and bring advanced equipment to you. In fact, many patients recover faster at home, since they can relax and do exercises without travel stress. You get one-on-one attention from a dedicated physio each session, which is often more than you’d receive in a busy clinic. We carry portable tools (TENS/ultrasound machines, resistance bands, etc.) so you won’t miss out on any therapies. If you ever need advanced support (like a clinic visit for specialized equipment), we’ll guide you — but most of the time, home therapy alone yields excellent results, especially given Domlur’s heavy traffic.
+Absolutely. Home physiotherapy in Domlur** delivers the same quality and outcomes as clinic treatment, because our therapists are fully qualified and bring advanced equipment to you. In fact, many patients recover faster at home, since they can relax and do exercises without travel stress. You get one-on-one attention from a dedicated physio each session, which is often more than you’d receive in a busy clinic. We carry portable tools (TENS/ultrasound machines, resistance bands, etc.) so you won’t miss out on any therapies. If you ever need advanced support (like a clinic visit for specialized equipment), we’ll guide you — but most of the time, home therapy alone yields excellent results, especially given Domlur’s heavy traffic.
 
-                [What conditions can be treated with physiotherapy at home in Domlur?](#acc-m30k929-1)
+[What conditions can be treated with physiotherapy at home in Domlur?](#acc-m30k929-1)
 
-        Our Domlur physiotherapists cover a wide range of conditions. We help with **post-surgery rehab** (knee/hip replacements, ACL repair, shoulder surgery, etc.), **orthopedic issues** (chronic back or neck pain, frozen shoulder, arthritis, joint sprains/strains), **neurological conditions** (stroke recovery, Parkinson’s, MS, etc.), **sports injuries** (sprains, ligament tears, tendonitis, runner’s knee, etc.), as well as **geriatric and pediatric** rehab. Essentially, any condition that you would normally see a physio for in a clinic can be handled at home by our experts. We tailor the treatment to your situation – for example, we design home exercise programs that use your own furniture or environment (stairs, walls) when appropriate. Living in Domlur, you might have injury from gym workouts, or pain from desk jobs, or age-related stiffness – our therapists are experienced in all of these. Whatever your age or ailment, we have a qualified therapist to help you heal at home.
+Our Domlur physiotherapists cover a wide range of conditions. We help with **post-surgery rehab** (knee/hip replacements, ACL repair, shoulder surgery, etc.), **orthopedic issues** (chronic back or neck pain, frozen shoulder, arthritis, joint sprains/strains), **neurological conditions** (stroke recovery, Parkinson’s, MS, etc.), **sports injuries** (sprains, ligament tears, tendonitis, runner’s knee, etc.), as well as **geriatric and pediatric** rehab. Essentially, any condition that you would normally see a physio for in a clinic can be handled at home by our experts. We tailor the treatment to your situation – for example, we design home exercise programs that use your own furniture or environment (stairs, walls) when appropriate. Living in Domlur, you might have injury from gym workouts, or pain from desk jobs, or age-related stiffness – our therapists are experienced in all of these. Whatever your age or ailment, we have a qualified therapist to help you heal at home.
 
-                [How can I find the best physiotherapist in Domlur for home visits?](#acc-m30k929-2)
+[How can I find the best physiotherapist in Domlur for home visits?](#acc-m30k929-2)
 
-        To find the **best physiotherapist in Domlur**, look for qualifications, experience, and patient reviews. Our team at Physio At Your Doorstep*
+To find the **best physiotherapist in Domlur**, look for qualifications, experience, and patient reviews. Our team at Physio At Your Doorstep*
  comprises Bangalore-licensed physiotherapists with BPT/MPT degrees and years of clinical experience. We often hear from clients that we have the “best physiotherapists in Domlur” because of our personalized care and track record of results. When you book with us, we’ll match you with the therapist who specializes in your needs (for example, an orthopedic-specialist for joint pain, or a neuro-specialist for stroke rehab). You can also ask for references – many Domlur residents recommend us through word-of-mouth. Rest assured, our staff are not only skilled clinicians but also very empathetic, ensuring you feel comfortable throughout your recovery.
 
 - [What are the charges for physiotherapy at home in Domlur?](#acc-m30k929-3) Home physiotherapy session charges in Bangalore, including Domlur, generally range around ₹500–₹800 per session. The exact price depends on factors like session duration, your condition’s complexity (e.g. neurological rehab may be costlier than a simple sprain), and package deals for multiple visits. By choosing home physio, you actually save on transportation costs and time. *Physio At Your Doorstep* believes in transparent pricing — when you contact us, we’ll explain the fees upfront based on your needs. For example, a basic post-injury rehab might be on the lower end per session, whereas a comprehensive post-surgical program could be higher. We also offer multi-session packages that reduce the per-session rate. Ultimately, home physiotherapy can be cost-effective, as you get expert care without extra travel expenses.

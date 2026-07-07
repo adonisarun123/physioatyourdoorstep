@@ -42,37 +42,37 @@ We offer comprehensive **physiotherapy at home in Jayanagar** for various condit
 
 Whether it's knee replacement, spinal surgery, or fracture recovery, we help you regain movement and strength at home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Back & Neck Pain Physiotherapy
 
 Our experts help working professionals, homemakers, and students relieve pain from poor posture, stress, or injuries.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Stroke & Neurological Rehabilitation
 
 We provide effective therapy for patients recovering from strokes or neurological disorders that promotes mobility and independence.
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Therapy
 
 From tennis elbow to ankle sprains, our therapists offer rehabilitation and recovery plans to get you back to action.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Elderly & Geriatric Physiotherapy
 
 We specialize in gentle physiotherapy for seniors with joint pain, balance problems, arthritis, and post-operative rehab.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 We work with children to improve movement and coordination through playful, developmental therapy sessions at home
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

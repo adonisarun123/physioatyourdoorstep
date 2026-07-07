@@ -19,69 +19,61 @@ Electronic City, located off Hosur Road in South Bangalore, is one of India’s 
 
 Choosing home physiotherapy in Electronic City comes with several key benefits for your health, convenience, and peace of mind:
 
-                                            **
-
 ### Convenience & Time-Saving
 
-            Skip the stress of Bangalore traffic and long clinic queues – we come to you. Electronic City residents know how much time can be lost in commuting on Hosur Road or searching for parking near hospitals. With our **doorstep physiotherapy**, you save valuable time and energy that you can instead invest in your recovery.
-
-                                            **
+Skip the stress of Bangalore traffic and long clinic queues – we come to you. Electronic City residents know how much time can be lost in commuting on Hosur Road or searching for parking near hospitals. With our **doorstep physiotherapy**, you save valuable time and energy that you can instead invest in your recovery.
 
 ### Personalized One-on-One Care
 
-            Home physiotherapy guarantees **personalized attention**. In a clinic, therapists often juggle multiple patients, but at home, you receive one-on-one focus. The physiotherapist tailors each session to *you* – addressing your specific injury, pain points, and goals
-
-                                            **
+Home physiotherapy guarantees **personalized attention**. In a clinic, therapists often juggle multiple patients, but at home, you receive one-on-one focus. The physiotherapist tailors each session to *you* – addressing your specific injury, pain points, and goals
 
 ### Safe & Hygienic Treatment
 
-            Choosing home physio means **safer, more hygienic care**, especially important in today’s health-conscious times. By avoiding busy clinics and hospital waiting rooms, you greatly **reduce your exposure to infections** and illnesses.This is a crucial benefit for seniors or anyone with reduced immunity
-
-                                            **
+Choosing home physio means **safer, more hygienic care**, especially important in today’s health-conscious times. By avoiding busy clinics and hospital waiting rooms, you greatly **reduce your exposure to infections** and illnesses.This is a crucial benefit for seniors or anyone with reduced immunity
 
 ### Faster Recovery in a Comfortable Environment
 
-            There’s nothing like recovering in the comfort and privacy of your own home. Being in a familiar, stress-free environment helps you relax and engage more fully in therapy. You can do your exercises in your living room or bedroom without the sterile atmosphere of a clinic
+There’s nothing like recovering in the comfort and privacy of your own home. Being in a familiar, stress-free environment helps you relax and engage more fully in therapy. You can do your exercises in your living room or bedroom without the sterile atmosphere of a clinic
 
 ## Physiotherapy Services Offered in Electronic City
 
-        **Physio At Your Doorstep** offers a comprehensive range of physiotherapy services at home to address various health conditions. Our Electronic City physiotherapists are experienced in multiple specialties, including:
+**Physio At Your Doorstep** offers a comprehensive range of physiotherapy services at home to address various health conditions. Our Electronic City physiotherapists are experienced in multiple specialties, including:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
-            Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain *right in your Electronic City home*.
+Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain *right in your Electronic City home*.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
-            Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries (like ACL/PCL sprains or cartilage tears), arthritis pain, sciatica, sports sprains, and fracture rehabilitation
+Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries (like ACL/PCL sprains or cartilage tears), arthritis pain, sciatica, sports sprains, and fracture rehabilitation
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
-            Rehabilitation for nerve, spine, and brain-related conditions. Our neuro physiotherapy at home is designed for patients recovering from stroke, living with Parkinson’s disease, multiple sclerosis (MS), spinal cord injuries, neuropathy or paralysis. These conditions require specialized, patient and compassionate therapy.
+Rehabilitation for nerve, spine, and brain-related conditions. Our neuro physiotherapy at home is designed for patients recovering from stroke, living with Parkinson’s disease, multiple sclerosis (MS), spinal cord injuries, neuropathy or paralysis. These conditions require specialized, patient and compassionate therapy.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
-            Recovery and conditioning for athletes and active individuals – right at home or on your apartment lawn/gym. Whether you’re a gym enthusiast, a weekend cricket player, or a marathon runner training around the Electronic City area, we can help treat and prevent sports-related injuries.
+Recovery and conditioning for athletes and active individuals – right at home or on your apartment lawn/gym. Whether you’re a gym enthusiast, a weekend cricket player, or a marathon runner training around the Electronic City area, we can help treat and prevent sports-related injuries.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
-            Specialized care for older adults, delivered with kindness and patience. We assist senior citizens in Electronic City with age-related issues such as chronic knee and back pain, osteoarthritis, joint stiffness, osteoporosis-related weakness, balance problems that increase fall risk, and post-stroke rehabilitation for elders
+Specialized care for older adults, delivered with kindness and patience. We assist senior citizens in Electronic City with age-related issues such as chronic knee and back pain, osteoarthritis, joint stiffness, osteoporosis-related weakness, balance problems that increase fall risk, and post-stroke rehabilitation for elders
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
-            Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including developmental delays in babies, cerebral palsy, muscular dystrophy, torticollis (wry neck in infants), delayed milestones , and rehabilitation after injuries or pediatric surgeries
+Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including developmental delays in babies, cerebral palsy, muscular dystrophy, torticollis (wry neck in infants), delayed milestones , and rehabilitation after injuries or pediatric surgeries
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -89,61 +81,53 @@ Choosing home physiotherapy in Electronic City comes with several key benefits f
 
 Getting started with professional at-home physiotherapy in Electronic City is simple and hassle-free:
 
-                                            **
-
 ### Book a Consultation
 
-            Reach out to us via phone or WhatsApp to schedule your first session. Let us know you are in **Electronic City** and briefly describe your physiotherapy needs or the condition you’re facing.
-
-                                            **
+Reach out to us via phone or WhatsApp to schedule your first session. Let us know you are in **Electronic City** and briefly describe your physiotherapy needs or the condition you’re facing.
 
 ### Assessment by a Physiotherapist
 
-            We will assign the best-suited physiotherapist for your specific condition, and they will visit your home at the scheduled time. In this first session, the therapist conducts a detailed **evaluation**: they will discuss your medical history and symptoms, assess your pain points, test your range of motion, muscle strength, and observe your posture or movement patterns.
-
-                                            **
+We will assign the best-suited physiotherapist for your specific condition, and they will visit your home at the scheduled time. In this first session, the therapist conducts a detailed **evaluation**: they will discuss your medical history and symptoms, assess your pain points, test your range of motion, muscle strength, and observe your posture or movement patterns.
 
 ### Personalized Treatment Plan
 
-            After the assessment, we create a customized therapy plan tailored to your needs and goals. Your physiotherapist will set clear rehabilitation objectives (such as “reduce shoulder pain enough to lift my arm overhead” or “strengthen knee to walk 30 minutes without pain”) and design a series of treatments to achieve them.
-
-                                            **
+After the assessment, we create a customized therapy plan tailored to your needs and goals. Your physiotherapist will set clear rehabilitation objectives (such as “reduce shoulder pain enough to lift my arm overhead” or “strengthen knee to walk 30 minutes without pain”) and design a series of treatments to achieve them.
 
 ### Ongoing Support & Progress Monitoring
 
-            Physiotherapy is not a one-off event but a journey, and we support you at every step. After your treatment plan is underway, your physiotherapist will **come for regular sessions** (e.g. multiple times a week as agreed) to carry out the exercises and therapies with you.
+Physiotherapy is not a one-off event but a journey, and we support you at every step. After your treatment plan is underway, your physiotherapist will **come for regular sessions** (e.g. multiple times a week as agreed) to carry out the exercises and therapies with you.
 
 ## Patient Testimonials & Success Stories
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Electronic City
 
@@ -171,17 +155,13 @@ Get expert physiotherapy at home in **Electronic City**and start your journey to
 
 #### Info
 
-                                                                **
-
 +91 82337 87737
-
-                                                                **
 
 physioatyourdoorstep24x7@gmail.com
 
 #### Address
 
-        Sector 3, HSR Layout, Bangalore, 560102
+Sector 3, HSR Layout, Bangalore, 560102
 
 Your Name
 

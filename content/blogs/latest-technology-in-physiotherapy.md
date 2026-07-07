@@ -33,7 +33,7 @@ The technology captures thousands of data points during movement assessment, cre
 Recent advances in physiotherapy include predictive modeling that helps forecast patient outcomes based on various factors such as injury type, patient demographics, treatment adherence, and historical data. These predictive tools enable therapists to set realistic recovery timelines and proactively adjust treatment strategies to prevent potential setbacks.
 
 AI-driven platforms can analyze vast amounts of clinical data to identify which interventions work best for specific conditions, helping therapists make evidence-based decisions faster. This technology is particularly valuable in
-[orthopedic physiotherapy](https://physioatyourdoorstep.com/)
+[orthopedic physiotherapy](/)
  where precise movement restoration is crucial for optimal recovery.
 
 ## Virtual Reality and Augmented Reality in Rehabilitation
@@ -45,7 +45,7 @@ Virtual reality (VR) and augmented reality (AR) have transitioned from gaming en
 VR technology creates fully immersive three-dimensional environments that can simulate real-world scenarios or create gamified exercise experiences. Patients recovering from stroke, traumatic brain injury, or musculoskeletal conditions can engage in therapy sessions that feel less like clinical exercises and more like interactive experiences.
 
 The immersive nature of VR helps distract patients from pain and discomfort, potentially reducing reliance on pain medications. Studies have shown that VR-based therapy can improve patient motivation and adherence, leading to better long-term outcomes. For patients receiving
-[neurological physiotherapy](https://physioatyourdoorstep.com/)
+[neurological physiotherapy](/)
 , VR offers opportunities to retrain neural pathways through repeated, varied practice in safe virtual environments.
 
 ### Augmented Reality for Enhanced Movement Feedback
@@ -63,7 +63,7 @@ The proliferation of wearable devices has created new possibilities for continuo
 Advanced wearable sensors can measure various biomechanical parameters including joint angles, acceleration, velocity, and force distribution. These devices attach to specific body parts and transmit real-time data to mobile applications or cloud-based platforms where therapists can review and analyze the information.
 
 For patients recovering from sports injuries or undergoing
-[sports physiotherapy](https://physioatyourdoorstep.com/)
+[sports physiotherapy](/)
 , wearable technology provides objective measurements of performance metrics such as running gait, jump mechanics, and throwing patterns. This data helps therapists fine-tune return-to-sport protocols and reduce reinjury risk.
 
 ### Continuous Health Monitoring
@@ -97,7 +97,7 @@ The expansion of telehealth has democratized access to quality physiotherapy ser
 High-definition video conferencing combined with screen-sharing capabilities allows physiotherapists to conduct thorough assessments and provide treatment guidance remotely. Therapists can observe movement patterns, provide verbal cues, and demonstrate exercises in real-time.
 
 Advanced platforms incorporate features like session recording, digital exercise libraries, and automated reminders to enhance treatment adherence. For individuals who prefer
-[physiotherapy at home](https://physioatyourdoorstep.com/about-us/)
+[physiotherapy at home](/about-us)
 , these digital solutions complement in-person visits, ensuring continuity of care and maximizing treatment effectiveness.
 
 ### AI-Powered Home Exercise Programs
@@ -169,7 +169,7 @@ These platforms appeal particularly to younger patients and those who find tradi
 Modern rehabilitation platforms incorporate social features that connect patients with similar conditions, creating support communities and friendly competition. Patients can share achievements, compare progress, and encourage each other through their recovery journeys.
 
 This social dimension addresses the psychological aspects of rehabilitation, combating feelings of isolation and maintaining motivation during challenging recovery periods. For patients receiving
-[pregnancy physiotherapy](https://physioatyourdoorstep.com/)
+[pregnancy physiotherapy](/)
  or managing chronic conditions, community support provides valuable emotional benefits alongside physical improvements.
 
 ## Data Analytics and Practice Management Systems
@@ -197,7 +197,7 @@ While many technological advances originated in clinic settings, the trend towar
 Portable versions of previously clinic-bound equipment allow physiotherapists to deliver advanced treatments during home visits. Compact electrical stimulation devices, portable ultrasound units, and wireless sensor systems enable comprehensive care without requiring clinic attendance.
 
 This mobility is particularly valuable for patients with transportation challenges, severe mobility limitations, or those who simply prefer receiving care at home. Services like
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
  are leveraging these technologies to provide clinic-quality care in the comfort of patients’ homes.
 
 ### Smart Home Integration

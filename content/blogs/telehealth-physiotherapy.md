@@ -43,11 +43,11 @@ Adherence to home exercise program (HEP); Pain intensity and irritability trends
 
 **Back and neck pain**: Education, posture strategies, load management, graded exercise. If your pain relates to posture or desk work, an online ergonomic assessment at your actual workstation can outperform clinic-based advice.
 
-**Knee osteoarthritis and knee pain**: Progressive strengthening, balance, and activity modification can be coached very effectively via video. For knee pain fundamentals, see our guide on [Knee Pain: Causes, Symptoms & Best Treatment Options](https://physioatyourdoorstep.com/knee-pain/)
+**Knee osteoarthritis and knee pain**: Progressive strengthening, balance, and activity modification can be coached very effectively via video. For knee pain fundamentals, see our guide on [Knee Pain: Causes, Symptoms & Best Treatment Options](/knee-pain)
 
 **Shoulder pain**: Range-of-motion drills, scapular control, and graded exposure to overhead activities.
 
-**Post-operative progressions (select phases):** Later-stage rehab that focuses on ROM, strength, gait, and functional training can be safely advanced online under therapist guidance. Headache and neck-related disorders: Exercise, posture cues, and trigger management are ideal for remote coaching. Learn more about [cervical-related headaches here](https://physioatyourdoorstep.com/cervicogenic-headache/)
+**Post-operative progressions (select phases):** Later-stage rehab that focuses on ROM, strength, gait, and functional training can be safely advanced online under therapist guidance. Headache and neck-related disorders: Exercise, posture cues, and trigger management are ideal for remote coaching. Learn more about [cervical-related headaches here](/cervicogenic-headache)
 
 **Sports injury return-to-play planning**: Telehealth check-ins for load progression, movement quality via video, and program updates. Pregnancy and early postnatal care (selected needs): Pelvic floor education, safe movement strategies, low-load strengthening, and pain management where appropriate.
 
@@ -110,7 +110,7 @@ Personalized home exercise program (with dosages, progressions, and video demos)
 **Low back pain**: Education and progressive loading are first-line treatments internationally and work extremely well by video. Neck pain and posture-related headache: Corrective drills, mobility, and workstation coaching.
 **Knee pain and OA**: Strengthening quads/hips, gait cues, and activity pacing.
 **Shoulder pain and impingement**: Scapulothoracic control, mobility, and graded overhead exposure.
-**Tendinopathies (Achilles, patellar, tennis/golfer’s elbow):** Load management and progressive strengthening with precise dosage. If taping is part of your plan, we can teach safe self-application and progression; read our [taping primer here](https://physioatyourdoorstep.com/taping/)
+**Tendinopathies (Achilles, patellar, tennis/golfer’s elbow):** Load management and progressive strengthening with precise dosage. If taping is part of your plan, we can teach safe self-application and progression; read our [taping primer here](/taping)
 
 ### Post-Surgical Rehabilitation (Selected Stages)
 
@@ -165,7 +165,7 @@ This approach reduces travel/time costs while maintaining clinical quality and c
 
 ## Booking a Telehealth Physiotherapy Session
 
-**Booking is simple:** Visit our booking page, select “[Online/Telehealth Physiotherapy](https://physioatyourdoorstep.com/booking/),” and choose your time: [https://physioatyourdoorstep.com/booking/](https://physioatyourdoorstep.com/booking/) You’ll receive a Google Meet link via email/WhatsApp. Join at your scheduled time; we’ll guide everything from there. For general information about our services and coverage areas, see our [home page](https://physioatyourdoorstep.com/)
+**Booking is simple:** Visit our booking page, select “[Online/Telehealth Physiotherapy](/booking),” and choose your time: [/booking/](/booking) You’ll receive a Google Meet link via email/WhatsApp. Join at your scheduled time; we’ll guide everything from there. For general information about our services and coverage areas, see our [home page](/)
 
 ## Practical Tips for Better Results
 
@@ -217,13 +217,13 @@ This article provides general information for educational purposes only and is n
 
 ## Internal resources (used above)
 
-- Home/brand: <https://physioatyourdoorstep.com/>
-- Booking: <https://physioatyourdoorstep.com/booking/>
-- Knee pain: <https://physioatyourdoorstep.com/knee-pain/>
-- Cervicogenic headache: <https://physioatyourdoorstep.com/cervicogenic-headache/>
-- Taping: <https://physioatyourdoorstep.com/taping/>
+- Home/brand: </>
+- Booking: </booking/>
+- Knee pain: </knee-pain/>
+- Cervicogenic headache: </cervicogenic-headache/>
+- Taping: </taping/>
 
-**Ready to book your telehealth session? Start here:** <https://physioatyourdoorstep.com/booking/>
+**Ready to book your telehealth session? Start here:** </booking/>
 
 ## Frequently Asked Questions (FAQs)
 
@@ -261,7 +261,7 @@ It depends on your condition and goals. Many patients begin weekly, progressing 
 
 ### Will you show me how to tape or use braces?
 
-When appropriate, yes—we demonstrate safe self-taping and brace use, and we’ll provide written/video instructions. For general taping insights, see our overview: <https://physioatyourdoorstep.com/taping/>
+When appropriate, yes—we demonstrate safe self-taping and brace use, and we’ll provide written/video instructions. For general taping insights, see our overview: </taping/>
 
 ### What if my pain worsens or I have new symptoms?
 
@@ -273,4 +273,4 @@ Often yes—especially for later-stage ROM and strengthening progressions, gait 
 
 ### Can telehealth help knee pain?
 
-Absolutely. Exercise therapy and load management are first-line treatments for knee pain and OA. Learn more: <https://physioatyourdoorstep.com/knee-pain/>
+Absolutely. Exercise therapy and load management are first-line treatments for knee pain and OA. Learn more: </knee-pain/>

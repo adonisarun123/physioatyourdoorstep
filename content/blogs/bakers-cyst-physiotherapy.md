@@ -704,7 +704,7 @@ Addressing root causes prevents Baker’s cyst recurrence.
 
 ***Arthritis Management:***
 
-- [Regular physiotherapy](https://physioatyourdoorstep.com/services/arthritis-management): Ongoing joint mobility and strength maintenance
+- [Regular physiotherapy](/service/orthopaedic-physiotherapy): Ongoing joint mobility and strength maintenance
 - Medication compliance: Following prescribed anti-inflammatory protocols
 - Activity modification: Balancing activity with joint protection
 - Weight management: Reducing load on affected joints
@@ -856,7 +856,7 @@ Bangalore:
 
 ## Related Services for Comprehensive Knee Health
 
-### [Knee Pain Physiotherapy](https://physioatyourdoorstep.com/knee-pain/)
+### [Knee Pain Physiotherapy](/knee-pain)
 
 Comprehensive management of all knee-related pain conditions:
 
@@ -865,7 +865,7 @@ Comprehensive management of all knee-related pain conditions:
 - Arthritis management and joint protection strategies
 - Sports-related knee injury recovery and prevention
 
-### [Arthritis Management and Joint Health](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+### [Arthritis Management and Joint Health](/service/orthopaedic-physiotherapy)
 
 Specialized care for arthritic conditions affecting the knee:
 
@@ -874,7 +874,7 @@ Specialized care for arthritic conditions affecting the knee:
 - Pain management and inflammation control
 - Exercise programs for maintaining joint mobility and function
 
-### [Sports Physiotherapy and Athletic Recovery](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+### [Sports Physiotherapy and Athletic Recovery](/service/sports-physiotherapy)
 
 Expert care for sports-related knee conditions and performance optimization:
 
@@ -883,7 +883,7 @@ Expert care for sports-related knee conditions and performance optimization:
 - Performance enhancement and biomechanical optimization
 - Recreational athlete support and guidance
 
-### [Post-Surgical Rehabilitation](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+### [Post-Surgical Rehabilitation](/service/post-surgical-physiotherapy)
 
 Comprehensive recovery programs for knee surgery patients:
 
@@ -892,7 +892,7 @@ Comprehensive recovery programs for knee surgery patients:
 - Ligament reconstruction rehabilitation
 - Accelerated recovery protocols for faster return to function
 
-### [Elderly Care and Geriatric Physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+### [Elderly Care and Geriatric Physiotherapy](/service/geriatric-physiotherapy)
 
 Specialized services for older adults with knee conditions:
 
@@ -901,7 +901,7 @@ Specialized services for older adults with knee conditions:
 - Chronic condition management and coordination
 - Family caregiver education and support
 
-### [Corporate Wellness and Ergonomic Assessment](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/)
+### [Corporate Wellness and Ergonomic Assessment](/service/corporate-wellness-physiotherapy-program)
 
 Workplace health programs focusing on knee health and injury prevention:
 
@@ -943,13 +943,13 @@ Home Treatment Advantages:
 
 ### Specialized Baker’s Cyst Services:
 
-Main Website: [physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
+Main Website: [physioatyourdoorstep.com](/)
 
-Knee Conditions: [Expert Knee Pain Management](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+Knee Conditions: [Expert Knee Pain Management](/service/orthopaedic-physiotherapy)
 
-Sports Injuries: [Athletic Recovery Programs](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+Sports Injuries: [Athletic Recovery Programs](/service/sports-physiotherapy)
 
-Senior Care: [Elderly-Focused Treatment](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+Senior Care: [Elderly-Focused Treatment](/service/geriatric-physiotherapy)
 
 ### Baker’s Cyst Specialization Package:
 

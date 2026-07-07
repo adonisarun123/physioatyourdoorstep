@@ -33,15 +33,11 @@ Are you searching for the
 
 Choosing home physiotherapy in Bellandur comes with several key benefits for your health, convenience, and peace of mind:
 
-                                            **
-
 ### Convenience & Time Saving
 
 Bellandur’s Outer Ring Road traffic can be notorious, especially during rush hour. With our home visits, you
 **skip the commute entirely**
 . No more battling congested roads or searching for parking near a clinic – our physiotherapist comes straight to your Bellandur home at a time that suits you.
-
-                                            **
 
 ### Personalized One-on-One Attention
 
@@ -51,8 +47,6 @@ When you opt for home physiotherapy, you receive
 **you**
 . Your physiotherapist can fully focus on your rehabilitation, carefully observing your movements and tailoring each session to your needs
 
-                                            **
-
 ### Safe & Elderly-Friendly Care
 
 Home physiotherapy offers a
@@ -60,8 +54,6 @@ Home physiotherapy offers a
  for care. By avoiding crowded waiting rooms and public transport, you greatly
 **reduce exposure to infections**
  – a crucial benefit for post-surgery patients, seniors, or anyone with lowered immunity.
-
-                                            **
 
 ### Comfort and Privacy of Home
 
@@ -73,52 +65,52 @@ There’s nothing like recovering in the
 
 Physio At Your Doorstep offers a comprehensive range of physiotherapy services at home to address various conditions. Our Bellandur physiotherapists are experienced in multiple specialties, including:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
 Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve had an operation, such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you
 **regain strength, restore joint mobility, and reduce pain**
  right in your Bellandur home
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
 Treatment for all kinds of bone, joint, and muscle issues. We provide relief and rehab for common orthopedic problems such as
 **chronic back pain, neck pain, frozen shoulder, knee injuries (ACL/PCL strains, meniscus tears), arthritis, sciatica, sprains, and fracture rehabilitation**
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions. We offer home therapy for
 **stroke recovery, Parkinson’s disease, multiple sclerosis (MS), spinal cord injuries, nerve damage, and paralysis**
 . Our physiotherapist will work patiently with you to improve mobility, balance, and overall daily function.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you’re a gym enthusiast at
 **Bellandur’s fitness centers**
 , a weekend football player, or a runner training around the Bellandur lake area, we can help treat and prevent sports-related injuries
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
 Specialized care for older adults, delivered with kindness and patience. We help senior citizens in Bellandur with age-related issues such as
 **chronic knee and back pain, osteoarthritis, joint stiffness, frozen shoulders, balance disorders, and post-stroke rehabilitation**
 .
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including
 **developmental delays, cerebral palsy, muscular dystrophy, torticollis, Down syndrome, and recovery after injuries or orthopedic surgeries**
  in children.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -126,15 +118,11 @@ Physiotherapy for infants, children, and teenagers, right at home. Our child-fri
 
 Getting started with at-home physiotherapy in Bellandur is simple:
 
-                                            **
-
 ### Book a Consultation
 
 Reach out to us via phone or through our website to
 **book an appointment**
 . Our coordinator will gather a few details about your condition, your location in Bellandur, and your preferred time slot.
-
-                                            **
 
 ### Home Visit & Assessment
 
@@ -142,15 +130,11 @@ We will assign the
 **best-suited physiotherapist**
  for your specific needs, and they will visit your home in Bellandur at the scheduled time. In the first session, the therapist conducts a thorough initial assessment: discussing your medical history and symptoms, measuring things like pain levels, range of motion, muscle strength, and balance, and observing your posture and movement.
 
-                                            **
-
 ### Treatment & Recovery
 
 Based on the assessment findings, we create a
 **personalized treatment plan**
  tailored to your goals and lifestyle. Your physiotherapist will explain the recommended therapy approach in simple terms, balance training if you’re at fall risk, or gait exercises after a stroke
-
-                                            **
 
 ### Ongoing Support
 
@@ -162,33 +146,33 @@ Now the regular therapy sessions begin according to your plan (perhaps
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Bellandur
 

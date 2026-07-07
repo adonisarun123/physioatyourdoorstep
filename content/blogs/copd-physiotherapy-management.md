@@ -81,7 +81,7 @@ Maximum inspiratory pressure (MIP) and maximum expiratory pressure (MEP) measure
 
 The **Barthel Index** quantifies independence in basic ADLs like bathing, dressing, and stair climbing. Disease-specific tools like the **St. George’s Respiratory Questionnaire** capture the impact of COPD on day-to-day life and emotional wellbeing.
 
-This comprehensive baseline assessment, repeated every two to four weeks, becomes the dashboard that guides every clinical decision. Patients can read more about the broader principles behind such evaluations in our blog on [Neurological Physiotherapy Tests for Patient Evaluation](https://physioatyourdoorstep.com/neurological-physiotherapy-tests/), which explains many of the same evidence-based assessment philosophies applied across physiotherapy specialties.
+This comprehensive baseline assessment, repeated every two to four weeks, becomes the dashboard that guides every clinical decision. Patients can read more about the broader principles behind such evaluations in our blog on [Neurological Physiotherapy Tests for Patient Evaluation](/neurological-physiotherapy-tests), which explains many of the same evidence-based assessment philosophies applied across physiotherapy specialties.
 
 ## Core COPD Physiotherapy Management Techniques
 
@@ -148,7 +148,7 @@ Skeletal muscle dysfunction is now recognized as a hallmark feature of COPD, not
 
 **Frequency:** 2 to 3 non-consecutive days per week **Intensity:** 60 to 70 percent of one-repetition maximum, progressing as tolerated **Time:** 2 to 4 sets of 8 to 12 repetitions **Type:** Major muscle groups, with priority on the legs (squats, sit-to-stands, leg press, step-ups), upper limbs (biceps curls, shoulder press), and core
 
-Patients who have undergone surgery or have complex post-operative recovery needs may benefit from the principles outlined in our [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) service, where progressive resistance training is similarly tailored to functional recovery.
+Patients who have undergone surgery or have complex post-operative recovery needs may benefit from the principles outlined in our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) service, where progressive resistance training is similarly tailored to functional recovery.
 
 ### Upper Limb Exercises
 
@@ -160,7 +160,7 @@ For patients with documented inspiratory muscle weakness (MIP less than 60 cmH2O
 
 ### Flexibility and Balance
 
-Stretching of the pectorals, hip flexors, hamstrings, and calves is included in every session to counter the postural changes of COPD. Balance training, particularly in older patients, reduces fall risk, which is significant given the high prevalence of comorbid osteoporosis. For older adults, our blog on [Geriatric Problems and Its Physiotherapy Management](https://physioatyourdoorstep.com/geriatric-problems-and-physiotherapy/) explores the synergies between balance, strength, and chronic disease management in detail.
+Stretching of the pectorals, hip flexors, hamstrings, and calves is included in every session to counter the postural changes of COPD. Balance training, particularly in older patients, reduces fall risk, which is significant given the high prevalence of comorbid osteoporosis. For older adults, our blog on [Geriatric Problems and Its Physiotherapy Management](/geriatric-problems-and-physiotherapy) explores the synergies between balance, strength, and chronic disease management in detail.
 
 ## Pulmonary Rehabilitation: The Structured Program
 
@@ -186,7 +186,7 @@ Home-based COPD physiotherapy offers several distinct advantages:
 - Sessions can be timed around medication peaks, meals, and energy levels
 - Travel-related fatigue is eliminated, allowing more energy for the actual workout
 
-For homebound, elderly, or post-hospital-discharge patients in Bangalore, services like [Physio at Your Doorstep](https://physioatyourdoorstep.com/) provide qualified physiotherapists who deliver structured pulmonary rehabilitation in the patient’s own home. Sessions integrate breathing retraining, airway clearance, supervised exercise, and family education, all wrapped into a single visit.
+For homebound, elderly, or post-hospital-discharge patients in Bangalore, services like [Physio at Your Doorstep](/) provide qualified physiotherapists who deliver structured pulmonary rehabilitation in the patient’s own home. Sessions integrate breathing retraining, airway clearance, supervised exercise, and family education, all wrapped into a single visit.
 
 ## Special Considerations: Comorbidities, Exacerbations, and Long-Term Care
 
@@ -229,7 +229,7 @@ For a 65-year-old patient with GOLD stage II COPD, the home-based week might loo
 
 COPD physiotherapy management is no longer a “nice-to-have” add-on to medications. It is a frontline, evidence-backed intervention recommended by every major respiratory guideline in 2026, including GOLD, ATS/ERS, ACSM, and the British Thoracic Society. A rigorous assessment, tailored breathing retraining, targeted airway clearance, individualised exercise prescription, and structured pulmonary rehabilitation can transform what feels like a slow, frightening decline into a manageable, active life.
 
-The greatest barrier most patients face is not the disease itself but access to consistent, expert care. That is exactly the gap that home-based services exist to fill. If you or a loved one is living with COPD in Bangalore and would like a personalised assessment and home-based pulmonary rehabilitation program, the experienced respiratory physiotherapists at [Physio at Your Doorstep](https://physioatyourdoorstep.com/) can help you take that first deep breath toward a fuller life. You can explore the dedicated [Pulmonary Physiotherapy service page](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) or [book an appointment](https://physioatyourdoorstep.com/booking/) to schedule an initial home visit.
+The greatest barrier most patients face is not the disease itself but access to consistent, expert care. That is exactly the gap that home-based services exist to fill. If you or a loved one is living with COPD in Bangalore and would like a personalised assessment and home-based pulmonary rehabilitation program, the experienced respiratory physiotherapists at [Physio at Your Doorstep](/) can help you take that first deep breath toward a fuller life. You can explore the dedicated [Pulmonary Physiotherapy service page](/service/pulmonary-physiotherapy) or [book an appointment](/booking) to schedule an initial home visit.
 
 ## Trusted Resources for Further Reading
 
@@ -266,7 +266,7 @@ A structured rehabilitation phase typically involves 2 to 3 supervised sessions 
 
 ### Can COPD physiotherapy be done at home?
 
-Yes, and the evidence supporting home-based pulmonary rehabilitation has grown significantly. Studies show that outcomes are comparable to centre-based programs when delivered by qualified physiotherapists. Home-based care also improves adherence because it eliminates travel-related barriers. Services such as [Physio at Your Doorstep](https://physioatyourdoorstep.com/) bring this level of care directly to patients across Bangalore.
+Yes, and the evidence supporting home-based pulmonary rehabilitation has grown significantly. Studies show that outcomes are comparable to centre-based programs when delivered by qualified physiotherapists. Home-based care also improves adherence because it eliminates travel-related barriers. Services such as [Physio at Your Doorstep](/) bring this level of care directly to patients across Bangalore.
 
 ### Do I need a doctor's referral before starting COPD physiotherapy?
 

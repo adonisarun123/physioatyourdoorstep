@@ -118,7 +118,7 @@ Understanding what to avoid is just as important as knowing what exercises to pe
 - **Limited deep knee flexion** in weight-bearing positions initially
 - **No impact activities** or jumping movements
 
-Our specialized [Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) services ensure you receive expert guidance through this critical early phase, with regular assessment and adjustment of your treatment plan.
+Our specialized [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) services ensure you receive expert guidance through this critical early phase, with regular assessment and adjustment of your treatment plan.
 
 ### Phase 2: Progressive Loading and Strength Building (Weeks 6-12)
 
@@ -150,7 +150,7 @@ As your PCL begins healing and symptoms improve, rehabilitation intensifies with
 
 **Swimming and pool exercises** may be introduced if you have access to aquatic facilities. The buoyancy of water supports your body weight while allowing full range of motion exercises. However, avoid breaststroke kicking which can stress the PCL.
 
-This phase benefits greatly from professional guidance, and our [Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) specialists can provide sport-specific programming for athletes.
+This phase benefits greatly from professional guidance, and our [Sports Physiotherapy](/service/sports-physiotherapy) specialists can provide sport-specific programming for athletes.
 
 ### Phase 3: Advanced Strengthening and Functional Training (Weeks 12-20)
 
@@ -232,7 +232,7 @@ Begin with single-plane movements (forward/backward, side-to-side) before progre
 - Figure-eight running patterns
 - Sport-specific footwork drills
 
-For individuals recovering from surgery, this timeline extends significantly, often requiring 6-9 months before full return to unrestricted activity. Our [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) program provides comprehensive support throughout the extended post-operative rehabilitation journey.
+For individuals recovering from surgery, this timeline extends significantly, often requiring 6-9 months before full return to unrestricted activity. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) program provides comprehensive support throughout the extended post-operative rehabilitation journey.
 
 ## Key Exercises for PCL Injury Rehabilitation
 
@@ -300,7 +300,7 @@ Recovery following PCL reconstruction typically requires 6-9 months of progressi
 
 **Return to Sport Phase (24+ weeks):** Gradual progression through running protocols, agility work, and sport-specific training. Return to unrestricted activity typically occurs between 9-12 months post-operatively once you meet all objective criteria.
 
-Our specialized [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) services provide comprehensive support throughout your entire post-operative journey, with regular assessment and protocol adjustments based on your healing progress.
+Our specialized [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) services provide comprehensive support throughout your entire post-operative journey, with regular assessment and protocol adjustments based on your healing progress.
 
 ## Preventing PCL Injuries and Re-Injury
 
@@ -436,7 +436,7 @@ At Physio at Your Doorstep, we understand the physical and emotional challenges 
 
 Whether you’re an athlete eager to return to competition, a professional needing to resume work duties, or someone simply wanting to enjoy pain-free movement in daily activities, we’re here to help you achieve your goals. Our home-based model provides unmatched convenience while delivering the same quality of care you’d receive in a clinic setting, with the added benefits of one-on-one attention and treatment in your actual living environment.
 
-Don’t let a PCL injury hold you back from the activities you love. Take the first step toward complete recovery by scheduling your comprehensive assessment with Physio at Your Doorstep today. Call +91 82337 87737 or visit our [booking page](https://physioatyourdoorstep.com/booking/) to arrange your personalized physiotherapy session.
+Don’t let a PCL injury hold you back from the activities you love. Take the first step toward complete recovery by scheduling your comprehensive assessment with Physio at Your Doorstep today. Call +91 82337 87737 or visit our [booking page](/booking) to arrange your personalized physiotherapy session.
 
 Remember, the quality of your rehabilitation directly influences your recovery outcome. Invest in expert care, commit to your program, and trust the process, your knee will thank you for it.
 
@@ -444,11 +444,11 @@ Remember, the quality of your rehabilitation directly influences your recovery o
 
 For more information about our services and related conditions, explore these resources:
 
-- [Orthopaedic Physiotherapy Services](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) – Comprehensive care for musculoskeletal conditions
-- [Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/) – Specialized treatment for athletic injuries
-- [Post Surgical Physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) – Expert rehabilitation following orthopedic surgery
-- [Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) – Virtual assessment and guidance
-- [About Our Services](https://physioatyourdoorstep.com/about-us/) – Learn more about Physio at Your Doorstep
+- [Orthopaedic Physiotherapy Services](/service/orthopaedic-physiotherapy) – Comprehensive care for musculoskeletal conditions
+- [Sports Physiotherapy](/service/sports-physiotherapy) – Specialized treatment for athletic injuries
+- [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) – Expert rehabilitation following orthopedic surgery
+- [Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india) – Virtual assessment and guidance
+- [About Our Services](/about-us) – Learn more about Physio at Your Doorstep
 
 ### Evidence-Based References
 

@@ -205,13 +205,13 @@ The key to successful treatment lies in proper assessment and selection of the m
 
 At Physio At Your Doorstep, our experienced physiotherapists are skilled in all these treatment modalities and can help determine the best approach for your individual needs. Our comprehensive assessment services ensure that you receive personalized treatment recommendations based on your specific condition and goals.
 
-If you’re considering physiotherapy treatment and want to learn more about how these modalities might benefit your condition, our team is here to help. We offer [convenient mobile physiotherapy services](https://physioatyourdoorstep.com/) that bring expert care directly to your location, making it easier than ever to access the treatment you need.
+If you’re considering physiotherapy treatment and want to learn more about how these modalities might benefit your condition, our team is here to help. We offer [convenient mobile physiotherapy services](/) that bring expert care directly to your location, making it easier than ever to access the treatment you need.
 
-For more information about our treatment options or to schedule a consultation, [contact our experienced team](https://physioatyourdoorstep.com/contact-us/) today. We’re committed to helping you understand your treatment options and achieve the best possible outcomes for your recovery.
+For more information about our treatment options or to schedule a consultation, [contact our experienced team](/contact-us) today. We’re committed to helping you understand your treatment options and achieve the best possible outcomes for your recovery.
 
 Remember, the most effective physiotherapy treatment is one that’s properly matched to your specific needs and delivered by qualified professionals who understand the nuances of each modality. Don’t hesitate to ask questions about your treatment options – understanding your care is an important step toward successful recovery.
 
-*For professional physiotherapy services featuring ICT/IFT, IPT, and other advanced treatment modalities, visit* [*Physio At Your Doorstep*](https://physioatyourdoorstep.com/)*. Our certified physiotherapists provide comprehensive care using evidence-based treatment approaches tailored to your individual needs.*
+*For professional physiotherapy services featuring ICT/IFT, IPT, and other advanced treatment modalities, visit* [*Physio At Your Doorstep*](/)*. Our certified physiotherapists provide comprehensive care using evidence-based treatment approaches tailored to your individual needs.*
 
 ## Frequently Asked Questions
 

@@ -12,9 +12,9 @@ category: "Post-Surgical Physiotherapy"
 
 ### Why Physiotherapy is Essential After Knee Surgery
 
-Recovering from [knee surgery](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) isn’t just about resting and waiting for your body to heal—it’s an active process that demands strategic rehabilitation. And that’s where physiotherapy becomes your best ally. Whether you’ve undergone a total knee replacement, ACL reconstruction, or meniscus repair, physiotherapy helps rebuild strength, restore range of motion, reduce swelling, and minimize pain.
+Recovering from [knee surgery](/service/orthopaedic-physiotherapy) isn’t just about resting and waiting for your body to heal—it’s an active process that demands strategic rehabilitation. And that’s where physiotherapy becomes your best ally. Whether you’ve undergone a total knee replacement, ACL reconstruction, or meniscus repair, physiotherapy helps rebuild strength, restore range of motion, reduce swelling, and minimize pain.
 
-Without proper physiotherapy, scar tissue can form, joints can stiffen, and the risk of complications increases dramatically. Most patients don’t realize that skipping or delaying physiotherapy can actually prolong the recovery process, sometimes by months. [Physiotherapists](https://physioatyourdoorstep.com/about-us/) guide you through every step, from getting out of bed safely in the hospital to climbing stairs with ease at home. They understand the intricacies of healing tissues, and their tailored programs are the difference between limping and walking confidently again.
+Without proper physiotherapy, scar tissue can form, joints can stiffen, and the risk of complications increases dramatically. Most patients don’t realize that skipping or delaying physiotherapy can actually prolong the recovery process, sometimes by months. [Physiotherapists](/about-us) guide you through every step, from getting out of bed safely in the hospital to climbing stairs with ease at home. They understand the intricacies of healing tissues, and their tailored programs are the difference between limping and walking confidently again.
 
 The goal of post-operative physiotherapy isn’t just healing—it’s regaining function and getting you back to the life you love, whether that’s jogging in the park, chasing after your kids, or returning to competitive sports.
 

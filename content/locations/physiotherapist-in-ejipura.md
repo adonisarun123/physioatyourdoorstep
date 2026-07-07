@@ -40,37 +40,37 @@ We provide a comprehensive range of **physiotherapy services at home in Ejipura*
 
 Guided recovery at home after surgeries so you can regain strength and mobility safely. If you've had an orthopedic surgery like a **knee replacement, hip surgery, ACL reconstruction, or shoulder operation**, our physiotherapist will help you with the prescribed exercises and pain management techniques right in your Ejipura home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for bones, joints, and muscle issues. We help with common problems such as chronic **back pain, neck pain, knee pain, shoulder injuries**, arthritis, sprains, and fracture rehab. Many Ejipura residents are office workers or students who experience posture-related pains – we provide ergonomic guidance and targeted exercises to relieve pain.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions, delivered at home. If you or a family member is recovering from a **stroke**, or managing conditions like **Parkinson's disease, multiple sclerosis, neuropathy, or cerebral palsy**. Our therapists focus on improving mobility, balance, and strength for neurological patients.
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Expert care for sports-related injuries and fitness enthusiasts. Whether you're a weekend football player at a nearby turf or a gym-goer in Koramangala, injuries like **ligament tears, muscle strains, tennis elbow, runner's knee, or ankle sprains** can happen. We provide sports physiotherapy at home to help you recover quickly and safely.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Gentle, specialized care for older adults. We help seniors in Ejipura improve mobility, balance, and overall strength right at home. **Age-related issues** like knee arthritis, osteoporosis, chronic back/joint pain, or post-stroke rehabilitation are managed with patience and expertise.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Fun, effective physiotherapy for infants, children, and teenagers in the comfort of home. Children might need physiotherapy for **developmental delays, cerebral palsy, muscular dystrophy, sports injuries, or after surgeries**. Our pediatric physios make sessions engaging and child-friendly, using playful exercises to help kids improve their motor skills, strength, and balance
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

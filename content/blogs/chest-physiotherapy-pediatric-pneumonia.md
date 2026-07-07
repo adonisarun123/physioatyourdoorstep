@@ -10,7 +10,7 @@ category: "Pediatric Physiotherapy"
 
 Pneumonia is one of the leading causes of hospitalization and mortality in children under five years of age worldwide. According to the World Health Organization, there are an estimated 120 million cases of pneumonia in children every year, and the condition accounts for a significant proportion of under-five deaths globally. For parents watching a child struggle to breathe, cough persistently, or run a prolonged fever, the experience is frightening and overwhelming.
 
-While antibiotics and supportive medical care remain the cornerstone of pneumonia treatment, **chest physiotherapy for pediatric pneumonia** has emerged as a valuable adjunct therapy that helps clear the airways, improve lung function, and support faster recovery. As a [home-based physiotherapy](https://physioatyourdoorstep.com/) service in Bangalore, we regularly see children whose recovery is significantly aided by timely and well-executed respiratory physiotherapy.
+While antibiotics and supportive medical care remain the cornerstone of pneumonia treatment, **chest physiotherapy for pediatric pneumonia** has emerged as a valuable adjunct therapy that helps clear the airways, improve lung function, and support faster recovery. As a [home-based physiotherapy](/) service in Bangalore, we regularly see children whose recovery is significantly aided by timely and well-executed respiratory physiotherapy.
 
 This guide walks you through everything a parent or caregiver needs to know about **pediatric chest physiotherapy**, including what it is, the techniques involved, when it helps, when to be cautious, and how home-based care can make a meaningful difference for your child.
 
@@ -41,7 +41,7 @@ Given how differently pneumonia presents and progresses in children compared to 
 
 ## Core Techniques in Pediatric Chest Physiotherapy
 
-A qualified [**pediatric physiotherapist**](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) will assess the child before deciding on the most appropriate combination of techniques. Here is an overview of the main chest physiotherapy methods used in children with pneumonia.
+A qualified [**pediatric physiotherapist**](/service/pediatric-physiotherapy) will assess the child before deciding on the most appropriate combination of techniques. Here is an overview of the main chest physiotherapy methods used in children with pneumonia.
 
 ### 1. Postural Drainage
 
@@ -130,7 +130,7 @@ For many children recovering from pneumonia, the transition from hospital to hom
 
 Home-based care offers several advantages for pediatric patients. Children are in their own familiar environment, which reduces anxiety and promotes cooperation. Parents and caregivers can be trained to perform simple supportive techniques under the supervision of a visiting physiotherapist, extending the benefit of each session. The child's comfort and emotional well-being during treatment improve considerably when they are not in a clinical setting.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our team of experienced physiotherapists provides home-based [pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) across Bangalore, including specialized [pulmonary physiotherapy](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) for children recovering from respiratory illness. We work closely with the child's treating pediatrician to ensure that our physiotherapy plan is aligned with the medical management and tailored to the child's specific lung segment involvement and clinical status.
+At [Physio at Your Doorstep](/), our team of experienced physiotherapists provides home-based [pediatric physiotherapy](/service/pediatric-physiotherapy) across Bangalore, including specialized [pulmonary physiotherapy](/service/pulmonary-physiotherapy) for children recovering from respiratory illness. We work closely with the child's treating pediatrician to ensure that our physiotherapy plan is aligned with the medical management and tailored to the child's specific lung segment involvement and clinical status.
 
 ## What to Expect During a Home Pediatric Physiotherapy Session for Pneumonia
 
@@ -162,7 +162,7 @@ In a city like Bangalore, changing seasons, indoor air quality, and high populat
 
 For families in areas like JP Nagar, BTM Layout, HSR Layout, Koramangala, Whitefield, Jayanagar, and other parts of Bangalore, access to home-based specialized physiotherapy can reduce the need for prolonged hospital stays and repeated emergency visits. Our physiotherapy team is available across these areas to support children through respiratory illness recovery without the added stress of hospital visits.
 
-If you are looking for specialized respiratory or [pulmonary physiotherapy](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) for your child at home, or want to know more about our broader [pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) services, our team is just a call away.
+If you are looking for specialized respiratory or [pulmonary physiotherapy](/service/pulmonary-physiotherapy) for your child at home, or want to know more about our broader [pediatric physiotherapy](/service/pediatric-physiotherapy) services, our team is just a call away.
 
 ## Integrating Chest Physiotherapy with Other Treatments
 
@@ -202,7 +202,7 @@ Not every physiotherapist has specialized training in pediatric respiratory tech
 - Willingness to educate and involve parents in the treatment process
 - Experience with children who may resist or become anxious during treatment
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our physiotherapists combine clinical expertise with a gentle, child-friendly approach that prioritizes both effectiveness and the child's emotional comfort. We also offer [online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) for initial assessments and follow-ups, making expert guidance accessible from the convenience of your home.
+At [Physio at Your Doorstep](/), our physiotherapists combine clinical expertise with a gentle, child-friendly approach that prioritizes both effectiveness and the child's emotional comfort. We also offer [online physiotherapy consultation](/service/online-physiotherapy-consultation-india) for initial assessments and follow-ups, making expert guidance accessible from the convenience of your home.
 
 ## Resources and References
 
@@ -212,7 +212,7 @@ At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our physiothera
 4. StatPearls. Postural Drainage and Vibration. NCBI Bookshelf. 2024. Available at: https://www.ncbi.nlm.nih.gov/books/NBK604210/
 5. World Health Organization. Pneumonia in children. Available at: https://www.who.int/news-room/fact-sheets/detail/pneumonia
 
-*If your child is recovering from pneumonia or experiencing recurrent respiratory illness, our team at Physio at Your Doorstep is here to help. We offer specialized [pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/) and [pulmonary physiotherapy](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) at your home across Bangalore. [Book an appointment](https://physioatyourdoorstep.com/booking/) today or reach us at +91 82337 87737 for same-day consultations.*
+*If your child is recovering from pneumonia or experiencing recurrent respiratory illness, our team at Physio at Your Doorstep is here to help. We offer specialized [pediatric physiotherapy](/service/pediatric-physiotherapy) and [pulmonary physiotherapy](/service/pulmonary-physiotherapy) at your home across Bangalore. [Book an appointment](/booking) today or reach us at +91 82337 87737 for same-day consultations.*
 
 ## Frequently Asked Questions
 

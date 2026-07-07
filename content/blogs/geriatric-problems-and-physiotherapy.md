@@ -45,7 +45,7 @@ Falls represent one of the most serious threats to elderly independence and safe
 - Environmental hazards such as poor lighting, uneven surfaces, or loose rugs
 - Chronic conditions affecting stability like Parkinson’s disease or peripheral neuropathy
 
-**Physiotherapy Management:** Comprehensive fall prevention programs include balance training exercises, strength conditioning, gait retraining, and functional movement training. Evidence-based programs like the [Otago Exercise Programme](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) have demonstrated 35-40% reduction in fall rates among elderly participants through structured home-based interventions.
+**Physiotherapy Management:** Comprehensive fall prevention programs include balance training exercises, strength conditioning, gait retraining, and functional movement training. Evidence-based programs like the [Otago Exercise Programme](/service/geriatric-physiotherapy) have demonstrated 35-40% reduction in fall rates among elderly participants through structured home-based interventions.
 
 ### 2. Arthritis and Joint Pain
 
@@ -63,13 +63,13 @@ Osteoporosis, characterized by decreased bone mineral density and increased frac
 
 Stroke incidence increases dramatically with age, often resulting in hemiparesis, balance impairment, gait abnormalities, and reduced functional independence. Other neurological conditions like Parkinson’s disease, multiple sclerosis, and peripheral neuropathy also commonly affect the geriatric population.
 
-**Physiotherapy Management:** [Neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) employs specialized techniques including neurodevelopmental approaches, task-specific training, constraint-induced movement therapy, and functional electrical stimulation. Gait retraining, balance exercises, and activities of daily living (ADL) training help maximize recovery and functional independence.
+**Physiotherapy Management:** [Neurological physiotherapy](/service/neurological-physiotherapy) employs specialized techniques including neurodevelopmental approaches, task-specific training, constraint-induced movement therapy, and functional electrical stimulation. Gait retraining, balance exercises, and activities of daily living (ADL) training help maximize recovery and functional independence.
 
 ### 5. Chronic Obstructive Pulmonary Disease (COPD) and Respiratory Conditions
 
 COPD affects approximately 12% of older adults aged 65 and above, causing breathing difficulties, reduced exercise tolerance, and decreased quality of life. Chronic bronchitis and emphysema are the primary conditions within this category.
 
-**Physiotherapy Management:** [Pulmonary physiotherapy](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) includes breathing exercises, airway clearance techniques, endurance training, and energy conservation strategies. Pursed-lip breathing, diaphragmatic breathing, and graded exercise programs significantly improve respiratory function and exercise capacity.
+**Physiotherapy Management:** [Pulmonary physiotherapy](/service/pulmonary-physiotherapy) includes breathing exercises, airway clearance techniques, endurance training, and energy conservation strategies. Pursed-lip breathing, diaphragmatic breathing, and graded exercise programs significantly improve respiratory function and exercise capacity.
 
 ### 6. Cardiovascular Disease and Cardiac Rehabilitation
 
@@ -85,7 +85,7 @@ Type 2 diabetes affects approximately 24% of older adults, often leading to comp
 
 ### 8. Post-Surgical Rehabilitation
 
-Elderly individuals frequently undergo surgical procedures including joint replacements (hip and knee), cardiac surgeries, and orthopedic procedures. [Post-surgical recovery](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) in geriatric patients requires specialized care due to slower healing rates and increased complication risks.
+Elderly individuals frequently undergo surgical procedures including joint replacements (hip and knee), cardiac surgeries, and orthopedic procedures. [Post-surgical recovery](/service/post-surgical-physiotherapy) in geriatric patients requires specialized care due to slower healing rates and increased complication risks.
 
 **Physiotherapy Management:** Early mobilization, progressive strengthening exercises, range of motion activities, scar tissue management, and functional training facilitate optimal surgical outcomes. Physiotherapists design age-appropriate recovery protocols considering individual comorbidities and functional goals.
 
@@ -193,7 +193,7 @@ Convenience and comfort of home-based care typically result in better treatment 
 
 ### Orthogeriatric Care
 
-[Orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) for elderly patients addresses musculoskeletal conditions including fractures, joint replacements, and degenerative conditions. Collaborative care models integrating geriatricians, orthopedic surgeons, and physiotherapists optimize surgical outcomes and functional recovery.
+[Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy) for elderly patients addresses musculoskeletal conditions including fractures, joint replacements, and degenerative conditions. Collaborative care models integrating geriatricians, orthopedic surgeons, and physiotherapists optimize surgical outcomes and functional recovery.
 
 ### Frailty Management
 
@@ -272,7 +272,7 @@ Geriatric exercise programs must prioritize safety while promoting improvement:
 
 Emerging technologies enhance physiotherapy delivery and outcomes:
 
-- **Telehealth services:** [Virtual consultations](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) provide remote assessment, exercise instruction, and progress monitoring
+- **Telehealth services:** [Virtual consultations](/service/online-physiotherapy-consultation-india) provide remote assessment, exercise instruction, and progress monitoring
 - **Wearable devices:** Activity trackers and fall detection systems promote safety and monitor compliance
 - **Virtual reality:** Engaging balance and cognitive training through immersive experiences
 - **Video analysis:** Gait and movement pattern assessment for precise intervention targeting

@@ -17,7 +17,7 @@ If you or someone you care for has just received this diagnosis, you are not alo
 , and starting it early can make a decisive difference to your outcome.
 
 This guide covers everything you need to know about avascular necrosis physiotherapy treatment — from understanding the condition at each stage to the best exercises,
-[home physiotherapy](https://physioatyourdoorstep.com/home-physiotherapist-in-jayanagar/)
+[home physiotherapy](/home-physiotherapist-in-jayanagar)
  benefits, recovery timelines, and when to seek expert care.
 
 ## What Is Avascular Necrosis (AVN)?
@@ -42,7 +42,7 @@ Understanding what triggers AVN helps both in prevention and in designing an app
 
 **Long-term Steroid Use:**
  Prolonged use of corticosteroids — often prescribed for conditions like
-[rheumatoid arthritis](https://physioatyourdoorstep.com/physiotherapy-for-rheumatoid-arthritis/)
+[rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis)
 , asthma, or autoimmune disorders — can lead to fat deposits forming inside blood vessels, restricting blood flow to bone tissue.
 
 **Excessive Alcohol Consumption:**
@@ -90,7 +90,7 @@ While physiotherapy cannot reverse bone death that has already occurred, it perf
 
 **Pain Relief:**
  Through modalities such as
-[ultrasound therapy](https://physioatyourdoorstep.com/latest-technology-in-physiotherapy/)
+[ultrasound therapy](/latest-technology-in-physiotherapy)
 , TENS (Transcutaneous Electrical Nerve Stimulation), and targeted manual therapy, physiotherapy provides meaningful, drug-free pain relief.
 
 **Joint Preservation:**
@@ -108,7 +108,7 @@ While physiotherapy cannot reverse bone death that has already occurred, it perf
  For patients who do undergo surgery, physiotherapy is the cornerstone of recovery. It restores strength, gait, and functional independence.
 
 At
-[Physio At Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio At Your Doorstep](/)
 , our experienced physiotherapists design personalised AVN rehabilitation programmes delivered in the comfort of your home — removing the challenge of commuting when mobility is already compromised.
 
 ## Stage-Wise Physiotherapy Approach for AVN
@@ -198,7 +198,7 @@ Your physiotherapist at Physio At Your Doorstep will customise this programme ba
 
 ## Non-Surgical vs. Surgical Treatment for AVN: What You Need to Know
 
-<table><tbody><tr><td> </td><td><p><b>Non-Surgical (Including Physiotherapy)</b></p></td><td><p><b>Surgical</b></p></td></tr><tr><td><p><b>Best for</b></p></td><td><p><span>Stage 1 and 2 AVN; some Stage 3 patients</span></p></td><td><p><span>Stage 3–4 with collapse</span></p></td></tr><tr><td><p><b>Goal</b></p></td><td><p><span>Preserve joint, slow progression</span></p></td><td><p><span>Replace or reconstruct joint</span></p></td></tr><tr><td><p><b>Recovery time</b></p></td><td><p><span>Ongoing management, months of rehab</span></p></td><td><p><span>3–12 months post-surgery</span></p></td></tr><tr><td><p><b>Pain relief</b></p></td><td><p><span>Gradual</span></p></td><td><p><span>Significant post-recovery</span></p></td></tr><tr><td><p><b>Joint preservation</b></p></td><td><p><span>Yes</span></p></td><td><p><span>Depends on procedure</span></p></td></tr><tr><td><p><b>Examples</b></p></td><td><p><span>Physiotherapy, TENS, ESWT, medications, activity modification</span></p></td><td><p><span>Core decompression, osteotomy, total hip replacement</span></p></td></tr></tbody></table>
+<table><tbody><tr><td> </td><td><b>Non-Surgical (Including Physiotherapy)</b></td><td><b>Surgical</b></td></tr><tr><td><b>Best for</b></td><td>Stage 1 and 2 AVN; some Stage 3 patients</td><td>Stage 3–4 with collapse</td></tr><tr><td><b>Goal</b></td><td>Preserve joint, slow progression</td><td>Replace or reconstruct joint</td></tr><tr><td><b>Recovery time</b></td><td>Ongoing management, months of rehab</td><td>3–12 months post-surgery</td></tr><tr><td><b>Pain relief</b></td><td>Gradual</td><td>Significant post-recovery</td></tr><tr><td><b>Joint preservation</b></td><td>Yes</td><td>Depends on procedure</td></tr><tr><td><b>Examples</b></td><td>Physiotherapy, TENS, ESWT, medications, activity modification</td><td>Core decompression, osteotomy, total hip replacement</td></tr></tbody></table>
 
 Non-surgical management, with physiotherapy at its centre, is the preferred first-line approach for early-stage AVN. Surgical options become necessary when the joint has collapsed significantly and the bone can no longer be preserved.
 
@@ -228,7 +228,7 @@ At Physio At Your Doorstep, we bring expert physiotherapy directly to your home 
  Particularly relevant for elderly patients or those in post-surgical recovery, staying home eliminates exposure to clinic-associated risks.
 
 Whether you are in Bengaluru, Mumbai, Delhi, Hyderabad, Chennai, or Pune, our network of qualified physiotherapists brings hospital-quality care to your living room.
-[Book your home physiotherapy session today.](https://physioatyourdoorstep.com/contact-us/)
+[Book your home physiotherapy session today.](/contact-us)
 
 ## Recovery Timeline and Prognosis
 
@@ -259,7 +259,7 @@ You should seek physiotherapy assessment without delay if:
 - A family member has been diagnosed with AVN and needs guidance on home care and exercise
 
 Early physiotherapy assessment does not commit you to a lengthy programme. It gives you a clear picture of where you stand, what is reversible, and what steps will protect your long-term mobility.
-[Consult an expert physiotherapist from Physio At Your Doorstep](https://physioatyourdoorstep.com/contact-us/)
+[Consult an expert physiotherapist from Physio At Your Doorstep](/contact-us)
  and get a personalised assessment at home.
 
 ## Prevention and Lifestyle Tips for Joint Health
@@ -290,7 +290,7 @@ While not all cases of AVN are preventable, you can meaningfully reduce your ris
 ## References and Further Reading
 
 - Saklecha AV, et al. *Effect of physiotherapy rehabilitation on stage 4 avascular necrosis of femur following pyogenic arthritis: a case report.* Pan African Medical Journal. 2022;41(17). [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8895557/)
-- Lespasio MJ, Sodhi N, Mont MA. *Osteonecrosis of the hip: a primer.* The Permanente Journal. 2019;23:18-100. **Matthews AH, Davis DD, Fish MJ, Stitson D. Avascular Necrosis. StatPearls Publishing, 2021.[NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK546658/)Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE. The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review. Journal of Bone and Joint Surgery. 2010;92(12):2165-2170.Karim R. Exercise program useful in enhancing patient improvement rates after AVN. Orthopaedic Research Society, referenced in Pan African Medical Journal, 2022.Max Healthcare India. Avascular Necrosis: Symptoms, Causes and Treatment.[maxhealthcare.in](https://www.maxhealthcare.in/our-specialities/orthopaedics/conditions-treatments/avascular-necrosis)This article is authored by the clinical team at[Physio At Your Doorstep](https://physioatyourdoorstep.com/) for informational purposes. It does not constitute medical advice. Always consult a qualified healthcare professional for diagnosis and treatment decisions specific to your condition.Ready to start your recovery journey from the comfort of your home?** [Book a Home Physiotherapy Session](https://physioatyourdoorstep.com/) | [Consult an Expert Today](https://physioatyourdoorstep.com/) *Physio At Your Doorstep — Bringing Expert Care to You, Wherever You Are in India.* ## Frequently Asked Questions ## [Can physiotherapy cure avascular necrosis completely?](#acc-tj3q908-0) Physiotherapy cannot reverse bone tissue that has already died. However, it can significantly slow the progression of AVN, relieve pain, improve joint function, and in early stages, prevent the condition from advancing to the point where surgery is necessary. For many patients — especially those diagnosed at Stage 1 or 2 — physiotherapy forms the backbone of a successful long-term management plan
+- Lespasio MJ, Sodhi N, Mont MA. *Osteonecrosis of the hip: a primer.* The Permanente Journal. 2019;23:18-100. **Matthews AH, Davis DD, Fish MJ, Stitson D. Avascular Necrosis. StatPearls Publishing, 2021.[NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK546658/)Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE. The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review. Journal of Bone and Joint Surgery. 2010;92(12):2165-2170.Karim R. Exercise program useful in enhancing patient improvement rates after AVN. Orthopaedic Research Society, referenced in Pan African Medical Journal, 2022.Max Healthcare India. Avascular Necrosis: Symptoms, Causes and Treatment.[maxhealthcare.in](https://www.maxhealthcare.in/our-specialities/orthopaedics/conditions-treatments/avascular-necrosis)This article is authored by the clinical team at[Physio At Your Doorstep](/) for informational purposes. It does not constitute medical advice. Always consult a qualified healthcare professional for diagnosis and treatment decisions specific to your condition.Ready to start your recovery journey from the comfort of your home?** [Book a Home Physiotherapy Session](/) | [Consult an Expert Today](/) *Physio At Your Doorstep — Bringing Expert Care to You, Wherever You Are in India.* ## Frequently Asked Questions ## [Can physiotherapy cure avascular necrosis completely?](#acc-tj3q908-0) Physiotherapy cannot reverse bone tissue that has already died. However, it can significantly slow the progression of AVN, relieve pain, improve joint function, and in early stages, prevent the condition from advancing to the point where surgery is necessary. For many patients — especially those diagnosed at Stage 1 or 2 — physiotherapy forms the backbone of a successful long-term management plan
 
 - [How many physiotherapy sessions are needed for AVN?](#acc-tj3q908-1) The number of sessions depends on the stage of AVN, your current functional level, and your treatment goals. Most patients benefit from 2–3 sessions per week in the initial phase, tapering to maintenance sessions over time. A personalised assessment from a physiotherapist will give you a clearer picture based on your specific condition.
 

@@ -97,9 +97,9 @@ Cervical Spine Disorders: Neck-related problems have increased dramatically with
 
 ***Common Cervical Conditions:***
 
-- [Cervical disc prolapse and herniation](https://physioatyourdoorstep.com/physiotherapy-for-cervical-disc-prolapse/)
+- [Cervical disc prolapse and herniation](/physiotherapy-for-cervical-disc-prolapse)
 - Cervical spondylosis and arthritis
-- [Neck pain and stiffness](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+- [Neck pain and stiffness](/service/orthopaedic-physiotherapy)
 - Whiplash injuries
 - Torticollis and muscle spasms
 - Cervical radiculopathy
@@ -627,7 +627,7 @@ Occupational Health Programs: Many companies in Bangalore, Mumbai, and Delhi now
 
 ***Program Components:***
 
-- [Workplace ergonomics assessment](https://physioatyourdoorstep.com/corporate-wellness-physical-therapy/)
+- [Workplace ergonomics assessment](/corporate-wellness-physical-therapy)
 - Employee education on injury prevention
 - Regular health screenings and assessments
 - On-site physiotherapy services
@@ -711,7 +711,7 @@ Wide Range of Orthopaedic Conditions: We treat virtually all musculoskeletal dis
 
 ***Condition Categories:***
 
-- [Spinal disorders and back pain](https://physioatyourdoorstep.com/services/back-pain-physiotherapy)
+- [Spinal disorders and back pain](/service/orthopaedic-physiotherapy)
 - Joint problems including arthritis and injuries
 - Muscle and tendon disorders
 - Sports-related injuries and rehabilitation
@@ -763,28 +763,28 @@ Telemedicine Support: Continuous care through remote monitoring and consultation
 
 ### Integrated Musculoskeletal Health Services
 
-[Comprehensive Back Pain Management](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/):
+[Comprehensive Back Pain Management](/service/orthopaedic-physiotherapy):
 
 - Lower back pain and disc problems
 - Upper back and thoracic spine conditions
 - Postural correction and ergonomic training
 - Work-related back injury prevention
 
-**[Specialized Neck Pain Treatment](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/):**
+**[Specialized Neck Pain Treatment](/service/orthopaedic-physiotherapy):**
 
 - Cervical spine disorders and disc problems
 - Whiplash and trauma-related neck injuries
 - Tech neck and postural-related conditions
 - Headache and TMJ disorder management
 
-**[Sports Injury Rehabilitation](https://physioatyourdoorstep.com/service/sports-physiotherapy/):**
+**[Sports Injury Rehabilitation](/service/sports-physiotherapy):**
 
 - Acute sports injury management
 - Return-to-sport protocols and testing
 - Performance enhancement training
 - Injury prevention and conditioning programs
 
-**[Post-Surgical Rehabilitation:](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)**
+**[Post-Surgical Rehabilitation:](/service/post-surgical-physiotherapy)**
 
 - Joint replacement recovery programs
 - Arthroscopic surgery rehabilitation
@@ -793,7 +793,7 @@ Telemedicine Support: Continuous care through remote monitoring and consultation
 
 ### Preventive and Wellness Services
 
-**[Workplace Ergonomics and Health](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/):**
+**[Workplace Ergonomics and Health](/service/corporate-wellness-physiotherapy-program):**
 
 - Comprehensive workstation assessments
 - Corporate wellness program development
@@ -807,7 +807,7 @@ Telemedicine Support: Continuous care through remote monitoring and consultation
 - Osteoporosis prevention and management
 - Hormonal influence on musculoskeletal health
 
-**[Geriatric Care and Fall Prevention](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/):**
+**[Geriatric Care and Fall Prevention](/service/geriatric-physiotherapy):**
 
 - Age-related musculoskeletal changes
 - Balance training and fall prevention
@@ -846,11 +846,11 @@ Ready to transform your musculoskeletal health? Book your comprehensive orthopae
 
 ### Contact Information and Booking:
 
-Website: [physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
+Website: [physioatyourdoorstep.com](/)
 
-Book Online: [Schedule Your Assessment](https://physioatyourdoorstep.com/booking/)
+Book Online: [Schedule Your Assessment](/booking)
 
-Corporate Services: [Workplace Wellness Programs](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/)
+Corporate Services: [Workplace Wellness Programs](/service/corporate-wellness-physiotherapy-program)
 
 ### Service Coverage Across India:
 

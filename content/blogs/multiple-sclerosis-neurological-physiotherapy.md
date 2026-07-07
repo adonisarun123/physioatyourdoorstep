@@ -50,7 +50,7 @@ Key reasons neurological physiotherapy is essential in MS management include:
  
 
 Our
-[neurological physiotherapy service](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy service](/service/neurological-physiotherapy)
  in Bangalore is designed specifically to address the multifaceted symptoms of conditions like MS, providing individualized care delivered in the comfort of your home.
 
 ## Common MS Symptoms That Neurological Physiotherapy Addresses
@@ -108,7 +108,7 @@ Specific balance training protocols, such as the Berg Balance Scale-guided exerc
 ### Respiratory Physiotherapy
 
 As MS progresses, respiratory muscles can weaken, reducing breathing efficiency and contributing to fatigue. Respiratory physiotherapy techniques, including diaphragmatic breathing exercises and respiratory muscle training, help maintain lung capacity. Our
-[pulmonary physiotherapy service](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/)
+[pulmonary physiotherapy service](/service/pulmonary-physiotherapy)
  provides integrated respiratory support for MS patients experiencing breathing-related symptoms.
 
 ## The Case for Home-Based MS Physiotherapy in Bangalore
@@ -130,7 +130,7 @@ Home-based physiotherapy for MS offers several distinct advantages over clinic-b
  
 
 At Physio at Your Doorstep, our expert neurological physiotherapists visit you across Bangalore, including areas such as Koramangala, HSR Layout, Whitefield, JP Nagar, BTM Layout, and Jayanagar. You can
-[book a home physiotherapy appointment](https://physioatyourdoorstep.com/booking/)
+[book a home physiotherapy appointment](/booking)
  and have a qualified neuro physio assess and treat your MS-related needs in your own space.
 
 ## What to Expect in Your First MS Physiotherapy Assessment
@@ -154,7 +154,7 @@ A comprehensive initial assessment is the foundation of effective MS physiothera
  
 
 For patients who need objective neurological evaluation tools before or alongside physiotherapy, our team can guide you on relevant
-[neurological physiotherapy tests](https://physioatyourdoorstep.com/neurological-physiotherapy-tests/)
+[neurological physiotherapy tests](/neurological-physiotherapy-tests)
  that help map your current functional status accurately.
 
 ## A Sample Home Exercise Program for MS Patients
@@ -226,7 +226,7 @@ Starting physiotherapy at the time of diagnosis, even when symptoms are mild, he
 MS is best managed by an interprofessional team. The physiotherapist works alongside neurologists, occupational therapists, speech therapists, psychologists, and nurses to address the full spectrum of MS symptoms. While the neurologist manages disease-modifying therapy and monitors lesion burden via MRI, the physiotherapist focuses on the lived, functional impact of those lesions.
 
 For older patients or those with significant physical limitations, our team can complement MS physiotherapy with support from our
-[geriatric physiotherapy specialists](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[geriatric physiotherapy specialists](/service/geriatric-physiotherapy)
 , who are experienced in managing the intersection of age-related physical changes and chronic neurological conditions.
 
 ## How to Choose the Right Neurological Physiotherapist for MS in Bangalore
@@ -266,9 +266,9 @@ Living with multiple sclerosis presents daily challenges, but with the right neu
 Whether you are navigating a new diagnosis, managing a progressive form of MS, or recovering from a recent relapse, physiotherapy at home in Bangalore offers a compassionate, evidence-based, and highly convenient path toward maintaining the independence and quality of life you deserve.
 
 Ready to take the next step?
-[Explore our neurological physiotherapy services](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Explore our neurological physiotherapy services](/service/neurological-physiotherapy)
  or
-[book your first home appointment today](https://physioatyourdoorstep.com/booking/)
+[book your first home appointment today](/booking)
 .
 
 ## Frequently Asked Questions
@@ -285,4 +285,4 @@ Ready to take the next step?
 
 - [Does physiotherapy at home work as well as clinic-based physiotherapy for MS?](#acc-mxnx0-5) Research supports that home-based physiotherapy for MS is as effective as clinic-based care for most patients, and in some cases more effective because of greater consistency, reduced travel burden, and the ability to practice exercises in the real-life context of the patient’s home. For MS patients with moderate to severe mobility limitations, home-based physiotherapy is often the more practical and clinically appropriate choice.
 
-- [How do I book a neurological physiotherapy session for MS in Bangalore?](#acc-mxnx0-6) You can book a home physiotherapy session with Physio at Your Doorstep by visiting our [online booking page](https://physioatyourdoorstep.com/booking/) , calling us at +91 82337 87737, or messaging us on WhatsApp. We offer same-day appointments across major areas of Bangalore and will match you with a physiotherapist experienced in neurological conditions and MS rehabilitation.
+- [How do I book a neurological physiotherapy session for MS in Bangalore?](#acc-mxnx0-6) You can book a home physiotherapy session with Physio at Your Doorstep by visiting our [online booking page](/booking) , calling us at +91 82337 87737, or messaging us on WhatsApp. We offer same-day appointments across major areas of Bangalore and will match you with a physiotherapist experienced in neurological conditions and MS rehabilitation.

@@ -25,27 +25,19 @@ Kudlu is a rapidly growing residential locality situated just off Hosur Road nea
 
 Choosing physiotherapy in Kudlu with Physio At Your Doorstep comes with several key benefits for your health, convenience, and peace of mind:
 
-                                            **
-
 ### Convenience & Time-Saving with Home Visits
 
 Skip the hassle of fighting through Kudlu Gate traffic or Hosur Road congestion just to get to a clinic. Instead of spending time on the road or searching for parking near a hospital, our physiotherapist comes straight to your home.
 
-                                            **
-
 ### Personalized One-on-One Attention
 
 When you opt for our physiotherapy services in Kudlu, you receive undivided one-on-one attention from an expert therapist. In a home setting, there are no other patients or clinic distractions – it’s all about you. 
-
-                                            **
 
 ### Safe & Hygienic Treatment
 
 With home physiotherapy, you get to rehabilitate in a clean, familiar environment –
 **your own home**
  – rather than in a crowded clinic. This greatly reduces exposure to outside infections or illnesses, an important consideration for post-surgery patients, seniors, or anyone with lowered immunity.
-
-                                            **
 
 ### Experienced & Expert Therapists
 
@@ -57,41 +49,41 @@ Your health is in the hands of
 
 Physio At Your Doorstep offers a comprehensive range of physiotherapy services to address various health conditions. Our Kudlu physiotherapists are experienced in multiple specialties, including:
 
-### [Post-Surgery Rehabilitation](https://themify.org)
+### Post-Surgery Rehabilitation
 
 Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain right in your Kudlu home.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
-### [Orthopedic Physiotherapy](https://themify.org)
+### Orthopedic Physiotherapy
 
 Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries, arthritis pain, sciatica, sprains, and fracture rehabilitation. Through targeted exercises, manual therapy, and pain-relief modalities
 
-                        [Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
-### [Neurological Physiotherapy](https://themify.org)
+### Neurological Physiotherapy
 
 Rehabilitation for nerve, spine, and brain-related conditions. We offer home therapy for stroke recovery, Parkinson’s disease, spinal cord injuries, neuropathies, and paralysis rehabilitation. Our neuro-physiotherapist will work patiently with you to improve mobility, balance, and overall daily function.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
-### [Sports Injury Rehabilitation](https://themify.org)
+### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you’re a gym enthusiast, a weekend cricketer, or a runner training around the Kudlu/HSR Layout area, we can help treat and prevent sports-related injuries. We address issues like ligament tears, muscle strains, tennis elbow, runner’s knee, ankle sprains, and more.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
-### [Geriatric Physiotherapy](https://themify.org)
+### Geriatric Physiotherapy
 
 Specialized care for older adults, delivered with kindness and patience. We assist senior citizens in Kudlu with age-related issues such as chronic knee and back pain, osteoarthritis, joint stiffness, and balance problems that increase fall risk. Our gentle geriatric physiotherapy sessions at home help improve mobility, strength, and confidence in daily activities.
 
-                        [Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
-### [Pediatric Physiotherapy](https://themify.org)
+### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, torticollis (tight neck muscles in babies), delayed milestones (such as late crawling or walking), and recovery after injuries or orthopedic surgeries
 
-                        [Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 
@@ -99,27 +91,19 @@ Physiotherapy for infants, children, and teenagers, right at home. Our child-fri
 
 Getting started with at-home physiotherapy in Kudlu is simple and hassle-free:
 
-                                            **
-
 ### Book a Consultation
 
 Reach out to us via phone or WhatsApp to schedule your first session. Let us know you are in
 **Kudlu**
  and briefly describe your physiotherapy needs or the condition you’re facing.
 
-                                            **
-
 ### Assessment & Appointment
 
 We will assign the best-suited physiotherapist for your specific condition, and they will visit your home in Kudlu at the scheduled time. In this first session, the therapist conducts a detailed evaluation of your condition
 
-                                            **
-
 ### Treatment & Recovery
 
 After the assessment, we create a customized therapy plan tailored to your needs and goals. Your physiotherapist will explain the recommended treatment approach – whether it involves specific exercises, manual therapy techniques, posture correction, or therapeutic modalities – and the frequency of sessions likely needed.
-
-                                            **
 
 ### Ongoing Support
 
@@ -129,33 +113,33 @@ Now the regular therapy sessions begin. Your physiotherapist will come to your h
 
 ### See what our satisfied patients have to say:
 
-                            Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
+Atharv has immense knowledge about physiotherapy and brings great expertise while treating his patients. He understands that every patient is different and requires different kind of care. All I can say is that he is truly one of the best in the field! Please give him a try
 
 Rajkumari Jain
 
 ### See what our satisfied patients have to say:
 
-                            Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
+Dr. Athrav is very helpful and knowledgeable. He is also approachable, and I would highly recommend him for physiotherapy.
 
 Priyanshu Gupta
 
 ### See what our satisfied patients have to say:
 
-                            I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
+I consulted Dr. Atharva again after my physio for my mother in law and I must say that he is the best out there. He consulted my MIL after her double knee replacement and from the 8th day itself we could see her improvement. Not just physically he also helped her physiologically and also suggested home remedies to ease her pain. He is really good at his work and would definitely recommend him.
 
 Rishi Verma
 
-                                                                            County Road Association
+County Road Association
 
 ### Optional Title
 
-                            Testimonial content
+Testimonial content
 
 John Smith
 
 CEO
 
-                                                                            X-corporation
+X-corporation
 
 ## Coverage Areas in and around Kudlu
 

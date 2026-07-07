@@ -52,30 +52,18 @@ The treatment includes physical therapy, stretching exercises, shoe inserts, ana
 
 ### Plantar Fascitis- Self Care Tips
 
-                                                                **
-
 Maintain a healthy weight. Carrying extra weight can put extra stress on your plantar fascia.
-
-                                                                **
 
 Choose appropriate shoes.
 
-                                                                **
-
 Don’t wear worn-out athletic shoes.
-
-                                                                **
 
 Change your Sport.
 
-                                                                **
-
 Apply RICE protocol.
-
-                                                                **
 
 Stretch your arches regularly.
 
-        Many treatment options exist, including rest, stretching, strengthening, change of shoes, arch supports, orthotics, night splints.
+Many treatment options exist, including rest, stretching, strengthening, change of shoes, arch supports, orthotics, night splints.
 
 Plantar fasciitis is diagnosed based on your medical history and physical examination.

@@ -68,7 +68,7 @@ Research consistently demonstrates that physiotherapy is highly effective for ma
 
 ### Comprehensive Assessment and Personalized Treatment
 
-When you consult with a physiotherapist experienced in [pregnancy care](https://physioatyourdoorstep.com/service/physiotherapy-in-pregnancy/), the journey begins with a thorough assessment. Your physiotherapist will evaluate your posture, movement patterns, muscle strength, joint stability, and pain triggers to create a customized treatment plan tailored to your specific needs and pregnancy stage.
+When you consult with a physiotherapist experienced in [pregnancy care](/service/physiotherapy-in-pregnancy), the journey begins with a thorough assessment. Your physiotherapist will evaluate your posture, movement patterns, muscle strength, joint stability, and pain triggers to create a customized treatment plan tailored to your specific needs and pregnancy stage.
 
 ### Therapeutic Exercise Programs
 
@@ -202,7 +202,7 @@ Many women wonder when the right time is to seek physiotherapy care. The answer 
 
 ## The Benefits of Home-Based Physiotherapy Services
 
-At Physio At Your Doorstep, we understand that traveling to appointments can be challenging during pregnancy, especially when dealing with pain and fatigue. Our [home-based physiotherapy services](https://physioatyourdoorstep.com/) offer several advantages:
+At Physio At Your Doorstep, we understand that traveling to appointments can be challenging during pregnancy, especially when dealing with pain and fatigue. Our [home-based physiotherapy services](/) offer several advantages:
 
 **Convenience and Comfort**: Receive professional treatment in the comfort of your own home, eliminating travel stress and allowing you to rest immediately after sessions.
 
@@ -330,7 +330,7 @@ Your physiotherapist will design a program appropriate for your current fitness 
 
 **Can physiotherapy help with other pregnancy-related issues?**
 
-Yes, physiotherapy can address various pregnancy-related conditions including carpal tunnel syndrome, symphysis pubis dysfunction, sciatica, and [post-surgical rehabilitation](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) if you’ve had previous cesarean sections.
+Yes, physiotherapy can address various pregnancy-related conditions including carpal tunnel syndrome, symphysis pubis dysfunction, sciatica, and [post-surgical rehabilitation](/service/post-surgical-physiotherapy) if you’ve had previous cesarean sections.
 
 ## The Role of Partner Support
 
@@ -389,14 +389,14 @@ For additional information about pregnancy-related health and wellness, consider
 
 Explore our comprehensive range of physiotherapy services designed to support your health needs:
 
-- [Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/): For joint and muscle conditions
-- [Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/): For active individuals and athletes
-- [Geriatric Physiotherapy](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/): Specialized care for older adults
-- [Online Physiotherapy](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/): Virtual consultations for your convenience
+- [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy): For joint and muscle conditions
+- [Sports Physiotherapy](/service/sports-physiotherapy): For active individuals and athletes
+- [Geriatric Physiotherapy](/service/geriatric-physiotherapy): Specialized care for older adults
+- [Online Physiotherapy](/service/online-physiotherapy-consultation-india): Virtual consultations for your convenience
 
 **Ready to experience relief from pregnancy back pain and cramping?**
 
-Contact Physio At Your Doorstep today to schedule your personalized home-based physiotherapy consultation. Our experienced team is ready to help you enjoy a more comfortable, active pregnancy.    📧 Email: physioatyourdoorstep24x7@gmail.com  🌐 Visit: [www.physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
+Contact Physio At Your Doorstep today to schedule your personalized home-based physiotherapy consultation. Our experienced team is ready to help you enjoy a more comfortable, active pregnancy.    📧 Email: physioatyourdoorstep24x7@gmail.com  🌐 Visit: [www.physioatyourdoorstep.com](/)
 
 *Serving areas across Bangalore including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and more.*
 

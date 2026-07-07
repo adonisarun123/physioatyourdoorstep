@@ -11,9 +11,9 @@ category: "Neurological Physiotherapy"
 
 Neurological conditions affect millions of people worldwide, significantly impacting daily functioning and quality of life. Whether stemming from stroke, traumatic brain injury, Parkinson's disease, multiple sclerosis, or other conditions affecting the nervous system, the path to recovery often involves specialized neurological physiotherapy. At the heart of effective neurological rehabilitation lies a thorough and precise neurological assessment – the crucial first step in developing a personalized treatment plan tailored to each patient's specific needs.
 
-At [Physio at your Doorstep](https://physioatyourdoorstep.com/), we understand that a comprehensive neurological assessment forms the foundation of successful rehabilitation outcomes. This detailed evaluation process allows our physiotherapists to identify specific impairments, establish baseline measurements, set realistic goals, and create evidence-based treatment strategies that address the root causes of functional limitations.
+At [Physio at your Doorstep](/), we understand that a comprehensive neurological assessment forms the foundation of successful rehabilitation outcomes. This detailed evaluation process allows our physiotherapists to identify specific impairments, establish baseline measurements, set realistic goals, and create evidence-based treatment strategies that address the root causes of functional limitations.
 
-In this comprehensive guide, we'll explore the critical components of neurological assessment physiotherapy, demonstrating why this systematic approach is essential for patients with [neurological conditions](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/). We'll examine the scientific principles behind these assessments, the various techniques employed, and how the results inform targeted treatment plans that maximize recovery potential and improve quality of life.
+In this comprehensive guide, we'll explore the critical components of neurological assessment physiotherapy, demonstrating why this systematic approach is essential for patients with [neurological conditions](/physiotherapy-in-neurological-conditions). We'll examine the scientific principles behind these assessments, the various techniques employed, and how the results inform targeted treatment plans that maximize recovery potential and improve quality of life.
 
 ## Understanding Neurological Assessment in Physiotherapy
 
@@ -42,7 +42,7 @@ Neurological conditions present unique challenges that require specialized asses
 4. **It establishes realistic expectations**: By understanding the nature and extent of neurological impairment, physiotherapists can set achievable goals and provide realistic timelines for recovery.
 5. **It facilitates interdisciplinary communication**: Comprehensive assessment results provide valuable information to share with other healthcare professionals involved in the patient's care.
 
-At [Physio at your Doorstep](https://physioatyourdoorstep.com/), our specialized neurological assessments form the cornerstone of our evidence-based approach to neurological rehabilitation, ensuring that each patient receives care tailored to their specific needs and recovery potential.
+At [Physio at your Doorstep](/), our specialized neurological assessments form the cornerstone of our evidence-based approach to neurological rehabilitation, ensuring that each patient receives care tailored to their specific needs and recovery potential.
 
 ## The Neurological Assessment Process
 
@@ -66,14 +66,14 @@ The neurological assessment begins with a thorough subjective evaluation, which 
    - Medications and their effects
 5. **Personal and Family History:**
    - Family history of neurological conditions
-   - Lifestyle factors (activity level, [exercise habits](https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/))
+   - Lifestyle factors (activity level, [exercise habits](/neurological-physiotherapy-exercises))
    - Alcohol or tobacco use
    - Impact of condition on work, relationships, and quality of life
 6. **Patient Goals and Expectations:**
    - Understanding what matters most to the patient
    - Identifying specific activities they wish to resume or improve
 
-This detailed subjective assessment allows our physiotherapists at [Physio at your Doorstep](https://physioatyourdoorstep.com/contact/) to understand the full context of the patient's condition, ensuring that the subsequent objective assessment and treatment plan align with their specific needs, circumstances, and goals.
+This detailed subjective assessment allows our physiotherapists at [Physio at your Doorstep](/contact-us) to understand the full context of the patient's condition, ensuring that the subsequent objective assessment and treatment plan align with their specific needs, circumstances, and goals.
 
 ### The Objective Assessment Component
 
@@ -366,7 +366,7 @@ Education is a vital component of the assessment process. Helping patients and t
    - Involving patients and families in goal setting
    - Incorporating personal priorities into the rehabilitation plan
 
-Our physiotherapists at [Physio at your Doorstep](https://physioatyourdoorstep.com/) excel in communicating complex neurological concepts in accessible ways, ensuring patients and families become informed partners in the rehabilitation process.
+Our physiotherapists at [Physio at your Doorstep](/) excel in communicating complex neurological concepts in accessible ways, ensuring patients and families become informed partners in the rehabilitation process.
 
 ## From Assessment to Treatment: Neurological Rehabilitation Approaches
 
@@ -482,7 +482,7 @@ A thorough neurological assessment is not merely a preliminary step in the rehab
 4. **Enhanced Patient Understanding**: Helping patients comprehend the nature of their condition and the purpose of treatment approaches.
 5. **Interprofessional Communication**: Providing detailed information to facilitate coordination among all healthcare providers involved in the patient's care.
 
-At [Physio at your Doorstep](https://physioatyourdoorstep.com/contact/), our experienced neurological physiotherapists excel in the art and science of comprehensive neurological assessment. We understand that time invested in thorough initial and ongoing assessment leads to more efficient, effective rehabilitation outcomes and improved quality of life for our patients with neurological conditions.
+At [Physio at your Doorstep](/contact-us), our experienced neurological physiotherapists excel in the art and science of comprehensive neurological assessment. We understand that time invested in thorough initial and ongoing assessment leads to more efficient, effective rehabilitation outcomes and improved quality of life for our patients with neurological conditions.
 
 If you or a loved one is experiencing neurological challenges, contact our team to learn how our detailed assessment approach can form the foundation for a successful rehabilitation journey.
 
@@ -497,7 +497,7 @@ If you or a loved one is experiencing neurological challenges, contact our team 
 7. Physiopedia. (2021). Neurological Assessment. Retrieved from <https://www.physio-pedia.com/Neurological_Assessment>
 8. Shahrokhi, M., et al. (2023). Neurologic Exam. StatPearls. Retrieved from <https://www.ncbi.nlm.nih.gov/books/NBK557589/>
 
-For more information about our neurological physiotherapy services, please visit [Physio at your Doorstep](https://physioatyourdoorstep.com/) or contact our team directly to schedule a comprehensive neurological assessment.
+For more information about our neurological physiotherapy services, please visit [Physio at your Doorstep](/) or contact our team directly to schedule a comprehensive neurological assessment.
 
 ## Frequently Asked Questions:
 

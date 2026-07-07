@@ -8,7 +8,7 @@ coverImage: "/images/blog/corporate-wellness-physical-therapy.jpg"
 category: "Physiotherapy"
 ---
 
-In today’s competitive business environment, companies are increasingly recognizing that employee well-being directly impacts their bottom line. Among the most effective strategies emerging is [corporate wellness physical therapy](https://physioatyourdoorstep.com/service/corporate-wellness-physiotherapy-program/) – a proactive approach that’s revolutionizing how organizations address workplace health challenges. This comprehensive guide explores how implementing physical therapy services in your workplace can dramatically improve employee health, reduce costs, and boost overall productivity.
+In today’s competitive business environment, companies are increasingly recognizing that employee well-being directly impacts their bottom line. Among the most effective strategies emerging is [corporate wellness physical therapy](/service/corporate-wellness-physiotherapy-program) – a proactive approach that’s revolutionizing how organizations address workplace health challenges. This comprehensive guide explores how implementing physical therapy services in your workplace can dramatically improve employee health, reduce costs, and boost overall productivity.
 
 ## Understanding Corporate Wellness Physical Therapy
 
@@ -175,7 +175,7 @@ Your employees’ health and your company’s success are interconnected. Corpor
 - [National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/niosh)
 - [Workers’ Compensation Research Institute](https://www.wcrinet.org/)
 
-*For more information about implementing corporate wellness physical therapy programs at your organization, [contact Physio At Your Doorstep](https://physioatyourdoorstep.com/contact-us/). Our experienced team specializes in creating customized workplace wellness solutions that deliver measurable results for businesses of all sizes.*
+*For more information about implementing corporate wellness physical therapy programs at your organization, [contact Physio At Your Doorstep](/contact-us). Our experienced team specializes in creating customized workplace wellness solutions that deliver measurable results for businesses of all sizes.*
 
 ## Frequently Asked Questions
 

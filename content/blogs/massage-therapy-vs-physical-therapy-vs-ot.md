@@ -68,7 +68,7 @@ Physiotherapists who specialise in geriatric care use a structured assessment to
 
 Research consistently shows that seniors can build meaningful muscle strength well into their 90s, making physiotherapy a powerful intervention regardless of age. If an elderly person has had a fall, a fracture, or a surgical procedure, geriatric physiotherapy is typically the first clinical line of rehabilitation.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/), our physiotherapists bring specialised geriatric care directly to the senior’s home across Bangalore. This eliminates the physical and logistical burden of travelling to a clinic, which is a significant barrier for many older adults.
+At [Physio at Your Doorstep](/service/geriatric-physiotherapy), our physiotherapists bring specialised geriatric care directly to the senior’s home across Bangalore. This eliminates the physical and logistical burden of travelling to a clinic, which is a significant barrier for many older adults.
 
 **When to consider geriatric physical therapy:**
 
@@ -135,7 +135,7 @@ When therapists across these disciplines communicate and collaborate, the senior
 
 **Dementia or cognitive decline:** Occupational therapy plays the primary role, focusing on cognitive strategies, daily routine support, and caregiver education. Geriatric massage with a specialised therapist can provide meaningful sensory comfort and reduce agitation.
 
-**General deconditioning or weakness after hospitalisation:** [Geriatric physiotherapy at home](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) is highly effective in rebuilding function safely. Occupational therapy ensures the home environment supports continued recovery.
+**General deconditioning or weakness after hospitalisation:** [Geriatric physiotherapy at home](/service/geriatric-physiotherapy) is highly effective in rebuilding function safely. Occupational therapy ensures the home environment supports continued recovery.
 
 ## Choosing Geriatric Care in Bangalore: What to Look For
 
@@ -149,9 +149,9 @@ Whether you are seeking geriatric physical therapy, occupational therapy, or mas
 
 **Coordination with medical care:** The therapist should be able to communicate with the treating physician and, where needed, refer to other specialists including occupational therapists or geriatric consultants.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our team brings certified physiotherapists to seniors across Bangalore, including areas such as JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. We offer same-day appointments and personalised geriatric care plans, and our physiotherapists are available around the clock for consultation.
+At [Physio at Your Doorstep](/), our team brings certified physiotherapists to seniors across Bangalore, including areas such as JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. We offer same-day appointments and personalised geriatric care plans, and our physiotherapists are available around the clock for consultation.
 
-If your loved one has recently had surgery or is recovering from hospitalisation, our [post-surgical physiotherapy](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) and [neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) services may also be relevant alongside the geriatric care plan.
+If your loved one has recently had surgery or is recovering from hospitalisation, our [post-surgical physiotherapy](/service/post-surgical-physiotherapy) and [neurological physiotherapy](/service/neurological-physiotherapy) services may also be relevant alongside the geriatric care plan.
 
 ## When to Seek Immediate Help
 
@@ -171,10 +171,10 @@ Early intervention consistently produces better outcomes. Waiting until function
 - American Massage Therapy Association: [Massage for Elderly Clients](https://www.amtamassage.org/publications/massage-therapy-journal/massage-for-elderly/)
 - American Occupational Therapy Association: [OT and Ageing in Place](https://www.aota.org/)
 - World Physiotherapy: [Geriatric Physiotherapy Guidelines](https://world.physio/)
-- [Physio at Your Doorstep – Geriatric Physiotherapy in Bangalore](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
-- [Book a Home Physiotherapy Appointment](https://physioatyourdoorstep.com/booking/)
+- [Physio at Your Doorstep – Geriatric Physiotherapy in Bangalore](/service/geriatric-physiotherapy)
+- [Book a Home Physiotherapy Appointment](/booking)
 
-*If you are looking for experienced geriatric physiotherapy at home in Bangalore,* [*contact Physio at Your Doorstep*](https://physioatyourdoorstep.com/contact-us/) *or* [*book an appointment online*](https://physioatyourdoorstep.com/booking/)*. Our physiotherapists serve JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas across Bangalore.*
+*If you are looking for experienced geriatric physiotherapy at home in Bangalore,* [*contact Physio at Your Doorstep*](/contact-us) *or* [*book an appointment online*](/booking)*. Our physiotherapists serve JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas across Bangalore.*
 
 ## Frequently Asked Questions
 

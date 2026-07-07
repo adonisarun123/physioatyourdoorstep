@@ -40,37 +40,37 @@ With home physiotherapy, you avoid crowded waiting rooms and reduce exposure to 
 
 Guided recovery at home after operations with specialized physiotherapy. If you've had orthopedic surgeries like a knee replacement, hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, joint mobility, and function right in your BTM Layout home.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for bone, joint, and muscle conditions. We help with common issues such as back pain, neck pain, frozen shoulder, knee injuries, arthritis, sprains, and fracture rehabilitation. BTM's many office workers and students often suffer posture-related pains from long hours at desks
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease, multiple sclerosis, and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility, balance, and daily function after a neurological condition
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy weekend sports in BTM Layout's parks, we treat sports injuries like ligament tears, muscle strains, tennis elbow, runner's knee, and more. We come equipped with therapy tools to manage your injury on-site.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults. We help senior citizens in BTM Layout with age-related issues like chronic knee and back pain, osteoarthritis, joint stiffness, and post-stroke rehabilitation. Our gentle, elder-friendly physiotherapy improves mobility, balance, and confidence for seniors.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

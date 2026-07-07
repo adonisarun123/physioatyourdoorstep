@@ -293,7 +293,7 @@ Facility Capabilities: Ensure the facility has appropriate monitoring equipment 
 
 Location and Accessibility: Choose a provider that you can realistically visit consistently.
 
-For residents of Bangalore, [Physio At Your Doorstep](https://physioatyourdoorstep.com/) offers specialized cardiac rehabilitation services in the comfort of your home, providing expert care across areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, and HSR Layout. Our [orthopedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) services include cardiac rehabilitation protocols designed specifically for post-angioplasty patients.
+For residents of Bangalore, [Physio At Your Doorstep](/) offers specialized cardiac rehabilitation services in the comfort of your home, providing expert care across areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, and HSR Layout. Our [orthopedic physiotherapy](/service/orthopaedic-physiotherapy) services include cardiac rehabilitation protocols designed specifically for post-angioplasty patients.
 
 ## The Economics of Cardiac Rehabilitation
 
@@ -382,7 +382,7 @@ Recognition of barriers to traditional center-based programs is driving innovati
 
 ### Local Support Services
 
-For personalized cardiac rehabilitation in Bangalore, consider [Physio At Your Doorstep](https://physioatyourdoorstep.com/), which offers specialized cardiac physiotherapy services through qualified professionals who understand the unique needs of post-angioplasty patients. Our comprehensive approach includes [neurological physiotherapy](https://physioatyourdoorstep.com/) techniques that can benefit patients with multiple health conditions.
+For personalized cardiac rehabilitation in Bangalore, consider [Physio At Your Doorstep](/), which offers specialized cardiac physiotherapy services through qualified professionals who understand the unique needs of post-angioplasty patients. Our comprehensive approach includes [neurological physiotherapy](/) techniques that can benefit patients with multiple health conditions.
 
 ### Technology Resources
 

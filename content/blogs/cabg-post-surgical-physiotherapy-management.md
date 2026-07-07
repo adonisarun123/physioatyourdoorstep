@@ -758,7 +758,7 @@ Home Emergency Plan: Every CABG patient should have a comprehensive emergency pl
 
 ## Related Cardiac and Rehabilitation Services
 
-### [Post-Surgical Rehabilitation Services](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+### [Post-Surgical Rehabilitation Services](/service/post-surgical-physiotherapy)
 
 Comprehensive recovery programs for various surgical procedures:
 
@@ -767,7 +767,7 @@ Comprehensive recovery programs for various surgical procedures:
 - General surgery rehabilitation and mobility restoration
 - Minimally invasive procedure recovery acceleration
 
-### [Cardiovascular Health and Prevention](https://physioatyourdoorstep.com/cardiac-rehabilitation-physio-for-heart/)
+### [Cardiovascular Health and Prevention](/cardiac-rehabilitation-physio-for-heart)
 
 Proactive cardiovascular health management:
 
@@ -785,7 +785,7 @@ Integrated care for conditions affecting cardiac health:
 - Obesity management and weight loss support
 - Multiple chronic condition coordination
 
-### [Elderly Care and Geriatric Rehabilitation](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+### [Elderly Care and Geriatric Rehabilitation](/service/geriatric-physiotherapy)
 
 Specialized services for older cardiac patients:
 
@@ -794,7 +794,7 @@ Specialized services for older cardiac patients:
 - Medication management coordination
 - Family caregiver education and support
 
-### [Corporate Wellness and Executive Health](https://physioatyourdoorstep.com/corporate-wellness-physical-therapy/)
+### [Corporate Wellness and Executive Health](/corporate-wellness-physical-therapy)
 
 Workplace health programs focusing on cardiovascular prevention:
 
@@ -845,11 +845,11 @@ Ready to begin your journey to complete cardiac recovery? Book your specialized 
 
 ### Contact Information and Specialized Services:
 
-Main Website: [physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
+Main Website: [physioatyourdoorstep.com](/)
 
-Cardiac Rehabilitation: [Book CABG Recovery Program](https://physioatyourdoorstep.com/services/cardiac-rehabilitation)
+Cardiac Rehabilitation: [Book CABG Recovery Program](/booking)
 
-Post-Surgical Care: [Comprehensive Recovery Services](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+Post-Surgical Care: [Comprehensive Recovery Services](/service/post-surgical-physiotherapy)
 
 Medical Coordination: Healthcare Integration Services
 

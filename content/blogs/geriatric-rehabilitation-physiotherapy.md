@@ -13,13 +13,13 @@ category: "Geriatric Physiotherapy"
 
 It is a specialized area of healthcare that focuses on helping older adults regain or maintain their physical function, mobility, and independence. As we get older, several changes take place in our bodies: We lose muscle mass, our bones become weaker, our reflexes slow and our balance worsens. All these natural processes can complicate daily tasks and often increase the risk of falls, fractures and chronic pain. Enter geriatric rehabilitation.
 
-[Geriatric rehabilitation](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) focuses on the restoration of the physical capabilities of the elderly after a trauma, illness, surgery, or simply due to age. This field of medicine not just works on the physical functions of older adults, it also works on improving mental health. The goal isn't mere survival — it's surviving with dignity and quality of life.
+[Geriatric rehabilitation](/service/geriatric-physiotherapy) focuses on the restoration of the physical capabilities of the elderly after a trauma, illness, surgery, or simply due to age. This field of medicine not just works on the physical functions of older adults, it also works on improving mental health. The goal isn't mere survival — it's surviving with dignity and quality of life.
 
 This is a multidisciplinary approach where doctors, physiotherapists, occupational therapists, nurses, and caregivers unite to create a tailored recovery program. From recovery following surgery, dealing with age-related diseases, or just maintaining mobility and vitality, geriatric rehab is critical in the golden years.
 
 ### Why Physiotherapy is Important for Elderly Care
 
-[Elder care physiotherapy](https://physioatyourdoorstep.com/geriatric-physiotherapy-assessment/) is just like providing seniors with the physical means and equipment to live their lives to the fullest. A [physiotherapist](https://physioatyourdoorstep.com/about-us/) works directly with older adults to address issues such as stiff joints, weak muscles, bad posture, and declining balance. But this role is far more than an exercise regimen—it's about allowing those of an older generation to regain autonomy over their lives.
+[Elder care physiotherapy](/geriatric-physiotherapy-assessment) is just like providing seniors with the physical means and equipment to live their lives to the fullest. A [physiotherapist](/about-us) works directly with older adults to address issues such as stiff joints, weak muscles, bad posture, and declining balance. But this role is far more than an exercise regimen—it's about allowing those of an older generation to regain autonomy over their lives.
 
 Physiotherapists utilize a variety of treatments to relieve pain, improve range of motion, build strength and, most importantly, prevent future injuries. For example, a senior may need guided mobility training to safely walk again after hip replacement surgery. Another might require targeted therapy to reduce arthritis pain or to restore balance following a stroke.
 
@@ -79,7 +79,7 @@ Parkinson's disease is a progressive neurological disorder that predominantly im
 
 Specialised physiotherapy programs for the elderly to enhance posture, gait, strength and coordination. Therapists First engage in cueing techniques, such as rhythmic clapping or visual targets on a floor, which assist patients in starting steps. Balance training is crucial because people with Parkinson's are extremely susceptible to falls. Exercises include those to strengthen the facial muscles and to raise the volume of the voice, as a stiff face and quiet voice are typical symptoms.
 
-Apart from Parkinson's disease, physiotherapy plays an important role in [managing other neurological disorders](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/) such as multiple sclerosis, peripheral neuropathy, and cerebral palsy among the elderly. Therapy goals are individualized for each patient's condition, needs, and abilities. The emotional benefits can be just as important — when seniors have a greater sense of control over their own bodies, their perspectives on life improve dramatically.
+Apart from Parkinson's disease, physiotherapy plays an important role in [managing other neurological disorders](/physiotherapy-in-neurological-conditions) such as multiple sclerosis, peripheral neuropathy, and cerebral palsy among the elderly. Therapy goals are individualized for each patient's condition, needs, and abilities. The emotional benefits can be just as important — when seniors have a greater sense of control over their own bodies, their perspectives on life improve dramatically.
 
 ### Other Types of Physiotherapy Techniques Utilized
 
@@ -95,7 +95,7 @@ Myofascial release, trigger point therapy, and lymphatic drainage techniques are
 
 Electrotherapy may sound a bit intimidating but it is a completely safe and non-invasive therapy used frequently in geriatric physiotherapy. It uses electrical energy to relieve pain, stimulate nerves and muscles, and promote healing.
 
-Some of the most common are those driven by Transcutaneous Electrical Nerve Stimulation (TENS), that transfer low voltage electrical impulses through the skin to deactivate the pain signals to hit the brain. It's tremendously effective for arthritis, [back pain](https://physioatyourdoorstep.com/back-ache/) and conditions involving nerves. Another popular device is the EMS (Electrical Muscle Stimulation) which works through strengthening muscles that have become weak due to disuse or illness.
+Some of the most common are those driven by Transcutaneous Electrical Nerve Stimulation (TENS), that transfer low voltage electrical impulses through the skin to deactivate the pain signals to hit the brain. It's tremendously effective for arthritis, [back pain](/back-ache) and conditions involving nerves. Another popular device is the EMS (Electrical Muscle Stimulation) which works through strengthening muscles that have become weak due to disuse or illness.
 
 Interferential Therapy (IFT) and Ultrasound Therapy are also super beneficial for seniors with circulation issues or diabetic neuropathy − effectively reducing inflammation and boosting blood flow. These techniques complement physical exercise to increase recovery speed and improve results.
 

@@ -40,37 +40,37 @@ Your health is in the hands of experts. Our team consists of **highly qualified 
 
 Guided recovery at home after surgeries with specialized physiotherapy care. If you've had an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Marathahalli home**
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
 Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries (like ACL/PCL strains), arthritis pain, sciatica, sprains, and fracture rehabilitation.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Neurological Physiotherapy
 
 Rehabilitation for nerve, spine, and brain-related conditions. We offer home therapy for stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, and paralysis rehabilitation. Our neuro physiotherapist will work patiently with you or your family member to improve mobility, balance, and overall daily function.
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
 Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast, a weekend cricketer, or a marathon runner training around the Marathahalli area, we can help treat and prevent sports-related injuries.
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
 Specialized care for older adults, delivered with kindness and patience. We assist senior citizens in Marathahalli with age-related issues such as chronic knee and back pain, osteoarthritis, joint stiffness, osteoporosis-related weakness, and balance problems that increase fall risk.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including developmental delays in infants, cerebral palsy, muscular dystrophy, torticollis, delayed milestones (crawling, walking), and rehabilitation for children.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

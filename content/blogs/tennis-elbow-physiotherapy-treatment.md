@@ -17,11 +17,11 @@ Despite its sporting name,
  are actually caused by playing tennis. The condition is just as likely to affect IT professionals, plumbers, carpenters, painters, and even homemakers who perform repetitive forearm movements. The good news is that physiotherapy treatment for tennis elbow is highly effective and, in most cases, surgery can be completely avoided.
 
 This guide walks you through everything you need to know about tennis elbow physiotherapy treatment — from understanding the root cause and diagnosis to the latest evidence-based treatment techniques. If you are based in Bangalore and are looking for expert physiotherapy care from the comfort of your home,
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
  provides specialised
-[Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Sports Physiotherapy](/service/sports-physiotherapy)
  and
-[Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy)
  services delivered directly to your home.
 
 ## What Is Tennis Elbow? Understanding the Condition
@@ -173,9 +173,9 @@ You should seek physiotherapy assessment and treatment if:
 - Pain has not improved with self-management (ice, rest, over-the-counter pain relief)
 
 If you are in Bangalore and would prefer expert physiotherapy care without the inconvenience of clinic visits, our team at Physio at Your Doorstep offers
-[Orthopaedic Physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy)
  and
-[Sports Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Sports Physiotherapy](/service/sports-physiotherapy)
  at your home, with same-day appointments available. We serve areas including JP Nagar, BTM Layout, Koramangala, HSR Layout, Jayanagar, Whitefield, and more across Bangalore.
 
 ## Preventing Tennis Elbow Recurrence
@@ -191,15 +191,15 @@ One of the most important but frequently missed aspects of tennis elbow manageme
 ## Why Choose Physio at Your Doorstep for Tennis Elbow Treatment in Bangalore?
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , we bring certified, experienced physiotherapists to your home, clinic, or workplace across Bangalore. Founded by Dr. Atharva Mishra, our team is trained in the latest evidence-based techniques for musculoskeletal conditions including tennis elbow.
 
 Our tennis elbow physiotherapy programme is personalised to your needs and may include manual therapy, structured exercise rehabilitation, electrotherapy, taping, and home exercise guidance — all delivered in the comfort of your home.
 
 Ready to start your recovery?
-[Book an appointment today](https://physioatyourdoorstep.com/booking/)
+[Book an appointment today](/booking)
  or speak with us directly on +91 82337 87737. You can also explore our
-[Online Physiotherapy Consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[Online Physiotherapy Consultation](/service/online-physiotherapy-consultation-india)
  option if you prefer to start with a remote assessment.
 
  
@@ -214,9 +214,9 @@ The following peer-reviewed sources and clinical references were used in prepari
 - Johnson et al. (2019). [Tennis Elbow: A Clinical Review Article.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6926298/) Journal of Clinical Orthopaedics and Trauma.
 
 If you are dealing with persistent elbow pain and would like an expert assessment, our physiotherapists at
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
  are available 24/7 across Bangalore.
-[Book your appointment now](https://physioatyourdoorstep.com/booking/)
+[Book your appointment now](/booking)
  and take the first step towards a pain-free recovery.
 
 ## Frequently Asked Questions (FAQ)
@@ -239,4 +239,4 @@ Below are answers to the most commonly searched questions about tennis elbow phy
 
 - [When should I consider a steroid injection for tennis elbow?](#acc-v1ks939-7) Corticosteroid injections may be considered when conservative physiotherapy has not produced adequate relief after 6 to 8 weeks. While injections provide rapid short-term pain relief, evidence suggests that physiotherapy produces better long-term outcomes. If you are considering injections, discuss them with your treating physiotherapist and doctor.
 
-- [Can physiotherapy be done at home for tennis elbow?](#acc-v1ks939-8) Absolutely. Home physiotherapy is an increasingly popular and effective option, particularly for those who find clinic visits inconvenient. [Physio at Your Doorstep](https://physioatyourdoorstep.com/) offers qualified physiotherapists who visit your home across Bangalore, providing all the same treatment modalities as a clinic including manual therapy, exercise prescription, and electrotherapy where applicable. You can also start with an [online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/) for an initial assessment and advice.
+- [Can physiotherapy be done at home for tennis elbow?](#acc-v1ks939-8) Absolutely. Home physiotherapy is an increasingly popular and effective option, particularly for those who find clinic visits inconvenient. [Physio at Your Doorstep](/) offers qualified physiotherapists who visit your home across Bangalore, providing all the same treatment modalities as a clinic including manual therapy, exercise prescription, and electrotherapy where applicable. You can also start with an [online physiotherapy consultation](/service/online-physiotherapy-consultation-india) for an initial assessment and advice.

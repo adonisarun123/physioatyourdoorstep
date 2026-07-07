@@ -38,37 +38,37 @@ We provide specialized **physiotherapy at home in Koramangala** for a wide range
 
 Regain strength and mobility after surgery with guided therapy at home. Our physiotherapists help Koramangala patients recover safely after procedures like knee replacements, hip surgeries, or ligament repairs.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Back & Neck Pain Physiotherapy
 
 Effective relief for chronic backaches, neck stiffness, or posture-related pain – common among Koramangala's tech professionals and students. We use targeted exercises and ergonomic guidance to alleviate pain and prevent future issues.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Stroke & Neurological Rehabilitation
 
 Comprehensive rehab programs for stroke recovery and neurological conditions (like Parkinson's or neuropathies) conducted at home. We focus on improving mobility, balance, and independence in a familiar setting
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Therapy
 
 Recover from sports injuries with expert help. Whether you're a weekend footballer at Koramangala's local turfs or a gym enthusiast, our therapists provide targeted treatment for sprains, muscle pulls, tendon injuries and more
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Elderly & Geriatric Physiotherapy
 
 Gentle, effective care for seniors. We help older adults in Koramangala improve mobility, balance, and strength right at home. From arthritis management to fall prevention exercises, our geriatric physiotherapy ensures elderly family members stay active
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Child-friendly physiotherapy for infants, kids and teens with developmental delays, injuries, or conditions like cerebral palsy. Our physiotherapists make sessions fun and comforting for children
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

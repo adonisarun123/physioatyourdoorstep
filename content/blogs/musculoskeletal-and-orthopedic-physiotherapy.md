@@ -78,7 +78,7 @@ One of the greatest strengths of musculoskeletal and orthopedic physiotherapy is
 ### Post-Surgical Rehabilitation
 
 Recovery from orthopedic surgery demands expert guidance to ensure optimal healing and functional restoration.
-[Physiotherapy exercises after knee surgery](https://physioatyourdoorstep.com/physiotherapy-exercises-after-knee-surgery/)
+[Physiotherapy exercises after knee surgery](/physiotherapy-exercises-after-knee-surgery)
  help patients regain mobility, strength, and confidence following procedures such as:
 
 - **Joint Replacement Surgery** : Hip, knee, and shoulder replacements require progressive rehabilitation to restore full function
@@ -102,7 +102,7 @@ Recovery from orthopedic surgery demands expert guidance to ensure optimal heali
 
 **Plantar Fasciitis**
 : This common foot condition responds well to
-[targeted physiotherapy interventions](https://physioatyourdoorstep.com/plantar-fascitis/)
+[targeted physiotherapy interventions](/plantar-fascitis)
  including stretching, strengthening, and manual techniques.
 
 **Tendinitis and Bursitis**
@@ -124,7 +124,7 @@ Athletes and active individuals frequently require musculoskeletal physiotherapy
 
 - Hamstring strains
 
-[Athletic taping](https://physioatyourdoorstep.com/taping/)
+[Athletic taping](/taping)
  techniques often complement rehabilitation programs, providing additional support and proprioceptive feedback during recovery.
 
 ### Work-Related Musculoskeletal Disorders
@@ -279,7 +279,7 @@ While traditional clinic-based physiotherapy offers many benefits, home-based ph
 ### Comprehensive Home Physiotherapy Services
 
 At Physio At Your Doorstep, we bring expert musculoskeletal and orthopedic physiotherapy to patients across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield. Our home-based services encompass the full spectrum of musculoskeletal care, including specialized
-[orthopedic physiotherapy](https://physioatyourdoorstep.com/)
+[orthopedic physiotherapy](/)
  for post-surgical recovery, chronic pain management, and injury rehabilitation.
 
 ## The Assessment Process: What to Expect from Your First Session
@@ -351,7 +351,7 @@ Athletes require specialized knowledge of sport-specific demands, biomechanics, 
 ### Neurological Physiotherapy
 
 When musculoskeletal issues stem from or coexist with neurological conditions such as stroke, Parkinson’s disease, or spinal cord injury,
-[neurological physiotherapy exercises](https://physioatyourdoorstep.com/neurological-physiotherapy-exercises/)
+[neurological physiotherapy exercises](/neurological-physiotherapy-exercises)
  complement orthopedic interventions to address both movement control and structural issues.
 
 ### Geriatric Physiotherapy
@@ -361,7 +361,7 @@ Older adults often present with multiple musculoskeletal conditions alongside ag
 ### Pediatric Physiotherapy
 
 Children with developmental delays, congenital conditions, or musculoskeletal injuries require specialized approaches.
-[Pediatric physical rehabilitation](https://physioatyourdoorstep.com/pediatric-physical-rehabilitation/)
+[Pediatric physical rehabilitation](/pediatric-physical-rehabilitation)
  combines musculoskeletal techniques with age-appropriate, play-based interventions.
 
 ## Maximizing Your Physiotherapy Outcomes: Patient Responsibilities

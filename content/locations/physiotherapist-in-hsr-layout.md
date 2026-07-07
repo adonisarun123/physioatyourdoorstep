@@ -38,37 +38,37 @@ We provide specialized **physiotherapy at home in HSR Layout** for various condi
 
 Regain mobility and strength after surgery with guided physiotherapy.
 
-[Learn More](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/)
+[Learn More](/service/post-surgical-physiotherapy)
 
 ### Back & Neck Pain Physiotherapy
 
 Effective treatment for chronic pain, stiffness, and posture correction.
 
-[Learn More](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[Learn More](/service/orthopaedic-physiotherapy)
 
 ### Stroke & Neurological Rehabilitation
 
 Tailored therapy for stroke recovery and neurological conditions.
 
-[Learn More](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Therapy
 
 Recover from sports injuries and prevent future damage with expert techniques
 
-[Learn More](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+[Learn More](/service/sports-physiotherapy)
 
 ### Elderly & Geriatric Physiotherapy
 
 Gentle physiotherapy to enhance mobility and quality of life for seniors.
 
-[Learn More](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/)
+[Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
 Specialized care for children with mobility challenges and developmental concerns.
 
-[Learn More](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[Learn More](/service/pediatric-physiotherapy)
 
 ## How It Works?
 

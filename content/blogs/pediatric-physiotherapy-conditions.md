@@ -268,7 +268,7 @@ Documentation Strategies help ensure that insurance companies understand the med
 
 Preventive Care Arguments emphasize how early intervention prevents more costly interventions later. Many insurance companies recognize the cost-effectiveness of pediatric therapy services when presented with appropriate documentation.
 
-For families in Bangalore seeking comprehensive pediatric physiotherapy services, [Physio At Your Doorstep](https://physioatyourdoorstep.com/) offers specialized care in the comfort of your home. Our experienced pediatric physiotherapists provide assessment and treatment across various areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, and HSR Layout. Our [orthopedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/) services include pediatric specializations, while our [neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) expertise addresses complex neurological conditions affecting children.
+For families in Bangalore seeking comprehensive pediatric physiotherapy services, [Physio At Your Doorstep](/) offers specialized care in the comfort of your home. Our experienced pediatric physiotherapists provide assessment and treatment across various areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, and HSR Layout. Our [orthopedic physiotherapy](/service/orthopaedic-physiotherapy) services include pediatric specializations, while our [neurological physiotherapy](/service/neurological-physiotherapy) expertise addresses complex neurological conditions affecting children.
 
 ## Building Support Networks
 

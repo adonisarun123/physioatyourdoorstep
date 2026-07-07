@@ -533,7 +533,7 @@ For comprehensive spinal health management, explore our related services:
 - Postural back pain
 - Work-related back injuries
 
-### [Neck Pain Physiotherapy](https://physioatyourdoorstep.com/service/sports-physiotherapy/)
+### [Neck Pain Physiotherapy](/service/sports-physiotherapy)
 
 - General neck pain and stiffness
 - Whiplash injury recovery
@@ -547,7 +547,7 @@ For comprehensive spinal health management, explore our related services:
 - Arthritis-related neck pain
 - Degenerative disc disease
 
-### [Home Visit Physiotherapy](https://physioatyourdoorstep.com/)
+### [Home Visit Physiotherapy](/)
 
 - Post-surgical rehabilitation
 - Elderly care physiotherapy
@@ -580,8 +580,8 @@ Looking for cervical spine physiotherapy at home? Book a session with us today a
 
 ### Contact Information:
 
-- Website: [physioatyourdoorstep.com](https://physioatyourdoorstep.com/)
-- Book Appointment: [Schedule Your Session](https://physioatyourdoorstep.com/booking)
+- Website: [physioatyourdoorstep.com](/)
+- Book Appointment: [Schedule Your Session](/booking)
 - Emergency Consultation: Available 24/7
 - Service Areas: Bangalore
 

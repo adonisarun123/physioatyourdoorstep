@@ -152,11 +152,11 @@ For many elderly patients in Bangalore, travelling to a clinic for regular physi
 
 Home-based geriatric cardio physiotherapy resolves this entirely. A qualified physiotherapist visits the patient's home, assesses the real-world environment, identifies fall hazards, and conducts sessions in a familiar and safe setting. Research consistently shows that home-based rehabilitation programs lead to better adherence and equivalent or superior outcomes compared to clinic-based programs for elderly cardiac patients.
 
-At [Physio at Your Doorstep](https://physioatyourdoorstep.com/), our specialist physiotherapists provide evidence-based geriatric cardio physiotherapy across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, Jayanagar, and surrounding areas.
+At [Physio at Your Doorstep](/), our specialist physiotherapists provide evidence-based geriatric cardio physiotherapy across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, Jayanagar, and surrounding areas.
 
-Our [Geriatric Physiotherapy service](https://physioatyourdoorstep.com/service/geriatric-physiotherapy/) is specifically designed for older adults managing complex conditions, incorporating cardiac safety monitoring, functional exercise training, breathing rehabilitation, and ongoing reassessment within the comfort and convenience of your home.
+Our [Geriatric Physiotherapy service](/service/geriatric-physiotherapy) is specifically designed for older adults managing complex conditions, incorporating cardiac safety monitoring, functional exercise training, breathing rehabilitation, and ongoing reassessment within the comfort and convenience of your home.
 
-For patients also managing post-surgical recovery after cardiac procedures, our [Post Surgical Physiotherapy service](https://physioatyourdoorstep.com/service/post-surgical-physiotherapy/) provides a seamless continuation of care. And for those dealing with co-existing lung or breathing conditions, our [Pulmonary Physiotherapy](https://physioatyourdoorstep.com/service/pulmonary-physiotherapy/) program addresses the respiratory aspects of cardiopulmonary rehabilitation in tandem.
+For patients also managing post-surgical recovery after cardiac procedures, our [Post Surgical Physiotherapy service](/service/post-surgical-physiotherapy) provides a seamless continuation of care. And for those dealing with co-existing lung or breathing conditions, our [Pulmonary Physiotherapy](/service/pulmonary-physiotherapy) program addresses the respiratory aspects of cardiopulmonary rehabilitation in tandem.
 
 ## What to Expect from a Geriatric Cardio Physiotherapy Program
 
@@ -180,13 +180,13 @@ Physiotherapy referral for elderly cardiac patients is appropriate in the follow
 - When an older adult has multiple cardiovascular risk factors and is at high risk of future cardiac events
 - When a family member or caregiver notices that an elderly relative is becoming increasingly sedentary and physically dependent
 
-If any of these apply to you or a family member, consider [booking an appointment](https://physioatyourdoorstep.com/booking/) with a specialist at Physio at Your Doorstep. Early physiotherapy intervention leads to significantly better long-term outcomes than starting rehabilitation after severe deconditioning has already set in.
+If any of these apply to you or a family member, consider [booking an appointment](/booking) with a specialist at Physio at Your Doorstep. Early physiotherapy intervention leads to significantly better long-term outcomes than starting rehabilitation after severe deconditioning has already set in.
 
 ## Related Reading
 
-- [Geriatric Problems and Its Physiotherapy Management](https://physioatyourdoorstep.com/geriatric-problems-and-physiotherapy/)
-- [Massage Therapy vs Physical Therapy vs OT: Geriatric Care](https://physioatyourdoorstep.com/massage-therapy-vs-physical-therapy-vs-ot/)
-- [Varicose Veins Physiotherapy: Treatment, Exercises and Recovery Guide](https://physioatyourdoorstep.com/varicose-veins-physiotherapy/)
+- [Geriatric Problems and Its Physiotherapy Management](/geriatric-problems-and-physiotherapy)
+- [Massage Therapy vs Physical Therapy vs OT: Geriatric Care](/massage-therapy-vs-physical-therapy-vs-ot)
+- [Varicose Veins Physiotherapy: Treatment, Exercises and Recovery Guide](/varicose-veins-physiotherapy)
 
 ## External Resources
 
@@ -236,4 +236,4 @@ In the initial phase, exercise is typically done 3 to 5 times per week for 20 to
 
 ### Is geriatric cardio physiotherapy available at home in Bangalore?
 
-Yes. Physio at Your Doorstep offers specialized geriatric cardio physiotherapy at home across Bangalore, including areas like Koramangala, JP Nagar, Whitefield, HSR Layout, Jayanagar, BTM Layout, and more. To schedule a home visit, you can [book an appointment online](https://physioatyourdoorstep.com/booking/) or contact the team directly.
+Yes. Physio at Your Doorstep offers specialized geriatric cardio physiotherapy at home across Bangalore, including areas like Koramangala, JP Nagar, Whitefield, HSR Layout, Jayanagar, BTM Layout, and more. To schedule a home visit, you can [book an appointment online](/booking) or contact the team directly.

@@ -13,7 +13,7 @@ category: "Neurological Physiotherapy"
 
 Neurological physiotherapy is a specialized branch of physical therapy aimed at helping individuals who suffer from disorders affecting the brain, spinal cord, and peripheral nerves. These conditions often impact mobility, coordination, muscle strength, and daily function. Unlike general physiotherapy, neuro physio involves targeted techniques and exercises designed to stimulate the nervous system and encourage recovery by rewiring brain functions—something known as neuroplasticity.
 
-[Neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/) isn't a one-size-fits-all method. It varies based on the condition—whether it's stroke, traumatic brain injury, Parkinson's disease, multiple sclerosis, or spinal cord injury. A neuro physio focuses not only on treating physical impairments but also on training the brain to develop new pathways that can bypass damaged areas.
+[Neurological physiotherapy](/service/neurological-physiotherapy) isn't a one-size-fits-all method. It varies based on the condition—whether it's stroke, traumatic brain injury, Parkinson's disease, multiple sclerosis, or spinal cord injury. A neuro physio focuses not only on treating physical impairments but also on training the brain to develop new pathways that can bypass damaged areas.
 
 The focus is on restoring independence and improving the patient's ability to perform essential movements. Therapists assess how much control a patient has over their muscles, how coordinated their movements are, and what adaptive strategies can be used to compensate for lost function.
 
@@ -23,7 +23,7 @@ This discipline has grown immensely in recent years, incorporating new research,
 
 Neuro-rehabilitation is essential because neurological conditions don't just affect the muscles—they disrupt communication between the brain and body. Without targeted rehab, recovery can stagnate, and the patient's quality of life can suffer greatly.
 
-Why is this type of rehabilitation so critical? Well, the brain has the incredible ability to adapt and reorganize itself—something we call neuroplasticity. [Neurological physiotherapy](https://physioatyourdoorstep.com/physiotherapy-in-neurological-conditions/) leverages this power. Through consistent, guided movement and specific exercises, patients can "teach" their brain new ways to function, effectively finding detours around damaged neural pathways.
+Why is this type of rehabilitation so critical? Well, the brain has the incredible ability to adapt and reorganize itself—something we call neuroplasticity. [Neurological physiotherapy](/physiotherapy-in-neurological-conditions) leverages this power. Through consistent, guided movement and specific exercises, patients can "teach" their brain new ways to function, effectively finding detours around damaged neural pathways.
 
 Beyond the physical benefits, neuro-rehab has psychological advantages. Many individuals battling neurological conditions feel frustrated or even depressed due to a loss of independence. Therapy sessions can reignite a sense of purpose, build confidence, and reduce anxiety and depression through active participation in recovery.
 

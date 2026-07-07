@@ -149,7 +149,7 @@ One of the most important messages in the literature is that early intervention 
 When physiotherapy is started before 3 months of age, the vast majority of infants achieve full resolution with conservative treatment. When treatment is delayed beyond 12 months, treatment durations lengthen considerably and outcomes become less predictable. Untreated CMT can lead to secondary complications including plagiocephaly (asymmetrical head shape), asymmetrical facial development, and compensatory scoliosis.
 
 If you have concerns about your infant’s head positioning, early assessment by a
-[pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[pediatric physiotherapy](/service/pediatric-physiotherapy)
  specialist is strongly advised.
 
 ## What Happens During a Physiotherapy Session for Torticollis?
@@ -183,22 +183,22 @@ Consistency with the home exercise program prescribed by your physiotherapist is
 ## Torticollis Physiotherapy at Home in Bangalore
 
 At
-[Physio at Your Doorstep](https://physioatyourdoorstep.com/)
+[Physio at Your Doorstep](/)
 , our team of experienced physiotherapists provides expert assessment and treatment for both infant and adult torticollis in the comfort of your home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield.
 
 Our
-[pediatric physiotherapy](https://physioatyourdoorstep.com/service/pediatric-physiotherapy/)
+[pediatric physiotherapy](/service/pediatric-physiotherapy)
  service is specifically equipped to manage congenital muscular torticollis in newborns and infants, with gentle, evidence-based techniques and comprehensive parent education. For adults with cervical dystonia, wry neck, or post-traumatic torticollis, our
-[orthopaedic physiotherapy](https://physioatyourdoorstep.com/service/orthopaedic-physiotherapy/)
+[orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
  and
-[neurological physiotherapy](https://physioatyourdoorstep.com/service/neurological-physiotherapy/)
+[neurological physiotherapy](/service/neurological-physiotherapy)
  services provide tailored rehabilitation programs.
 
 If travel is difficult, our
-[online physiotherapy consultation](https://physioatyourdoorstep.com/service/online-physiotherapy-consultation-india/)
+[online physiotherapy consultation](/service/online-physiotherapy-consultation-india)
  service allows you to receive guidance from our physiotherapists and begin a home program from anywhere in India.
 
-[Book an appointment today](https://physioatyourdoorstep.com/booking/)
+[Book an appointment today](/booking)
  and take the first step toward restoring normal neck movement.
 
 ## Resources
