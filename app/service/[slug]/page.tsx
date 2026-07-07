@@ -1,10 +1,11 @@
-import { Button } from "@/components/ui/button";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { ServiceFAQ } from "@/components/ServiceFAQ";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import JsonLd from "@/components/JsonLd";
+import { serviceSchema, faqSchema } from "@/lib/seo";
 import { getServiceMarkdown } from "@/lib/markdown";
 import { getAllServices, getServiceFile } from "@/lib/content";
 import Link from "next/link";
@@ -34,10 +35,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return {
         title: `${serviceContent.title} | Physio At Your Doorstep`,
         description: description,
+        alternates: { canonical: `/service/${slug}` },
         openGraph: {
             title: serviceContent.title,
             description: description,
-            type: 'website',
+            url: `/service/${slug}`,
+            type: "article",
         },
     };
 }
@@ -51,8 +54,9 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
     }
 
     // Extract hero content (first paragraph after H1)
-    const contentParts = serviceContent.content.split('\n\n');
-    const heroSubheadline = contentParts.find(part => !part.startsWith('#') && part.trim().length > 0);
+    const contentParts = serviceContent.content.split("\n\n");
+    const heroSubheadline = contentParts.find((part) => !part.startsWith("#") && part.trim().length > 0);
+    const description = heroSubheadline?.substring(0, 160) ?? `Professional ${serviceContent.title} at your doorstep`;
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -60,7 +64,7 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
 
             <main className="flex-1">
                 {/* Hero Section */}
-                <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
+                <section className="relative bg-gradient-to-br from-[#EEEEF7] via-white to-[#EEEEF7] section">
                     <div className="container">
                         <div className="max-w-4xl mx-auto">
                             <Breadcrumbs
@@ -70,65 +74,57 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                                     { name: serviceContent.title },
                                 ]}
                             />
-                            <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                                {serviceContent.title}
-                            </h1>
+                            <h1 className="heading-hero mb-6">{serviceContent.title}</h1>
                             {heroSubheadline && (
-                                <p className="text-xl text-muted-foreground leading-relaxed">
-                                    {heroSubheadline}
-                                </p>
+                                <p className="text-lg text-[#4B5563] leading-relaxed">{heroSubheadline}</p>
                             )}
                         </div>
                     </div>
                 </section>
 
                 {/* Content Section */}
-                <section className="py-16 md:py-24">
+                <section className="section bg-white">
                     <div className="container max-w-4xl">
-                        <MarkdownContent>
-                            {serviceContent.content}
-                        </MarkdownContent>
+                        <MarkdownContent>{serviceContent.content}</MarkdownContent>
                     </div>
                 </section>
 
                 {/* FAQs Section */}
                 {serviceContent.faqs && serviceContent.faqs.length > 0 && (
-                    <section className="py-16 md:py-24 bg-muted/30">
+                    <section className="section bg-[#EEEEF7]/50">
                         <div className="container max-w-4xl">
-                            <h2 className="text-3xl font-bold mb-8">Frequently Asked Questions</h2>
+                            <div className="text-center mb-12">
+                                <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">FAQ</span>
+                                <h2 className="heading-section mt-4">Frequently Asked Questions</h2>
+                            </div>
                             <ServiceFAQ faqs={serviceContent.faqs} />
                         </div>
                     </section>
                 )}
 
                 {/* CTA Section */}
-                <section className="py-16 md:py-24">
-                    <div className="container max-w-4xl">
-                        <div className="p-8 md:p-12 bg-gradient-to-br from-primary/10 to-secondary/10 rounded-lg text-center">
-                            <h3 className="text-2xl md:text-3xl font-bold mb-4">Ready to Get Started?</h3>
-                            <p className="text-muted-foreground mb-6 text-lg">
-                                Book your appointment today and experience professional physiotherapy at your doorstep
-                            </p>
-                            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                                <Button size="lg" asChild>
-                                    <Link href="/booking">Book Appointment</Link>
-                                </Button>
-                                <Button size="lg" variant="outline" asChild>
-                                    <Link href="/contact-us">Contact Us</Link>
-                                </Button>
-                            </div>
+                <section className="section bg-[#2A2A57] text-white">
+                    <div className="container text-center max-w-3xl">
+                        <h2 className="heading-section mb-4">Ready to Get Started?</h2>
+                        <p className="text-lg mb-8 opacity-90">
+                            Book your appointment today and experience professional physiotherapy at your doorstep.
+                        </p>
+                        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                            <Link href="/booking" className="btn-primary">Book Appointment</Link>
+                            <a href="tel:+918233787737" className="btn-secondary">Call +91 82337 87737</a>
                         </div>
                     </div>
                 </section>
             </main>
 
-            {/* Schema Markup */}
-            {serviceContent.schema && (
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceContent.schema) }}
-                />
-            )}
+            <JsonLd
+                data={[
+                    serviceSchema({ name: serviceContent.title, description, url: `/service/${slug}` }),
+                    ...(serviceContent.faqs && serviceContent.faqs.length > 0
+                        ? [faqSchema(serviceContent.faqs.map((f) => ({ q: f.question, a: f.answer })))]
+                        : []),
+                ]}
+            />
 
             <Footer />
             <CTABar />

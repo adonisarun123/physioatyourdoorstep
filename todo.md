@@ -128,7 +128,7 @@
 
 ## SEO & Technical
 - [x] Add metadata to all pages (title, description, OG)
-- [ ] Implement JSON-LD schema (Organization, MedicalClinic, Service, BlogPosting, FAQPage, BreadcrumbList)
+- [x] Implement JSON-LD schema (Organization, WebSite, MedicalBusiness/LocalBusiness, Service, BlogPosting, FAQPage, BreadcrumbList, CollectionPage) via lib/seo.ts
 - [x] Setup sitemap.xml generation (app/sitemap.ts — Next metadata route)
 - [x] Setup robots.txt (app/robots.ts)
 - [x] Add canonical/absolute URL base (metadataBase in layout)

@@ -12,6 +12,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Our Services | Professional Physiotherapy Treatments | Physio At Your Doorstep",
     description: "Comprehensive physiotherapy services including sports physiotherapy, post-surgical rehabilitation, neurological care, geriatric therapy, and more. Expert treatment at your home.",
+    alternates: { canonical: "/service" },
+    openGraph: { title: "Our Services | Physio At Your Doorstep", url: "/service", type: "website" },
 };
 
 // Icons keyed to the real service slugs from lib/content.
