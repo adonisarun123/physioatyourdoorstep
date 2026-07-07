@@ -1,11 +1,11 @@
-import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import BlogCard from "@/components/BlogCard";
+import JsonLd from "@/components/JsonLd";
+import { SITE, absoluteUrl } from "@/lib/seo";
 import { getAllCategories, getCategoryBySlug, getBlogsByCategory } from "@/lib/content";
-import { Calendar } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -27,9 +27,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
 
+    const description = category.description || `Read articles about ${category.name}`;
+
     return {
         title: `${category.name} | Physio At Your Doorstep`,
-        description: category.description || `Read articles about ${category.name}`,
+        description,
+        alternates: { canonical: `/category/${slug}` },
+        openGraph: { title: category.name, description, url: `/category/${slug}`, type: "website" },
     };
 }
 
@@ -43,13 +47,22 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
 
     const blogs = await getBlogsByCategory(category.slug);
 
+    const collectionSchema = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        name: category.name,
+        description: category.description || `Articles about ${category.name}`,
+        url: absoluteUrl(`/category/${slug}`),
+        isPartOf: { "@type": "WebSite", name: SITE.name, url: SITE.url },
+    };
+
     return (
         <div className="min-h-screen flex flex-col">
             <Header />
 
             <main className="flex-1">
                 {/* Hero Section */}
-                <section className="py-16 md:py-24 bg-gradient-to-br from-primary/10 to-secondary/10">
+                <section className="relative bg-gradient-to-br from-[#EEEEF7] via-white to-[#EEEEF7] section">
                     <div className="container">
                         <Breadcrumbs
                             className="mb-6 [&_ol]:justify-center"
@@ -59,69 +72,34 @@ export default async function CategoryDetailPage({ params }: { params: Promise<{
                             ]}
                         />
                         <div className="max-w-3xl mx-auto text-center">
-                            <h1 className="text-4xl md:text-5xl font-bold mb-6">{category.name}</h1>
+                            <h1 className="heading-hero mb-6">{category.name}</h1>
                             {category.description && (
-                                <p className="text-xl text-muted-foreground">{category.description}</p>
+                                <p className="text-lg text-[#4B5563] leading-relaxed">{category.description}</p>
                             )}
                         </div>
                     </div>
                 </section>
 
                 {/* Blogs Grid */}
-                <section className="py-16 md:py-24">
+                <section className="section bg-white">
                     <div className="container">
                         {blogs && blogs.length > 0 ? (
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {blogs.map((blog) => (
-                                    <Card key={blog.slug} className="overflow-hidden pt-0 hover:shadow-lg transition-shadow">
-                                        {blog.coverImage && (
-                                            <Link href={`/${blog.slug}`} className="block aspect-[16/9] overflow-hidden bg-muted">
-                                                {/* eslint-disable-next-line @next/next/no-img-element */}
-                                                <img
-                                                    src={blog.coverImage}
-                                                    alt={blog.title}
-                                                    loading="lazy"
-                                                    className="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
-                                                />
-                                            </Link>
-                                        )}
-                                        <CardHeader>
-                                            <div className="flex items-center gap-2 text-sm text-muted-foreground mb-2">
-                                                <Calendar className="h-4 w-4" />
-                                                {new Date(blog.publishedAt).toLocaleDateString('en-IN', {
-                                                    year: 'numeric',
-                                                    month: 'long',
-                                                    day: 'numeric'
-                                                })}
-                                            </div>
-                                            <CardTitle className="text-xl">
-                                                <Link href={`/${blog.slug}`} className="hover:text-primary">{blog.title}</Link>
-                                            </CardTitle>
-                                        </CardHeader>
-                                        <CardContent>
-                                            <CardDescription className="mb-4 line-clamp-3">
-                                                {blog.excerpt || blog.metaDescription?.slice(0, 150)}
-                                            </CardDescription>
-                                            <Button variant="outline" className="w-full" asChild>
-                                                <Link href={`/${blog.slug}`}>
-                                                    Read More
-                                                </Link>
-                                            </Button>
-                                        </CardContent>
-                                    </Card>
+                                    <BlogCard key={blog.slug} blog={blog} showCategory={false} />
                                 ))}
                             </div>
                         ) : (
                             <div className="text-center py-12">
-                                <p className="text-muted-foreground mb-4">No articles in this category yet.</p>
-                                <Button asChild>
-                                    <Link href="/blogs">View All Articles</Link>
-                                </Button>
+                                <p className="text-[#4B5563] mb-4">No articles in this category yet.</p>
+                                <Link href="/blogs" className="btn-primary">View All Articles</Link>
                             </div>
                         )}
                     </div>
                 </section>
             </main>
+
+            <JsonLd data={collectionSchema} />
 
             <Footer />
             <CTABar />

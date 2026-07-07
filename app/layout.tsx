@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import JsonLd from "@/components/JsonLd";
+import { organizationSchema, websiteSchema, localBusinessSchema } from "@/lib/seo";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -40,6 +42,7 @@ export default function RootLayout({
     return (
         <html lang="en" suppressHydrationWarning>
             <body>
+                <JsonLd data={[organizationSchema(), websiteSchema(), localBusinessSchema()]} />
                 <GoogleAnalytics />
                 <ThemeProvider
                     attribute="class"

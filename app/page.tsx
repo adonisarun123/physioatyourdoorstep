@@ -3,18 +3,35 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import TestimonialsCarousel from "@/components/TestimonialsCarousel";
 import {
-    Check, Heart, Users, Stethoscope, Phone, Zap, MapPin,
+    Check, Heart, Users, Stethoscope, Phone, Zap, MapPin, Star, ArrowRight,
+    Activity, Bone, Brain, Baby, HeartPulse, Wind, Video,
 } from "lucide-react";
 import Link from "next/link";
 import { getAllServices } from "@/lib/content";
 import type { Metadata } from "next";
 
+const serviceIcons: Record<string, typeof Activity> = {
+    "orthopaedic-physiotherapy": Bone,
+    "neurological-physiotherapy": Brain,
+    "sports-physiotherapy": Activity,
+    "geriatric-physiotherapy": Heart,
+    "post-surgical-physiotherapy": Stethoscope,
+    "pediatric-physiotherapy": Baby,
+    "physiotherapy-in-pregnancy": HeartPulse,
+    "pulmonary-physiotherapy": Wind,
+    "corporate-wellness-physiotherapy-program": Users,
+    "online-physiotherapy-consultation-india": Video,
+};
+
 export const metadata: Metadata = {
     title: "Best Physiotherapist in Bangalore | Physio at your Doorstep",
     description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts. Personalized care for pain relief, recovery, and mobility, right at your doorstep",
+    alternates: { canonical: "/" },
     openGraph: {
         title: "Best Physiotherapist in Bangalore | Physio at your Doorstep",
         description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts.",
+        url: "/",
+        type: "website",
     },
 };
 
@@ -137,6 +154,22 @@ export default async function HomePage() {
                                     <Link href="/service" className="btn-secondary">
                                         Explore Services
                                     </Link>
+                                </div>
+                                {/* Trust strip */}
+                                <div className="mt-8 flex flex-wrap items-center gap-x-8 gap-y-4">
+                                    <div className="flex items-center gap-2">
+                                        <div className="flex">
+                                            {[...Array(5)].map((_, i) => (
+                                                <Star key={i} className="h-4 w-4 fill-[#F5A623] text-[#F5A623]" />
+                                            ))}
+                                        </div>
+                                        <span className="text-sm font-medium text-[#1F2933]">Trusted by 500+ patients</span>
+                                    </div>
+                                    <div className="h-8 w-px bg-[#DCDCEC] hidden sm:block" />
+                                    <div className="flex items-center gap-2 text-sm text-[#4B5563]">
+                                        <Check className="h-4 w-4 text-[#3B3B6D]" />
+                                        <span>10+ years experience</span>
+                                    </div>
                                 </div>
                             </div>
                             <div className="relative hidden lg:block">
@@ -274,30 +307,39 @@ export default async function HomePage() {
                             </h2>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                            {featuredServices.map((service) => (
-                                <Link
-                                    key={service.slug}
-                                    href={`/service/${service.slug}`}
-                                    className="card-physio overflow-hidden !p-0 group"
-                                >
-                                    <div className="aspect-[16/10] overflow-hidden bg-[#EEEEF7]">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
-                                            src={service.heroImage ?? "/images/hero-home.webp"}
-                                            alt={service.title}
-                                            loading="lazy"
-                                            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                                        />
-                                    </div>
-                                    <div className="p-6">
-                                        <h3 className="text-xl font-semibold text-[#1F2933] mb-2 group-hover:text-[#3B3B6D]">
-                                            {service.title}
-                                        </h3>
-                                        <p className="text-[#4B5563] mb-4 text-sm leading-relaxed">{service.metaDescription}</p>
-                                        <span className="text-[#E31E24] font-medium">Know More →</span>
-                                    </div>
-                                </Link>
-                            ))}
+                            {featuredServices.map((service) => {
+                                const Icon = serviceIcons[service.slug] ?? Activity;
+                                return (
+                                    <Link
+                                        key={service.slug}
+                                        href={`/service/${service.slug}`}
+                                        className="card-physio overflow-hidden !p-0 group flex flex-col"
+                                    >
+                                        <div className="relative aspect-[16/10] overflow-hidden bg-[#EEEEF7]">
+                                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                                            <img
+                                                src={service.heroImage ?? "/images/hero-home.webp"}
+                                                alt={service.title}
+                                                loading="lazy"
+                                                className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                            />
+                                            <div className="absolute bottom-3 left-3 w-11 h-11 rounded-xl bg-white shadow-md flex items-center justify-center">
+                                                <Icon className="h-6 w-6 text-[#3B3B6D]" />
+                                            </div>
+                                        </div>
+                                        <div className="p-6 flex flex-col flex-1">
+                                            <h3 className="text-xl font-semibold text-[#1F2933] mb-2 group-hover:text-[#3B3B6D] transition-colors">
+                                                {service.title}
+                                            </h3>
+                                            <p className="text-[#4B5563] mb-4 text-sm leading-relaxed flex-1">{service.metaDescription}</p>
+                                            <span className="inline-flex items-center gap-1 text-[#E31E24] font-medium">
+                                                Know More
+                                                <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                                            </span>
+                                        </div>
+                                    </Link>
+                                );
+                            })}
                         </div>
                         <div className="text-center mt-10">
                             <Link href="/service" className="btn-secondary">
@@ -310,22 +352,24 @@ export default async function HomePage() {
                 {/* Stats Section */}
                 <section className="section bg-white">
                     <div className="container">
-                        <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Our Track Record</span>
-                            <h2 className="heading-section mt-4">
-                                We Empower You to Achieve <span className="text-[#3B3B6D]">Better Results</span>
-                            </h2>
-                            <p className="text-[#4B5563] mt-4 max-w-3xl mx-auto">
-                                By leveraging the latest advancements in physical therapy, we help you move better, perform better, and focus more on what truly matters.
-                            </p>
-                        </div>
-                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                            {stats.map((stat, index) => (
-                                <div key={index} className="card-physio text-center">
-                                    <div className="text-5xl font-bold text-[#3B3B6D] mb-2">{stat.value}</div>
-                                    <div className="text-[#1F2933] font-medium">{stat.label}</div>
-                                </div>
-                            ))}
+                        <div className="rounded-3xl bg-gradient-to-br from-[#3B3B6D] to-[#2A2A57] px-8 py-14 md:px-16 md:py-16 text-white shadow-float">
+                            <div className="text-center mb-12">
+                                <span className="text-sm font-semibold text-[#F5A623] uppercase tracking-wide">Our Track Record</span>
+                                <h2 className="heading-section mt-4">
+                                    We Empower You to Achieve Better Results
+                                </h2>
+                                <p className="opacity-85 mt-4 max-w-3xl mx-auto">
+                                    By leveraging the latest advancements in physical therapy, we help you move better, perform better, and focus more on what truly matters.
+                                </p>
+                            </div>
+                            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-white/15">
+                                {stats.map((stat, index) => (
+                                    <div key={index} className="text-center pt-8 first:pt-0 md:pt-0">
+                                        <div className="text-5xl md:text-6xl font-bold mb-2">{stat.value}</div>
+                                        <div className="opacity-90 font-medium">{stat.label}</div>
+                                    </div>
+                                ))}
+                            </div>
                         </div>
                     </div>
                 </section>
