@@ -22,11 +22,13 @@ export const metadata: Metadata = {
         siteName: "Physio At Your Doorstep",
         title: "Physio At Your Doorstep - Professional Physiotherapy Services at Home",
         description: "Professional physiotherapy services delivered to your doorstep. Expert care for sports injuries, post-surgery recovery, geriatric care, and more.",
+        images: [{ url: "/images/logo-square.webp", width: 512, height: 512, alt: "Physio At Your Doorstep" }],
     },
     twitter: {
         card: "summary_large_image",
         title: "Physio At Your Doorstep",
         description: "Professional physiotherapy services delivered to your doorstep.",
+        images: ["/images/logo-square.webp"],
     },
     robots: {
         index: true,

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Our Locations | Home Physiotherapy Services | Physio At Your Doorstep",
     description: "We provide professional home physiotherapy services across multiple locations in Bangalore and Pune. Find a physiotherapist near you.",
     alternates: { canonical: "/locations" },
-    openGraph: { title: "Our Locations | Physio At Your Doorstep", url: "/locations", type: "website" },
+    openGraph: { title: "Our Locations | Physio At Your Doorstep", url: "/locations", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default async function LocationsPage() {

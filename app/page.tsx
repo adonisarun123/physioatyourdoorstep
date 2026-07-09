@@ -7,7 +7,9 @@ import {
     Activity, Bone, Brain, Baby, HeartPulse, Wind, Video,
 } from "lucide-react";
 import Link from "next/link";
-import { getAllServices } from "@/lib/content";
+import BlogCard from "@/components/BlogCard";
+import { getAllServices, getAllBlogs } from "@/lib/content";
+import { SITE } from "@/lib/seo";
 import type { Metadata } from "next";
 
 const serviceIcons: Record<string, typeof Activity> = {
@@ -31,13 +33,29 @@ export const metadata: Metadata = {
         title: "Best Physiotherapist in Bangalore | Physio at your Doorstep",
         description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts.",
         url: "/",
-        type: "website",
+        type: "website", images: ["/images/logo-square.webp"],
     },
 };
 
 export default async function HomePage() {
     const services = getAllServices();
     const featuredServices = services.slice(0, 6);
+    const latestBlogs = getAllBlogs().slice(0, 3);
+
+    const doctors = [
+        {
+            name: "Dr. Atharva Mishra",
+            role: "Founder & Chief Physiotherapist — Bangalore",
+            image: "/images/about-dr-atharva-mishra.webp",
+            highlights: "BPT, MPT (Sports) · ACL & Post-Surgical Rehab · Sports Injuries · Manual Therapy",
+        },
+        {
+            name: "Dr. Manasvi Kanjolia",
+            role: "Chief Physiotherapist — Pune",
+            image: "/images/about-dr-manasvi-kanjolia.jpg",
+            highlights: "BPT · Post-Surgical, Neurological, Musculoskeletal & Orthopaedic Rehab",
+        },
+    ];
 
     const featureHighlights = [
         {
@@ -123,9 +141,10 @@ export default async function HomePage() {
     ];
 
     const stats = [
-        { value: "500+", label: "Patients Treated" },
+        { value: "2000+", label: "Patients Treated" },
+        { value: "10000+", label: "Home Sessions Delivered" },
         { value: "98%", label: "Success Rate" },
-        { value: "10+", label: "Years Experience" },
+        { value: "40+", label: "Areas Served" },
     ];
 
     return (
@@ -141,9 +160,10 @@ export default async function HomePage() {
                                 <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                     Best Physiotherapist in Bangalore
                                 </span>
-                                <h1 className="heading-hero mt-6 mb-6">
+                                <h1 className="heading-hero mt-6 mb-4">
                                     You may be anywhere, <span className="text-[#E31E24]">our physio</span> will be there
                                 </h1>
+                                <p className="tagline mb-4">&ldquo;{SITE.tagline}&rdquo;</p>
                                 <p className="text-lg text-[#4B5563] mb-8 leading-relaxed">
                                     Our doctors are on call 24/7. Professional physiotherapy delivered to your home across Bangalore and Pune — convenient, expert care for faster recovery and better health.
                                 </p>
@@ -163,7 +183,7 @@ export default async function HomePage() {
                                                 <Star key={i} className="h-4 w-4 fill-[#F5A623] text-[#F5A623]" />
                                             ))}
                                         </div>
-                                        <span className="text-sm font-medium text-[#1F2933]">Trusted by 500+ patients</span>
+                                        <span className="text-sm font-medium text-[#1F2933]">Trusted by 2000+ patients</span>
                                     </div>
                                     <div className="h-8 w-px bg-[#DCDCEC] hidden sm:block" />
                                     <div className="flex items-center gap-2 text-sm text-[#4B5563]">
@@ -362,10 +382,10 @@ export default async function HomePage() {
                                     By leveraging the latest advancements in physical therapy, we help you move better, perform better, and focus more on what truly matters.
                                 </p>
                             </div>
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 divide-y md:divide-y-0 md:divide-x divide-white/15">
+                            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:divide-x divide-white/15">
                                 {stats.map((stat, index) => (
-                                    <div key={index} className="text-center pt-8 first:pt-0 md:pt-0">
-                                        <div className="text-5xl md:text-6xl font-bold mb-2">{stat.value}</div>
+                                    <div key={index} className="text-center">
+                                        <div className="text-4xl md:text-5xl font-bold mb-2">{stat.value}</div>
                                         <div className="opacity-90 font-medium">{stat.label}</div>
                                     </div>
                                 ))}
@@ -444,6 +464,64 @@ export default async function HomePage() {
                         </div>
                         <div className="text-center mt-10">
                             <Link href="/locations" className="btn-secondary">View All Locations</Link>
+                        </div>
+                    </div>
+                </section>
+
+                {/* Meet Our Experts */}
+                <section className="section bg-white">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Meet Our Experts</span>
+                            <h2 className="heading-section mt-4">
+                                The Doctors Behind <span className="text-[#3B3B6D]">Your Recovery</span>
+                            </h2>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+                            {doctors.map((doc) => (
+                                <Link key={doc.name} href="/about-us" className="card-physio !p-0 overflow-hidden group flex flex-col">
+                                    <div className="aspect-[4/3] overflow-hidden bg-[#EEEEF7]">
+                                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                                        <img
+                                            src={doc.image}
+                                            alt={doc.name}
+                                            loading="lazy"
+                                            className="h-full w-full object-cover object-top transition-transform duration-300 group-hover:scale-105"
+                                        />
+                                    </div>
+                                    <div className="p-6">
+                                        <h3 className="text-xl font-semibold text-[#1F2933] group-hover:text-[#3B3B6D] transition-colors">{doc.name}</h3>
+                                        <div className="text-sm font-medium text-[#E31E24] mt-1 mb-3">{doc.role}</div>
+                                        <p className="text-sm text-[#4B5563] leading-relaxed">{doc.highlights}</p>
+                                        <span className="inline-flex items-center gap-1 text-[#3B3B6D] font-medium mt-4 text-sm">
+                                            Know More <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                                        </span>
+                                    </div>
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+                </section>
+
+                {/* From Our Blog */}
+                <section className="section bg-[#EEEEF7]/50">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Our Blog</span>
+                            <h2 className="heading-section mt-4">
+                                Health Tips &amp; <span className="text-[#3B3B6D]">Insights</span>
+                            </h2>
+                            <p className="text-[#4B5563] mt-4 max-w-3xl mx-auto">
+                                Expert advice from our physiotherapists to help you stay pain-free and recover faster.
+                            </p>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {latestBlogs.map((blog) => (
+                                <BlogCard key={blog.slug} blog={blog} />
+                            ))}
+                        </div>
+                        <div className="text-center mt-10">
+                            <Link href="/blogs" className="btn-secondary">View All Articles</Link>
                         </div>
                     </div>
                 </section>

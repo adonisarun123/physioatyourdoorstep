@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Book Appointment | Schedule Your Physiotherapy Session | Physio At Your Doorstep",
     description: "Book your home physiotherapy appointment online. Choose your service, preferred date and time. Professional physiotherapists at your doorstep.",
     alternates: { canonical: "/booking" },
-    openGraph: { title: "Book an Appointment | Physio At Your Doorstep", url: "/booking", type: "website" },
+    openGraph: { title: "Book an Appointment | Physio At Your Doorstep", url: "/booking", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default function BookingPage() {
@@ -42,9 +42,49 @@ export default function BookingPage() {
                                     <Home className="h-5 w-5 text-[#3B3B6D]" /> At your home
                                 </span>
                                 <span className="inline-flex items-center gap-2">
-                                    <Clock className="h-5 w-5 text-[#3B3B6D]" /> Same-day slots
+                                    <Clock className="h-5 w-5 text-[#3B3B6D]" /> Available 24×7
                                 </span>
                             </div>
+                        </div>
+                    </div>
+                </section>
+
+                {/* 3 Steps to Book */}
+                <section className="section-sm bg-white">
+                    <div className="container">
+                        <div className="text-center mb-10">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">How It Works</span>
+                            <h2 className="heading-section mt-3">
+                                3 Steps to <span className="text-[#3B3B6D]">Book</span>
+                            </h2>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            {[
+                                {
+                                    icon: "/images/step-connect.png",
+                                    title: "1. Connect",
+                                    description: "Fill the form below, or call/WhatsApp us with your location and requirements.",
+                                },
+                                {
+                                    icon: "/images/step-calendar.png",
+                                    title: "2. Appointment",
+                                    description: "We assign the best-suited physiotherapist, who contacts you to fix a convenient time slot.",
+                                },
+                                {
+                                    icon: "/images/step-confirmation.png",
+                                    title: "3. Confirmed",
+                                    description: "Your physiotherapist arrives at your doorstep at the scheduled time.",
+                                },
+                            ].map((step) => (
+                                <div key={step.title} className="card-physio text-center">
+                                    <div className="w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                                        <img src={step.icon} alt={step.title} className="w-14 h-14 object-contain" loading="lazy" />
+                                    </div>
+                                    <h3 className="text-lg font-semibold text-[#1F2933] mb-2">{step.title}</h3>
+                                    <p className="text-[#4B5563] text-sm">{step.description}</p>
+                                </div>
+                            ))}
                         </div>
                     </div>
                 </section>
