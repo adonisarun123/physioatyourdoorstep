@@ -16,6 +16,12 @@ export const SITE = {
     founder: "Dr. Atharva Mishra",
     areasServed: ["Bangalore", "Pune"],
     priceRange: "₹₹",
+    tagline: "Let Your Pain Not Be Showstopper Of Your Life",
+    socials: {
+        linkedin: "https://www.linkedin.com/in/dr-atharva-mishra-pt-73717b215/",
+        instagram: "https://www.instagram.com/physioatyourdoorstep/",
+        youtube: "https://www.youtube.com/@physioatyourdoorstep",
+    },
 } as const;
 
 /** Absolute URL from a site-relative path. */
@@ -35,7 +41,9 @@ export function organizationSchema() {
         url: SITE.url,
         logo: absoluteUrl(SITE.logo),
         description: SITE.description,
+        slogan: SITE.tagline,
         founder: { "@type": "Person", name: SITE.founder },
+        sameAs: Object.values(SITE.socials),
         contactPoint: {
             "@type": "ContactPoint",
             telephone: SITE.phoneRaw,

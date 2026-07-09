@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Menu, Phone, X, Mail, Facebook, Twitter, Linkedin } from "lucide-react";
+import { Menu, Phone, X, Mail, Clock } from "lucide-react";
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -10,6 +10,7 @@ const navigation = [
   { name: "Home", href: "/" },
   { name: "About Us", href: "/about-us" },
   { name: "Our Service", href: "/service" },
+  { name: "Blogs", href: "/blogs" },
   { name: "Contact Us", href: "/contact-us" },
 ];
 
@@ -37,16 +38,9 @@ export default function Header() {
                 <span>{phoneNumber}</span>
               </a>
             </div>
-            <div className="flex items-center gap-3 ml-auto">
-              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
-                <Facebook className="h-4 w-4" />
-              </a>
-              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
-                <Twitter className="h-4 w-4" />
-              </a>
-              <a href="#" className="text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
-                <Linkedin className="h-4 w-4" />
-              </a>
+            <div className="flex items-center gap-2 ml-auto font-semibold text-[#E31E24]">
+              <Clock className="h-4 w-4" />
+              <span>Available 24×7</span>
             </div>
           </div>
         </div>

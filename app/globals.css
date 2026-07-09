@@ -3,13 +3,18 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  /* Physiocare Green Palette */
-  --color-physiogreen-900: #23234A;
-  --color-physiogreen-700: #2A2A57;
-  --color-physiogreen-600: #3B3B6D;
-  --color-physiogreen-500: #6A6AA3;
-  --color-physiogreen-300: #DCDCEC;
-  --color-physiogreen-100: #EEEEF7;
+  /* Brand Palette — matches the logo (navy blue / red / white) */
+  --color-brandnavy-900: #23234A;
+  --color-brandnavy-700: #2A2A57;
+  --color-brandnavy-600: #3B3B6D;
+  --color-brandnavy-500: #6A6AA3;
+  --color-brandnavy-300: #DCDCEC;
+  --color-brandnavy-100: #EEEEF7;
+
+  /* Brand Red (logo "P") */
+  --color-brandred-700: #C0181D;
+  --color-brandred-600: #E31E24;
+  --color-brandred-100: #FDECEC;
 
   /* Physiocare Neutrals */
   --color-physioneutral-white: #FFFFFF;
@@ -61,12 +66,12 @@
 }
 
 :root {
-  /* Physiocare Brand Colors */
+  /* Brand Colors (from logo: navy blue, red, white) */
   --primary: #3B3B6D;
-  /* Brand Green */
+  /* Brand Navy */
   --primary-foreground: #FFFFFF;
   --secondary: #2A2A57;
-  /* Deep Green */
+  /* Deep Navy */
   --secondary-foreground: #FFFFFF;
 
   --background: #FFFFFF;
@@ -79,12 +84,12 @@
   --popover-foreground: #1F2933;
 
   --muted: #EEEEF7;
-  /* Background Mint */
+  /* Background Lavender-White */
   --muted-foreground: #4B5563;
 
-  --accent: #6A6AA3;
-  /* Soft Green */
-  --accent-foreground: #1F2933;
+  --accent: #E31E24;
+  /* Brand Red */
+  --accent-foreground: #FFFFFF;
 
   --destructive: #dc2626;
   --destructive-foreground: #FFFFFF;
@@ -264,26 +269,26 @@
 
   /* Typography helpers */
   .heading-hero {
-    font-size: 3.5rem;
-    font-weight: 700;
-    line-height: 1.15;
-  }
-
-  @media (min-width: 768px) {
-    .heading-hero {
-      font-size: 4rem;
-    }
-  }
-
-  .heading-section {
-    font-size: 2.625rem;
+    font-size: 2.25rem;
     font-weight: 700;
     line-height: 1.2;
   }
 
   @media (min-width: 768px) {
+    .heading-hero {
+      font-size: 2.875rem;
+    }
+  }
+
+  .heading-section {
+    font-size: 1.875rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  @media (min-width: 768px) {
     .heading-section {
-      font-size: 3rem;
+      font-size: 2.25rem;
     }
   }
 
@@ -297,6 +302,33 @@
     .heading-subsection {
       font-size: 2rem;
     }
+  }
+
+  /* Brand tagline */
+  .tagline {
+    font-size: 1.125rem;
+    font-weight: 600;
+    font-style: italic;
+    color: #E31E24;
+  }
+
+  @media (min-width: 768px) {
+    .tagline {
+      font-size: 1.25rem;
+    }
+  }
+
+  /* Form validation */
+  .form-error {
+    margin-top: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #DC2626;
+  }
+
+  .input-error {
+    border-color: #DC2626 !important;
+    --ring: #DC2626;
   }
 
   /* Flex fix */

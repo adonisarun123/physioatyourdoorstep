@@ -3,14 +3,14 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { ContactForm } from "@/components/ContactForm";
 import { SITE } from "@/lib/seo";
-import { Mail, MapPin, Phone } from "lucide-react";
+import { Clock, Mail, MapPin, Phone } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Contact Us | Get in Touch | Physio At Your Doorstep",
     description: "Contact Physio At Your Doorstep for professional home physiotherapy services. Call us, email us, or fill out our contact form. We're here to help!",
     alternates: { canonical: "/contact-us" },
-    openGraph: { title: "Contact Us | Physio At Your Doorstep", url: "/contact-us", type: "website" },
+    openGraph: { title: "Contact Us | Physio At Your Doorstep", url: "/contact-us", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default function ContactUsPage() {
@@ -32,6 +32,8 @@ export default function ContactUsPage() {
             href: `mailto:${SITE.email}`,
         },
     ];
+
+    const availability = { icon: Clock, title: "Working Hours", value: "Available 24×7 — all days of the week" };
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -82,6 +84,15 @@ export default function ContactUsPage() {
                                             </div>
                                         </a>
                                     ))}
+                                    <div className="card-physio flex items-start gap-4 !py-5">
+                                        <div className="w-12 h-12 rounded-xl bg-[#FDECEC] flex items-center justify-center flex-shrink-0">
+                                            <availability.icon className="h-6 w-6 text-[#E31E24]" />
+                                        </div>
+                                        <div>
+                                            <h3 className="font-semibold text-[#1F2933] mb-1">{availability.title}</h3>
+                                            <p className="text-[#E31E24] text-sm font-semibold">{availability.value}</p>
+                                        </div>
+                                    </div>
                                     <div className="card-physio flex items-start gap-4 !py-5">
                                         <div className="w-12 h-12 rounded-xl bg-[#EEEEF7] flex items-center justify-center flex-shrink-0">
                                             <MapPin className="h-6 w-6 text-[#3B3B6D]" />
