@@ -9,7 +9,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { submitBooking } from "@/app/actions";
 import HoneypotFields from "@/components/HoneypotFields";
 import { AlertCircle, CheckCircle2, MessageCircle } from "lucide-react";
-import { useState, useTransition } from "react";
+import { useEffect, useState, useTransition } from "react";
 import { toast } from "sonner";
 
 interface BookingFormProps {
@@ -67,6 +67,19 @@ const WHATSAPP_NUMBER = "918233787737";
 export function BookingForm({ services }: BookingFormProps) {
     const [isPending, startTransition] = useTransition();
     const [formData, setFormData] = useState(EMPTY_FORM);
+
+    // Pre-select the service when arriving from a service page (/booking?service=<slug>).
+    // Reads window.location directly: on statically prerendered pages, useSearchParams
+    // does not reliably expose the query on first load in production.
+    useEffect(() => {
+        const slug = new URLSearchParams(window.location.search).get("service");
+        if (!slug) return;
+        const match = services?.find((s) => s.slug === slug);
+        if (match) {
+            setFormData((prev) => (prev.serviceId ? prev : { ...prev, serviceId: match.id.toString() }));
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
     const [errors, setErrors] = useState<FieldErrors>({});
     const [serverError, setServerError] = useState("");
     const [submitted, setSubmitted] = useState(false);

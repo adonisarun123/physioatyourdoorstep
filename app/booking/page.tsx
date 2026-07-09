@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import { BookingForm } from "@/components/BookingForm";
 import { getAllServices } from "@/lib/content";
 import { Clock, Home, ShieldCheck } from "lucide-react";
+import { Suspense } from "react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -92,7 +93,9 @@ export default function BookingPage() {
                 {/* Booking Form */}
                 <section className="section bg-white">
                     <div className="container max-w-2xl">
-                        <BookingForm services={services} />
+                        <Suspense fallback={null}>
+                            <BookingForm services={services} />
+                        </Suspense>
 
                         <div className="mt-8 text-center text-sm text-[#4B5563]">
                             <p>
