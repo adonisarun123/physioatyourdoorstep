@@ -8,7 +8,10 @@ export default function CTABar() {
   const whatsappNumber = "918233787737";
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 md:hidden bg-background border-t shadow-lg">
+    <div
+      className="fixed inset-x-0 bottom-0 z-40 md:hidden bg-white border-t shadow-lg"
+      style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
+    >
       <div className="container py-3 flex gap-2">
         <Button variant="outline" className="flex-1" asChild>
           <a href={`tel:${phoneNumber}`}>

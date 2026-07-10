@@ -22,6 +22,7 @@ export const SITE = {
         instagram: "https://www.instagram.com/physioatyourdoorstep/",
         youtube: "https://www.youtube.com/@physioatyourdoorstep",
     },
+    googleReviews: "https://share.google/XntoRQjyiP56KBl0I",
 } as const;
 
 /** Absolute URL from a site-relative path. */

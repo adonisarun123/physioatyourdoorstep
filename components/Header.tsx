@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Menu, Phone, X, Mail, Clock } from "lucide-react";
+import { Menu, Phone, X, Mail } from "lucide-react";
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -24,11 +24,11 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 w-full bg-white shadow-sm">
-      {/* Top Utility Bar */}
-      <div className="bg-[#EEEEF7] border-b border-[#DCDCEC]">
+      {/* Top Utility Bar (desktop only) */}
+      <div className="hidden md:block bg-[#EEEEF7] border-b border-[#DCDCEC]">
         <div className="container">
           <div className="flex items-center justify-between py-2 text-sm">
-            <div className="hidden md:flex items-center gap-6">
+            <div className="flex items-center gap-6">
               <a href={`mailto:${email}`} className="flex items-center gap-2 text-[#2A2A57] hover:text-[#3B3B6D] transition-colors">
                 <Mail className="h-4 w-4" />
                 <span>{email}</span>
@@ -38,16 +38,13 @@ export default function Header() {
                 <span>{phoneNumber}</span>
               </a>
             </div>
-            <div className="flex items-center gap-2 ml-auto font-semibold text-[#E31E24]">
-              <Clock className="h-4 w-4" />
-              <span>Available 24×7</span>
-            </div>
+
           </div>
         </div>
       </div>
 
       {/* Main Navigation */}
-      <nav className="container flex h-20 items-center justify-between">
+      <nav className="container flex h-16 md:h-20 items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
           <img src="/logo.webp" alt="Physio At Your Doorstep" className="h-12 w-12" />

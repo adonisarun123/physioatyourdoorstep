@@ -93,8 +93,8 @@ export default function AboutUsPage() {
                             <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                 About Us
                             </span>
-                            <h1 className="heading-hero mt-6 mb-4">
-                                Care That Comes <span className="text-[#E31E24]">to You</span>
+                            <h1 className="heading-hero mt-4 mb-4 whitespace-nowrap max-[420px]:whitespace-normal">
+                                Care that comes <span className="text-[#3B3B6D]">to you</span>
                             </h1>
                             <p className="tagline mb-4">&ldquo;{SITE.tagline}&rdquo;</p>
                             <p className="text-lg text-[#4B5563] leading-relaxed">

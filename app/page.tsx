@@ -2,6 +2,9 @@ import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import TestimonialsCarousel from "@/components/TestimonialsCarousel";
+import { ServiceFAQ } from "@/components/ServiceFAQ";
+import JsonLd from "@/components/JsonLd";
+import { faqSchema } from "@/lib/seo";
 import {
     Check, Heart, Users, Stethoscope, Phone, Zap, MapPin, Star, ArrowRight,
     Activity, Bone, Brain, Baby, HeartPulse, Wind, Video,
@@ -82,21 +85,48 @@ export default async function HomePage() {
         "Sports Physiotherapy",
     ];
 
-    const bookingSteps = [
+    const journeySteps = [
         {
             icon: "/images/step-connect.png",
-            title: "Connect",
-            description: "Call or WhatsApp us with your location and requirements.",
+            title: "Tell Us Your Problem",
+            description: "Call or WhatsApp us and describe your pain, condition, and location — it takes less than a minute.",
         },
         {
             icon: "/images/step-calendar.png",
-            title: "Appointment",
-            description: "We appoint the best suited physiotherapist for your needs. The physio contacts you to arrange a convenient time slot.",
+            title: "Get Matched With the Right Physio",
+            description: "We assign the physiotherapist best suited to your condition, who contacts you to fix a convenient slot.",
         },
         {
             icon: "/images/step-confirmation.png",
-            title: "Confirmed",
-            description: "Confirmed! Your physiotherapist arrives at your doorstep at the scheduled time.",
+            title: "Start Recovery at Home",
+            description: "Your physiotherapist arrives at your doorstep at the scheduled time and your recovery begins.",
+        },
+    ];
+
+    const faqs = [
+        {
+            question: "Do you really provide physiotherapy at home?",
+            answer: "Yes. Our certified physiotherapists come to your home, office, or any location of your choice across Bangalore and Pune, with all the equipment needed for your session.",
+        },
+        {
+            question: "Which areas do you serve?",
+            answer: "We serve 40+ areas across Bangalore (Koramangala, HSR Layout, Whitefield, Indiranagar, JP Nagar, Electronic City and more) and Pune (Baner, Wakad, Hinjewadi, Kothrud and more).",
+        },
+        {
+            question: "How do I book an appointment?",
+            answer: "Call or WhatsApp us at +91 82337 87737, or fill the booking form on this website. We confirm your slot the same day and match you with the right specialist.",
+        },
+        {
+            question: "Are your physiotherapists qualified?",
+            answer: "Yes. Every physiotherapist on our team holds at least a Bachelor of Physiotherapy (BPT) degree, and our senior team holds postgraduate specializations. Our founder, Dr. Atharva Mishra, is a Masters in Sports Physiotherapy.",
+        },
+        {
+            question: "What conditions do you treat?",
+            answer: "Back and neck pain, sports injuries, post-surgical rehabilitation, neurological conditions like stroke and Parkinson's, arthritis and geriatric care, pediatric conditions, pregnancy-related pain, and respiratory conditions.",
+        },
+        {
+            question: "Are you available on weekends and at night?",
+            answer: "Yes — we are available 24×7, all days of the week, including weekends and public holidays. Emergency home visits can also be arranged.",
         },
     ];
 
@@ -160,8 +190,9 @@ export default async function HomePage() {
                                 <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                     Best Physiotherapist in Bangalore
                                 </span>
-                                <h1 className="heading-hero mt-6 mb-4">
-                                    You may be anywhere, <span className="text-[#E31E24]">our physio</span> will be there
+                                <h1 className="heading-hero mt-4 mb-4">
+                                    You may be anywhere,<br />
+                                    <span className="text-[#3B3B6D]">our physio</span> will be there
                                 </h1>
                                 <p className="tagline mb-4">&ldquo;{SITE.tagline}&rdquo;</p>
                                 <p className="text-lg text-[#4B5563] mb-8 leading-relaxed">
@@ -213,6 +244,20 @@ export default async function HomePage() {
                                     </div>
                                 </a>
                             </div>
+                        </div>
+                    </div>
+                </section>
+
+                {/* Trust Bar */}
+                <section className="bg-gradient-to-r from-[#3B3B6D] to-[#2A2A57] text-white py-8">
+                    <div className="container">
+                        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:divide-x divide-white/15 text-center">
+                            {stats.map((stat, index) => (
+                                <div key={index}>
+                                    <div className="text-3xl md:text-4xl font-bold">{stat.value}</div>
+                                    <div className="text-sm opacity-90 font-medium mt-1">{stat.label}</div>
+                                </div>
+                            ))}
                         </div>
                     </div>
                 </section>
@@ -289,17 +334,17 @@ export default async function HomePage() {
                     </div>
                 </section>
 
-                {/* 3 Steps to Book */}
+                {/* Patient Journey */}
                 <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">How It Works</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Patient Journey</span>
                             <h2 className="heading-section mt-4">
-                                3 Steps to <span className="text-[#3B3B6D]">Book</span>
+                                Your Recovery in <span className="text-[#3B3B6D]">3 Simple Steps</span>
                             </h2>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                            {bookingSteps.map((step, index) => (
+                            {journeySteps.map((step, index) => (
                                 <div key={index} className="card-physio text-center relative">
                                     <div className="absolute top-4 right-6 text-5xl font-bold text-[#EEEEF7]">{index + 1}</div>
                                     <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
@@ -317,8 +362,43 @@ export default async function HomePage() {
                     </div>
                 </section>
 
-                {/* Services Section */}
+                {/* Meet Our Experts */}
                 <section className="section bg-[#EEEEF7]/50">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Meet Our Experts</span>
+                            <h2 className="heading-section mt-4">
+                                The Doctors Behind <span className="text-[#3B3B6D]">Your Recovery</span>
+                            </h2>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+                            {doctors.map((doc) => (
+                                <Link key={doc.name} href="/about-us" className="card-physio !p-0 overflow-hidden group flex flex-col">
+                                    <div className="aspect-[4/3] overflow-hidden bg-[#EEEEF7]">
+                                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                                        <img
+                                            src={doc.image}
+                                            alt={doc.name}
+                                            loading="lazy"
+                                            className="h-full w-full object-cover object-top transition-transform duration-300 group-hover:scale-105"
+                                        />
+                                    </div>
+                                    <div className="p-6">
+                                        <h3 className="text-xl font-semibold text-[#1F2933] group-hover:text-[#3B3B6D] transition-colors">{doc.name}</h3>
+                                        <div className="text-sm font-medium text-[#E31E24] mt-1 mb-3">{doc.role}</div>
+                                        <p className="text-sm text-[#4B5563] leading-relaxed">{doc.highlights}</p>
+                                        <span className="inline-flex items-center gap-1 text-[#3B3B6D] font-medium mt-4 text-sm">
+                                            Know More <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+                                        </span>
+                                    </div>
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+                </section>
+
+                {/* Services Section */}
+                <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
                             <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Our Services</span>
@@ -369,31 +449,6 @@ export default async function HomePage() {
                     </div>
                 </section>
 
-                {/* Stats Section */}
-                <section className="section bg-white">
-                    <div className="container">
-                        <div className="rounded-3xl bg-gradient-to-br from-[#3B3B6D] to-[#2A2A57] px-8 py-14 md:px-16 md:py-16 text-white shadow-float">
-                            <div className="text-center mb-12">
-                                <span className="text-sm font-semibold text-[#F5A623] uppercase tracking-wide">Our Track Record</span>
-                                <h2 className="heading-section mt-4">
-                                    We Empower You to Achieve Better Results
-                                </h2>
-                                <p className="opacity-85 mt-4 max-w-3xl mx-auto">
-                                    By leveraging the latest advancements in physical therapy, we help you move better, perform better, and focus more on what truly matters.
-                                </p>
-                            </div>
-                            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:divide-x divide-white/15">
-                                {stats.map((stat, index) => (
-                                    <div key={index} className="text-center">
-                                        <div className="text-4xl md:text-5xl font-bold mb-2">{stat.value}</div>
-                                        <div className="opacity-90 font-medium">{stat.label}</div>
-                                    </div>
-                                ))}
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
                 {/* Why Choose Us */}
                 <section className="section bg-[#EEEEF7]/50">
                     <div className="container">
@@ -437,11 +492,36 @@ export default async function HomePage() {
                             </h2>
                         </div>
                         <TestimonialsCarousel testimonials={testimonials} />
+                        <div className="text-center mt-10">
+                            <a
+                                href={SITE.googleReviews}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="btn-secondary"
+                            >
+                                <Star className="h-4 w-4 fill-[#F5A623] text-[#F5A623]" />
+                                Read Our 5-Star Reviews on Google
+                            </a>
+                        </div>
+                    </div>
+                </section>
+
+
+                {/* FAQ */}
+                <section className="section bg-[#EEEEF7]/50">
+                    <div className="container max-w-4xl">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">FAQ</span>
+                            <h2 className="heading-section mt-4">
+                                Frequently Asked <span className="text-[#3B3B6D]">Questions</span>
+                            </h2>
+                        </div>
+                        <ServiceFAQ faqs={faqs} />
                     </div>
                 </section>
 
                 {/* Serving Areas Section */}
-                <section className="section bg-[#EEEEF7]/50">
+                <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
                             <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Serving Areas</span>
@@ -464,41 +544,6 @@ export default async function HomePage() {
                         </div>
                         <div className="text-center mt-10">
                             <Link href="/locations" className="btn-secondary">View All Locations</Link>
-                        </div>
-                    </div>
-                </section>
-
-                {/* Meet Our Experts */}
-                <section className="section bg-white">
-                    <div className="container">
-                        <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Meet Our Experts</span>
-                            <h2 className="heading-section mt-4">
-                                The Doctors Behind <span className="text-[#3B3B6D]">Your Recovery</span>
-                            </h2>
-                        </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
-                            {doctors.map((doc) => (
-                                <Link key={doc.name} href="/about-us" className="card-physio !p-0 overflow-hidden group flex flex-col">
-                                    <div className="aspect-[4/3] overflow-hidden bg-[#EEEEF7]">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
-                                            src={doc.image}
-                                            alt={doc.name}
-                                            loading="lazy"
-                                            className="h-full w-full object-cover object-top transition-transform duration-300 group-hover:scale-105"
-                                        />
-                                    </div>
-                                    <div className="p-6">
-                                        <h3 className="text-xl font-semibold text-[#1F2933] group-hover:text-[#3B3B6D] transition-colors">{doc.name}</h3>
-                                        <div className="text-sm font-medium text-[#E31E24] mt-1 mb-3">{doc.role}</div>
-                                        <p className="text-sm text-[#4B5563] leading-relaxed">{doc.highlights}</p>
-                                        <span className="inline-flex items-center gap-1 text-[#3B3B6D] font-medium mt-4 text-sm">
-                                            Know More <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-                                        </span>
-                                    </div>
-                                </Link>
-                            ))}
                         </div>
                     </div>
                 </section>
@@ -544,6 +589,8 @@ export default async function HomePage() {
                     </div>
                 </section>
             </main>
+
+            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer })))]} />
 
             <Footer />
             <CTABar />
