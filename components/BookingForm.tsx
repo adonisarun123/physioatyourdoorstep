@@ -53,10 +53,11 @@ function validate(form: typeof EMPTY_FORM): FieldErrors {
         errors.email = "Please enter a valid email address (e.g. name@example.com).";
     }
     const digits = form.phone.replace(/\D/g, "");
+    const local = digits.length > 10 && digits.startsWith("91") ? digits.slice(-10) : digits;
     if (!form.phone.trim()) {
         errors.phone = "Please enter your phone number.";
-    } else if (digits.length < 10) {
-        errors.phone = "Please enter a valid 10-digit phone number.";
+    } else if (local.length !== 10 || !/^[6-9]/.test(local)) {
+        errors.phone = "Please enter a valid 10-digit Indian mobile number.";
     }
     if (!form.serviceId) errors.serviceId = "Please select a service.";
     return errors;
@@ -163,7 +164,7 @@ export function BookingForm({ services }: BookingFormProps) {
                                 rel="noopener noreferrer"
                                 className="mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
                             >
-                                <MessageCircle className="h-4 w-4" /> Send this booking on WhatsApp instead
+                                <MessageCircle className="h-4 w-4" /> Schedule on WhatsApp instead
                             </a>
                         </div>
                     )}
@@ -322,7 +323,7 @@ export function BookingForm({ services }: BookingFormProps) {
                         rel="noopener noreferrer"
                         className="flex w-full items-center justify-center gap-2 rounded-full border-2 border-[#25D366] px-4 py-2.5 font-semibold text-[#1F2933] hover:bg-[#25D366]/10 transition-colors"
                     >
-                        <MessageCircle className="h-5 w-5 text-[#25D366]" /> Or book instantly on WhatsApp
+                        <MessageCircle className="h-5 w-5 text-[#25D366]" /> Schedule on WhatsApp
                     </a>
                 </form>
             </CardContent>

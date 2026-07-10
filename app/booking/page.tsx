@@ -29,7 +29,7 @@ export default function BookingPage() {
                             <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                 Book Online
                             </span>
-                            <h1 className="heading-hero mt-6 mb-6">
+                            <h1 className="heading-hero mt-4 mb-4">
                                 Book an <span className="text-[#E31E24]">Appointment</span>
                             </h1>
                             <p className="text-lg text-[#4B5563] leading-relaxed">
@@ -54,26 +54,26 @@ export default function BookingPage() {
                 <section className="section-sm bg-white">
                     <div className="container">
                         <div className="text-center mb-10">
-                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">How It Works</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Patient Journey</span>
                             <h2 className="heading-section mt-3">
-                                3 Steps to <span className="text-[#3B3B6D]">Book</span>
+                                Your Recovery in <span className="text-[#3B3B6D]">3 Simple Steps</span>
                             </h2>
                         </div>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             {[
                                 {
                                     icon: "/images/step-connect.png",
-                                    title: "1. Connect",
-                                    description: "Fill the form below, or call/WhatsApp us with your location and requirements.",
+                                    title: "1. Tell Us Your Problem",
+                                    description: "Fill the form below, or call/WhatsApp us with your condition and location.",
                                 },
                                 {
                                     icon: "/images/step-calendar.png",
-                                    title: "2. Appointment",
-                                    description: "We assign the best-suited physiotherapist, who contacts you to fix a convenient time slot.",
+                                    title: "2. Get Matched With the Right Physio",
+                                    description: "We assign the physiotherapist best suited to your condition, who contacts you to fix a slot.",
                                 },
                                 {
                                     icon: "/images/step-confirmation.png",
-                                    title: "3. Confirmed",
+                                    title: "3. Start Recovery at Home",
                                     description: "Your physiotherapist arrives at your doorstep at the scheduled time.",
                                 },
                             ].map((step) => (

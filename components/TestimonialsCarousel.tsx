@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Quote } from "lucide-react";
+import { Quote, Star } from "lucide-react";
 import {
     Carousel,
     CarouselContent,
@@ -47,7 +47,14 @@ export default function TestimonialsCarousel({ testimonials }: TestimonialsCarou
                             className="pl-4 md:basis-1/2 lg:basis-1/3"
                         >
                             <div className="card-physio flex h-full flex-col">
-                                <Quote className="h-8 w-8 text-[#E31E24] mb-4" />
+                                <div className="flex items-center justify-between mb-4">
+                                    <Quote className="h-8 w-8 text-[#E31E24]" />
+                                    <div className="flex" aria-label="5 star rating">
+                                        {Array.from({ length: 5 }).map((_, i) => (
+                                            <Star key={i} className="h-4 w-4 fill-[#F5A623] text-[#F5A623]" />
+                                        ))}
+                                    </div>
+                                </div>
                                 <p className="text-[#4B5563] leading-relaxed flex-1">{t.quote}</p>
                                 <div className="mt-6 pt-4 border-t border-[#DCDCEC]">
                                     <div className="font-semibold text-[#1F2933]">{t.name}</div>

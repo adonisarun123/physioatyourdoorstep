@@ -47,7 +47,7 @@ export default function ContactUsPage() {
                             <span className="pill bg-[#3B3B6D]/10 text-[#2A2A57] border border-[#DCDCEC]">
                                 Contact Us
                             </span>
-                            <h1 className="heading-hero mt-6 mb-6">
+                            <h1 className="heading-hero mt-4 mb-4">
                                 We&apos;re Here to <span className="text-[#E31E24]">Help</span>
                             </h1>
                             <p className="text-lg text-[#4B5563] leading-relaxed">
