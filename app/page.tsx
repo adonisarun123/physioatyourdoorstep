@@ -1,7 +1,8 @@
 import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import TestimonialsCarousel from "@/components/TestimonialsCarousel";
+import GoogleReviews from "@/components/GoogleReviews";
+import YouTubeSection from "@/components/YouTubeSection";
 import { ServiceFAQ } from "@/components/ServiceFAQ";
 import JsonLd from "@/components/JsonLd";
 import { faqSchema } from "@/lib/seo";
@@ -137,24 +138,6 @@ export default async function HomePage() {
         "Latest advancements in physical therapy",
         "Same day appointments",
         "Serving Bangalore and Pune",
-    ];
-
-    const testimonials = [
-        {
-            quote: "Loved the way the doctor handled the issue and understood the problem. Being a sportsperson, I regularly face tissue pains and Dr. Atharva helps me get over them — it's not medicine he prefers, it's the exercises that help me recover faster.",
-            name: "Prateek Mathur",
-            role: "Computer Engineer, Accenture",
-        },
-        {
-            quote: "Dr. Atharva Mishra helped me with physio after my MPFL surgery. He is very helpful and encouraging, which helped me recover fast. Within a week of physio I gained a lot of improvement in my knee. Strongly recommended!",
-            name: "Pavithra",
-            role: "MBA Scholar",
-        },
-        {
-            quote: "I was suffering from severe back pain from the early stage of my pregnancy. Dr. Atharva came to my home for the treatment along with simple exercises, and was so friendly and worked around my convenience. Thank you doctor!",
-            name: "Leela S",
-            role: "Homemaker",
-        },
     ];
 
     const servingAreas = [
@@ -482,30 +465,34 @@ export default async function HomePage() {
                     </div>
                 </section>
 
-                {/* Testimonials */}
+                {/* Google Reviews */}
                 <section className="section bg-white">
                     <div className="container">
                         <div className="text-center mb-12">
-                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Testimonials</span>
+                            <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Google Reviews</span>
                             <h2 className="heading-section mt-4">
                                 What Our <span className="text-[#3B3B6D]">Patients Say</span>
                             </h2>
                         </div>
-                        <TestimonialsCarousel testimonials={testimonials} />
-                        <div className="text-center mt-10">
-                            <a
-                                href={SITE.googleReviews}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="btn-secondary"
-                            >
-                                <Star className="h-4 w-4 fill-[#F5A623] text-[#F5A623]" />
-                                Read Our 5-Star Reviews on Google
-                            </a>
-                        </div>
+                        <GoogleReviews />
                     </div>
                 </section>
 
+                {/* YouTube Videos */}
+                <section className="section bg-gradient-to-br from-[#2A2A57] to-[#23234A] text-white">
+                    <div className="container">
+                        <div className="text-center mb-12">
+                            <span className="text-sm font-semibold text-[#FF6B6E] uppercase tracking-wide">Recovery Stories</span>
+                            <h2 className="heading-section mt-4 text-white">
+                                Watch Real <span className="text-[#F5A623]">Patient Journeys</span>
+                            </h2>
+                            <p className="mt-4 max-w-3xl mx-auto opacity-90">
+                                Real recoveries, documented on our YouTube channel — from post-surgery rehab to getting back in the game.
+                            </p>
+                        </div>
+                        <YouTubeSection />
+                    </div>
+                </section>
 
                 {/* FAQ */}
                 <section className="section bg-[#EEEEF7]/50">
