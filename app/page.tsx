@@ -118,6 +118,14 @@ export default async function HomePage() {
             answer: "Call or WhatsApp us at +91 82337 87737, or fill the booking form on this website. We confirm your slot the same day and match you with the right specialist.",
         },
         {
+            question: "Do you provide same-day visits?",
+            answer: "Yes. We offer same-day home visits across Bangalore and Pune, subject to physiotherapist availability in your area. Call or WhatsApp us at +91 82337 87737 and we will do our best to start your treatment the very same day — urgent visits can also be arranged.",
+        },
+        {
+            question: "Do you treat elderly patients?",
+            answer: "Yes. Geriatric physiotherapy is one of our core services. Our physiotherapists are experienced in treating arthritis, joint pain, balance problems, post-stroke recovery, Parkinson's, and age-related mobility issues — with gentle, home-based sessions designed around each senior's comfort and pace.",
+        },
+        {
             question: "Are your physiotherapists qualified?",
             answer: "Yes. Every physiotherapist on our team holds at least a Bachelor of Physiotherapy (BPT) degree, and our senior team holds postgraduate specializations. Our founder, Dr. Atharva Mishra, is a Masters in Sports Physiotherapy.",
         },
@@ -128,6 +136,10 @@ export default async function HomePage() {
         {
             question: "Are you available on weekends and at night?",
             answer: "Yes — we are available 24×7, all days of the week, including weekends and public holidays. Emergency home visits can also be arranged.",
+        },
+        {
+            question: "Do you issue invoices?",
+            answer: "Yes. We issue a proper invoice for every session or treatment package, which you can use for reimbursement or insurance claims where your policy covers physiotherapy. Just ask your physiotherapist or message us on WhatsApp for a copy.",
         },
     ];
 
