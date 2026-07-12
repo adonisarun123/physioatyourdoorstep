@@ -21,9 +21,15 @@ const footerServices = [
 ];
 
 const socials = [
-  { name: "LinkedIn", href: SITE.socials.linkedin, icon: Linkedin },
-  { name: "Instagram", href: SITE.socials.instagram, icon: Instagram },
-  { name: "YouTube", href: SITE.socials.youtube, icon: Youtube },
+  // Each icon uses the platform's official brand colour.
+  { name: "LinkedIn", href: SITE.socials.linkedin, icon: Linkedin, bg: "bg-[#0A66C2]" },
+  {
+    name: "Instagram",
+    href: SITE.socials.instagram,
+    icon: Instagram,
+    bg: "bg-[radial-gradient(circle_at_30%_110%,#FDF497_0%,#FD5949_45%,#D6249F_60%,#285AEB_90%)]",
+  },
+  { name: "YouTube", href: SITE.socials.youtube, icon: Youtube, bg: "bg-[#FF0000]" },
 ];
 
 export default function Footer() {
@@ -95,7 +101,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={s.name}
-                  className="w-9 h-9 rounded-full bg-white/10 hover:bg-[#E31E24] flex items-center justify-center transition-colors"
+                  className={`w-9 h-9 rounded-full ${s.bg} flex items-center justify-center transition-transform hover:scale-110 hover:brightness-110`}
                 >
                   <s.icon className="h-4 w-4" />
                 </a>
