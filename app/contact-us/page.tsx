@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { ContactForm } from "@/components/ContactForm";
 import { SITE } from "@/lib/seo";
-import { Clock, Mail, MapPin, Phone } from "lucide-react";
+import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -108,9 +108,10 @@ export default function ContactUsPage() {
                                     href={`https://wa.me/${whatsappNumber}?text=Hi, I would like to know more about your services`}
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="btn-primary w-full sm:w-auto"
+                                    className="btn-whatsapp w-full sm:w-auto"
                                 >
-                                    WhatsApp Us
+                                    <MessageCircle className="h-5 w-5" />
+                                    Schedule on WhatsApp
                                 </a>
                             </div>
 
