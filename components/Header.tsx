@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Menu, Phone, X, Mail } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -17,6 +17,20 @@ const navigation = [
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const pathname = usePathname();
+
+  // Always close the mobile menu after navigating to a new route so it can
+  // never get "stuck" open across page changes.
+  useEffect(() => {
+    setMobileMenuOpen(false);
+  }, [pathname]);
+
+  // Lock background scroll while the mobile menu is open.
+  useEffect(() => {
+    document.body.style.overflow = mobileMenuOpen ? "hidden" : "";
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [mobileMenuOpen]);
 
   const phoneNumber = "+918233787737";
   const whatsappNumber = "918233787737";
@@ -80,8 +94,11 @@ export default function Header() {
         {/* Mobile menu button */}
         <button
           type="button"
-          className="md:hidden text-[#1F2933]"
-          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
+          aria-expanded={mobileMenuOpen}
+          aria-controls="mobile-menu"
+          className="md:hidden -mr-2 p-2 text-[#1F2933]"
+          onClick={() => setMobileMenuOpen((open) => !open)}
         >
           {mobileMenuOpen ? (
             <X className="h-6 w-6" />
@@ -93,7 +110,7 @@ export default function Header() {
 
       {/* Mobile menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden border-t border-[#DCDCEC]">
+        <div id="mobile-menu" className="md:hidden border-t border-[#DCDCEC]">
           <div className="container py-4 space-y-3">
             {navigation.map((item) => (
               <Link
