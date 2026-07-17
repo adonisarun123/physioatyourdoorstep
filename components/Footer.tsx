@@ -1,4 +1,4 @@
-import { Mail, MapPin, Phone, Clock, Linkedin, Instagram, Youtube } from "lucide-react";
+import { Mail, MapPin, Phone, Clock, Linkedin, Instagram, Youtube, MessageCircle } from "lucide-react";
 import Link from "next/link";
 import { SITE } from "@/lib/seo";
 
@@ -30,6 +30,12 @@ const socials = [
     bg: "bg-[radial-gradient(circle_at_30%_110%,#FDF497_0%,#FD5949_45%,#D6249F_60%,#285AEB_90%)]",
   },
   { name: "YouTube", href: SITE.socials.youtube, icon: Youtube, bg: "bg-[#FF0000]" },
+  {
+    name: "WhatsApp",
+    href: "https://wa.me/918233787737?text=Hi, I would like to book a physiotherapy session",
+    icon: MessageCircle,
+    bg: "bg-[#25D366]",
+  },
 ];
 
 export default function Footer() {
