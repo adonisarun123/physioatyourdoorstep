@@ -1,4 +1,6 @@
+import { getDb } from "@/lib/db";
 import { verifyEmailTransport } from "@/lib/email";
+import { sql } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
 /**
@@ -20,9 +22,30 @@ export async function GET(request: Request) {
     }
 
     const result = await verifyEmailTransport();
+
+    // Database connectivity check — bookings are saved BEFORE email is sent,
+    // so a broken DB silently kills notifications too.
+    const db: { urlSet: boolean; ok: boolean; error: string | null } = {
+        urlSet: Boolean(process.env.DATABASE_URL),
+        ok: false,
+        error: null,
+    };
+    try {
+        const conn = await getDb();
+        if (!conn) {
+            db.error = "DATABASE_URL is not set (or the connection failed to initialize).";
+        } else {
+            await conn.execute(sql`select 1`);
+            db.ok = true;
+        }
+    } catch (error) {
+        db.error = error instanceof Error ? error.message : String(error);
+    }
+
     return NextResponse.json(
         {
             ...result,
+            db,
             env: {
                 GMAIL_USER: Boolean(process.env.GMAIL_USER),
                 GMAIL_APP_PASSWORD: Boolean(process.env.GMAIL_APP_PASSWORD),
@@ -30,6 +53,6 @@ export async function GET(request: Request) {
                 NOTIFICATION_BCC: Boolean(process.env.NOTIFICATION_BCC),
             },
         },
-        { status: result.ok ? 200 : 500 }
+        { status: result.ok && db.ok ? 200 : 500 }
     );
 }
