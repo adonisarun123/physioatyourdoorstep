@@ -7,11 +7,12 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { submitContact } from "@/app/actions";
 import HoneypotFields from "@/components/HoneypotFields";
+import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, isValidEmail, normalizeIndianMobile } from "@/lib/validation";
 import { AlertCircle, CheckCircle2 } from "lucide-react";
 import { useState, useTransition } from "react";
 import { toast } from "sonner";
 
-type FieldErrors = Partial<Record<"name" | "email" | "message", string>>;
+type FieldErrors = Partial<Record<"name" | "email" | "phone" | "message", string>>;
 
 export function ContactForm() {
     const [isPending, startTransition] = useTransition();
@@ -34,8 +35,12 @@ export function ContactForm() {
         if (!formData.name.trim()) next.name = "Please enter your full name.";
         if (!formData.email.trim()) {
             next.email = "Please enter your email address.";
-        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email.trim())) {
-            next.email = "Please enter a valid email address (e.g. name@example.com).";
+        } else if (!isValidEmail(formData.email)) {
+            next.email = EMAIL_ERROR;
+        }
+        // Phone is optional, but when provided it must be a valid Indian mobile.
+        if (formData.phone.trim() && !normalizeIndianMobile(formData.phone)) {
+            next.phone = PHONE_ERROR;
         }
         if (!formData.message.trim()) next.message = "Please enter your message.";
         return next;
@@ -115,6 +120,7 @@ export function ContactForm() {
                             value={formData.name}
                             onChange={(e) => { setFormData({ ...formData, name: e.target.value }); clearError("name"); }}
                             placeholder="Enter your full name"
+                            maxLength={MAX_LEN.name}
                             aria-invalid={!!errors.name}
                             className={errors.name ? "input-error" : ""}
                         />
@@ -130,6 +136,7 @@ export function ContactForm() {
                             value={formData.email}
                             onChange={(e) => { setFormData({ ...formData, email: e.target.value }); clearError("email"); }}
                             placeholder="your.email@example.com"
+                            maxLength={MAX_LEN.email}
                             aria-invalid={!!errors.email}
                             className={errors.email ? "input-error" : ""}
                         />
@@ -143,9 +150,13 @@ export function ContactForm() {
                             name="phone"
                             type="tel"
                             value={formData.phone}
-                            onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+                            onChange={(e) => { setFormData({ ...formData, phone: e.target.value }); clearError("phone"); }}
                             placeholder="+91 98765 43210"
+                            maxLength={MAX_LEN.phone}
+                            aria-invalid={!!errors.phone}
+                            className={errors.phone ? "input-error" : ""}
                         />
+                        {errors.phone && <p className="form-error" role="alert">{errors.phone}</p>}
                     </div>
 
                     <div>
@@ -156,6 +167,7 @@ export function ContactForm() {
                             value={formData.subject}
                             onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
                             placeholder="What is this regarding?"
+                            maxLength={MAX_LEN.subject}
                         />
                     </div>
 
@@ -167,6 +179,7 @@ export function ContactForm() {
                             value={formData.message}
                             onChange={(e) => { setFormData({ ...formData, message: e.target.value }); clearError("message"); }}
                             placeholder="Tell us how we can help you"
+                            maxLength={MAX_LEN.message}
                             rows={6}
                             aria-invalid={!!errors.message}
                             className={errors.message ? "input-error" : ""}

@@ -8,6 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Textarea } from "@/components/ui/textarea";
 import { submitBooking } from "@/app/actions";
 import HoneypotFields from "@/components/HoneypotFields";
+import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, isValidEmail, normalizeIndianMobile, todayISODate } from "@/lib/validation";
 import { AlertCircle, CheckCircle2, MessageCircle } from "lucide-react";
 import { useEffect, useState, useTransition } from "react";
 import { toast } from "sonner";
@@ -49,15 +50,13 @@ function validate(form: typeof EMPTY_FORM): FieldErrors {
     if (!form.name.trim()) errors.name = "Please enter your full name.";
     if (!form.email.trim()) {
         errors.email = "Please enter your email address.";
-    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email.trim())) {
-        errors.email = "Please enter a valid email address (e.g. name@example.com).";
+    } else if (!isValidEmail(form.email)) {
+        errors.email = EMAIL_ERROR;
     }
-    const digits = form.phone.replace(/\D/g, "");
-    const local = digits.length > 10 && digits.startsWith("91") ? digits.slice(-10) : digits;
     if (!form.phone.trim()) {
         errors.phone = "Please enter your phone number.";
-    } else if (local.length !== 10 || !/^[6-9]/.test(local)) {
-        errors.phone = "Please enter a valid 10-digit Indian mobile number.";
+    } else if (!normalizeIndianMobile(form.phone)) {
+        errors.phone = PHONE_ERROR;
     }
     if (!form.serviceId) errors.serviceId = "Please select a service.";
     return errors;
@@ -82,6 +81,10 @@ export function BookingForm({ services }: BookingFormProps) {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
     const [errors, setErrors] = useState<FieldErrors>({});
+    // Set after mount so the server-rendered HTML (UTC) never disagrees with
+    // the user's local date and causes a hydration mismatch.
+    const [minDate, setMinDate] = useState("");
+    useEffect(() => setMinDate(todayISODate()), []);
     const [serverError, setServerError] = useState("");
     const [submitted, setSubmitted] = useState(false);
 
@@ -185,6 +188,7 @@ export function BookingForm({ services }: BookingFormProps) {
                                 value={formData.name}
                                 onChange={(e) => { setFormData({ ...formData, name: e.target.value }); clearError("name"); }}
                                 placeholder="Enter your full name"
+                                maxLength={MAX_LEN.name}
                                 aria-invalid={!!errors.name}
                                 className={errors.name ? "input-error" : ""}
                             />
@@ -200,6 +204,7 @@ export function BookingForm({ services }: BookingFormProps) {
                                 value={formData.email}
                                 onChange={(e) => { setFormData({ ...formData, email: e.target.value }); clearError("email"); }}
                                 placeholder="your.email@example.com"
+                                maxLength={MAX_LEN.email}
                                 aria-invalid={!!errors.email}
                                 className={errors.email ? "input-error" : ""}
                             />
@@ -215,6 +220,7 @@ export function BookingForm({ services }: BookingFormProps) {
                                 value={formData.phone}
                                 onChange={(e) => { setFormData({ ...formData, phone: e.target.value }); clearError("phone"); }}
                                 placeholder="+91 98765 43210"
+                                maxLength={MAX_LEN.phone}
                                 aria-invalid={!!errors.phone}
                                 className={errors.phone ? "input-error" : ""}
                             />
@@ -253,6 +259,7 @@ export function BookingForm({ services }: BookingFormProps) {
                             value={formData.locationArea}
                             onChange={(e) => setFormData({ ...formData, locationArea: e.target.value })}
                             placeholder="e.g., Koramangala, Bangalore"
+                            maxLength={MAX_LEN.locationArea}
                         />
                     </div>
 
@@ -264,6 +271,7 @@ export function BookingForm({ services }: BookingFormProps) {
                                 id="date"
                                 name="preferredDate"
                                 type="date"
+                                min={minDate || undefined}
                                 value={formData.preferredDate}
                                 onChange={(e) => setFormData({ ...formData, preferredDate: e.target.value })}
                             />
@@ -298,6 +306,7 @@ export function BookingForm({ services }: BookingFormProps) {
                             value={formData.condition}
                             onChange={(e) => setFormData({ ...formData, condition: e.target.value })}
                             placeholder="e.g., Back pain, Sports injury"
+                            maxLength={MAX_LEN.condition}
                         />
                     </div>
 
@@ -310,6 +319,7 @@ export function BookingForm({ services }: BookingFormProps) {
                             value={formData.notes}
                             onChange={(e) => setFormData({ ...formData, notes: e.target.value })}
                             placeholder="Any additional information you'd like to share"
+                            maxLength={MAX_LEN.notes}
                             rows={4}
                         />
                     </div>
