@@ -42,7 +42,9 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#23234A] text-white">
+    // pb-28 on mobile clears the fixed Call/WhatsApp bar (+ iPhone safe area)
+    // so the last footer row can scroll fully into view; none needed on md+.
+    <footer className="bg-[#23234A] text-white pb-28 md:pb-0">
       {/* CTA Strip */}
       <div className="bg-[#3B3B6D] py-6">
         <div className="container">
