@@ -157,11 +157,12 @@ export async function getCategoryBySlug(slug: string) {
 }
 
 // Booking mutations
-export async function createBooking(booking: typeof bookings.$inferInsert) {
+/** Inserts a booking and returns the new row's auto-increment id (0 if unavailable). */
+export async function createBooking(booking: typeof bookings.$inferInsert): Promise<number> {
     const db = await getDb();
     if (!db) throw new Error("Database not available");
-    const result = await db.insert(bookings).values(booking);
-    return result;
+    const [result] = await db.insert(bookings).values(booking);
+    return result.insertId;
 }
 
 // Contact submission mutations

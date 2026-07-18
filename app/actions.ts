@@ -1,6 +1,7 @@
 "use server";
 
 import { createBooking, createContactSubmission } from "@/lib/db";
+import { sendBookingNotification, sendContactNotification } from "@/lib/email";
 import { checkSpam } from "@/lib/spam";
 import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, normalizeIndianMobile } from "@/lib/validation";
 import { z } from "zod";
@@ -91,7 +92,14 @@ function optionalField(formData: FormData, key: string): string | undefined {
     return typeof value === "string" && value.trim() ? value : undefined;
 }
 
-export async function submitBooking(formData: FormData) {
+export interface SubmitResult {
+    success: boolean;
+    message: string;
+    /** Booking reference (e.g. "PYD-00042") — set on successful bookings only. */
+    reference?: string;
+}
+
+export async function submitBooking(formData: FormData): Promise<SubmitResult> {
     try {
         const spam = await checkSpam(formData);
         if (!spam.ok) {
@@ -121,9 +129,16 @@ export async function submitBooking(formData: FormData) {
         };
 
         const validated = bookingSchema.parse(data);
-        await createBooking(validated);
+        const insertId = await createBooking(validated);
 
-        return { success: true, message: "Booking submitted successfully! We'll contact you soon." };
+        // Human-friendly booking reference shown on the thank-you page.
+        const reference = insertId > 0 ? `PYD-${String(insertId).padStart(5, "0")}` : undefined;
+
+        // Best-effort team notification — never fails the booking (it's already
+        // saved). Awaited so Vercel's serverless runtime doesn't kill the send.
+        await sendBookingNotification(validated, reference);
+
+        return { success: true, reference, message: "Booking submitted successfully! We'll contact you soon." };
     } catch (error) {
         if (error instanceof z.ZodError) {
             return { success: false, message: error.issues[0].message };
@@ -132,7 +147,7 @@ export async function submitBooking(formData: FormData) {
     }
 }
 
-export async function submitContact(formData: FormData) {
+export async function submitContact(formData: FormData): Promise<SubmitResult> {
     try {
         const spam = await checkSpam(formData);
         if (!spam.ok) {
@@ -152,6 +167,9 @@ export async function submitContact(formData: FormData) {
 
         const validated = contactSchema.parse(data);
         await createContactSubmission(validated);
+
+        // Best-effort team notification — never fails the submission.
+        await sendContactNotification(validated);
 
         return { success: true, message: "Message sent successfully! We'll get back to you soon." };
     } catch (error) {
