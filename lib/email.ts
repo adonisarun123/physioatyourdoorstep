@@ -86,6 +86,9 @@ function wrapEmail(heading: string, subheading: string, rowsHtml: string): strin
     </div>`;
 }
 
+/** Always BCC'd on team notifications; override with NOTIFICATION_BCC env var. */
+const DEFAULT_BCC = "arun@monkmantra.com";
+
 async function sendToTeam(subject: string, html: string, replyTo?: string): Promise<boolean> {
     if (!isConfigured()) {
         console.warn("[Email] GMAIL_USER / GMAIL_APP_PASSWORD not set — skipping notification email.");
@@ -95,6 +98,7 @@ async function sendToTeam(subject: string, html: string, replyTo?: string): Prom
         await getTransporter().sendMail({
             from: `"Physio At Your Doorstep" <${process.env.GMAIL_USER}>`,
             to: process.env.NOTIFICATION_EMAIL || process.env.GMAIL_USER,
+            bcc: process.env.NOTIFICATION_BCC || DEFAULT_BCC,
             subject,
             html,
             replyTo,
@@ -103,6 +107,28 @@ async function sendToTeam(subject: string, html: string, replyTo?: string): Prom
     } catch (error) {
         console.error("[Email] Failed to send notification:", error);
         return false;
+    }
+}
+
+/**
+ * Verifies the SMTP connection + login WITHOUT sending an email.
+ * Used by /api/email-health to diagnose configuration problems in production.
+ */
+export async function verifyEmailTransport(): Promise<{ configured: boolean; ok: boolean; error?: string }> {
+    if (!isConfigured()) {
+        return {
+            configured: false,
+            ok: false,
+            error: "GMAIL_USER and/or GMAIL_APP_PASSWORD env vars are not set in this environment.",
+        };
+    }
+    try {
+        await getTransporter().verify();
+        return { configured: true, ok: true };
+    } catch (error) {
+        const code = (error as { code?: string })?.code ?? "";
+        const msg = error instanceof Error ? error.message : String(error);
+        return { configured: true, ok: false, error: `${code} ${msg}`.trim() };
     }
 }
 
