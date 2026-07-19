@@ -47,10 +47,16 @@ export async function GET(request: Request) {
             ...result,
             db,
             env: {
+                SMTP_USER: Boolean(process.env.SMTP_USER),
+                SMTP_PASS: Boolean(process.env.SMTP_PASS),
+                SMTP_HOST: Boolean(process.env.SMTP_HOST),
+                SMTP_PORT: Boolean(process.env.SMTP_PORT),
                 GMAIL_USER: Boolean(process.env.GMAIL_USER),
                 GMAIL_APP_PASSWORD: Boolean(process.env.GMAIL_APP_PASSWORD),
+                ADMIN_EMAIL: Boolean(process.env.ADMIN_EMAIL),
                 NOTIFICATION_EMAIL: Boolean(process.env.NOTIFICATION_EMAIL),
                 NOTIFICATION_BCC: Boolean(process.env.NOTIFICATION_BCC),
+                DATABASE_URL: Boolean(process.env.DATABASE_URL),
             },
         },
         { status: result.ok && db.ok ? 200 : 500 }

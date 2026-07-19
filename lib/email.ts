@@ -35,22 +35,37 @@ function escapeHtml(value: string): string {
         .replace(/'/g, "&#39;");
 }
 
+/**
+ * SMTP settings, accepting BOTH env naming conventions so a rename in the
+ * Vercel dashboard can't silently break mail:
+ *   SMTP_USER / SMTP_PASS / SMTP_HOST / SMTP_PORT   (generic names)
+ *   GMAIL_USER / GMAIL_APP_PASSWORD                 (original names)
+ * Recipient: NOTIFICATION_EMAIL, or ADMIN_EMAIL, or the sending account.
+ */
+export function smtpConfig() {
+    const user = process.env.SMTP_USER || process.env.GMAIL_USER;
+    const pass = process.env.SMTP_PASS || process.env.GMAIL_APP_PASSWORD;
+    const host = process.env.SMTP_HOST || "smtp.gmail.com";
+    const port = parseInt(process.env.SMTP_PORT || "465", 10);
+    const to = process.env.NOTIFICATION_EMAIL || process.env.ADMIN_EMAIL || user;
+    return { user, pass, host, port, to };
+}
+
 function isConfigured(): boolean {
-    return Boolean(process.env.GMAIL_USER && process.env.GMAIL_APP_PASSWORD);
+    const { user, pass } = smtpConfig();
+    return Boolean(user && pass);
 }
 
 let _transporter: Transporter | null = null;
 
 function getTransporter(): Transporter {
     if (!_transporter) {
+        const { user, pass, host, port } = smtpConfig();
         _transporter = nodemailer.createTransport({
-            host: "smtp.gmail.com",
-            port: 465,
-            secure: true,
-            auth: {
-                user: process.env.GMAIL_USER,
-                pass: process.env.GMAIL_APP_PASSWORD,
-            },
+            host,
+            port,
+            secure: port === 465, // 465 = implicit TLS; 587 = STARTTLS
+            auth: { user, pass },
         });
     }
     return _transporter;
@@ -91,13 +106,14 @@ const DEFAULT_BCC = "arun@monkmantra.com";
 
 async function sendToTeam(subject: string, html: string, replyTo?: string): Promise<boolean> {
     if (!isConfigured()) {
-        console.warn("[Email] GMAIL_USER / GMAIL_APP_PASSWORD not set — skipping notification email.");
+        console.warn("[Email] SMTP_USER/SMTP_PASS (or GMAIL_USER/GMAIL_APP_PASSWORD) not set — skipping notification email.");
         return false;
     }
     try {
+        const { user, to } = smtpConfig();
         await getTransporter().sendMail({
-            from: `"Physio At Your Doorstep" <${process.env.GMAIL_USER}>`,
-            to: process.env.NOTIFICATION_EMAIL || process.env.GMAIL_USER,
+            from: `"Physio At Your Doorstep" <${user}>`,
+            to,
             bcc: process.env.NOTIFICATION_BCC || DEFAULT_BCC,
             subject,
             html,
@@ -119,7 +135,7 @@ export async function verifyEmailTransport(): Promise<{ configured: boolean; ok:
         return {
             configured: false,
             ok: false,
-            error: "GMAIL_USER and/or GMAIL_APP_PASSWORD env vars are not set in this environment.",
+            error: "SMTP user/password env vars are not set (accepted names: SMTP_USER + SMTP_PASS, or GMAIL_USER + GMAIL_APP_PASSWORD).",
         };
     }
     try {
