@@ -39,7 +39,15 @@ export async function GET(request: Request) {
             db.ok = true;
         }
     } catch (error) {
-        db.error = error instanceof Error ? error.message : String(error);
+        // Drizzle wraps the driver error — surface the underlying cause + code.
+        const parts: string[] = [];
+        let e: unknown = error;
+        while (e instanceof Error) {
+            const code = (e as { code?: string }).code;
+            parts.push(`${code ? `[${code}] ` : ""}${e.message}`);
+            e = (e as { cause?: unknown }).cause;
+        }
+        db.error = parts.join(" <- ") || String(error);
     }
 
     return NextResponse.json(
