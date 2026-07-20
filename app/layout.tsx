@@ -7,7 +7,7 @@ import { organizationSchema, websiteSchema, localBusinessSchema } from "@/lib/se
 import "./globals.css";
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://physioatyourdoorstep.com"),
+    metadataBase: new URL("https://www.physioatyourdoorstep.com"),
     title: {
         default: "Physio At Your Doorstep - Professional Physiotherapy Services at Home",
         template: "%s | Physio At Your Doorstep"
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     openGraph: {
         type: "website",
         locale: "en_IN",
-        url: "https://physioatyourdoorstep.com",
+        url: "https://www.physioatyourdoorstep.com",
         siteName: "Physio At Your Doorstep",
         title: "Physio At Your Doorstep - Professional Physiotherapy Services at Home",
         description: "Professional physiotherapy services delivered to your doorstep. Expert care for sports injuries, post-surgery recovery, geriatric care, and more.",

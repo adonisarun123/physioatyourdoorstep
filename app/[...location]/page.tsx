@@ -34,7 +34,8 @@ export async function generateMetadata({ params }: { params: Promise<{ location:
         `Professional physiotherapy services in ${locationData.area}, ${locationData.city}`;
 
     return {
-        title: locationData.metaTitle || locationData.title,
+        // Strip any brand suffix baked into content metaTitles — the layout template re-adds it.
+        title: (locationData.metaTitle || locationData.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
         description,
         alternates: { canonical: `/${slug}` },
         openGraph: { title: locationData.title, description, url: `/${slug}`, type: "website" },

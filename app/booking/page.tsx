@@ -8,7 +8,7 @@ import { Suspense } from "react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Book Appointment | Schedule Your Physiotherapy Session | Physio At Your Doorstep",
+    title: "Book Appointment | Schedule Your Physiotherapy Session",
     description: "Book your home physiotherapy appointment online. Choose your service, preferred date and time. Professional physiotherapists at your doorstep.",
     alternates: { canonical: "/booking" },
     openGraph: { title: "Book an Appointment | Physio At Your Doorstep", url: "/booking", type: "website", images: ["/images/logo-square.webp"], },

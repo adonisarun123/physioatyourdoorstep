@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const summary = getAllServices().find((s) => s.slug === slug);
 
     return {
-        title: `${serviceContent.title} | Physio At Your Doorstep`,
+        title: serviceContent.title,
         description: description,
         alternates: { canonical: `/service/${slug}` },
         openGraph: {

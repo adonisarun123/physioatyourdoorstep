@@ -4,7 +4,7 @@
  */
 
 export const SITE = {
-    url: "https://physioatyourdoorstep.com",
+    url: "https://www.physioatyourdoorstep.com",
     name: "Physio At Your Doorstep",
     legalName: "Physio At Your Doorstep",
     description:

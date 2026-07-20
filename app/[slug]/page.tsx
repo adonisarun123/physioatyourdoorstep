@@ -31,7 +31,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const description = blog.metaDescription || blog.excerpt || `Read about ${blog.title}`;
 
     return {
-        title: blog.metaTitle || blog.title,
+        // Strip any brand suffix baked into content metaTitles — the layout template re-adds it.
+        title: (blog.metaTitle || blog.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
         description,
         alternates: { canonical: `/${slug}` },
         openGraph: {

@@ -6,7 +6,7 @@ import {
     getAllCategories,
 } from "@/lib/content";
 
-const BASE_URL = "https://physioatyourdoorstep.com";
+const BASE_URL = "https://www.physioatyourdoorstep.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const now = new Date();

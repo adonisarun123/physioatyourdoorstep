@@ -7,7 +7,7 @@ import { SITE } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "About Us | Meet Dr. Atharva Mishra & Dr. Manasvi Kanjolia | Physio At Your Doorstep",
+    title: "About Us | Meet Dr. Atharva Mishra & Dr. Manasvi Kanjolia",
     description: "Meet the expert physiotherapists behind Physio At Your Doorstep — Dr. Atharva Mishra (Bangalore) and Dr. Manasvi Kanjolia (Pune). Professional home physiotherapy, available 24×7.",
     alternates: { canonical: "/about-us" },
     openGraph: { title: "About Us | Physio At Your Doorstep", url: "/about-us", type: "website", images: ["/images/logo-square.webp"], },
