@@ -71,12 +71,15 @@ function getTransporter(): Transporter {
             port,
             secure: port === 465, // 465 = implicit TLS; 587 = STARTTLS
             auth: { user, pass },
-            // Fail fast rather than hanging until the serverless platform kills
-            // the function — a caught timeout produces a proper error message
-            // (and a recovery log line); a killed function produces neither.
-            connectionTimeout: 10_000,
-            greetingTimeout: 10_000,
-            socketTimeout: 15_000,
+            // These MUST expire before Vercel's function timeout (10s default on
+            // Hobby). If the platform kills the function first, we get neither
+            // the user-facing error nor the logLostSubmission recovery line —
+            // the exact silent loss this design exists to prevent. Worst case
+            // here is connect(4s) + greeting(4s) = 8s, leaving headroom.
+            // Gmail's handshake is normally well under 2s.
+            connectionTimeout: 4_000,
+            greetingTimeout: 4_000,
+            socketTimeout: 8_000,
         });
     }
     return _transporter;
