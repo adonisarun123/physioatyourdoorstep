@@ -8,11 +8,13 @@ import { Textarea } from "@/components/ui/textarea";
 import { submitContact } from "@/app/actions";
 import HoneypotFields from "@/components/HoneypotFields";
 import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, isValidEmail, normalizeIndianMobile } from "@/lib/validation";
-import { AlertCircle, CheckCircle2 } from "lucide-react";
+import { AlertCircle, CheckCircle2, MessageCircle } from "lucide-react";
 import { useState, useTransition } from "react";
 import { toast } from "sonner";
 
 type FieldErrors = Partial<Record<"name" | "email" | "phone" | "message", string>>;
+
+const WHATSAPP_NUMBER = "918233787737";
 
 export function ContactForm() {
     const [isPending, startTransition] = useTransition();
@@ -29,6 +31,18 @@ export function ContactForm() {
 
     const clearError = (field: keyof FieldErrors) =>
         setErrors((prev) => ({ ...prev, [field]: undefined }));
+
+    /** Fallback route when the message can't be delivered — carries what they typed. */
+    const whatsappHref = () => {
+        const lines = [
+            "Hi, I tried to send a message on your website but it didn't go through.",
+            formData.name && `Name: ${formData.name}`,
+            formData.phone && `Phone: ${formData.phone}`,
+            formData.subject && `Subject: ${formData.subject}`,
+            formData.message && `Message: ${formData.message}`,
+        ].filter(Boolean);
+        return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(lines.join("\n"))}`;
+    };
 
     const validate = (): FieldErrors => {
         const next: FieldErrors = {};
@@ -100,9 +114,19 @@ export function ContactForm() {
                     <HoneypotFields />
 
                     {serverError && (
-                        <div role="alert" className="flex items-start gap-2 rounded-xl border border-red-300 bg-red-50 p-4 text-sm font-medium text-red-700">
-                            <AlertCircle className="h-5 w-5 flex-shrink-0" />
-                            <span>{serverError}</span>
+                        <div role="alert" className="rounded-xl border border-red-300 bg-red-50 p-4">
+                            <div className="flex items-start gap-2 text-sm font-medium text-red-700">
+                                <AlertCircle className="h-5 w-5 flex-shrink-0" />
+                                <span>{serverError}</span>
+                            </div>
+                            <a
+                                href={whatsappHref()}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
+                            >
+                                <MessageCircle className="h-4 w-4" /> Send on WhatsApp instead
+                            </a>
                         </div>
                     )}
                     {submitted && (

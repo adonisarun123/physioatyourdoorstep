@@ -2,8 +2,9 @@
  * Shared form-validation helpers used by BOTH the client forms and the
  * server actions, so the two layers can never drift apart.
  *
- * Max lengths mirror the varchar column sizes in drizzle/schema.ts —
- * exceeding them would make the MySQL insert fail with a generic error.
+ * Max lengths are enforced on both sides purely to keep submissions (and the
+ * notification emails they become) a sane size — they no longer mirror any
+ * database column, since submissions are delivered by email only.
  */
 
 export const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;

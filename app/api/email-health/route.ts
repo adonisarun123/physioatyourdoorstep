@@ -1,6 +1,4 @@
-import { getDb } from "@/lib/db";
 import { verifyEmailTransport } from "@/lib/email";
-import { sql } from "drizzle-orm";
 import { NextResponse } from "next/server";
 
 /**
@@ -10,6 +8,9 @@ import { NextResponse } from "next/server";
  * env vars are present — never their values. Returns 404 unless the
  * EMAIL_DIAG_KEY env var is set AND matches the `key` query param, so the
  * endpoint is invisible without the secret.
+ *
+ * Submissions are email-only (no database), so a red result here means the
+ * booking and contact forms are down — this is the fastest way to confirm it.
  */
 
 export const dynamic = "force-dynamic";
@@ -23,37 +24,9 @@ export async function GET(request: Request) {
 
     const result = await verifyEmailTransport();
 
-    // Database connectivity check — bookings are saved BEFORE email is sent,
-    // so a broken DB silently kills notifications too.
-    const db: { urlSet: boolean; ok: boolean; error: string | null } = {
-        urlSet: Boolean(process.env.DATABASE_URL),
-        ok: false,
-        error: null,
-    };
-    try {
-        const conn = await getDb();
-        if (!conn) {
-            db.error = "DATABASE_URL is not set (or the connection failed to initialize).";
-        } else {
-            await conn.execute(sql`select 1`);
-            db.ok = true;
-        }
-    } catch (error) {
-        // Drizzle wraps the driver error — surface the underlying cause + code.
-        const parts: string[] = [];
-        let e: unknown = error;
-        while (e instanceof Error) {
-            const code = (e as { code?: string }).code;
-            parts.push(`${code ? `[${code}] ` : ""}${e.message}`);
-            e = (e as { cause?: unknown }).cause;
-        }
-        db.error = parts.join(" <- ") || String(error);
-    }
-
     return NextResponse.json(
         {
             ...result,
-            db,
             env: {
                 SMTP_USER: Boolean(process.env.SMTP_USER),
                 SMTP_PASS: Boolean(process.env.SMTP_PASS),
@@ -64,9 +37,8 @@ export async function GET(request: Request) {
                 ADMIN_EMAIL: Boolean(process.env.ADMIN_EMAIL),
                 NOTIFICATION_EMAIL: Boolean(process.env.NOTIFICATION_EMAIL),
                 NOTIFICATION_BCC: Boolean(process.env.NOTIFICATION_BCC),
-                DATABASE_URL: Boolean(process.env.DATABASE_URL),
             },
         },
-        { status: result.ok && db.ok ? 200 : 500 }
+        { status: result.ok ? 200 : 500 }
     );
 }

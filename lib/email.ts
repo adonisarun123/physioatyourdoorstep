@@ -12,9 +12,14 @@ import type { Transporter } from "nodemailer";
  * Optional:
  * - NOTIFICATION_EMAIL   where notifications are delivered (defaults to GMAIL_USER)
  *
- * Sending is best-effort by design: if email is unconfigured or Gmail is down,
- * the form submission still succeeds (the booking is already saved in MySQL) —
- * failures are logged, never thrown.
+ * There is NO database: these emails are the only record of a submission.
+ * Every send therefore reports success/failure to the caller (app/actions.ts),
+ * which turns a failed send into a failed submission so the user is told to
+ * retry or reach us on WhatsApp instead of being shown a false success.
+ *
+ * As a last-resort safety net, a failed send dumps the full submission to the
+ * error log (see logLostSubmission), so an enquiry lost to an SMTP outage can
+ * still be recovered from the platform logs.
  */
 
 const TIME_LABELS: Record<string, string> = {
@@ -66,6 +71,12 @@ function getTransporter(): Transporter {
             port,
             secure: port === 465, // 465 = implicit TLS; 587 = STARTTLS
             auth: { user, pass },
+            // Fail fast rather than hanging until the serverless platform kills
+            // the function — a caught timeout produces a proper error message
+            // (and a recovery log line); a killed function produces neither.
+            connectionTimeout: 10_000,
+            greetingTimeout: 10_000,
+            socketTimeout: 15_000,
         });
     }
     return _transporter;
@@ -103,6 +114,20 @@ function wrapEmail(heading: string, subheading: string, rowsHtml: string): strin
 
 /** Always BCC'd on team notifications; override with NOTIFICATION_BCC env var. */
 const DEFAULT_BCC = "arun@monkmantra.com";
+
+/**
+ * Last-resort record of a submission whose email could not be delivered.
+ * With no database this log line is the only remaining copy of the enquiry,
+ * so it is written as a single greppable JSON blob:
+ *   Vercel  → Project → Logs, search "LOST SUBMISSION"
+ *   Railway → Deployments → Logs, same search
+ */
+function logLostSubmission(kind: "booking" | "contact", payload: Record<string, unknown>): void {
+    console.error(
+        `[Email] LOST SUBMISSION (${kind}) — email delivery failed, this is the only copy:`,
+        JSON.stringify({ kind, receivedAt: nowIST(), ...payload })
+    );
+}
 
 async function sendToTeam(subject: string, html: string, replyTo?: string): Promise<boolean> {
     if (!isConfigured()) {
@@ -189,11 +214,13 @@ export async function sendBookingNotification(booking: BookingEmailData, referen
     ]);
 
     const subject = `New Booking ${reference ?? ""} — ${booking.name}`.replace(/\s+/g, " ").trim();
-    return sendToTeam(
+    const sent = await sendToTeam(
         subject,
         wrapEmail("New Booking Request", "A new appointment request was submitted on the website.", rows),
         booking.email
     );
+    if (!sent) logLostSubmission("booking", { reference, ...booking });
+    return sent;
 }
 
 export interface ContactEmailData {
@@ -214,9 +241,11 @@ export async function sendContactNotification(submission: ContactEmailData): Pro
         ["Received", nowIST()],
     ]);
 
-    return sendToTeam(
+    const sent = await sendToTeam(
         `New Contact Message — ${submission.name}`,
         wrapEmail("New Contact Message", "A new message was submitted via the contact form.", rows),
         submission.email
     );
+    if (!sent) logLostSubmission("contact", { ...submission });
+    return sent;
 }
