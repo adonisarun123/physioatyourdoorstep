@@ -7,7 +7,7 @@ import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Contact Us | Get in Touch | Physio At Your Doorstep",
+    title: "Contact Us | Get in Touch",
     description: "Contact Physio At Your Doorstep for professional home physiotherapy services. Call us, email us, or fill out our contact form. We're here to help!",
     alternates: { canonical: "/contact-us" },
     openGraph: { title: "Contact Us | Physio At Your Doorstep", url: "/contact-us", type: "website", images: ["/images/logo-square.webp"], },

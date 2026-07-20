@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "Thank You | Booking Received | Physio At Your Doorstep",
+    title: "Thank You | Booking Received",
     description: "Your booking request has been received. Our team will contact you shortly to confirm your appointment.",
     robots: { index: false, follow: false },
 };

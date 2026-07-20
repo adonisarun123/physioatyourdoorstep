@@ -7,7 +7,7 @@ import { getAllBlogs } from "@/lib/content";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Blog | Physiotherapy Tips & Health Articles | Physio At Your Doorstep",
+    title: "Blog | Physiotherapy Tips & Health Articles",
     description: "Read our blog for expert physiotherapy tips, health advice, treatment guides, and wellness information. Stay informed about your health and recovery.",
     alternates: { canonical: "/blogs" },
     openGraph: { title: "Blog | Physio At Your Doorstep", url: "/blogs", type: "website", images: ["/images/logo-square.webp"], },
