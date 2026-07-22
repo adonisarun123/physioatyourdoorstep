@@ -1,12 +1,15 @@
 import Script from "next/script";
 
 /**
- * Google Analytics 4. Renders nothing unless NEXT_PUBLIC_GA_MEASUREMENT_ID
- * is set, so it is safe in every environment (dev/staging stay untracked).
+ * Google Analytics 4. The production measurement ID is the default so
+ * tracking works without any env configuration; NEXT_PUBLIC_GA_MEASUREMENT_ID
+ * overrides it (set it to a different ID, or to "off" to disable).
  */
+const DEFAULT_GA_ID = "G-C2C5FTC2KH";
+
 export default function GoogleAnalytics() {
-    const gaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
-    if (!gaId) return null;
+    const gaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || DEFAULT_GA_ID;
+    if (!gaId || gaId === "off") return null;
 
     return (
         <>
