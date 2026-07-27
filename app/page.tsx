@@ -11,9 +11,11 @@ import {
     Activity, Bone, Brain, Baby, HeartPulse, Wind, Video,
 } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import BlogCard from "@/components/BlogCard";
 import { getAllServices, getAllBlogs } from "@/lib/content";
 import { SITE } from "@/lib/seo";
+import { reviewsJsonLd } from "@/lib/reviews";
 import type { Metadata } from "next";
 
 const serviceIcons: Record<string, typeof Activity> = {
@@ -220,10 +222,13 @@ export default async function HomePage() {
                             </div>
                             <div className="relative hidden lg:block">
                                 <div className="img-frame shadow-float">
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
+                                    <Image
                                         src="/images/hero-home.webp"
                                         alt="Physiotherapist helping a patient with rehabilitation at home"
+                                        width={800}
+                                        height={700}
+                                        priority
+                                        sizes="(max-width: 1024px) 100vw, 50vw"
                                         className="w-full h-auto object-cover"
                                     />
                                 </div>
@@ -305,11 +310,12 @@ export default async function HomePage() {
                             </div>
                             <div className="relative">
                                 <div className="img-frame shadow-soft">
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
+                                    <Image
                                         src="/images/about-hero.webp"
                                         alt="Physiotherapy exercise session"
-                                        loading="lazy"
+                                        width={600}
+                                        height={415}
+                                        sizes="(max-width: 1024px) 100vw, 50vw"
                                         className="w-full h-auto object-cover"
                                     />
                                 </div>
@@ -369,13 +375,13 @@ export default async function HomePage() {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
                             {doctors.map((doc) => (
                                 <Link key={doc.name} href="/about-us" className="card-physio !p-0 overflow-hidden group flex flex-col">
-                                    <div className="aspect-[4/3] overflow-hidden bg-[#EEEEF7]">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
+                                    <div className="relative aspect-[4/3] overflow-hidden bg-[#EEEEF7]">
+                                        <Image
                                             src={doc.image}
                                             alt={doc.name}
-                                            loading="lazy"
-                                            className="h-full w-full object-cover object-top transition-transform duration-300 group-hover:scale-105"
+                                            fill
+                                            sizes="(max-width: 768px) 100vw, 400px"
+                                            className="object-cover object-top transition-transform duration-300 group-hover:scale-105"
                                         />
                                     </div>
                                     <div className="p-6">
@@ -411,12 +417,12 @@ export default async function HomePage() {
                                         className="card-physio overflow-hidden !p-0 group flex flex-col"
                                     >
                                         <div className="relative aspect-[16/10] overflow-hidden bg-[#EEEEF7]">
-                                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                                            <img
+                                            <Image
                                                 src={service.heroImage ?? "/images/hero-home.webp"}
                                                 alt={service.title}
-                                                loading="lazy"
-                                                className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                                fill
+                                                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                                                className="object-cover transition-transform duration-300 group-hover:scale-105"
                                             />
                                             <div className="absolute bottom-3 left-3 w-11 h-11 rounded-xl bg-white shadow-md flex items-center justify-center">
                                                 <Icon className="h-6 w-6 text-[#3B3B6D]" />
@@ -449,11 +455,12 @@ export default async function HomePage() {
                     <div className="container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                             <div className="img-frame shadow-soft order-2 lg:order-1">
-                                {/* eslint-disable-next-line @next/next/no-img-element */}
-                                <img
+                                <Image
                                     src="/images/why-choose-us.webp"
                                     alt="Woman in a physical rehabilitation session"
-                                    loading="lazy"
+                                    width={800}
+                                    height={800}
+                                    sizes="(max-width: 1024px) 100vw, 50vw"
                                     className="w-full h-auto object-cover"
                                 />
                             </div>
@@ -589,7 +596,7 @@ export default async function HomePage() {
                 </section>
             </main>
 
-            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer })))]} />
+            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer }))), reviewsJsonLd()]} />
 
             <Footer />
             <CTABar />

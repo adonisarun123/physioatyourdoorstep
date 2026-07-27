@@ -37,6 +37,7 @@ export interface BlogContent {
     categorySlug: string;
     content: string; // markdown
     publishedAt: Date;
+    faqs: FaqItem[];
 }
 
 export interface CategoryContent {
@@ -149,6 +150,9 @@ export function getAllBlogs(): BlogContent[] {
             const cat = categoryByName.get(categoryName.toLowerCase()) ?? CATEGORIES[0];
             // Drop the leading H1 if it duplicates the title (rendered separately in hero)
             const body = content.trim().replace(/^#\s+.+\n+/, "");
+            // Non-destructive: pull FAQ Q/A pairs for FAQPage schema while
+            // leaving the FAQ section visible in the rendered body.
+            const { faqs } = extractFaqs(content.trim());
             return {
                 slug,
                 title: data.title ?? slug.replace(/-/g, " "),
@@ -160,6 +164,7 @@ export function getAllBlogs(): BlogContent[] {
                 categorySlug: cat.slug,
                 content: body,
                 publishedAt: data.date ? new Date(data.date) : new Date(),
+                faqs,
             } satisfies BlogContent;
         })
         .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());

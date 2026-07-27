@@ -3,13 +3,28 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
-import { articleSchema } from "@/lib/seo";
+import { articleSchema, faqSchema } from "@/lib/seo";
 import { MarkdownContent } from "@/components/MarkdownContent";
-import { getAllBlogs, getBlogBySlug } from "@/lib/content";
-import { Calendar } from "lucide-react";
+import BlogCard from "@/components/BlogCard";
+import { getAllBlogs, getBlogBySlug, getBlogsByCategory, getAllServices } from "@/lib/content";
+import { Calendar, ArrowRight } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+
+/** Maps a blog category slug to the closest service page for contextual cross-links. */
+const CATEGORY_TO_SERVICE: Record<string, string> = {
+    "orthopaedic-physiotherapy": "orthopaedic-physiotherapy",
+    "neurological-physiotherapy": "neurological-physiotherapy",
+    "geriatric-physiotherapy": "geriatric-physiotherapy",
+    "pediatric-physiotherapy": "pediatric-physiotherapy",
+    "pulmonary-physiotherapy": "pulmonary-physiotherapy",
+    "post-surgical-physiotherapy": "post-surgical-physiotherapy",
+    "physiotherapy-at-pregnancy": "physiotherapy-in-pregnancy",
+    "sports-physiotherapy": "sports-physiotherapy",
+    "physiotherapy": "orthopaedic-physiotherapy",
+};
 
 export async function generateStaticParams() {
     const blogs = await getAllBlogs();
@@ -53,6 +68,12 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
         notFound();
     }
 
+    const relatedBlogs = getBlogsByCategory(blog.categorySlug)
+        .filter((b) => b.slug !== blog.slug)
+        .slice(0, 3);
+    const relatedServiceSlug = CATEGORY_TO_SERVICE[blog.categorySlug] ?? "orthopaedic-physiotherapy";
+    const relatedService = getAllServices().find((s) => s.slug === relatedServiceSlug);
+
     return (
         <div className="min-h-screen flex flex-col">
             <Header />
@@ -82,12 +103,14 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                                 <p className="text-lg text-[#4B5563] leading-relaxed">{blog.excerpt}</p>
                             )}
                             {blog.coverImage && (
-                                <div className="mt-8 img-frame shadow-soft">
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
+                                <div className="mt-8 img-frame shadow-soft relative aspect-[16/9] max-h-[420px]">
+                                    <Image
                                         src={blog.coverImage}
                                         alt={blog.title}
-                                        className="w-full max-h-[420px] object-cover"
+                                        fill
+                                        priority
+                                        sizes="(max-width: 896px) 100vw, 896px"
+                                        className="object-cover"
                                     />
                                 </div>
                             )}
@@ -101,6 +124,50 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                         {blog.content && <MarkdownContent>{blog.content}</MarkdownContent>}
                     </div>
                 </section>
+
+                {/* Related service cross-link */}
+                {relatedService && (
+                    <section className="bg-white pb-4">
+                        <div className="container max-w-4xl">
+                            <div className="rounded-2xl border border-[#DCDCEC] bg-[#EEEEF7]/40 p-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+                                <div>
+                                    <p className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Related Service</p>
+                                    <h2 className="text-xl font-semibold text-[#1F2933] mt-1">{relatedService.title} at Home</h2>
+                                    <p className="text-[#4B5563] text-sm mt-1">
+                                        Book a certified physiotherapist for {relatedService.title.toLowerCase()} across Bangalore &amp; Pune.
+                                    </p>
+                                </div>
+                                <Link href={`/service/${relatedService.slug}`} className="btn-primary whitespace-nowrap">
+                                    Explore Service <ArrowRight className="h-4 w-4" />
+                                </Link>
+                            </div>
+                        </div>
+                    </section>
+                )}
+
+                {/* Related Articles */}
+                {relatedBlogs.length > 0 && (
+                    <section className="section bg-white">
+                        <div className="container">
+                            <div className="text-center mb-12">
+                                <span className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Keep Reading</span>
+                                <h2 className="heading-section mt-4">
+                                    Related <span className="text-[#3B3B6D]">Articles</span>
+                                </h2>
+                            </div>
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                                {relatedBlogs.map((b) => (
+                                    <BlogCard key={b.slug} blog={b} />
+                                ))}
+                            </div>
+                            <div className="text-center mt-10">
+                                <Link href={`/category/${blog.categorySlug}`} className="btn-secondary">
+                                    More in {blog.category}
+                                </Link>
+                            </div>
+                        </div>
+                    </section>
+                )}
 
                 {/* CTA */}
                 <section className="section bg-[#2A2A57] text-white">
@@ -118,13 +185,16 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
             </main>
 
             <JsonLd
-                data={articleSchema({
-                    title: blog.title,
-                    description: blog.metaDescription || blog.excerpt || blog.title,
-                    url: `/${slug}`,
-                    image: blog.coverImage,
-                    datePublished: new Date(blog.publishedAt).toISOString(),
-                })}
+                data={[
+                    articleSchema({
+                        title: blog.title,
+                        description: blog.metaDescription || blog.excerpt || blog.title,
+                        url: `/${slug}`,
+                        image: blog.coverImage,
+                        datePublished: new Date(blog.publishedAt).toISOString(),
+                    }),
+                    ...(blog.faqs.length > 0 ? [faqSchema(blog.faqs)] : []),
+                ]}
             />
 
             <Footer />

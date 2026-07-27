@@ -61,7 +61,7 @@ export default function Header() {
       <nav className="container flex h-16 md:h-20 items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
-          <img src="/logo.webp" alt="Physio At Your Doorstep" className="h-12 w-12" />
+          <img src="/logo.webp" alt="Physio At Your Doorstep" width={48} height={48} className="h-12 w-12" />
           <div className="flex flex-col">
             <span className="text-xl font-bold text-[#3B3B6D]">Physio At Your Doorstep</span>
           </div>

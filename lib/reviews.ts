@@ -58,6 +58,34 @@ export const GOOGLE_REVIEW_ITEMS: GoogleReview[] = [
     },
 ];
 
+/**
+ * Review + aggregateRating JSON-LD attached to the site Organization node
+ * (same @id), so individual patient reviews are eligible for rich results
+ * alongside the site-wide aggregate rating. Rendered once, on the home page.
+ */
+export function reviewsJsonLd() {
+    return {
+        "@context": "https://schema.org",
+        "@type": "MedicalBusiness",
+        "@id": `${SITE.url}/#organization`,
+        name: SITE.name,
+        url: SITE.url,
+        aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: GOOGLE_RATING.rating,
+            reviewCount: GOOGLE_RATING.count,
+            bestRating: 5,
+            worstRating: 1,
+        },
+        review: GOOGLE_REVIEW_ITEMS.slice(0, 6).map((r) => ({
+            "@type": "Review",
+            author: { "@type": "Person", name: r.name },
+            reviewRating: { "@type": "Rating", ratingValue: 5, bestRating: 5 },
+            reviewBody: r.text,
+        })),
+    };
+}
+
 /** Photos from the Google listing — real patients & sessions. */
 export const REVIEW_PHOTOS: { src: string; alt: string }[] = [
     { src: "/images/reviews/patient-gym-rehab.webp", alt: "Patient doing balance and strength rehab under supervision" },

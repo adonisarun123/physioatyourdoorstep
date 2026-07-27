@@ -2,6 +2,7 @@ import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Link from "next/link";
+import Image from "next/image";
 import { Award, Heart, Target, Users, GraduationCap, Stethoscope, BadgeCheck, HandHeart } from "lucide-react";
 import { SITE } from "@/lib/seo";
 import type { Metadata } from "next";
@@ -110,10 +111,12 @@ export default function AboutUsPage() {
                     <div className="container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
                             <div className="img-frame shadow-soft">
-                                {/* eslint-disable-next-line @next/next/no-img-element */}
-                                <img
+                                <Image
                                     src="/images/about-hero.webp"
                                     alt="Physiotherapist treating a patient at home"
+                                    width={600}
+                                    height={415}
+                                    sizes="(max-width: 1024px) 100vw, 50vw"
                                     className="w-full h-auto object-cover"
                                 />
                             </div>
@@ -206,12 +209,13 @@ export default function AboutUsPage() {
                         <div className="grid grid-cols-1 lg:grid-cols-5 gap-10 items-start mb-16">
                             <div className="lg:col-span-2">
                                 <div className="img-frame shadow-soft sticky top-28">
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
+                                    <Image
                                         src="/images/about-dr-atharva-mishra.webp"
                                         alt="Dr. Atharva Mishra — Founder & Chief Physiotherapist, Physio At Your Doorstep"
+                                        width={1111}
+                                        height={1600}
+                                        sizes="(max-width: 1024px) 100vw, 40vw"
                                         className="w-full h-auto object-cover"
-                                        loading="lazy"
                                     />
                                 </div>
                             </div>
@@ -265,12 +269,13 @@ export default function AboutUsPage() {
                         <div className="grid grid-cols-1 lg:grid-cols-5 gap-10 items-start">
                             <div className="lg:col-span-2 lg:order-2">
                                 <div className="img-frame shadow-soft sticky top-28">
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
+                                    <Image
                                         src="/images/about-dr-manasvi-kanjolia.jpg"
                                         alt="Dr. Manasvi Kanjolia — Chief Physiotherapist (Pune), Physio At Your Doorstep"
+                                        width={800}
+                                        height={1151}
+                                        sizes="(max-width: 1024px) 100vw, 40vw"
                                         className="w-full h-auto object-cover"
-                                        loading="lazy"
                                     />
                                 </div>
                             </div>

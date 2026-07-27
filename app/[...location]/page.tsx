@@ -5,8 +5,8 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import { localBusinessSchema, faqSchema } from "@/lib/seo";
 import { MarkdownContent } from "@/components/MarkdownContent";
-import { getAllLocations, getLocationBySlug } from "@/lib/content";
-import { MapPin } from "lucide-react";
+import { getAllLocations, getLocationBySlug, getAllServices } from "@/lib/content";
+import { MapPin, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -50,6 +50,11 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
     if (!locationData) {
         notFound();
     }
+
+    const nearbyLocations = getAllLocations()
+        .filter((l) => l.city === locationData.city && l.slug !== locationData.slug)
+        .slice(0, 6);
+    const services = getAllServices();
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -100,6 +105,49 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                         )}
                     </div>
                 </section>
+
+                {/* Services offered in this area */}
+                <section className="section bg-[#EEEEF7]/40">
+                    <div className="container max-w-4xl">
+                        <h2 className="heading-subsection mb-6">
+                            Physiotherapy Services in {locationData.area}
+                        </h2>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                            {services.map((s) => (
+                                <Link
+                                    key={s.slug}
+                                    href={`/service/${s.slug}`}
+                                    className="group flex items-center justify-between gap-2 rounded-xl bg-white border border-[#DCDCEC] px-4 py-3 text-[#1F2933] hover:border-[#3B3B6D] hover:text-[#3B3B6D] transition-colors"
+                                >
+                                    <span className="font-medium">{s.title}</span>
+                                    <ArrowRight className="h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity" />
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
+                </section>
+
+                {/* Nearby areas */}
+                {nearbyLocations.length > 0 && (
+                    <section className="section bg-white">
+                        <div className="container max-w-4xl">
+                            <h2 className="heading-subsection mb-6">
+                                Physiotherapy in Other {locationData.city} Areas
+                            </h2>
+                            <div className="flex flex-wrap gap-3">
+                                {nearbyLocations.map((l) => (
+                                    <Link
+                                        key={l.slug}
+                                        href={`/${l.slug}`}
+                                        className="inline-flex items-center gap-1.5 rounded-full bg-[#EEEEF7] px-4 py-2 text-sm font-medium text-[#3B3B6D] hover:bg-[#DCDCEC] transition-colors"
+                                    >
+                                        <MapPin className="h-4 w-4" /> {l.area}
+                                    </Link>
+                                ))}
+                            </div>
+                        </div>
+                    </section>
+                )}
 
                 {/* CTA */}
                 <section className="section bg-[#2A2A57] text-white">
