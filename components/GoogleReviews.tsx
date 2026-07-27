@@ -10,6 +10,7 @@ import {
     CarouselPrevious,
     type CarouselApi,
 } from "@/components/ui/carousel";
+import Image from "next/image";
 import { GOOGLE_RATING, GOOGLE_REVIEW_ITEMS, REVIEW_PHOTOS } from "@/lib/reviews";
 
 /** Official Google "G" mark. */
@@ -147,14 +148,14 @@ export default function GoogleReviews() {
                     {REVIEW_PHOTOS.map((photo, index) => (
                         <div
                             key={index}
-                            className="img-frame flex-shrink-0 w-44 h-44 md:w-52 md:h-52 snap-start !rounded-2xl"
+                            className="img-frame relative flex-shrink-0 w-44 h-44 md:w-52 md:h-52 snap-start !rounded-2xl"
                         >
-                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                            <img
+                            <Image
                                 src={photo.src}
                                 alt={photo.alt}
-                                loading="lazy"
-                                className="w-full h-full object-cover"
+                                fill
+                                sizes="(max-width: 768px) 176px, 208px"
+                                className="object-cover"
                             />
                         </div>
                     ))}

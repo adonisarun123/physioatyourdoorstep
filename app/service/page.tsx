@@ -6,6 +6,7 @@ import {
     HeartPulse, Wind, Users, Video, ArrowRight, Home, Clock, ShieldCheck,
 } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import { getAllServices } from "@/lib/content";
 import type { Metadata } from "next";
 
@@ -111,12 +112,12 @@ export default async function ServicesPage() {
                                         className="card-physio overflow-hidden !p-0 group flex flex-col"
                                     >
                                         <div className="relative aspect-[16/10] overflow-hidden bg-[#EEEEF7]">
-                                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                                            <img
+                                            <Image
                                                 src={service.heroImage ?? "/images/hero-home.webp"}
                                                 alt={service.title}
-                                                loading="lazy"
-                                                className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                                fill
+                                                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                                                className="object-cover transition-transform duration-300 group-hover:scale-105"
                                             />
                                             <div className="absolute bottom-3 left-3 w-11 h-11 rounded-xl bg-white shadow-md flex items-center justify-center">
                                                 <Icon className="h-6 w-6 text-[#3B3B6D]" />

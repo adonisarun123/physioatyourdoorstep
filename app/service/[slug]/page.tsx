@@ -11,6 +11,7 @@ import { getServiceMarkdown } from "@/lib/markdown";
 import { getAllServices, getServiceFile, getBlogsByCategory } from "@/lib/content";
 import { ArrowRight, Calendar, Check, Clock, Home, MessageCircle, Phone, ShieldCheck } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -139,10 +140,13 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                             {summary?.heroImage && (
                                 <div className="hidden lg:block">
                                     <div className="img-frame shadow-float">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
+                                        <Image
                                             src={summary.heroImage}
                                             alt={serviceContent.title}
+                                            width={800}
+                                            height={551}
+                                            priority
+                                            sizes="(max-width: 1024px) 100vw, 50vw"
                                             className="w-full h-auto object-cover"
                                         />
                                     </div>
@@ -164,13 +168,15 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                                 <div className="sticky top-28 space-y-6">
                                     {/* Booking CTA card */}
                                     <div className="rounded-2xl bg-gradient-to-br from-[#3B3B6D] to-[#2A2A57] p-6 text-white shadow-float">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
-                                            src={`/images/services/${slug}-2.webp`}
-                                            alt={`${serviceContent.title} session at home`}
-                                            loading="lazy"
-                                            className="w-full h-36 object-cover rounded-xl mb-5"
-                                        />
+                                        <div className="relative w-full h-36 rounded-xl overflow-hidden mb-5">
+                                            <Image
+                                                src={`/images/services/${slug}-2.webp`}
+                                                alt={`${serviceContent.title} session at home`}
+                                                fill
+                                                sizes="(max-width: 1024px) 100vw, 320px"
+                                                className="object-cover"
+                                            />
+                                        </div>
                                         <h3 className="text-xl font-bold mb-2">Book {shortTitle} at Home</h3>
                                         <p className="text-sm opacity-90 mb-5">
                                             Expert care at your home, 24×7 across Bangalore &amp; Pune. Same-day slots available.

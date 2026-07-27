@@ -9,7 +9,11 @@ import {
     BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
 
-const SITE_URL = "https://physioatyourdoorstep.com";
+import { SITE } from "@/lib/seo";
+
+// Canonical origin is www — sourced from SITE so breadcrumb JSON-LD never
+// drifts back to the apex host (which would contradict the canonical signal).
+const SITE_URL = SITE.url;
 
 export interface Crumb {
     name: string;

@@ -91,7 +91,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/logo.webp" alt={SITE.name} className="h-10 w-10 rounded bg-white p-0.5" />
+              <img src="/logo.webp" alt={SITE.name} width={40} height={40} className="h-10 w-10 rounded bg-white p-0.5" />
               <h3 className="font-semibold text-lg">{SITE.name}</h3>
             </div>
             <p className="text-sm italic text-[#FFB4B6] font-medium mb-3">

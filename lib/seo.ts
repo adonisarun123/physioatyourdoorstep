@@ -16,6 +16,9 @@ export const SITE = {
     founder: "Dr. Atharva Mishra",
     areasServed: ["Bangalore", "Pune"],
     priceRange: "₹₹",
+    // Live Google Business rating — keep in sync with lib/reviews.ts.
+    rating: 4.9,
+    reviewCount: 468,
     tagline: "Let Your Pain Not Be Showstopper Of Your Life",
     socials: {
         linkedin: "https://www.linkedin.com/in/dr-atharva-mishra-pt-73717b215/",
@@ -52,6 +55,13 @@ export function organizationSchema() {
             email: SITE.email,
             areaServed: SITE.areasServed,
             availableLanguage: ["en", "hi"],
+        },
+        aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: SITE.rating,
+            reviewCount: SITE.reviewCount,
+            bestRating: 5,
+            worstRating: 1,
         },
     };
 }
@@ -96,6 +106,13 @@ export function localBusinessSchema(opts?: { area?: string; city?: string; url?:
             "@type": "City",
             name,
         })),
+        aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: SITE.rating,
+            reviewCount: SITE.reviewCount,
+            bestRating: 5,
+            worstRating: 1,
+        },
     };
 }
 

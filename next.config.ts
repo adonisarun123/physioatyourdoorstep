@@ -9,8 +9,10 @@ const nextConfig: NextConfig = {
     },
   },
 
-  // Image optimization
+  // Image optimization — serve modern formats (AVIF first, WebP fallback)
+  // and let Next generate right-sized responsive variants.
   images: {
+    formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       {
         protocol: 'https',

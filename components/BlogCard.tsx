@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Calendar, ArrowRight } from "lucide-react";
 import type { BlogContent } from "@/lib/content";
 
@@ -14,14 +15,14 @@ export default function BlogCard({ blog, showCategory = true }: BlogCardProps) {
             {blog.coverImage && (
                 <Link
                     href={`/${blog.slug}`}
-                    className="block aspect-[16/9] overflow-hidden bg-[#EEEEF7]"
+                    className="relative block aspect-[16/9] overflow-hidden bg-[#EEEEF7]"
                 >
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
+                    <Image
                         src={blog.coverImage}
                         alt={blog.title}
-                        loading="lazy"
-                        className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        fill
+                        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        className="object-cover transition-transform duration-300 group-hover:scale-105"
                     />
                 </Link>
             )}
