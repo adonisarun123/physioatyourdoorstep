@@ -4,6 +4,7 @@ date: "2026-07-27"
 metaTitle: "Types of Active and Passive Movement in Physiotherapy"
 metaDescription: "A complete guide to active and passive movement in physiotherapy: active free, assisted and resisted, relaxed and forced passive, and CPM — and when each is used."
 excerpt: "Passive movement, active movement, and the shades in between form the backbone of almost every physiotherapy program. Here is every type of movement used in physio, the science behind each, and how a therapist decides which fits which stage of recovery."
+coverImage: "https://ik.imagekit.io/adonisarun/Physio%20At%20Your%20Doorstep/types-of-active-passive-movement.jpeg"
 category: "Physiotherapy"
 ---
 
