@@ -32,11 +32,11 @@ const serviceIcons: Record<string, typeof Activity> = {
 };
 
 export const metadata: Metadata = {
-    title: "Best Physiotherapist in Bangalore | Physio at your Doorstep",
+    title: "Best Physiotherapist in Bangalore",
     description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts. Personalized care for pain relief, recovery, and mobility, right at your doorstep",
     alternates: { canonical: "/" },
     openGraph: {
-        title: "Best Physiotherapist in Bangalore | Physio at your Doorstep",
+        title: "Best Physiotherapist in Bangalore",
         description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts.",
         url: "/",
         type: "website", images: ["/images/logo-square.webp"],

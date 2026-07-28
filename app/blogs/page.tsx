@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Blog | Physiotherapy Tips & Health Articles",
     description: "Read our blog for expert physiotherapy tips, health advice, treatment guides, and wellness information. Stay informed about your health and recovery.",
     alternates: { canonical: "/blogs" },
-    openGraph: { title: "Blog | Physio At Your Doorstep", url: "/blogs", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { title: "Blog", url: "/blogs", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default async function BlogsPage() {

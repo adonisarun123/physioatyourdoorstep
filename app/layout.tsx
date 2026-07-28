@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     metadataBase: new URL("https://www.physioatyourdoorstep.com"),
     title: {
         default: "Physio At Your Doorstep - Professional Physiotherapy Services at Home",
-        template: "%s | Physio At Your Doorstep"
+        template: "%s"
     },
     description: "Professional physiotherapy services delivered to your doorstep. Expert care for sports injuries, post-surgery recovery, geriatric care, and more across Bangalore and Pune.",
     keywords: ["physiotherapy", "home physiotherapy", "sports physiotherapy", "geriatric care", "post-surgical rehabilitation", "Bangalore", "Pune"],
