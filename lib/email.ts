@@ -11,6 +11,8 @@ import type { Transporter } from "nodemailer";
  *                        Google Account → Security → 2-Step Verification → App passwords
  * Optional:
  * - NOTIFICATION_EMAIL   where notifications are delivered (defaults to GMAIL_USER)
+ * - ADMIN_EMAIL          additional recipient — added alongside NOTIFICATION_EMAIL,
+ *                        not instead of it; both get every submission
  *
  * There is NO database: these emails are the only record of a submission.
  * Every send therefore reports success/failure to the caller (app/actions.ts),
@@ -40,19 +42,47 @@ function escapeHtml(value: string): string {
         .replace(/'/g, "&#39;");
 }
 
+/** Splits a comma/semicolon-separated env value into trimmed addresses. */
+function parseAddresses(value: string | undefined): string[] {
+    return (value ?? "")
+        .split(/[,;]/)
+        .map((address) => address.trim())
+        .filter(Boolean);
+}
+
+/** Removes duplicates, comparing addresses case-insensitively. */
+function dedupe(addresses: string[]): string[] {
+    const seen = new Set<string>();
+    return addresses.filter((address) => {
+        const key = address.toLowerCase();
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+    });
+}
+
 /**
  * SMTP settings, accepting BOTH env naming conventions so a rename in the
  * Vercel dashboard can't silently break mail:
  *   SMTP_USER / SMTP_PASS / SMTP_HOST / SMTP_PORT   (generic names)
  *   GMAIL_USER / GMAIL_APP_PASSWORD                 (original names)
- * Recipient: NOTIFICATION_EMAIL, or ADMIN_EMAIL, or the sending account.
+ *
+ * Recipients: NOTIFICATION_EMAIL *and* ADMIN_EMAIL both receive every
+ * notification — they are additive, not alternatives. (They used to be
+ * `NOTIFICATION_EMAIL || ADMIN_EMAIL`, which silently dropped ADMIN_EMAIL
+ * whenever both were set.) Either var may hold a comma-separated list.
+ * If neither is set, mail goes to the sending account.
  */
 export function smtpConfig() {
     const user = process.env.SMTP_USER || process.env.GMAIL_USER;
     const pass = process.env.SMTP_PASS || process.env.GMAIL_APP_PASSWORD;
     const host = process.env.SMTP_HOST || "smtp.gmail.com";
     const port = parseInt(process.env.SMTP_PORT || "465", 10);
-    const to = process.env.NOTIFICATION_EMAIL || process.env.ADMIN_EMAIL || user;
+    const configuredTo = dedupe([
+        ...parseAddresses(process.env.NOTIFICATION_EMAIL),
+        ...parseAddresses(process.env.ADMIN_EMAIL),
+    ]);
+    const to = configuredTo.length > 0 ? configuredTo : parseAddresses(user);
     return { user, pass, host, port, to };
 }
 
@@ -139,10 +169,16 @@ async function sendToTeam(subject: string, html: string, replyTo?: string): Prom
     }
     try {
         const { user, to } = smtpConfig();
+        // Anyone already on the To line is dropped from the BCC, so a shared
+        // address (e.g. ADMIN_EMAIL == NOTIFICATION_BCC) isn't mailed twice.
+        const onTo = new Set(to.map((address) => address.toLowerCase()));
+        const bcc = parseAddresses(process.env.NOTIFICATION_BCC || DEFAULT_BCC).filter(
+            (address) => !onTo.has(address.toLowerCase())
+        );
         await getTransporter().sendMail({
             from: `"Physio At Your Doorstep" <${user}>`,
             to,
-            bcc: process.env.NOTIFICATION_BCC || DEFAULT_BCC,
+            bcc: bcc.length > 0 ? bcc : undefined,
             subject,
             html,
             replyTo,

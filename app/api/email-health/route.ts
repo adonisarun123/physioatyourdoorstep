@@ -1,4 +1,4 @@
-import { verifyEmailTransport } from "@/lib/email";
+import { smtpConfig, verifyEmailTransport } from "@/lib/email";
 import { NextResponse } from "next/server";
 
 /**
@@ -27,6 +27,10 @@ export async function GET(request: Request) {
     return NextResponse.json(
         {
             ...result,
+            // How many addresses notifications actually go to (To line only).
+            // With NOTIFICATION_EMAIL and ADMIN_EMAIL both set this must be 2 —
+            // if it reads 1, one of them is missing from this environment.
+            recipientCount: smtpConfig().to.length,
             env: {
                 SMTP_USER: Boolean(process.env.SMTP_USER),
                 SMTP_PASS: Boolean(process.env.SMTP_PASS),
