@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import {
     getAllServices,
     getAllLocations,
+    getAllServiceAreas,
     getAllBlogs,
     getAllCategories,
 } from "@/lib/content";
@@ -37,6 +38,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.8,
     }));
 
+    const serviceAreas: MetadataRoute.Sitemap = getAllServiceAreas().map((s) => ({
+        url: `${BASE_URL}/${s.slug}`,
+        lastModified: now,
+        changeFrequency: "monthly",
+        priority: 0.8,
+    }));
+
     const categories: MetadataRoute.Sitemap = getAllCategories().map((c) => ({
         url: `${BASE_URL}/category/${c.slug}`,
         lastModified: now,
@@ -51,5 +59,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
     }));
 
-    return [...staticPages, ...services, ...locations, ...categories, ...blogs];
+    return [...staticPages, ...services, ...locations, ...serviceAreas, ...categories, ...blogs];
 }

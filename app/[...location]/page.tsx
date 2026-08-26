@@ -3,9 +3,17 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
+import ServiceAreaPage from "@/components/ServiceAreaPage";
 import { localBusinessSchema, faqSchema, SITE } from "@/lib/seo";
 import { MarkdownContent } from "@/components/MarkdownContent";
-import { getAllLocations, getLocationBySlug, getAllServices } from "@/lib/content";
+import {
+    getAllLocations,
+    getLocationBySlug,
+    getAllServices,
+    getAllServiceAreas,
+    getServiceAreaBySlug,
+    getServiceAreasByArea,
+} from "@/lib/content";
 import { MapPin, ArrowRight, Calendar, MessageCircle, Phone, ShieldCheck, Home, Clock, Check } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -13,32 +21,35 @@ import type { Metadata } from "next";
 
 export async function generateStaticParams() {
     const locations = await getAllLocations();
-    return locations.map((location) => ({
-        location: [location.slug],
-    }));
+    const serviceAreas = await getAllServiceAreas();
+    return [
+        ...locations.map((location) => ({ location: [location.slug] })),
+        ...serviceAreas.map((sa) => ({ location: [sa.slug] })),
+    ];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ location: string[] }> }): Promise<Metadata> {
     const { location } = await params;
     const slug = location.join("/");
     const locationData = await getLocationBySlug(slug);
+    const serviceArea = locationData ? undefined : await getServiceAreaBySlug(slug);
+    const page = locationData ?? serviceArea;
 
-    if (!locationData) {
+    if (!page) {
         return {
             title: "Location Not Found",
         };
     }
 
     const description =
-        locationData.metaDescription ||
-        `Professional physiotherapy services in ${locationData.area}, ${locationData.city}`;
+        page.metaDescription || `Professional physiotherapy services in ${page.area}, ${page.city}`;
 
     return {
         // Strip any brand suffix baked into content metaTitles — the layout template re-adds it.
-        title: (locationData.metaTitle || locationData.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
+        title: (page.metaTitle || page.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
         description,
         alternates: { canonical: `/${slug}` },
-        openGraph: { title: locationData.title, description, url: `/${slug}`, type: "website" },
+        openGraph: { title: page.title, description, url: `/${slug}`, type: "website" },
     };
 }
 
@@ -47,14 +58,28 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
     const slug = location.join("/");
     const locationData = await getLocationBySlug(slug);
 
+    // Service x area pages (e.g. /orthopaedic-physiotherapy-in-haralur) live in
+    // their own content collection but resolve through this same root segment.
     if (!locationData) {
-        notFound();
+        const serviceArea = await getServiceAreaBySlug(slug);
+        if (!serviceArea) notFound();
+        return (
+            <div className="min-h-screen flex flex-col">
+                <Header />
+                <ServiceAreaPage data={serviceArea} />
+                <Footer />
+                <CTABar />
+            </div>
+        );
     }
 
     const nearbyLocations = getAllLocations()
         .filter((l) => l.city === locationData.city && l.slug !== locationData.slug)
         .slice(0, 6);
     const services = getAllServices();
+    // If this area has its own localised service pages, link to those instead of
+    // the global service pages — they are the more relevant next click.
+    const areaServices = getServiceAreasByArea(locationData.area);
 
     const whatsappHref = `https://wa.me/${SITE.phoneRaw.replace("+", "")}?text=${encodeURIComponent(
         `Hi, I would like to book a home physiotherapy session in ${locationData.area}.`
@@ -161,20 +186,35 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                                     <div className="card-physio !p-6">
                                         <h3 className="font-semibold text-[#1F2933] mb-4">Services We Offer in {locationData.area}</h3>
                                         <ul className="space-y-1">
-                                            {services.map((s) => (
-                                                <li key={s.slug}>
-                                                    <Link
-                                                        href={`/service/${s.slug}`}
-                                                        className="group flex items-center justify-between gap-2 rounded-lg px-3 py-2.5 text-sm font-medium text-[#1F2933] hover:bg-[#EEEEF7] hover:text-[#3B3B6D] transition-colors"
-                                                    >
-                                                        <span className="flex items-center gap-2">
-                                                            <Check className="h-4 w-4 text-[#3B3B6D] flex-shrink-0" />
-                                                            {s.title}
-                                                        </span>
-                                                        <ArrowRight className="h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
-                                                    </Link>
-                                                </li>
-                                            ))}
+                                            {areaServices.length > 0
+                                                ? areaServices.map((s) => (
+                                                      <li key={s.slug}>
+                                                          <Link
+                                                              href={`/${s.slug}`}
+                                                              className="group flex items-center justify-between gap-2 rounded-lg px-3 py-2.5 text-sm font-medium text-[#1F2933] hover:bg-[#EEEEF7] hover:text-[#3B3B6D] transition-colors"
+                                                          >
+                                                              <span className="flex items-center gap-2">
+                                                                  <Check className="h-4 w-4 text-[#3B3B6D] flex-shrink-0" />
+                                                                  {s.serviceName}
+                                                              </span>
+                                                              <ArrowRight className="h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                                                          </Link>
+                                                      </li>
+                                                  ))
+                                                : services.map((s) => (
+                                                      <li key={s.slug}>
+                                                          <Link
+                                                              href={`/service/${s.slug}`}
+                                                              className="group flex items-center justify-between gap-2 rounded-lg px-3 py-2.5 text-sm font-medium text-[#1F2933] hover:bg-[#EEEEF7] hover:text-[#3B3B6D] transition-colors"
+                                                          >
+                                                              <span className="flex items-center gap-2">
+                                                                  <Check className="h-4 w-4 text-[#3B3B6D] flex-shrink-0" />
+                                                                  {s.title}
+                                                              </span>
+                                                              <ArrowRight className="h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                                                          </Link>
+                                                      </li>
+                                                  ))}
                                         </ul>
                                         <Link href="/service" className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-[#E31E24]">
                                             View all services <ArrowRight className="h-4 w-4" />
