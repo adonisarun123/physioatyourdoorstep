@@ -26,6 +26,29 @@ export interface LocationContent {
     faqs: FaqItem[];
 }
 
+/**
+ * A service x area page (e.g. "Orthopaedic Physiotherapy in Haralur").
+ * These localise a global service page for one neighbourhood and sit
+ * beneath that neighbourhood's location pillar page. Kept in their own
+ * collection so /locations and the nearby-area links stay area-only.
+ */
+export interface ServiceAreaContent {
+    slug: string;
+    title: string;
+    city: string;
+    area: string;
+    /** Slug of the global service page this page localises. */
+    service: string;
+    /** Display name of that global service. */
+    serviceName: string;
+    /** Slug of the location pillar page for this area. */
+    pillar: string;
+    metaTitle: string | null;
+    metaDescription: string | null;
+    content: string; // markdown
+    faqs: FaqItem[];
+}
+
 export interface BlogContent {
     slug: string;
     title: string;
@@ -136,6 +159,45 @@ export function getLocationBySlug(slug: string): LocationContent | undefined {
     return getAllLocations().find((l) => l.slug === slug);
 }
 
+// ---------------- service areas ----------------
+
+let _serviceAreas: ServiceAreaContent[] | null = null;
+
+export function getAllServiceAreas(): ServiceAreaContent[] {
+    if (_serviceAreas) return _serviceAreas;
+    _serviceAreas = readDir("service-areas")
+        .map((slug) => {
+            const raw = fs.readFileSync(path.join(CONTENT_DIR, "service-areas", `${slug}.md`), "utf8");
+            const { data, content } = matter(raw);
+            const { body, faqs } = extractFaqs(content.trim());
+            const service: string = data.service ?? "";
+            return {
+                slug,
+                title: data.title ?? slug.replace(/-/g, " "),
+                city: data.city ?? "Bangalore",
+                area: data.area ?? "",
+                service,
+                serviceName: data.serviceName ?? getServiceTitle(service) ?? "Physiotherapy",
+                pillar: data.pillar ?? "",
+                metaTitle: data.metaTitle ?? null,
+                metaDescription: data.metaDescription ?? null,
+                content: body,
+                faqs,
+            } satisfies ServiceAreaContent;
+        })
+        .sort((a, b) => (a.area === b.area ? a.serviceName.localeCompare(b.serviceName) : a.area.localeCompare(b.area)));
+    return _serviceAreas;
+}
+
+export function getServiceAreaBySlug(slug: string): ServiceAreaContent | undefined {
+    return getAllServiceAreas().find((s) => s.slug === slug);
+}
+
+/** All service pages for one area, used to cross-link siblings and to let the pillar list its children. */
+export function getServiceAreasByArea(area: string): ServiceAreaContent[] {
+    return getAllServiceAreas().filter((s) => s.area.toLowerCase() === area.toLowerCase());
+}
+
 // ---------------- blogs ----------------
 
 let _blogs: BlogContent[] | null = null;
@@ -208,4 +270,9 @@ export function getAllServices(): ServiceSummary[] {
 /** Maps a service URL slug to its markdown file name under /markdown. */
 export function getServiceFile(slug: string): string | undefined {
     return SERVICE_INDEX.find((s) => s.slug === slug)?.file;
+}
+
+/** Display title for a global service slug. */
+export function getServiceTitle(slug: string): string | undefined {
+    return SERVICE_INDEX.find((s) => s.slug === slug)?.title;
 }
