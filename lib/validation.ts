@@ -20,6 +20,20 @@ export const MAX_LEN = {
     message: 5000,
 } as const;
 
+/**
+ * CV upload limits for the careers form. These live here, not in
+ * app/actions.ts: that file is "use server", where only async functions may
+ * be exported — exporting a constant from it fails the build.
+ *
+ * The cap must stay comfortably under BOTH next.config.ts
+ * `serverActions.bodySizeLimit` and Vercel's ~4.5 MB request-body ceiling;
+ * the whole multipart body counts, and an over-limit request is rejected by
+ * the platform before any of our code runs.
+ */
+export const RESUME_MAX_BYTES = 3 * 1024 * 1024; // 3 MB
+export const RESUME_ACCEPT = ".pdf,.doc,.docx";
+export const RESUME_EXT_REGEX = /\.(pdf|docx?)$/i;
+
 export const PHONE_ERROR = "Please enter a valid 10-digit Indian mobile number.";
 export const EMAIL_ERROR = "Please enter a valid email address (e.g. name@example.com).";
 

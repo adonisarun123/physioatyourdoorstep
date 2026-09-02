@@ -155,14 +155,25 @@ const DEFAULT_BCC = "arun@monkmantra.com";
  *   Vercel  → Project → Logs, search "LOST SUBMISSION"
  *   Railway → Deployments → Logs, same search
  */
-function logLostSubmission(kind: "booking" | "contact", payload: Record<string, unknown>): void {
+function logLostSubmission(kind: "booking" | "contact" | "application", payload: Record<string, unknown>): void {
     console.error(
         `[Email] LOST SUBMISSION (${kind}) — email delivery failed, this is the only copy:`,
         JSON.stringify({ kind, receivedAt: nowIST(), ...payload })
     );
 }
 
-async function sendToTeam(subject: string, html: string, replyTo?: string): Promise<boolean> {
+export interface MailAttachment {
+    filename: string;
+    content: Buffer;
+    contentType?: string;
+}
+
+async function sendToTeam(
+    subject: string,
+    html: string,
+    replyTo?: string,
+    attachments?: MailAttachment[]
+): Promise<boolean> {
     if (!isConfigured()) {
         console.warn("[Email] SMTP_USER/SMTP_PASS (or GMAIL_USER/GMAIL_APP_PASSWORD) not set — skipping notification email.");
         return false;
@@ -182,6 +193,7 @@ async function sendToTeam(subject: string, html: string, replyTo?: string): Prom
             subject,
             html,
             replyTo,
+            attachments: attachments && attachments.length > 0 ? attachments : undefined,
         });
         return true;
     } catch (error) {
@@ -286,5 +298,86 @@ export async function sendContactNotification(submission: ContactEmailData): Pro
         submission.email
     );
     if (!sent) logLostSubmission("contact", { ...submission });
+    return sent;
+}
+
+export interface ApplicationEmailData {
+    fullName: string;
+    email: string;
+    phone: string;
+    area: string;
+    otherArea?: string;
+    employmentType: string;
+    qualification: string;
+    experience: string;
+    hasTwoWheeler: string;
+    currentEmployer?: string;
+    message?: string;
+}
+
+const EMPLOYMENT_LABELS: Record<string, string> = {
+    "full-time": "Full-time",
+    "part-time": "Part-time",
+    freelance: "Freelance / Visiting (per visit)",
+};
+
+const EXPERIENCE_LABELS: Record<string, string> = {
+    "0-1": "Less than 1 year",
+    "1-3": "1 – 3 years",
+    "3-5": "3 – 5 years",
+    "5-plus": "More than 5 years",
+};
+
+/**
+ * Sends a careers application to the team, with the candidate's CV attached.
+ *
+ * As with the other forms there is no database, so this email is the entire
+ * record of the application — a failed send is reported to the candidate as a
+ * failed submission. The lost-submission log line cannot carry the CV file, so
+ * it records the filename and size only; the candidate is asked to re-apply or
+ * WhatsApp the CV instead.
+ */
+export async function sendApplicationNotification(
+    application: ApplicationEmailData,
+    resume?: MailAttachment
+): Promise<boolean> {
+    const areaLabel =
+        application.area === "other"
+            ? `Other — ${application.otherArea ?? "not specified"}`
+            : application.area;
+
+    const rows = detailRows([
+        ["Name", application.fullName],
+        ["Phone", application.phone],
+        ["Email", application.email],
+        ["Preferred area", areaLabel],
+        ["Engagement", EMPLOYMENT_LABELS[application.employmentType] ?? application.employmentType],
+        ["Qualification", application.qualification],
+        ["Experience", EXPERIENCE_LABELS[application.experience] ?? application.experience],
+        ["Own two-wheeler", application.hasTwoWheeler],
+        ["Currently working at", application.currentEmployer],
+        ["CV", resume ? `${resume.filename} (${Math.round(resume.content.length / 1024)} KB, attached)` : "Not attached"],
+        ["Message", application.message],
+        ["Received", nowIST()],
+    ]);
+
+    const sent = await sendToTeam(
+        `Physiotherapist Application — ${application.fullName} (${areaLabel})`,
+        wrapEmail(
+            "New Physiotherapist Application",
+            "A candidate applied through the careers section of the website.",
+            rows
+        ),
+        application.email,
+        resume ? [resume] : undefined
+    );
+
+    if (!sent) {
+        logLostSubmission("application", {
+            ...application,
+            resumeFilename: resume?.filename,
+            resumeBytes: resume?.content.length,
+        });
+    }
     return sent;
 }
