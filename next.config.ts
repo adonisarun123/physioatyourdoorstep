@@ -5,7 +5,9 @@ const nextConfig: NextConfig = {
   experimental: {
     // Enable server actions
     serverActions: {
-      bodySizeLimit: '2mb',
+      // Raised for the careers CV upload (3 MB cap enforced in app/actions.ts).
+      // Must stay under Vercel's ~4.5 MB request-body ceiling.
+      bodySizeLimit: '4mb',
     },
   },
 

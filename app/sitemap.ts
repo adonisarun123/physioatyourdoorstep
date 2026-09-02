@@ -6,6 +6,7 @@ import {
     getAllBlogs,
     getAllCategories,
 } from "@/lib/content";
+import { careerPath, getAllCareerAreas } from "@/lib/careers";
 
 const BASE_URL = "https://www.physioatyourdoorstep.com";
 
@@ -21,6 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { url: `${BASE_URL}/locations`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
         { url: `${BASE_URL}/blogs`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
         { url: `${BASE_URL}/media-coverage`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
+        { url: `${BASE_URL}/careers`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
         { url: `${BASE_URL}/privacy-policy`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
         { url: `${BASE_URL}/terms-of-service`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
     ];
@@ -60,5 +62,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
     }));
 
-    return [...staticPages, ...services, ...locations, ...serviceAreas, ...categories, ...blogs];
+    // One job page per hiring area (see lib/careers.ts).
+    const careers: MetadataRoute.Sitemap = getAllCareerAreas().map((a) => ({
+        url: `${BASE_URL}${careerPath(a.slug)}`,
+        lastModified: now,
+        changeFrequency: "weekly",
+        priority: 0.6,
+    }));
+
+    return [...staticPages, ...services, ...locations, ...serviceAreas, ...categories, ...blogs, ...careers];
 }

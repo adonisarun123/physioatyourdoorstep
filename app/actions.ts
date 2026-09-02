@@ -1,8 +1,16 @@
 "use server";
 
-import { sendBookingNotification, sendContactNotification } from "@/lib/email";
+import { sendApplicationNotification, sendBookingNotification, sendContactNotification } from "@/lib/email";
+import { CAREER_AREAS } from "@/lib/careers";
 import { checkSpam } from "@/lib/spam";
-import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, normalizeIndianMobile } from "@/lib/validation";
+import {
+    EMAIL_ERROR,
+    MAX_LEN,
+    PHONE_ERROR,
+    RESUME_EXT_REGEX,
+    RESUME_MAX_BYTES,
+    normalizeIndianMobile,
+} from "@/lib/validation";
 import { randomInt } from "node:crypto";
 import { z } from "zod";
 
@@ -211,5 +219,109 @@ export async function submitContact(formData: FormData): Promise<SubmitResult> {
             return { success: false, message: error.issues[0].message };
         }
         return { success: false, message: CONTACT_SEND_FAILED };
+    }
+}
+
+
+/* --------------------------------------------------------------- Careers */
+
+// Upload limits live in lib/validation.ts — see the note there on why this
+// file cannot export them.
+const RESUME_MIME = new Set([
+    "application/pdf",
+    "application/msword",
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+]);
+const CAREER_AREA_NAMES = CAREER_AREAS.map((a) => a.area);
+
+const applicationSchema = z.object({
+    fullName: requiredName,
+    email: requiredEmail,
+    phone: requiredPhone,
+    // Either one of our listed areas, or "other" with a free-text area.
+    area: z.string().trim().min(1, "Please choose the area you can work in.").max(MAX_LEN.locationArea),
+    otherArea: z.string().trim().max(MAX_LEN.locationArea).optional(),
+    employmentType: z.enum(["full-time", "part-time", "freelance"], {
+        error: "Please choose full-time, part-time or freelance.",
+    }),
+    qualification: z.enum(["BPT", "MPT", "Other"], { error: "Please select your qualification." }),
+    experience: z.enum(["0-1", "1-3", "3-5", "5-plus"], { error: "Please select your years of experience." }),
+    hasTwoWheeler: z.enum(["Yes", "No"], { error: "Please tell us whether you have your own two-wheeler." }),
+    currentEmployer: z.string().trim().max(MAX_LEN.subject).optional(),
+    message: z.string().trim().max(MAX_LEN.notes).optional(),
+});
+
+const APPLICATION_SEND_FAILED =
+    "We couldn't submit your application just now. Please try again, or WhatsApp your CV to +91 82337 87737 and we'll pick it up from there.";
+
+export async function submitApplication(formData: FormData): Promise<SubmitResult> {
+    try {
+        const spam = await checkSpam(formData);
+        if (!spam.ok) {
+            if (spam.silent) {
+                return { success: true, message: "Application submitted. We'll be in touch shortly." };
+            }
+            return { success: false, message: spam.message ?? "Unable to submit. Please try again later." };
+        }
+
+        const data = {
+            fullName: (formData.get("fullName") as string) ?? "",
+            email: (formData.get("email") as string) ?? "",
+            phone: (formData.get("phone") as string) ?? "",
+            area: (formData.get("area") as string) ?? "",
+            otherArea: optionalField(formData, "otherArea"),
+            employmentType: (formData.get("employmentType") as string) ?? "",
+            qualification: (formData.get("qualification") as string) ?? "",
+            experience: (formData.get("experience") as string) ?? "",
+            hasTwoWheeler: (formData.get("hasTwoWheeler") as string) ?? "",
+            currentEmployer: optionalField(formData, "currentEmployer"),
+            message: optionalField(formData, "message"),
+        };
+
+        const validated = applicationSchema.parse(data);
+
+        // The area must be one we list, or the explicit "other" escape hatch
+        // with the candidate's own area filled in.
+        if (validated.area === "other") {
+            if (!validated.otherArea) {
+                return { success: false, message: "Please tell us which area of Bangalore you can work in." };
+            }
+        } else if (!CAREER_AREA_NAMES.includes(validated.area)) {
+            return { success: false, message: "Please choose an area from the list." };
+        }
+
+        // CV is required — it is the whole point of the application.
+        const file = formData.get("resume");
+        if (!(file instanceof File) || file.size === 0) {
+            return { success: false, message: "Please attach your CV (PDF or Word, up to 3 MB)." };
+        }
+        if (file.size > RESUME_MAX_BYTES) {
+            return { success: false, message: "Your CV is larger than 3 MB. Please upload a smaller file." };
+        }
+        if (!RESUME_MIME.has(file.type) && !RESUME_EXT_REGEX.test(file.name)) {
+            return { success: false, message: "Please upload your CV as a PDF or Word document." };
+        }
+
+        const resume = {
+            // Strip any path/odd characters a client could put in the filename.
+            filename: file.name.replace(/[^\w.\- ]+/g, "_").slice(0, 120) || "cv.pdf",
+            content: Buffer.from(await file.arrayBuffer()),
+            contentType: file.type || undefined,
+        };
+
+        const sent = await sendApplicationNotification(validated, resume);
+        if (!sent) {
+            return { success: false, message: APPLICATION_SEND_FAILED };
+        }
+
+        return {
+            success: true,
+            message: "Application submitted. Our clinical team reviews every CV — we'll call you if there's a fit.",
+        };
+    } catch (error) {
+        if (error instanceof z.ZodError) {
+            return { success: false, message: error.issues[0].message };
+        }
+        return { success: false, message: APPLICATION_SEND_FAILED };
     }
 }
