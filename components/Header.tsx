@@ -11,6 +11,7 @@ const navigation = [
   { name: "About Us", href: "/about-us" },
   { name: "Our Service", href: "/service" },
   { name: "Blogs", href: "/blogs" },
+  { name: "Media", href: "/media-coverage" },
   { name: "Contact Us", href: "/contact-us" },
 ];
 
