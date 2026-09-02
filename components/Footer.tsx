@@ -6,6 +6,7 @@ const quickLinks = [
   { name: "About Us", href: "/about-us" },
   { name: "Our Services", href: "/service" },
   { name: "Blogs", href: "/blogs" },
+  { name: "Media Coverage", href: "/media-coverage" },
   { name: "Locations", href: "/locations" },
   { name: "Contact Us", href: "/contact-us" },
   { name: "Book an Appointment", href: "/booking" },
