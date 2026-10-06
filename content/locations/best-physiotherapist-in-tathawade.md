@@ -86,7 +86,7 @@ We're proud to serve Tathawade and the surrounding neighborhoods with our home p
 
 - **Tathawade (Pimple Nilakh)**: All parts of Tathawade and broader Pimple Nilakh fall within our reach. Whether you're near Bhumkar Chowk or Prahar Panchavati, our physio will come to you with all necessary equipment.
 - **Wakad & Hinjawadi**: Just 3–5 km from Tathawade, the bustling Wakad and Hinjawadi IT Park area are covered. If you live in Wakad, Rajarampuri, or Hinjewadi Phase 1, we'll reach your home for neck/back pain, tech-neck, or post-workout rehab without the commute.
-- **Punawale & Ravet**: Residents of Punawale and Ravet (near One Mall Ravet) can also book our home visits. These areas are only a short drive away, so we often help patients there with back pain, knee arthritis, post-surgery recovery and more.
+- **Punawale & Ravet**: Residents of Punawale and [Ravet](/best-physiotherapist-in-ravet) can also book our home visits. These areas are only a short drive away, so we often help patients there with back pain, knee arthritis, post-surgery recovery and more.
 - **Kiwale & Chandni Chowk**: Nearby Pimpri-Chinchwad localities like Kiwale or Chandni Chowk are also in our service zone. If you're along the Bhosari Road or Pune-Mumbai Highway near Tathawade, we can arrange home physiotherapy at your doorstep.
 
 If your specific Tathawade neighborhood isn't listed but is nearby, feel free to contact us – we likely cover it. Our mission is making quality physiotherapy accessible across north-west Pune without leaving your home.

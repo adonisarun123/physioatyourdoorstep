@@ -146,7 +146,7 @@ We proudly serve Shivajinagar and all nearby localities in central Bangalore. Ou
 ,
 **Ulsoor**
 ,
-**Richmond Town**
+**[Richmond Town](/physiotherapist-in-richmond-town)**
 ,
 **Frazer Town**
 ,

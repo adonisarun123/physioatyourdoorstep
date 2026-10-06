@@ -88,8 +88,9 @@ We extend our home physiotherapy service to all of Nigdi and adjacent neighborho
 
 - **Nigdi Pradhikaran (Sector 1–32):** We cover the organized sectors of Nigdi Pradhikaran, from Sector 1 (near Bhakti Shakti) to Sector 32. Whether you live near the bus terminus or around the City Pride Mall, our physio will come to your home in Nigdi.
 - **Akurdi & Dapodi:** Just north of Nigdi is Akurdi (Sindhunagar, Pradhikaran SEZ). We serve Akurdi as well. Residents near the Akurdi railway station or Dapodi (near HK Farms) can book our home sessions.
-- **Khurd & Ravet:** Khurd, Ravet, and the nearby Water Tank Line area (south-west Nigdi) are covered. If you live near the highway turnoff (Khadki-Dange Chowk route) or around Ravet Sugar Factory, we'll reach you.
+- **Khurd & Ravet:** Khurd, [Ravet](/best-physiotherapist-in-ravet), and the nearby Water Tank Line area (south-west Nigdi) are covered. If you live near the highway turnoff (Khadki-Dange Chowk route) or around Ravet Sugar Factory, we'll reach you.
 - **Pimpri (Sector 26–33):** Some parts of Pimpri (Sector 26–33 around Inox Multiplex) are close enough for home visits. We frequently assist patients in Pimpri as well.
+- **Moshi & Chikhali:** North-east along the Spine Road, we also cover [Moshi](/best-physiotherapist-in-moshi) and Chikhali, including the societies off the Pune–Nashik Highway.
 
 ## Book a Physiotherapy Session Today
 

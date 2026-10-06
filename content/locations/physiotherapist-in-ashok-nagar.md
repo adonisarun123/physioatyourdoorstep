@@ -131,7 +131,7 @@ X-corporation
 ## Coverage Areas in and around Ashok Nagar
 
 We cover all of Ashok Nagar and neighboring areas in Central Bangalore, making physiotherapy at home accessible across the region. Our service zone includes, but is not limited to:
-Richmond Town & Shanthala Nagar**
+**[Richmond Town](/physiotherapist-in-richmond-town) & Shanthala Nagar**
 : Just west of Ashok Nagar, these upscale residential localities (around the Registrar’s Office and Tennis Club) are within our reach. Residents around Richmond Circle or near Koshy’s restaurant can easily schedule home physio without commuting downtown.
 
 **MG Road / Trinity Circle**
