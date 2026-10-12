@@ -93,7 +93,7 @@ We cover **Senapati Bapat Road** and adjacent Pune localities. Key service areas
 - **Aundh & Sangvi (North-West Pune):** Though a bit farther, we frequently serve patients on Sangamwadi Road and Aundh with sports injuries or post-surgical needs.
 - **Other Areas (Kothrud, Baner outskirts):** If you're near these zones or between them and SB Road, check with us – many patients in Kothrud and Baner also benefit from home therapy.
 
-We aim to cover all nearby regions of western Pune – if you're unsure if we reach your street, just ask us.
+We aim to cover all nearby regions of western Pune – if you're unsure if we reach your street, just ask us. We also have dedicated pages for [FC Road](/best-physiotherapist-in-fc-road) and [JM Road](/best-physiotherapist-in-jm-road).
 
 ## Book a Physiotherapy Session Today
 
