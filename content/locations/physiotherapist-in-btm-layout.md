@@ -114,7 +114,7 @@ We provide home physiotherapy across BTM Layout and nearby neighborhoods. Our BT
 
 - **BTM Layout 1st Stage and 2nd Stage** – All sectors of BTM Layout, from 1st Stage near Maruthi Nagar to 2nd Stage around Madiwala and Dollar Layout.
 - **Madiwala and Tavarekere** – Adjacent areas like Madiwala (including the Madiwala Market vicinity) and Tavarekere (nearby localities and college hostels).
-- **N.S. Palya** – Neighbourhoods around N.S. Palya and the Bannerghatta Road end of BTM Layout.
+- **N.S. Palya** – Neighbourhoods around N.S. Palya and the Bannerghatta Road end of BTM Layout, continuing down to Bilekahalli and [Vijaya Bank Layout](/physiotherapist-in-vijaya-bank-layout).
 - **Surrounding Areas** – Other nearby parts of South Bangalore around BTM Layout. If you are in an area close to BTM (such as along Bannerghatta Road or Hosur Road junctions), we likely serve your location too.
 
 Wherever you are in or around BTM Layout, we're just a call away to bring quality physiotherapy care to your home.

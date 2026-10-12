@@ -112,7 +112,7 @@ Now the regular **therapy sessions** begin. The physiotherapist will visit as pe
 
 Our home physiotherapy team covers not just Hulimavu but also the surrounding neighborhoods. If you live in or around the Hulimavu area, we've got you covered. We frequently serve patients in adjacent localities, including:
 
-- **Arekere and Bannerghatta Road** – areas around IIM Bangalore, Fortis Hospital, and up towards Bilekahalli.
+- **Arekere and Bannerghatta Road** – areas around IIM Bangalore, Fortis Hospital, and up towards Bilekahalli and [Vijaya Bank Layout](/physiotherapist-in-vijaya-bank-layout).
 - **Gottigere** – further south along Bannerghatta Road, near the NICE Road junction.
 - **Akshayanagar / DLF New Town** – the residential communities to the east of Hulimavu.
 - **Begur Road & Hongasandra** – neighborhoods towards the east, connecting Hulimavu to the Electronic City route.

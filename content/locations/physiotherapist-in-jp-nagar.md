@@ -123,7 +123,7 @@ We provide **physiotherapy at home across JP Nagar** and its surrounding neighbo
 - JP Nagar Central, Marenahalli Road
 - Nearby Areas: Banashankari, Jayanagar, Bannerghatta Road, BTM Layout
 
-Not in JP Nagar? We also serve patients in **Koramangala**, **HSR Layout**, **Bellandur**, and other top residential areas across Bangalore.
+Not in JP Nagar? We also serve patients in **Koramangala**, **HSR Layout**, **Bellandur**, [Vijaya Bank Layout](/physiotherapist-in-vijaya-bank-layout), and other top residential areas across Bangalore.
 
 ## Book a Physiotherapy Session Today
 

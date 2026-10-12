@@ -119,6 +119,7 @@ Key Landmarks Near Our Service Area:
 - Bannerghatta Road
 - Arekere Lake
 - IIM Bangalore
+- [Vijaya Bank Layout](/physiotherapist-in-vijaya-bank-layout) (Bilekahalli)
 - Apollo Hospitals
 - Hulimavu Industrial Area
 - Begur Road Junction
