@@ -608,6 +608,8 @@ Don’t let shoulder blade pain hold you back any longer. Whether you’re in JP
 [Book an appointment](/booking)
  today and take the first step toward a pain-free tomorrow.
 
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment), [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)
+
 ## Frequently Asked Questions About Shoulder Blade Pain
 
 ### How long does physiotherapy take to relieve shoulder blade pain?

@@ -388,6 +388,8 @@ Remember that every pregnancy with pulmonary hypertension is unique, and treatme
 
 Disclaimer: This information is for educational purposes only and should not replace professional medical advice. Always consult with qualified healthcare providers for the diagnosis and treatment of pulmonary hypertension during pregnancy. Individual circumstances may vary, and treatment approaches should be personalized based on specific medical conditions and pregnancy factors.
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Is exercise safe during pregnancy with pulmonary hypertension?

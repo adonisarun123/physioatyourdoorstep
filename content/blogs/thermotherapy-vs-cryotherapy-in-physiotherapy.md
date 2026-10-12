@@ -232,6 +232,8 @@ For further reading on the clinical evidence behind these modalities:
 
 *Reviewed and authored by the physiotherapy team at Physio at Your Doorstep, Bangalore. This content is for educational purposes and does not replace professional medical advice. Always consult a qualified physiotherapist before beginning any new treatment.*
 
+**Related reading:** [Types of Hydrotherapy in Physiotherapy](/types-of-hydrotherapy-in-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Should I use heat or ice for back pain?

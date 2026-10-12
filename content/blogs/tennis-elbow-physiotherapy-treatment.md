@@ -219,6 +219,8 @@ If you are dealing with persistent elbow pain and would like an expert assessmen
 [Book your appointment now](/booking)
  and take the first step towards a pain-free recovery.
 
+**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)
+
 ## Frequently Asked Questions (FAQ)
 
 Below are answers to the most commonly searched questions about tennis elbow physiotherapy treatment:

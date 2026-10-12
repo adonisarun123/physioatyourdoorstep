@@ -246,6 +246,8 @@ Physiotherapy plays a vital role in managing pulmonary fibrosis by improving bre
 
 Incorporating these techniques into daily routines, along with proper medical treatment, can slow the progression of symptoms and allow individuals with pulmonary fibrosis to remain active and independent. If you or a loved one has pulmonary fibrosis, consult a healthcare professional for a personalized physiotherapy plan.
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 **1. How often should a pulmonary fibrosis patient do breathing exercises?**

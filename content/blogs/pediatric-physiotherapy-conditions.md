@@ -398,6 +398,8 @@ The journey of supporting a child with physiotherapy needs can feel overwhelming
 
 Your role as a parent or caregiver is invaluable in this process. Your observations, concerns, and commitment to your child’s development make the difference between simply managing a condition and helping your child thrive. Trust your instincts, ask questions, seek support when needed, and celebrate every milestone achieved along the way.
 
+**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)
+
 ## Frequently Asked Questions
 
 ### At what age should I be concerned about my child's motor development?

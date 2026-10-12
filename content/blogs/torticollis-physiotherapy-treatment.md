@@ -208,6 +208,8 @@ If travel is difficult, our
 - Desai S, Sharath HV. *Effect of Pediatric Physical Therapy Interventions on Congenital Muscular Torticollis: A Systematic Review.* Cureus. 2024;16(9):e69572. [Read on PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11486520/)
 - APTA Academy of Pediatric Physical Therapy. [CMT Clinical Practice Guideline & Implementation Resources](https://pediatricapta.org/clinical-practice-guidelines/Congenital-Muscular-Torticollis.cfm)
 
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment)
+
 ## Frequently Asked Questions About Torticollis Physiotherapy Treatment
 
 **What is torticollis and how does physiotherapy help?**

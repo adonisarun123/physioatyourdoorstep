@@ -378,6 +378,8 @@ We specialize in providing professional physiotherapy services in the comfort of
 - McKenzie Institute protocols for mechanical diagnosis and therapy
 ***Note**: This article is for educational purposes only and does not replace professional medical advice. Always consult with qualified healthcare providers for diagnosis and treatment of cervical disc conditions.*
 
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment)
+
 ## Frequently Asked Questions (FAQs)
 
 - [How long does physiotherapy take to work for cervical PIVD?](#acc-etrs350-0) Most patients notice some improvement within 2-3 weeks of starting physiotherapy, with significant functional gains typically occurring by 6-8 weeks. Complete recovery often takes 3-6 months depending on herniation severity. Consistency with your exercise program and adherence to recommendations significantly impact recovery speed.

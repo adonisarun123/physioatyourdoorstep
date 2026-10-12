@@ -449,3 +449,5 @@ Avoid pushing through pain, skipping exercises, or neglecting your mental health
 **5. Can I do neurological physiotherapy at home?**
 
 Absolutely. Home-based therapy is not only possible but essential. With guidance from your therapist, you can perform exercises safely and effectively in your own space.
+
+**Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)

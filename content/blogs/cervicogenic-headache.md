@@ -62,3 +62,5 @@ Numerous studies have shown that physical therapy provides a prolonged release o
 There is also a different kind of physical therapy, where the manipulation by the nape of the neck, the spine, and the joints are to be carried out. These operations can be carried out by a physiotherapist or a specialist called a chiropractor.
 
 Though this type of therapy is able to produce surprisingly good results immediately but in patients with non-diagnosed cases of chronic neck pain have to be careful with these types of treatments are available. For example, in patients with carotid artery stenosis, or advanced osteoarthritis, may experience more complications from a chiropractic session.
+
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment)

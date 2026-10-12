@@ -238,3 +238,5 @@ No. Many orthopaedic conditions can be treated with **medication, physiotherapy,
 #### 5. Can I visit a physiotherapist without consulting an orthopaedic doctor?
 
 Yes, for minor injuries and pain management, you can directly consult a physiotherapist. However, for **severe injuries, fractures, or persistent pain**, it is best to see an orthopaedic specialist first.
+
+**Related reading:** [Ortho and Neuro Physiotherapy](/ortho-and-neuro-physiotherapy)

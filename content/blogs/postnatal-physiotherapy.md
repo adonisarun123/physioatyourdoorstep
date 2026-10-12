@@ -176,6 +176,8 @@ For mothers who prefer remote access, our [Online Physiotherapy Consultation](/s
 
 *This article is written for informational purposes and does not replace professional medical advice. Always consult a qualified physiotherapist or healthcare provider before beginning any postpartum exercise programme.*
 
+**Related reading:** [Types of Hydrotherapy in Physiotherapy](/types-of-hydrotherapy-in-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 ### How soon can I start postnatal physiotherapy after a Caesarean section?

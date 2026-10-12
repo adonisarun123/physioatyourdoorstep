@@ -196,6 +196,8 @@ If any of these apply to you or a family member, consider [booking an appointmen
 
 *This article is for informational purposes only and does not replace individualized medical advice. Always consult your cardiologist and a qualified physiotherapist before beginning any exercise program.*
 
+**Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy), [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 ### What is geriatric cardio physiotherapy and who needs it?

@@ -181,6 +181,8 @@ While recovery progresses, there are several practical strategies to make daily 
 4. Orthopaedic Physiotherapy at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>
 5. Neurological Physiotherapy Tests Blog: </neurological-physiotherapy-tests/>
 
+**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)
+
 ## Frequently Asked Questions (FAQ)
 
 ### Can wrist drop heal on its own without physiotherapy?

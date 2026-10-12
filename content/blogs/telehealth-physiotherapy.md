@@ -225,6 +225,8 @@ This article provides general information for educational purposes only and is n
 
 **Ready to book your telehealth session? Start here:** </booking/>
 
+**Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
+
 ## Frequently Asked Questions (FAQs)
 
 ### Is telehealth physiotherapy as effective as in-person treatment?

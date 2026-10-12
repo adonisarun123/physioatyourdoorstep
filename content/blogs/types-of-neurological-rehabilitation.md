@@ -666,6 +666,8 @@ For more information about specialized physiotherapy services we offer:
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult with qualified healthcare professionals regarding your specific condition and treatment options. Individual results may vary based on multiple factors including the severity of condition, adherence to treatment, and overall health status.*
 
+**Related reading:** [Ortho and Neuro Physiotherapy](/ortho-and-neuro-physiotherapy)
+
 ## Frequently Asked Questions About Neurological Rehabilitation
 
 - [How long does neurological rehabilitation take?](#acc-80si926-0) Recovery timelines vary significantly based on the condition’s severity, type of neurological damage, individual factors, and rehabilitation intensity. Some patients show substantial improvement within 3-6 months, while others continue making gains for years. Consistency in therapy over an extended period typically produces the best outcomes. Your rehabilitation team will provide personalized expectations based on your specific situation.

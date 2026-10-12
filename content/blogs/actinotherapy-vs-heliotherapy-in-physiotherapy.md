@@ -143,6 +143,8 @@ If you are also comparing other physiotherapy modalities, our guides on [TENS vs
 * Most home-care rehabilitation plans use these therapies as a supporting element alongside exercise therapy, manual therapy, and other electro-modalities.
 * The right choice depends on your specific diagnosis, mobility level, and access to sunlight or equipment, not on which therapy is "newer" or "better" in general.
 
+**Related reading:** [Types of Hydrotherapy in Physiotherapy](/types-of-hydrotherapy-in-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### What is the main difference between actinotherapy and heliotherapy in physiotherapy?

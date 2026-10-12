@@ -299,3 +299,5 @@ It’s different, not “better.” Water reduces load and can unlock movements;
 ### Should we choose clinic or home-based sessions?
 
 Hybrid models often win: clinic sessions for specialized equipment and assessments; home sessions for real-life carryover and convenience. Families in Bangalore often find home sessions reduce missed visits and boost consistency.
+
+**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)

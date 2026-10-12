@@ -945,6 +945,8 @@ Your heart deserves the best care possible. Don’t leave your CABG recovery to 
 
 *This comprehensive guide is based on current medical evidence and international standards for CABG post-surgical care. Individual recovery experiences may vary, and this information is educational and should not replace personalized medical consultation. Always follow your cardiac surgical team’s specific instructions and recommendations.*
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### When can I start physiotherapy after CABG surgery?

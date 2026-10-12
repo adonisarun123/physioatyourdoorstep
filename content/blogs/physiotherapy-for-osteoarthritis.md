@@ -543,3 +543,5 @@ For more information about physiotherapy and musculoskeletal health, explore the
 - [How much does physiotherapy for osteoarthritis cost?](#acc-2qwd379-8) Costs vary based on location and insurance coverage. Many insurance plans cover physiotherapy, especially when prescribed by a physician. [Home physiotherapy services](/) may save money by eliminating travel costs and time off work.
 
 - [Should I continue physiotherapy exercises during pain flare-ups?](#acc-2qwd379-9) Yes, but with modifications. During flare-ups, focus on gentle range-of-motion exercises rather than strengthening. Apply ice after activities and consult your physiotherapist about adjusting your program temporarily until symptoms improve.
+
+**Related reading:** [Types of Hydrotherapy in Physiotherapy](/types-of-hydrotherapy-in-physiotherapy), [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)

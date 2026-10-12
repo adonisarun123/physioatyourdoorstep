@@ -615,3 +615,5 @@ Note: This guide is for informational purposes only and does not replace profess
 - [How long does it take to recover with physiotherapy?](#acc-7t5s65-3) Recovery varies, but most patients notice improvements within 2–4 weeks of consistent therapy. Full recovery may take longer depending on underlying conditions.
 
 - [Is pulmonary edema physiotherapy suitable for elderly patients?](#acc-7t5s65-4) Absolutely. In fact, physiotherapy is crucial for elderly patients to regain strength, mobility, and respiratory function after an episode of pulmonary edema.
+
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)

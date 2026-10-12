@@ -396,6 +396,8 @@ Your journey to optimal heart health after angioplasty requires commitment, prof
 
 The investment you make in professional cardiac rehabilitation physiotherapy today will pay dividends in improved quality of life, reduced risk of future cardiac events, and the confidence to live life fully despite having experienced a cardiac event. Your heart has been given a second chance – make the most of it through comprehensive, professional physiotherapy management.
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### How soon after angioplasty can I start physiotherapy?

@@ -135,6 +135,8 @@ If you or a family member in Bangalore is recovering from a stroke, living with 
 
 Our therapists carry the equipment needed for task-oriented training, gait practice, PNF, and other advanced techniques directly to your doorstep, with sessions built around your specific condition and home environment. You can [book a neurological physiotherapy session](/booking) online, or call or WhatsApp us at +91 82337 87737 for a same-day consultation. See our full list of [areas we serve across Bangalore](/locations) to check availability near you.
 
+**Related reading:** [Ortho and Neuro Physiotherapy](/ortho-and-neuro-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### What are advanced neuro physiotherapy techniques?

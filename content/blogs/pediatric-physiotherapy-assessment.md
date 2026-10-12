@@ -384,6 +384,8 @@ For further information about pediatric physiotherapy and related services:
 
 *This comprehensive guide provides educational information about pediatric physiotherapy assessment. Always consult with qualified healthcare professionals for specific medical advice regarding your child’s individual needs.*
 
+**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)
+
 ## Frequently Asked Questions About Pediatric Physiotherapy Assessment
 
 ### How long does a pediatric physiotherapy assessment take?

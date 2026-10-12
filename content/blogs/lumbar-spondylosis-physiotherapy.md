@@ -994,6 +994,8 @@ Ready to take control of your spinal health and eliminate debilitating back pain
 
 *This comprehensive guide represents current evidence-based practices in lumbar spondylosis physiotherapy treatment. Individual treatment outcomes may vary, and this information should complement professional medical consultation. Always consult qualified healthcare providers for personalized diagnosis and treatment recommendations.*
 
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment)
+
 ## Frequently Asked Questions
 
 ### What is the most effective treatment for lumbar spondylosis?

@@ -163,6 +163,8 @@ Recovering from chest surgery, managing a chronic lung condition, or dealing wit
 
 Our physiotherapists teach ACBT and other airway clearance techniques correctly from the very first session, monitor your progress, and adjust the technique as your condition improves, all in the comfort and privacy of your home. You can [book a session](/booking) online, or call or WhatsApp us at +91 82337 87737 for a same-day home visit. Check our full list of [areas we serve across Bangalore](/locations) to see if we cover your neighbourhood.
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### What does ACBT stand for in physiotherapy?

@@ -410,3 +410,5 @@ Yes! Swimming is low-impact and can be ideal for rebuilding strength and flexibi
 **What exercises should I not do after knee surgery?**
 
 Steer clear of high-impact activities for now, such as running, jumping and deep squats, until you get clearance from your doctor or physiotherapist.
+
+**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)

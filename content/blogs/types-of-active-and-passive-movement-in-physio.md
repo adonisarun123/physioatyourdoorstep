@@ -142,6 +142,8 @@ If you are managing a condition that involves electrical stimulation or manual t
 * Encourages faster bone and soft tissue healing through controlled loading
 * Reduces the risk of re-injury by preparing muscles for real-world demands
 
+**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)
+
 ## Frequently Asked Questions
 
 ### What is the main difference between active and passive movement in physiotherapy?

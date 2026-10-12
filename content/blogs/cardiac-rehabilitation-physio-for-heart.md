@@ -326,6 +326,8 @@ Remember that cardiac rehabilitation is not merely about returning to your previ
 
 *For more information about our cardiac rehabilitation services,* [*contact Physio at your Doorstep*](/contact-us) *today.*
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy), [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
+
 ## Frequently Asked Questions About Cardiac Rehabilitation
 
 ### Is cardiac rehabilitation just exercise?

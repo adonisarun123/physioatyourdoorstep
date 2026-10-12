@@ -247,3 +247,5 @@ Yes. Home-based sessions improve adherence and real-world carryover. We can also
 ### How does this tie in with post-surgical rehab and return-to-play?
 
 We benchmark recovery at milestones and apply sport-specific RTP criteria before clearing return. Learn more here: [Post-surgical rehabilitation](/physiotherapy-in-post-surgical-rehabilitation)
+
+**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy), [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)

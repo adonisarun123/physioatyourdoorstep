@@ -623,6 +623,8 @@ Take control of your health today. Your journey to pain-free living starts with 
 
 *This article is for educational purposes only and should not replace professional medical advice. Always consult with qualified healthcare providers for diagnosis and treatment recommendations specific to your condition.*
 
+**Related reading:** [Cervical Spondylitis Physiotherapy Treatment](/cervical-spondylitis-physiotherapy-treatment)
+
 ## Frequently Asked Questions (FAQs)
 
 ### What is the best treatment for cervical disc prolapse?

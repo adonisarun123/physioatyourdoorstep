@@ -242,6 +242,8 @@ The greatest barrier most patients face is not the disease itself but access to 
 
 ***Disclaimer***: *This article is for educational purposes and does not replace personalized medical or physiotherapy advice. Please consult a qualified pulmonologist and a registered physiotherapist for an individualized assessment and treatment plan.*
 
+**Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy), [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
+
 ## Frequently Asked Questions (FAQ)
 
 ### Can physiotherapy reverse COPD?
