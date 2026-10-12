@@ -66,7 +66,7 @@ We serve Bund Garden Road and its neighbouring localities. Our physiotherapists 
 - **Sadashiv Peth & the old city:** To the south-west, the peth areas around Shaniwar Wada, Shaniwar Peth, Sadashiv Peth and Ganj Peth are also in our service zone.
 - **Yerawada & Kalyani Nagar:** To the east and north-east, neighbourhoods including Yerawada, Kalyani Nagar and the stretch towards Airport Road can book our home service — whether for shoulder rehabilitation after surgery or stroke exercises.
 
-If you live in or around the greater Bund Garden area, even if your locality isn't listed, contact us — our team can often accommodate nearby locations. We aim to make physiotherapy accessible across central Pune without requiring travel.
+If you live in or around the greater Bund Garden area, even if your locality isn't listed, contact us — our team can often accommodate nearby locations. We aim to make physiotherapy accessible across central Pune without requiring travel. We also have dedicated pages for [FC Road](/best-physiotherapist-in-fc-road) and [JM Road](/best-physiotherapist-in-jm-road).
 
 ## Book Your Home Physiotherapy Session Today
 

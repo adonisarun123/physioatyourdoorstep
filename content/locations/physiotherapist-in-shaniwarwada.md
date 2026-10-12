@@ -89,7 +89,7 @@ Our services cover Shaniwarwada and the central Pune neighborhoods around it. If
 - **Kasba Peth & Narayan Peth**: To the south, Kasba and Narayan Peth border Shaniwarwada. We can reach residents in these densely-packed localities. Patients with Marathi Hospital or Raja Dinkar Museum nearby have conveniently gotten home physio from us.
 - **Deccan Gymkhana**: Just across the river, Deccan Gymkhana and Yerawada areas are also covered. If you have relatives or offices in Deccan Gymkhana, they too can book our home service. Avoid the downtown drive – we'll take care of your therapy at home.
 
-Even if your exact street isn't listed, just reach out. We likely cover central Pune's core areas. Our aim is to provide top physiotherapy without leaving your neighborhood.
+Even if your exact street isn't listed, just reach out. We likely cover central Pune's core areas. Our aim is to provide top physiotherapy without leaving your neighborhood. We also have dedicated pages for [FC Road](/best-physiotherapist-in-fc-road) and [JM Road](/best-physiotherapist-in-jm-road).
 
 ## Book a Physiotherapy Session Today
 

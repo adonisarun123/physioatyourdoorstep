@@ -91,7 +91,7 @@ We're proud to serve Kothrud and the surrounding neighborhoods with our home phy
 - **Warje, Bavdhan & Pashan:** To the west and southwest of Kothrud lie Warje, Bavdhan, and Pashan along the Paud Road corridor. These rapidly growing suburbs (near One Mall Ravet and Phursungi Peth) are only a short drive away. We regularly assist patients there with issues like knee arthritis, chronic back pain, stroke recovery, and more – all with home visits. You save time and hassle by getting physio at home in Warje or Bavdhan instead of traveling to a distant clinic.
 - **Parvati, Karve Nagar & Near Deccan:** On the eastern side of Kothrud (toward Deccan Gymkhana and Swargate), we can also provide home service. If you live near Karve Putala, on Deccan's fringes like Ranade Road or Parvati Colony, our physiotherapist will come to your doorstep. We often help patients from these areas who need rehab after surgeries or relief from long hours of commuting.
 
-If your locality isn't listed but is around west Pune, feel free to contact us. Our mission is to make physiotherapy accessible across the Pune area. Even if you live slightly outside of Kothrud (for example, near Hinjewadi, Wakad, or any PCMC suburb), let us know – we will do our best to reach you.
+If your locality isn't listed but is around west Pune, feel free to contact us. Our mission is to make physiotherapy accessible across the Pune area. Even if you live slightly outside of Kothrud (for example, near Hinjewadi, Wakad, or any PCMC suburb), let us know – we will do our best to reach you. We also have dedicated pages for [FC Road](/best-physiotherapist-in-fc-road) and [JM Road](/best-physiotherapist-in-jm-road).
 
 ## Book a Physiotherapy Session Today
 
