@@ -1,6 +1,6 @@
 ---
 title: "Types of Aerobic Training in Physiotherapy: A Complete Evidence-Based Guide"
-date: "2026-10-12"
+date: "2026-09-24"
 metaTitle: "Types of Aerobic Training in Physiotherapy: Evidence-Based Guide"
 metaDescription: "The 8 types of aerobic training used in physiotherapy, how intensity is dosed with FITT, which type suits your condition, and how to progress safely."
 excerpt: "Rehabilitation cardio is not a gym session. Learn the eight types of aerobic training physiotherapists use, how intensity is measured, which type fits your condition, and how to progress safely."

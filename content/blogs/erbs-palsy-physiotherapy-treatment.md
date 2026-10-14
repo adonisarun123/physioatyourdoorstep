@@ -1,6 +1,6 @@
 ---
 title: "Erb's Palsy Physiotherapy Treatment: A Complete, Evidence-Based Guide for Parents"
-date: "2026-10-12"
+date: "2026-10-03"
 metaTitle: "Erb's Palsy Physiotherapy Treatment: Complete Guide for Parents"
 metaDescription: "How Erb's palsy physiotherapy treatment works, from early passive range of motion to CIMT, taping and splinting, with recovery timelines and home exercises."
 excerpt: "Most babies with Erb's palsy regain much of their arm function, and physiotherapy is the biggest factor. This guide explains treatment by stage, home exercises, when surgery is considered, and what the research says."
