@@ -105,7 +105,7 @@ export default function ContactUsPage() {
                                 </div>
 
                                 <a
-                                    href={`https://wa.me/${whatsappNumber}?text=Hi, I would like to know more about your services`}
+                                    href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent("Hi, I would like to know more about your services")}`}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="btn-whatsapp w-full sm:w-auto"

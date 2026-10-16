@@ -12,7 +12,19 @@ const CONTENT_DIR = path.join(process.cwd(), "content");
 
 export interface FaqItem {
     q: string;
+    /** Plain-text answer (used for FAQPage structured data). */
     a: string;
+    /** Original markdown answer (used for on-page rendering, keeps links). */
+    md: string;
+}
+
+/** Strips inline markdown (links, emphasis) down to plain text. */
+function toPlainText(md: string): string {
+    return md
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+        .replace(/(\*\*|__|\*|_)(.+?)\1/g, "$2")
+        .replace(/\s+/g, " ")
+        .trim();
 }
 
 export interface LocationContent {
@@ -116,14 +128,15 @@ function readDir(dir: string): string[] {
 /** Extract "## Frequently Asked Questions" section into structured FAQs. */
 function extractFaqs(md: string): { body: string; faqs: FaqItem[] } {
     const faqs: FaqItem[] = [];
-    const match = md.match(/^##\s+Frequently Asked Questions[^\n]*\n([\s\S]*?)(?=\n##\s(?!#)|$)/im);
+    const match = md.match(/^##[ \t]+Frequently Asked Questions[^\n]*\r?\n([\s\S]*?)(?=\n##[ \t](?!#)|$(?![\s\S]))/im);
     if (!match) return { body: md, faqs };
 
     const section = match[1];
     for (const m of section.matchAll(/###\s+(.+?)\n+([\s\S]*?)(?=\n###\s|$)/g)) {
-        const q = m[1].replace(/\*\*/g, "").trim();
-        const a = m[2].replace(/\n+/g, " ").replace(/\s+/g, " ").trim();
-        if (q && a) faqs.push({ q, a });
+        const q = toPlainText(m[1]);
+        const md = m[2].trim();
+        const a = toPlainText(md);
+        if (q && a) faqs.push({ q, a, md });
     }
     const body = md.replace(match[0], "").trim();
     return { body: faqs.length > 0 ? body : md, faqs };
@@ -235,6 +248,22 @@ export function getAllBlogs(): BlogContent[] {
 
 export function getBlogBySlug(slug: string): BlogContent | undefined {
     return getAllBlogs().find((b) => b.slug === slug);
+}
+
+/**
+ * Picks `count` neighbours of `slug` from `items`, wrapping around the list.
+ * Unlike "first N", every item ends up linked from N others, so internal
+ * links are spread evenly instead of piling onto the same few pages.
+ */
+export function pickNeighbours<T extends { slug: string }>(items: T[], slug: string, count: number): T[] {
+    const start = Math.max(0, items.findIndex((i) => i.slug === slug));
+    return pickWindow(items.filter((i) => i.slug !== slug), start, count);
+}
+
+/** Returns `count` items starting at `start`, wrapping around the list. */
+export function pickWindow<T>(items: T[], start: number, count: number): T[] {
+    if (items.length <= count) return items;
+    return Array.from({ length: count }, (_, k) => items[(start + k) % items.length]);
 }
 
 export function getBlogsByCategory(categorySlug: string): BlogContent[] {

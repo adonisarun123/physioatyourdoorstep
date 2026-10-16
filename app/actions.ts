@@ -110,11 +110,9 @@ function optionalField(formData: FormData, key: string): string | undefined {
  * Builds a booking reference like "PYD-2607201234" — the IST date (YYMMDD)
  * plus four random digits.
  *
- * Previously this was the database row id, which made it sequential and
- * unique. Without a database it is only a human handle for phone/WhatsApp
- * follow-ups, so same-day collisions (~1 in 10,000) are acceptable. The
- * digits-only shape keeps the /^PYD-\d{1,10}$/ guard on the thank-you page
- * working unchanged.
+ * It is a human-friendly handle for phone/WhatsApp follow-ups, so same-day
+ * collisions (~1 in 10,000) are acceptable. The digits-only shape matches the
+ * /^PYD-\d{1,10}$/ guard on the thank-you page.
  */
 function makeBookingReference(): string {
     // en-CA gives YYYY-MM-DD, which slices cleanly into YYMMDD.

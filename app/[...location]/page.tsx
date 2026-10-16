@@ -13,11 +13,16 @@ import {
     getAllServiceAreas,
     getServiceAreaBySlug,
     getServiceAreasByArea,
+    getAllBlogs,
+    pickNeighbours,
+    pickWindow,
 } from "@/lib/content";
+import BlogCard from "@/components/BlogCard";
 import { MapPin, ArrowRight, Calendar, MessageCircle, Phone, ShieldCheck, Home, Clock, Check } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import FaqAnswer from "@/components/FaqAnswer";
 
 export async function generateStaticParams() {
     const locations = await getAllLocations();
@@ -73,9 +78,15 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
         );
     }
 
-    const nearbyLocations = getAllLocations()
-        .filter((l) => l.city === locationData.city && l.slug !== locationData.slug)
-        .slice(0, 6);
+    const allLocations = getAllLocations();
+    const nearbyLocations = pickNeighbours(
+        allLocations.filter((l) => l.city === locationData.city),
+        locationData.slug,
+        8
+    );
+    // Rotate through the blog archive so each location surfaces different articles.
+    const locationIndex = allLocations.findIndex((l) => l.slug === locationData.slug);
+    const relatedBlogs = pickWindow(getAllBlogs(), Math.max(0, locationIndex) * 3, 3);
     const services = getAllServices();
     // If this area has its own localised service pages, link to those instead of
     // the global service pages — they are the more relevant next click.
@@ -150,7 +161,7 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                                             {locationData.faqs.map((faq, index) => (
                                                 <div key={index} className="card-physio">
                                                     <h3 className="text-lg font-semibold text-[#1F2933] mb-2">{faq.q}</h3>
-                                                    <p className="text-[#4B5563] leading-relaxed">{faq.a}</p>
+                                                    <FaqAnswer>{faq.md}</FaqAnswer>
                                                 </div>
                                             ))}
                                         </div>
@@ -231,7 +242,7 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                     <section className="section bg-[#EEEEF7]/40">
                         <div className="container max-w-4xl">
                             <h2 className="heading-subsection mb-6">
-                                Physiotherapy in Other {locationData.city} Areas
+                                Physiotherapy in Nearby {locationData.city} Areas
                             </h2>
                             <div className="flex flex-wrap gap-3">
                                 {nearbyLocations.map((l) => (
@@ -243,6 +254,26 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                                         <MapPin className="h-4 w-4" /> {l.area}
                                     </Link>
                                 ))}
+                            </div>
+                            <Link href="/locations" className="mt-6 inline-flex items-center gap-1 text-sm font-medium text-[#E31E24]">
+                                All areas we serve <ArrowRight className="h-4 w-4" />
+                            </Link>
+                        </div>
+                    </section>
+                )}
+
+                {/* Related reading */}
+                {relatedBlogs.length > 0 && (
+                    <section className="section bg-white">
+                        <div className="container">
+                            <h2 className="heading-subsection mb-8 text-center">Helpful Reads from Our Physiotherapists</h2>
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                                {relatedBlogs.map((blog) => (
+                                    <BlogCard key={blog.slug} blog={blog} />
+                                ))}
+                            </div>
+                            <div className="text-center mt-8">
+                                <Link href="/blogs" className="btn-secondary">View All Articles</Link>
                             </div>
                         </div>
                     </section>
@@ -257,7 +288,7 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <Link href="/booking" className="btn-primary">Book Appointment</Link>
-                            <a href="tel:+918233787737" className="btn-secondary">Call +91 82337 87737</a>
+                            <a href={`tel:${SITE.phoneRaw}`} className="btn-secondary">Call {SITE.phone}</a>
                         </div>
                     </div>
                 </section>

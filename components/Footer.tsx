@@ -1,6 +1,7 @@
 import { Mail, MapPin, Phone, Clock, Linkedin, Instagram, Youtube, MessageCircle } from "lucide-react";
 import Link from "next/link";
 import { SITE } from "@/lib/seo";
+import { getAllServices } from "@/lib/content";
 
 const quickLinks = [
   { name: "About Us", href: "/about-us" },
@@ -14,14 +15,7 @@ const quickLinks = [
   { name: "Book an Appointment", href: "/booking" },
 ];
 
-const footerServices = [
-  { name: "Orthopaedic Physiotherapy", href: "/service/orthopaedic-physiotherapy" },
-  { name: "Neurological Physiotherapy", href: "/service/neurological-physiotherapy" },
-  { name: "Sports Physiotherapy", href: "/service/sports-physiotherapy" },
-  { name: "Post Surgical Physiotherapy", href: "/service/post-surgical-physiotherapy" },
-  { name: "Geriatric Physiotherapy", href: "/service/geriatric-physiotherapy" },
-  { name: "Physiotherapy in Pregnancy", href: "/service/physiotherapy-in-pregnancy" },
-];
+const footerServices = getAllServices().map((s) => ({ name: s.title, href: `/service/${s.slug}` }));
 
 const socials = [
   // Each icon uses the platform's official brand colour.
@@ -35,7 +29,7 @@ const socials = [
   { name: "YouTube", href: SITE.socials.youtube, icon: Youtube, bg: "bg-[#FF0000]" },
   {
     name: "WhatsApp",
-    href: "https://wa.me/918233787737?text=Hi, I would like to book a physiotherapy session",
+    href: `https://wa.me/${SITE.phoneRaw.replace("+", "")}?text=${encodeURIComponent("Hi, I would like to book a physiotherapy session")}`,
     icon: MessageCircle,
     bg: "bg-[#25D366]",
   },

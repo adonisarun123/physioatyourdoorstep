@@ -6,8 +6,9 @@ import { headers } from "next/headers";
  * - Time-trap: submissions faster than a human could type are rejected.
  * - Rate limit: in-memory sliding window keyed by client IP.
  *
- * Note: the rate limiter is per-process. That's sufficient for a single
- * Railway instance; if the app is scaled horizontally, move this to Redis.
+ * The rate limiter is per server instance. On serverless hosting each warm
+ * instance keeps its own window, so treat it as a soft limit; move it to a
+ * shared store (e.g. Redis) if stricter limits are needed.
  */
 
 // Hidden field names shared with the client forms.

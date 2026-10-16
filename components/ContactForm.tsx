@@ -10,7 +10,7 @@ import HoneypotFields from "@/components/HoneypotFields";
 import { EMAIL_ERROR, MAX_LEN, PHONE_ERROR, isValidEmail, normalizeIndianMobile } from "@/lib/validation";
 import { AlertCircle, CheckCircle2, MessageCircle } from "lucide-react";
 import { useState, useTransition } from "react";
-import { toast } from "sonner";
+import { Toaster, toast } from "sonner";
 
 type FieldErrors = Partial<Record<"name" | "email" | "phone" | "message", string>>;
 
@@ -102,120 +102,123 @@ export function ContactForm() {
     };
 
     return (
-        <Card>
-            <CardHeader>
-                <CardTitle>Send us a Message</CardTitle>
-                <CardDescription>
-                    Fill out the form below and we'll get back to you as soon as possible
-                </CardDescription>
-            </CardHeader>
-            <CardContent>
-                <form onSubmit={handleSubmit} className="space-y-6" noValidate>
-                    <HoneypotFields />
+        <>
+            <Toaster richColors position="top-center" />
+            <Card>
+                <CardHeader>
+                    <CardTitle>Send us a Message</CardTitle>
+                    <CardDescription>
+                        Fill out the form below and we'll get back to you as soon as possible
+                    </CardDescription>
+                </CardHeader>
+                <CardContent>
+                    <form onSubmit={handleSubmit} className="space-y-6" noValidate>
+                        <HoneypotFields />
 
-                    {serverError && (
-                        <div role="alert" className="rounded-xl border border-red-300 bg-red-50 p-4">
-                            <div className="flex items-start gap-2 text-sm font-medium text-red-700">
-                                <AlertCircle className="h-5 w-5 flex-shrink-0" />
-                                <span>{serverError}</span>
+                        {serverError && (
+                            <div role="alert" className="rounded-xl border border-red-300 bg-red-50 p-4">
+                                <div className="flex items-start gap-2 text-sm font-medium text-red-700">
+                                    <AlertCircle className="h-5 w-5 flex-shrink-0" />
+                                    <span>{serverError}</span>
+                                </div>
+                                <a
+                                    href={whatsappHref()}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
+                                >
+                                    <MessageCircle className="h-4 w-4" /> Send on WhatsApp instead
+                                </a>
                             </div>
-                            <a
-                                href={whatsappHref()}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
-                            >
-                                <MessageCircle className="h-4 w-4" /> Send on WhatsApp instead
-                            </a>
+                        )}
+                        {submitted && (
+                            <div role="status" className="flex items-start gap-2 rounded-xl border border-green-300 bg-green-50 p-4 text-sm font-medium text-green-700">
+                                <CheckCircle2 className="h-5 w-5 flex-shrink-0" />
+                                <span>Message sent successfully! We&apos;ll get back to you soon.</span>
+                            </div>
+                        )}
+
+                        <div>
+                            <Label htmlFor="name">Full Name *</Label>
+                            <Input
+                                id="name"
+                                name="name"
+                                value={formData.name}
+                                onChange={(e) => { setFormData({ ...formData, name: e.target.value }); clearError("name"); }}
+                                placeholder="Enter your full name"
+                                maxLength={MAX_LEN.name}
+                                aria-invalid={!!errors.name}
+                                className={errors.name ? "input-error" : ""}
+                            />
+                            {errors.name && <p className="form-error" role="alert">{errors.name}</p>}
                         </div>
-                    )}
-                    {submitted && (
-                        <div role="status" className="flex items-start gap-2 rounded-xl border border-green-300 bg-green-50 p-4 text-sm font-medium text-green-700">
-                            <CheckCircle2 className="h-5 w-5 flex-shrink-0" />
-                            <span>Message sent successfully! We&apos;ll get back to you soon.</span>
+
+                        <div>
+                            <Label htmlFor="email">Email Address *</Label>
+                            <Input
+                                id="email"
+                                name="email"
+                                type="email"
+                                value={formData.email}
+                                onChange={(e) => { setFormData({ ...formData, email: e.target.value }); clearError("email"); }}
+                                placeholder="your.email@example.com"
+                                maxLength={MAX_LEN.email}
+                                aria-invalid={!!errors.email}
+                                className={errors.email ? "input-error" : ""}
+                            />
+                            {errors.email && <p className="form-error" role="alert">{errors.email}</p>}
                         </div>
-                    )}
 
-                    <div>
-                        <Label htmlFor="name">Full Name *</Label>
-                        <Input
-                            id="name"
-                            name="name"
-                            value={formData.name}
-                            onChange={(e) => { setFormData({ ...formData, name: e.target.value }); clearError("name"); }}
-                            placeholder="Enter your full name"
-                            maxLength={MAX_LEN.name}
-                            aria-invalid={!!errors.name}
-                            className={errors.name ? "input-error" : ""}
-                        />
-                        {errors.name && <p className="form-error" role="alert">{errors.name}</p>}
-                    </div>
+                        <div>
+                            <Label htmlFor="phone">Phone Number</Label>
+                            <Input
+                                id="phone"
+                                name="phone"
+                                type="tel"
+                                value={formData.phone}
+                                onChange={(e) => { setFormData({ ...formData, phone: e.target.value }); clearError("phone"); }}
+                                placeholder="+91 98765 43210"
+                                maxLength={MAX_LEN.phone}
+                                aria-invalid={!!errors.phone}
+                                className={errors.phone ? "input-error" : ""}
+                            />
+                            {errors.phone && <p className="form-error" role="alert">{errors.phone}</p>}
+                        </div>
 
-                    <div>
-                        <Label htmlFor="email">Email Address *</Label>
-                        <Input
-                            id="email"
-                            name="email"
-                            type="email"
-                            value={formData.email}
-                            onChange={(e) => { setFormData({ ...formData, email: e.target.value }); clearError("email"); }}
-                            placeholder="your.email@example.com"
-                            maxLength={MAX_LEN.email}
-                            aria-invalid={!!errors.email}
-                            className={errors.email ? "input-error" : ""}
-                        />
-                        {errors.email && <p className="form-error" role="alert">{errors.email}</p>}
-                    </div>
+                        <div>
+                            <Label htmlFor="subject">Subject</Label>
+                            <Input
+                                id="subject"
+                                name="subject"
+                                value={formData.subject}
+                                onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
+                                placeholder="What is this regarding?"
+                                maxLength={MAX_LEN.subject}
+                            />
+                        </div>
 
-                    <div>
-                        <Label htmlFor="phone">Phone Number</Label>
-                        <Input
-                            id="phone"
-                            name="phone"
-                            type="tel"
-                            value={formData.phone}
-                            onChange={(e) => { setFormData({ ...formData, phone: e.target.value }); clearError("phone"); }}
-                            placeholder="+91 98765 43210"
-                            maxLength={MAX_LEN.phone}
-                            aria-invalid={!!errors.phone}
-                            className={errors.phone ? "input-error" : ""}
-                        />
-                        {errors.phone && <p className="form-error" role="alert">{errors.phone}</p>}
-                    </div>
+                        <div>
+                            <Label htmlFor="message">Message *</Label>
+                            <Textarea
+                                id="message"
+                                name="message"
+                                value={formData.message}
+                                onChange={(e) => { setFormData({ ...formData, message: e.target.value }); clearError("message"); }}
+                                placeholder="Tell us how we can help you"
+                                maxLength={MAX_LEN.message}
+                                rows={6}
+                                aria-invalid={!!errors.message}
+                                className={errors.message ? "input-error" : ""}
+                            />
+                            {errors.message && <p className="form-error" role="alert">{errors.message}</p>}
+                        </div>
 
-                    <div>
-                        <Label htmlFor="subject">Subject</Label>
-                        <Input
-                            id="subject"
-                            name="subject"
-                            value={formData.subject}
-                            onChange={(e) => setFormData({ ...formData, subject: e.target.value })}
-                            placeholder="What is this regarding?"
-                            maxLength={MAX_LEN.subject}
-                        />
-                    </div>
-
-                    <div>
-                        <Label htmlFor="message">Message *</Label>
-                        <Textarea
-                            id="message"
-                            name="message"
-                            value={formData.message}
-                            onChange={(e) => { setFormData({ ...formData, message: e.target.value }); clearError("message"); }}
-                            placeholder="Tell us how we can help you"
-                            maxLength={MAX_LEN.message}
-                            rows={6}
-                            aria-invalid={!!errors.message}
-                            className={errors.message ? "input-error" : ""}
-                        />
-                        {errors.message && <p className="form-error" role="alert">{errors.message}</p>}
-                    </div>
-
-                    <Button type="submit" className="w-full" size="lg" disabled={isPending}>
-                        {isPending ? "Sending..." : "Send Message"}
-                    </Button>
-                </form>
-            </CardContent>
-        </Card>
+                        <Button type="submit" className="w-full" size="lg" disabled={isPending}>
+                            {isPending ? "Sending..." : "Send Message"}
+                        </Button>
+                    </form>
+                </CardContent>
+            </Card>
+        </>
     );
 }
