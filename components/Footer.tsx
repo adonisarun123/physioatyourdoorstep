@@ -9,6 +9,7 @@ const quickLinks = [
   { name: "Blogs", href: "/blogs" },
   { name: "Media Coverage", href: "/media-coverage" },
   { name: "Videos", href: "/videos" },
+  { name: "Gallery", href: "/gallery" },
   { name: "Careers", href: "/careers" },
   { name: "Locations", href: "/locations" },
   { name: "Contact Us", href: "/contact-us" },
