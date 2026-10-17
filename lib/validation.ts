@@ -2,9 +2,8 @@
  * Shared form-validation helpers used by BOTH the client forms and the
  * server actions, so the two layers can never drift apart.
  *
- * Max lengths are enforced on both sides purely to keep submissions (and the
- * notification emails they become) a sane size — they no longer mirror any
- * database column, since submissions are delivered by email only.
+ * Max lengths are enforced on both sides to keep submissions (and the
+ * notification emails they become) a sensible size.
  */
 
 export const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;

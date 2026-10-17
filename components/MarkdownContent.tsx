@@ -1,10 +1,10 @@
-"use client";
-
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import Link from 'next/link';
 import { cn } from '@/lib/utils';
+
+const SITE_ORIGIN = /^https?:\/\/(www\.)?physioatyourdoorstep\.com/i;
 
 interface MarkdownComponentsProps {
     children: string;
@@ -62,14 +62,21 @@ export function MarkdownContent({ children, className }: MarkdownComponentsProps
                     hr: () => (
                         <hr className="my-12 border-border" />
                     ),
-                    a: ({ href, children }) => (
-                        <Link
-                            href={href || '#'}
-                            className="text-primary hover:text-primary/80 underline underline-offset-4"
-                        >
-                            {children}
-                        </Link>
-                    ),
+                    a: ({ href = "", children }) => {
+                        const className = "text-primary hover:text-primary/80 underline underline-offset-4";
+                        const internal = href.replace(SITE_ORIGIN, "") || "/";
+                        if (internal.startsWith("/")) {
+                            return <Link href={internal} className={className}>{children}</Link>;
+                        }
+                        if (/^https?:\/\//i.test(href)) {
+                            return (
+                                <a href={href} target="_blank" rel="noopener noreferrer" className={className}>
+                                    {children}
+                                </a>
+                            );
+                        }
+                        return <a href={href} className={className}>{children}</a>;
+                    },
                     blockquote: ({ children }) => (
                         <blockquote className="border-l-4 border-primary pl-6 py-2 my-6 italic text-muted-foreground bg-muted/50 rounded-r">
                             {children}

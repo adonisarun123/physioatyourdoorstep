@@ -8,8 +8,8 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import { serviceSchema, faqSchema, SITE } from "@/lib/seo";
 import { getServiceMarkdown } from "@/lib/markdown";
-import { getAllServices, getServiceFile, getBlogsByCategory } from "@/lib/content";
-import { ArrowRight, Calendar, Check, Clock, Home, MessageCircle, Phone, ShieldCheck } from "lucide-react";
+import { getAllServices, getServiceFile, getBlogsByCategory, getAllLocations, getAllServiceAreas } from "@/lib/content";
+import { ArrowRight, Calendar, Check, Clock, Home, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -75,6 +75,11 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
     const summary = allServices.find((s) => s.slug === slug);
     const otherServices = allServices.filter((s) => s.slug !== slug).slice(0, 6);
     const relatedBlogs = getBlogsByCategory(SERVICE_TO_CATEGORY[slug] ?? "physiotherapy").slice(0, 3);
+    const localPages = getAllServiceAreas().filter((sa) => sa.service === slug);
+    const locationsByCity = getAllLocations().reduce<Record<string, { slug: string; area: string }[]>>((acc, l) => {
+        (acc[l.city] ??= []).push({ slug: l.slug, area: l.area });
+        return acc;
+    }, {});
 
     const whatsappHref = `https://wa.me/${SITE.phoneRaw.replace("+", "")}?text=${encodeURIComponent(
         `Hi, I would like to book a ${serviceContent.title} session at home.`
@@ -220,6 +225,45 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                                 </div>
                             </aside>
                         </div>
+                    </div>
+                </section>
+
+                {/* Areas served */}
+                <section className="section bg-white border-t border-[#EEEEF7]">
+                    <div className="container max-w-5xl">
+                        <h2 className="heading-subsection mb-3">{shortTitle} at Home Near You</h2>
+                        <p className="text-[#4B5563] mb-8">
+                            Our physiotherapists visit homes across these areas. Pick yours for local details and availability.
+                        </p>
+                        {localPages.length > 0 && (
+                            <div className="mb-8 flex flex-wrap gap-3">
+                                {localPages.map((sa) => (
+                                    <Link
+                                        key={sa.slug}
+                                        href={`/${sa.slug}`}
+                                        className="inline-flex items-center gap-1.5 rounded-full bg-[#3B3B6D] px-4 py-2 text-sm font-medium text-white hover:bg-[#2A2A57] transition-colors"
+                                    >
+                                        <MapPin className="h-4 w-4" /> {sa.serviceName} in {sa.area}
+                                    </Link>
+                                ))}
+                            </div>
+                        )}
+                        {Object.entries(locationsByCity).map(([city, areas]) => (
+                            <div key={city} className="mb-6">
+                                <h3 className="font-semibold text-[#1F2933] mb-3">{city}</h3>
+                                <div className="flex flex-wrap gap-2">
+                                    {areas.map((l) => (
+                                        <Link
+                                            key={l.slug}
+                                            href={`/${l.slug}`}
+                                            className="rounded-full bg-[#EEEEF7] px-3 py-1.5 text-sm text-[#3B3B6D] hover:bg-[#DCDCEC] transition-colors"
+                                        >
+                                            {l.area}
+                                        </Link>
+                                    ))}
+                                </div>
+                            </div>
+                        ))}
                     </div>
                 </section>
 

@@ -1,6 +1,6 @@
 ---
 title: "Ortho and Neuro Physiotherapy: A Complete Guide to Conditions, Treatment and Home Recovery"
-date: "2026-10-12"
+date: "2026-09-30"
 metaTitle: "Ortho and Neuro Physiotherapy: Conditions, Treatment and Home Care"
 metaDescription: "What ortho and neuro physiotherapy treat, how they differ and overlap, what research says, and how home rehab works for fractures, stroke and nerve injury."
 excerpt: "Orthopaedic physiotherapy treats bones, joints and muscles; neurological physiotherapy retrains movement after brain, spinal cord or nerve damage. Here is how each works, where they overlap, and what to expect from home care."

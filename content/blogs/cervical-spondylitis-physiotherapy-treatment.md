@@ -1,6 +1,6 @@
 ---
 title: "Cervical Spondylitis Physiotherapy Treatment: Causes, Exercises and Recovery Guide"
-date: "2026-10-12"
+date: "2026-10-09"
 metaTitle: "Cervical Spondylitis Physiotherapy Treatment: Exercises and Recovery"
 metaDescription: "Cervical spondylitis physiotherapy treatment explained: causes, red flags, assessment, evidence-based exercises and a realistic recovery timeline at home."
 excerpt: "Most neck pain from cervical spondylosis improves without surgery. This guide covers red flags, how physiotherapists assess the neck, the exercises with research support, and what a 6 to 12 week recovery looks like."

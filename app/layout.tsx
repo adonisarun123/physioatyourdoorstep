@@ -1,6 +1,4 @@
 import type { Metadata } from "next";
-import { ThemeProvider } from "next-themes";
-import { TooltipProvider } from "@/components/ui/tooltip";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import JsonLd from "@/components/JsonLd";
 import { organizationSchema, websiteSchema, localBusinessSchema } from "@/lib/seo";
@@ -45,20 +43,11 @@ export default function RootLayout({
     children: React.ReactNode;
 }>) {
     return (
-        <html lang="en" suppressHydrationWarning>
+        <html lang="en-IN">
             <body>
                 <JsonLd data={[organizationSchema(), websiteSchema(), localBusinessSchema()]} />
                 <GoogleAnalytics />
-                <ThemeProvider
-                    attribute="class"
-                    defaultTheme="light"
-                    enableSystem={false}
-                    disableTransitionOnChange
-                >
-                    <TooltipProvider>
-                        {children}
-                    </TooltipProvider>
-                </ThemeProvider>
+                {children}
             </body>
         </html>
     );

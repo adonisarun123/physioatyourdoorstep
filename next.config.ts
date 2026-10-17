@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Enable experimental features if needed
   experimental: {
-    // Enable server actions
     serverActions: {
       // Raised for the careers CV upload (3 MB cap enforced in app/actions.ts).
       // Must stay under Vercel's ~4.5 MB request-body ceiling.
@@ -15,16 +13,15 @@ const nextConfig: NextConfig = {
   // and let Next generate right-sized responsive variants.
   images: {
     formats: ['image/avif', 'image/webp'],
+    // Only hosts that actually serve site images; an open wildcard would let
+    // anyone use the image optimizer as a free proxy.
     remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: '**',
-      },
+      { protocol: 'https', hostname: 'ik.imagekit.io' },
     ],
   },
 
-  // Enable strict mode
   reactStrictMode: true,
+  poweredByHeader: false,
 
   // Canonical-host enforcement: every alternate host 308s to www so search
   // engines see exactly one indexable origin. (Vercel also redirects the apex

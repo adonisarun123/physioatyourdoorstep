@@ -6,7 +6,7 @@ export interface ServiceContent {
     title: string;
     content: string;
     faqs: Array<{ question: string; answer: string }>;
-    schema?: any;
+    schema?: unknown;
 }
 
 export async function getServiceMarkdown(slug: string): Promise<ServiceContent | null> {
@@ -25,7 +25,7 @@ export async function getServiceMarkdown(slug: string): Promise<ServiceContent |
         const title = titleMatch ? titleMatch[1] : slug.replace(/-/g, ' ');
 
         // Extract FAQs section
-        const faqSection = content.match(/##\s+Frequently Asked Questions.*?\n([\s\S]*?)(?=\n##|\n```|$)/i);
+        const faqSection = content.match(/^##[ \t]+Frequently Asked Questions[^\n]*\n([\s\S]*?)(?=\n##[ \t](?!#)|\n```|$(?![\s\S]))/im);
         const faqs: Array<{ question: string; answer: string }> = [];
 
         if (faqSection) {
@@ -33,10 +33,8 @@ export async function getServiceMarkdown(slug: string): Promise<ServiceContent |
             const faqMatches = faqContent.matchAll(/###\s+(.+?)\n(.+?)(?=\n###|\n\n##|$)/gs);
 
             for (const match of faqMatches) {
-                faqs.push({
-                    question: match[1].trim(),
-                    answer: match[2].trim()
-                });
+                const answer = match[2].replace(/\n+-{3,}\s*$/, "").trim();
+                if (answer) faqs.push({ question: match[1].trim(), answer });
             }
         }
 

@@ -1,6 +1,6 @@
 ---
 title: "Agonist and Antagonist in Physiotherapy: A Complete, Evidence-Based Guide"
-date: "2026-10-12"
+date: "2026-09-27"
 metaTitle: "Agonist and Antagonist in Physiotherapy: Complete Guide"
 metaDescription: "Agonist and antagonist muscles in physiotherapy: how reciprocal inhibition works, common muscle pairs, and why their balance shapes rehab and recovery."
 excerpt: "Every joint moves through a pair of muscles working in opposition. Here is what agonist and antagonist muscles are, how reciprocal inhibition works, and why their balance decides pain, posture and recovery."

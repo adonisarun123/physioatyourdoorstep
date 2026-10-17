@@ -1,5 +1,3 @@
-"use client";
-
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Phone } from "lucide-react";
 
@@ -21,7 +19,7 @@ export default function CTABar() {
         </Button>
         <Button className="flex-1" asChild>
           <a
-            href={`https://wa.me/${whatsappNumber}?text=Hi, I would like to book a physiotherapy session`}
+            href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent("Hi, I would like to book a physiotherapy session")}`}
             target="_blank"
             rel="noopener noreferrer"
           >

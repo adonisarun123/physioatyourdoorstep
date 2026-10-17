@@ -15,6 +15,7 @@ import {
     Check,
 } from "lucide-react";
 import Link from "next/link";
+import FaqAnswer from "@/components/FaqAnswer";
 
 /**
  * Template for a service x area page — one global service localised to one
@@ -93,7 +94,7 @@ export default function ServiceAreaPage({ data }: { data: ServiceAreaContent }) 
                                         {data.faqs.map((faq, index) => (
                                             <div key={index} className="card-physio">
                                                 <h3 className="text-lg font-semibold text-[#1F2933] mb-2">{faq.q}</h3>
-                                                <p className="text-[#4B5563] leading-relaxed">{faq.a}</p>
+                                                <FaqAnswer>{faq.md}</FaqAnswer>
                                             </div>
                                         ))}
                                     </div>

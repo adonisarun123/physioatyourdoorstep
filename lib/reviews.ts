@@ -1,9 +1,9 @@
 /**
  * Google Reviews data for the "Google Reviews" section.
  *
- * Rating, count, review texts and photos were pulled from the live Google
- * Business listing ("Physio At Your Doorstep - Bangalore") on 2026-07-11.
- * Update `rating` / `count` here whenever they change on Google.
+ * Rating, count, review texts and photos come from the Google Business
+ * listing ("Physio At Your Doorstep - Bangalore"). Update `rating` / `count`
+ * here (and SITE.rating / SITE.reviewCount in lib/seo.ts) when they change.
  */
 import { SITE } from "@/lib/seo";
 

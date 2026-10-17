@@ -65,12 +65,11 @@ function dedupe(addresses: string[]): string[] {
  * SMTP settings, accepting BOTH env naming conventions so a rename in the
  * Vercel dashboard can't silently break mail:
  *   SMTP_USER / SMTP_PASS / SMTP_HOST / SMTP_PORT   (generic names)
- *   GMAIL_USER / GMAIL_APP_PASSWORD                 (original names)
+ *   GMAIL_USER / GMAIL_APP_PASSWORD                 (Gmail names)
  *
  * Recipients: NOTIFICATION_EMAIL *and* ADMIN_EMAIL both receive every
- * notification — they are additive, not alternatives. (They used to be
- * `NOTIFICATION_EMAIL || ADMIN_EMAIL`, which silently dropped ADMIN_EMAIL
- * whenever both were set.) Either var may hold a comma-separated list.
+ * notification — they are additive, not alternatives. Either var may hold
+ * a comma-separated list.
  * If neither is set, mail goes to the sending account.
  */
 export function smtpConfig() {
@@ -152,8 +151,7 @@ const DEFAULT_BCC = "arun@monkmantra.com";
  * Last-resort record of a submission whose email could not be delivered.
  * With no database this log line is the only remaining copy of the enquiry,
  * so it is written as a single greppable JSON blob:
- *   Vercel  → Project → Logs, search "LOST SUBMISSION"
- *   Railway → Deployments → Logs, same search
+ *   Vercel → Project → Logs, search "LOST SUBMISSION"
  */
 function logLostSubmission(kind: "booking" | "contact" | "application", payload: Record<string, unknown>): void {
     console.error(

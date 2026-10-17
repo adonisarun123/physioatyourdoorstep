@@ -349,7 +349,7 @@ export default function CareersPage() {
                                     <Phone className="h-4 w-4" /> {SITE.phone}
                                 </a>
                                 <a
-                                    href="https://wa.me/918233787737?text=Hi, I'm a physiotherapist interested in working with Physio At Your Doorstep."
+                                    href={`https://wa.me/918233787737?text=${encodeURIComponent("Hi, I'm a physiotherapist interested in working with Physio At Your Doorstep.")}`}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="btn-secondary"
