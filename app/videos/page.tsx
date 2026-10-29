@@ -14,7 +14,7 @@ import {
     thumbnailUrl,
     watchUrl,
 } from "@/lib/videos";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, isoDateTimeIST } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -56,7 +56,7 @@ const collectionSchema = {
                 name: v.title,
                 description: v.description,
                 thumbnailUrl: [thumbnailUrl(v.id)],
-                uploadDate: v.uploadDate,
+                uploadDate: isoDateTimeIST(v.uploadDate),
                 duration: isoDuration(v.seconds),
                 contentUrl: watchUrl(v),
                 embedUrl: `https://www.youtube.com/embed/${v.id}`,

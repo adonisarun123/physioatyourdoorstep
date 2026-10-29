@@ -7,7 +7,7 @@ import EventGallery, { EventVideo } from "@/components/EventGallery";
 import Link from "next/link";
 import { Briefcase, Building2, Calendar, Camera, Images, MapPin, Phone, Sparkles, Video } from "lucide-react";
 import { GALLERY_EVENTS, GALLERY_TOTALS } from "@/lib/gallery";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, isoDateTimeIST } from "@/lib/seo";
 import type { Metadata } from "next";
 
 const lead = GALLERY_EVENTS[0];
@@ -58,7 +58,7 @@ const gallerySchema = {
                       description: e.video.description,
                       contentUrl: absoluteUrl(e.video.src),
                       thumbnailUrl: absoluteUrl(e.video.poster),
-                      uploadDate: e.dateISO,
+                      uploadDate: isoDateTimeIST(e.dateISO),
                       duration: e.video.duration,
                   },
               }

@@ -25,6 +25,15 @@ export const SITE = {
     googleReviews: "https://share.google/XntoRQjyiP56KBl0I",
 } as const;
 
+/**
+ * Full ISO-8601 datetime with an IST offset. Google requires a timezone on
+ * VideoObject.uploadDate — a bare "YYYY-MM-DD" is flagged in Search Console as
+ * "uploadDate is missing a timezone" / "Invalid datetime value".
+ */
+export function isoDateTimeIST(date: string): string {
+    return /T\d/.test(date) ? date : `${date}T00:00:00+05:30`;
+}
+
 /** Absolute URL from a site-relative path. */
 export function absoluteUrl(path = "/"): string {
     if (path.startsWith("http")) return path;
