@@ -1,7 +1,7 @@
 ---
 title: "CTEV Post-Surgery Physiotherapy: Clubfoot Recovery Guide"
 date: "2025-10-23"
-metaTitle: "CTEV Post-Surgery Physiotherapy: Clubfoot Recovery Guide | Physio At Your Doorstep"
+metaTitle: "CTEV Post-Surgery Physiotherapy: Clubfoot Recovery Guide"
 metaDescription: "When your child undergoes surgery for congenital talipes equinovarus (CTEV), commonly known as clubfoot, the journey to full recovery is just beginning. While s"
 excerpt: "When your child undergoes surgery for congenital talipes equinovarus (CTEV), commonly known as clubfoot, the journey to full recovery is just beginning. While surgical correction addresses the structural deformity, post-surgical physiotherapy is the cornerstone of successful long-term outcomes. With"
 coverImage: "/images/blog/new-project-2-1.jpg"

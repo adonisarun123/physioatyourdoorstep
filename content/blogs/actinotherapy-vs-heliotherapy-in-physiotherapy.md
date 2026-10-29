@@ -1,8 +1,8 @@
 ---
 title: "Actinotherapy vs Heliotherapy in Physiotherapy: Key Differences, Uses, and Which One Is Right for You"
 date: "2026-07-27"
-metaTitle: "Actinotherapy vs Heliotherapy in Physiotherapy: Key Differences"
-metaDescription: "Actinotherapy vs heliotherapy in physiotherapy explained: how each light-based therapy works, their uses, contraindications, and which one a physiotherapist recommends."
+metaTitle: "Actinotherapy vs Heliotherapy in Physiotherapy: Differences"
+metaDescription: "Actinotherapy vs heliotherapy in physiotherapy: how each light therapy works, their uses and contraindications, and which a physiotherapist recommends."
 excerpt: "Actinotherapy and heliotherapy both use light to trigger healing, but they are not the same treatment. Here is how each works, a side-by-side comparison of their uses and contraindications, and how a physiotherapist decides which is right for you."
 coverImage: "https://ik.imagekit.io/adonisarun/Physio%20At%20Your%20Doorstep/actinotherapy-vs-heliotherapy.jpeg"
 category: "Physiotherapy"

@@ -1,7 +1,7 @@
 ---
 title: "Geriatric Physiotherapy Rehabilitation | Healthy Aging Guide"
 date: "2025-11-26"
-metaTitle: "Geriatric Physiotherapy Rehabilitation | Healthy Aging Guide | Physio At Your Doorstep"
+metaTitle: "Geriatric Physiotherapy Rehabilitation | Healthy Aging Guide"
 metaDescription: "Aging is a natural process, but the physical changes that accompany it can significantly impact quality of life and independence. For many seniors in Bangalore "
 excerpt: "Aging is a natural process, but the physical changes that accompany it can significantly impact quality of life and independence. For many seniors in Bangalore and beyond, conditions like arthritis, reduced mobility, balance issues, and post-surgical recovery become daily challenges. This is where g"
 coverImage: "/images/blog/new-project-9.jpg"

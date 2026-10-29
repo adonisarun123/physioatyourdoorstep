@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Kudlu, Bangalore | Home Physiotherapy Services"
 city: "Bangalore"
 area: "Kudlu"
-metaTitle: "Best Physiotherapist in Kudlu, Bangalore | Home Physiotherapy Services | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Kudlu, Bangalore | Home Visits"
 metaDescription: "Expert home physiotherapy in Kudlu, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

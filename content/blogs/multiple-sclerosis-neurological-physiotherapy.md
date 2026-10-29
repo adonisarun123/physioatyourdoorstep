@@ -1,7 +1,7 @@
 ---
 title: "Multiple Sclerosis Neurological Physiotherapy: A Complete Guide"
 date: "2026-03-12"
-metaTitle: "Multiple Sclerosis Neurological Physiotherapy: A Complete Guide | Physio At Your Doorstep"
+metaTitle: "Multiple Sclerosis Physiotherapy: A Complete Neuro Guide"
 metaDescription: "Multiple sclerosis (MS) is a complex, chronic neurological condition that affects the central nervous system, disrupting communication between the brain, spinal"
 excerpt: "Multiple sclerosis (MS) is a complex, chronic neurological condition that affects the central nervous system, disrupting communication between the brain, spinal cord, and the rest of the body. For the estimated 2.9 million people living with MS worldwide, the challenge is not just managing relapses "
 coverImage: "/images/blog/new-project-1.jpg"

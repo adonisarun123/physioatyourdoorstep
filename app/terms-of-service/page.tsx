@@ -5,8 +5,8 @@ import { SITE } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Terms of Service",
-    description: "Terms governing the use of Physio At Your Doorstep's website and home physiotherapy services.",
+    title: "Terms of Service | Physio At Your Doorstep",
+    description: "Terms governing use of the Physio At Your Doorstep website and home physiotherapy services, including appointments, cancellations, payments and liability.",
     alternates: { canonical: "/terms-of-service" },
     robots: { index: true, follow: true },
 };

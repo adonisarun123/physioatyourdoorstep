@@ -2,7 +2,7 @@
 title: "Chest Physiotherapy for Pediatric Pneumonia Explained"
 date: "2026-05-22"
 metaTitle: "Chest Physiotherapy for Pediatric Pneumonia Recovery Guide"
-metaDescription: "Chest physiotherapy for pediatric pneumonia explained with techniques, benefits, recovery tips, and caregiver guidance."
+metaDescription: "Chest physiotherapy for pediatric pneumonia: techniques, benefits, recovery timeline and practical caregiver guidance to help your child breathe easier."
 excerpt: "Pneumonia is one of the leading causes of hospitalization and mortality in children under five years of age worldwide."
 coverImage: "/images/blog/chest-physiotherapy-pediatric-pneumonia.jpg"
 category: "Pediatric Physiotherapy"
@@ -206,7 +206,7 @@ At [Physio at Your Doorstep](/), our physiotherapists combine clinical expertise
 
 ## Resources and References
 
-1. Chaves GS, Freitas DA, Santino TA, et al. Chest physiotherapy for pneumonia in children. Cochrane Database of Systematic Reviews. 2019; CD010277. Available at: https://www.cochrane.org/CD010277/ARI_chest-physiotherapy-pneumonia-children
+1. Chaves GS, Freitas DA, Santino TA, et al. Chest physiotherapy for pneumonia in children. Cochrane Database of Systematic Reviews. 2019; CD010277. Available at: https://www.cochrane.org/evidence/CD010277_chest-physiotherapy-pneumonia-children
 2. Lodhi et al. Recent physiotherapeutic advancement for managing symptoms of pneumonia: a systematic review. Bulletin of Faculty of Physical Therapy. 2025;30:56. Available at: https://link.springer.com/article/10.1186/s43161-025-00316-9
 3. National Center for Biotechnology Information (NCBI). Chest physiotherapy for pneumonia in children. PMC6353233. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC6353233/
 4. StatPearls. Postural Drainage and Vibration. NCBI Bookshelf. 2024. Available at: https://www.ncbi.nlm.nih.gov/books/NBK604210/

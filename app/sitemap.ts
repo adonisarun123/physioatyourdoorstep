@@ -7,6 +7,8 @@ import {
     getAllCategories,
 } from "@/lib/content";
 import { careerPath, getAllCareerAreas } from "@/lib/careers";
+import { CHANNEL_VIDEOS, videoPagePath } from "@/lib/videos";
+import { GALLERY_EVENTS, galleryVideoPath } from "@/lib/gallery";
 
 const BASE_URL = "https://www.physioatyourdoorstep.com";
 
@@ -72,5 +74,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.6,
     }));
 
-    return [...staticPages, ...services, ...locations, ...serviceAreas, ...categories, ...blogs, ...careers];
+    // Video watch pages — the URLs Google indexes each video on.
+    const videos: MetadataRoute.Sitemap = [
+        ...CHANNEL_VIDEOS.map((v) => ({
+            url: `${BASE_URL}${videoPagePath(v.id)}`,
+            lastModified: new Date(v.uploadDate),
+            changeFrequency: "yearly" as const,
+            priority: 0.5,
+        })),
+        ...GALLERY_EVENTS.filter((e) => e.video).map((e) => ({
+            url: `${BASE_URL}${galleryVideoPath(e.slug)}`,
+            lastModified: new Date(e.dateISO),
+            changeFrequency: "yearly" as const,
+            priority: 0.5,
+        })),
+    ];
+
+    return [...staticPages, ...services, ...locations, ...serviceAreas, ...categories, ...blogs, ...careers, ...videos];
 }

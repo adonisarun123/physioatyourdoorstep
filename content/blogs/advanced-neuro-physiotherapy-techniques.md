@@ -1,10 +1,10 @@
 ---
 title: "Advanced Neuro Physiotherapy Techniques: A Complete, Evidence-Based Guide"
 date: "2026-09-18"
-metaTitle: "Advanced Neuro Physiotherapy Techniques: Complete Guide (2026)"
+metaTitle: "Advanced Neuro Physiotherapy Techniques: 2026 Guide"
 metaDescription: "Advanced neuro physiotherapy techniques explained: CIMT, FES, task-oriented training, gait and robotic therapy for stroke, Parkinson's and spinal cord injury."
 excerpt: "When the brain, spinal cord, or nerves are injured, the body often forgets how to move. Here are the ten advanced neuro physiotherapy techniques used today, the science behind each one, and which conditions they suit best."
-coverImage: "/images/blog/neurological-assessment-in-physiotherapy.jpg"
+coverImage: "/images/blog/advanced-neuro-physiotherapy-techniques.jpg"
 category: "Neurological Physiotherapy"
 ---
 When the brain, spinal cord, or nerves are injured, the body often forgets how to move the way it used to. This is where advanced neuro physiotherapy techniques come in. Unlike general physiotherapy, neuro physiotherapy is built around one core idea: the nervous system can relearn movement if it is trained the right way, at the right intensity, and often enough.

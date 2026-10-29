@@ -1,7 +1,7 @@
 ---
 title: "Cardiopulmonary Physiotherapy: A Complete Guide to Heart and Lung Rehabilitation"
 date: "2026-10-06"
-metaTitle: "Cardiopulmonary Physiotherapy: Conditions, Techniques and Home Care"
+metaTitle: "Cardiopulmonary Physiotherapy: Conditions & Techniques"
 metaDescription: "What cardiopulmonary physiotherapy is, who needs it, the techniques used, what research shows, and how home cardiorespiratory physiotherapy works in Bangalore."
 excerpt: "Cardiopulmonary physiotherapy uses breathing retraining, airway clearance and graded exercise to rebuild stamina after heart and lung illness. Here is who needs it, what treatment involves, and when home care is safe."
 coverImage: "/images/blog/copd-physiotherapy-management.jpg"

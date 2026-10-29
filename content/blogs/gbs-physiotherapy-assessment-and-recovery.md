@@ -1,7 +1,7 @@
 ---
 title: "GBS Physiotherapy Assessment and Recovery Management Guide"
 date: "2026-06-11"
-metaTitle: "GBS Physiotherapy Assessment and Recovery Management Guide | Physio At Your Doorstep"
+metaTitle: "GBS Physiotherapy Assessment and Recovery Management Guide"
 metaDescription: "Guillain-Barre Syndrome is one of the most challenging neurological conditions a person can face. One day you feel fine, and within days or weeks, weakness begi"
 excerpt: "Guillain-Barre Syndrome is one of the most challenging neurological conditions a person can face. One day you feel fine, and within days or weeks, weakness begins spreading upward through the body, sometimes reaching the chest and making it hard to breathe. For many patients and their families, the "
 coverImage: "/images/blog/new-project-1-1.jpg"

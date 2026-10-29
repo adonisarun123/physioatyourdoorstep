@@ -3,7 +3,7 @@ title: "Best Physiotherapist in Shaniwarwada, Pune | Home Physio Services"
 city: "Pune"
 area: "Shaniwarwada"
 metaTitle: "Best Physiotherapist in Shaniwarwada, Pune | Home Physio"
-metaDescription: "Find the best physiotherapist in Shaniwarwada, Pune offering expert home physiotherapy for pain relief and recovery."
+metaDescription: "Find the best physiotherapist in Shaniwarwada, Pune offering expert home physiotherapy for pain relief, post-surgery rehab and recovery. Book a home visit."
 ---
 
 ## Expert Physiotherapy Care at Your Doorstep in Shaniwarwada

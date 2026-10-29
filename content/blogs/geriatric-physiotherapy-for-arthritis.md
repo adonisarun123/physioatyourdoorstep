@@ -361,9 +361,9 @@ Contact us now to begin your journey toward pain-free living.
 
 ### Helpful Organizations:
 
-- Arthritis Foundation: [arthritis.org](https://arthritis.org/)
-- American Physical Therapy Association: [apta.org](https://apta.org/)
-- National Institute on Aging: [nia.nih.gov](https://nia.nih.gov/)
+- Arthritis Foundation: [arthritis.org](https://www.arthritis.org/)
+- American Physical Therapy Association: [apta.org](https://www.apta.org/)
+- National Institute on Aging: [nia.nih.gov](https://www.nia.nih.gov/)
 
 ### Scientific References:
 

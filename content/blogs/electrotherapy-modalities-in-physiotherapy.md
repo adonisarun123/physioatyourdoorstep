@@ -1,7 +1,7 @@
 ---
 title: "Electrotherapy Modalities in Physiotherapy: Uses and Care"
 date: "2026-03-18"
-metaTitle: "Electrotherapy Modalities in Physiotherapy: Uses and Care | Physio At Your Doorstep"
+metaTitle: "Electrotherapy Modalities in Physiotherapy: Uses and Care"
 metaDescription: "You’ve probably heard a physiotherapist mention TENS, IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without"
 excerpt: "You’ve probably heard a physiotherapist mention TENS, IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without fully understanding what was happening or why. That’s more common than you’d think.Electrotherapy is one of the oldest tool sets in physiot"
 coverImage: "/images/blog/new-project-1-1.jpg"

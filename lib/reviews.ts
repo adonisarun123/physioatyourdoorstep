@@ -3,7 +3,7 @@
  *
  * Rating, count, review texts and photos come from the Google Business
  * listing ("Physio At Your Doorstep - Bangalore"). Update `rating` / `count`
- * here (and SITE.rating / SITE.reviewCount in lib/seo.ts) when they change.
+ * here when they change. Display-only — deliberately NOT emitted as JSON-LD (see lib/seo.ts).
  */
 import { SITE } from "@/lib/seo";
 
@@ -57,34 +57,6 @@ export const GOOGLE_REVIEW_ITEMS: GoogleReview[] = [
         text: "Dr. Atharva is one of the best physiotherapists, whose expertise is commendable. His communication style and work techniques are best to cure a person's injury. Highly recommended.",
     },
 ];
-
-/**
- * Review + aggregateRating JSON-LD attached to the site Organization node
- * (same @id), so individual patient reviews are eligible for rich results
- * alongside the site-wide aggregate rating. Rendered once, on the home page.
- */
-export function reviewsJsonLd() {
-    return {
-        "@context": "https://schema.org",
-        "@type": "MedicalBusiness",
-        "@id": `${SITE.url}/#organization`,
-        name: SITE.name,
-        url: SITE.url,
-        aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: GOOGLE_RATING.rating,
-            reviewCount: GOOGLE_RATING.count,
-            bestRating: 5,
-            worstRating: 1,
-        },
-        review: GOOGLE_REVIEW_ITEMS.slice(0, 6).map((r) => ({
-            "@type": "Review",
-            author: { "@type": "Person", name: r.name },
-            reviewRating: { "@type": "Rating", ratingValue: 5, bestRating: 5 },
-            reviewBody: r.text,
-        })),
-    };
-}
 
 /** Photos from the Google listing — real patients & sessions. */
 export const REVIEW_PHOTOS: { src: string; alt: string }[] = [

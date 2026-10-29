@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Calendar, Clapperboard, Play, Smartphone, X, Youtube } from "lucide-react";
 import {
@@ -8,6 +9,7 @@ import {
     VIDEO_CATEGORIES,
     formatDuration,
     thumbnailUrl,
+    videoPagePath,
     watchUrl,
 } from "@/lib/videos";
 
@@ -169,7 +171,9 @@ export function FeaturedVideo({ video }: { video: ChannelVideo }) {
                         Featured · {CATEGORY_LABEL[video.category]}
                     </span>
                     <h2 className="mt-4 text-2xl md:text-3xl font-bold leading-tight text-[#1F2933]">
-                        {video.title}
+                        <Link href={videoPagePath(video.id)} className="hover:text-[#3B3B6D]">
+                            {video.title}
+                        </Link>
                     </h2>
                     <p className="mt-3 text-[#4B5563] leading-relaxed">{video.description}</p>
                     <div className="mt-6 flex flex-wrap items-center gap-4">
@@ -271,13 +275,12 @@ export default function VideoGallery({ videos }: { videos: ChannelVideo[] }) {
                                 </time>
                             </div>
                             <h3 className="text-base font-semibold leading-snug text-[#1F2933] transition-colors group-hover:text-[#3B3B6D]">
-                                <button
-                                    type="button"
-                                    onClick={() => setActive(v)}
-                                    className="text-left focus:outline-none focus-visible:underline"
+                                <Link
+                                    href={videoPagePath(v.id)}
+                                    className="focus:outline-none focus-visible:underline"
                                 >
                                     {v.title}
-                                </button>
+                                </Link>
                             </h3>
                             <p className="mt-2 text-sm leading-relaxed text-[#4B5563] line-clamp-2">
                                 {v.description}

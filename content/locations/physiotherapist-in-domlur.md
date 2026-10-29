@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Domlur, Bangalore"
 city: "Bangalore"
 area: "Domlur"
-metaTitle: "Best Physiotherapist in Domlur, Bangalore | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Domlur, Bangalore"
 metaDescription: "Expert home physiotherapy in Domlur, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

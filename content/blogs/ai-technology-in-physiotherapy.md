@@ -114,7 +114,7 @@ For readers who want to explore the research and background in more depth, the f
 
 - [AI in Physiotherapy — Physiopedia](https://www.physio-pedia.com/AI_in_Physiotherapy)
 - [Enhancing home rehabilitation through AI-driven virtual assistants: a narrative review (Annals of Translational Medicine, 2025)](https://atm.amegroups.org/article/view/144875/html)
-- [Integration of Artificial Intelligence for Diagnostic Methods in Musculoskeletal Conditions: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11930781/)
+- [Integration of Artificial Intelligence for Diagnostic Methods in Musculoskeletal Conditions: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11930781/)
 
 You can also read our related guide on [home physiotherapy for the elderly in Bangalore](/physio-for-elderly-in-bangalore-at-home), or browse [all our physiotherapy articles](/blogs) for more expert advice.
 

@@ -320,7 +320,7 @@ Remember that cardiac rehabilitation is not merely about returning to your previ
 
 1. American Heart Association. (2024). Cardiac Rehabilitation. <https://www.heart.org/en/health-topics/cardiac-rehab>
 2. Cleveland Clinic. (2025). Cardiac Rehabilitation. <https://my.clevelandclinic.org/health/treatments/22069-cardiac-rehab>
-3. Centers for Disease Control and Prevention. (2024). Cardiac Rehabilitation. <https://www.cdc.gov/heartdisease/cardiac_rehabilitation.htm>
+3. Centers for Disease Control and Prevention. (2024). Cardiac Rehabilitation. <https://www.cdc.gov/heart-disease/about/cardiac-rehabilitation-treatment.html>
 4. American Association of Cardiovascular and Pulmonary Rehabilitation. (2023). Guidelines for Cardiac Rehabilitation Programs.
 5. American College of Cardiology. (2024). Cardiac Rehabilitation: Core Components and Implementation.
 

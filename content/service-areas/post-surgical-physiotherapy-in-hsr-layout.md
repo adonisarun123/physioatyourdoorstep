@@ -5,7 +5,7 @@ area: "HSR Layout"
 service: "post-surgical-physiotherapy"
 pillar: "physiotherapist-in-hsr-layout"
 metaTitle: "Post-Surgical Physiotherapy in HSR Layout | Home Physio Care"
-metaDescription: "Post-surgery physiotherapy at home in HSR Layout - knee/hip replacement, ACL, spine & fracture rehab following your surgeon's protocol. 24×7. Call +91 82337 87737."
+metaDescription: "Post-surgery physiotherapy at home in HSR Layout: knee/hip replacement, ACL, spine and fracture rehab following your surgeon's protocol. Available 24×7."
 ---
 
 Recovering from a knee or hip replacement, ACL reconstruction, spine or shoulder surgery? Our post-surgery physiotherapists in HSR Layout come to your home so you can rehab safely without a painful trip to the clinic — following your surgeon's protocol, step by step, across Sectors 1–7 and the surrounding apartment communities.

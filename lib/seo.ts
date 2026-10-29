@@ -16,9 +16,6 @@ export const SITE = {
     founder: "Dr. Atharva Mishra",
     areasServed: ["Bangalore", "Pune"],
     priceRange: "₹₹",
-    // Live Google Business rating — keep in sync with lib/reviews.ts.
-    rating: 4.9,
-    reviewCount: 468,
     tagline: "Let Your Pain Not Be Showstopper Of Your Life",
     socials: {
         linkedin: "https://www.linkedin.com/in/dr-atharva-mishra-pt-73717b215/",
@@ -28,17 +25,35 @@ export const SITE = {
     googleReviews: "https://share.google/XntoRQjyiP56KBl0I",
 } as const;
 
+/**
+ * Full ISO-8601 datetime with an IST offset. Google requires a timezone on
+ * VideoObject.uploadDate — a bare "YYYY-MM-DD" is flagged in Search Console as
+ * "uploadDate is missing a timezone" / "Invalid datetime value".
+ */
+export function isoDateTimeIST(date: string): string {
+    return /T\d/.test(date) ? date : `${date}T00:00:00+05:30`;
+}
+
 /** Absolute URL from a site-relative path. */
 export function absoluteUrl(path = "/"): string {
     if (path.startsWith("http")) return path;
     return `${SITE.url}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
-/** Organization / brand schema — used site-wide. */
+/**
+ * The single site-wide business node (MedicalBusiness is an Organization subtype).
+ * Only ONE node may use the `/#organization` @id — Google merges nodes that share
+ * an @id, and duplicates caused "Review has multiple aggregate ratings" in GSC.
+ *
+ * No aggregateRating / review markup on purpose: Google does not show stars for
+ * self-serving reviews on Organization/LocalBusiness, and our reviews come from
+ * the Google Business Profile (third-party), which the review-snippet guidelines
+ * disallow. Reviews stay visible on the page via components/GoogleReviews.tsx.
+ */
 export function organizationSchema() {
     return {
         "@context": "https://schema.org",
-        "@type": "Organization",
+        "@type": "MedicalBusiness",
         "@id": `${SITE.url}/#organization`,
         name: SITE.name,
         legalName: SITE.legalName,
@@ -56,13 +71,18 @@ export function organizationSchema() {
             areaServed: SITE.areasServed,
             availableLanguage: ["en", "hi"],
         },
-        aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: SITE.rating,
-            reviewCount: SITE.reviewCount,
-            bestRating: 5,
-            worstRating: 1,
+        image: absoluteUrl(SITE.logo),
+        telephone: SITE.phoneRaw,
+        email: SITE.email,
+        priceRange: SITE.priceRange,
+        medicalSpecialty: "Physiotherapy",
+        address: {
+            "@type": "PostalAddress",
+            addressLocality: "Bangalore",
+            addressRegion: "Karnataka",
+            addressCountry: "IN",
         },
+        areaServed: SITE.areasServed.map((name) => ({ "@type": "City", name })),
     };
 }
 
@@ -79,16 +99,22 @@ export function websiteSchema() {
     };
 }
 
-/** MedicalBusiness / LocalBusiness schema — used site-wide and on location pages. */
+/**
+ * Area-level MedicalBusiness schema for location / service×area pages.
+ * Without a url it returns the site-wide node so the `/#organization` @id is never
+ * emitted twice with different contents.
+ */
 export function localBusinessSchema(opts?: { area?: string; city?: string; url?: string }) {
+    if (!opts?.url) return organizationSchema();
     const area = opts?.area;
     const city = opts?.city ?? "Bangalore";
     return {
         "@context": "https://schema.org",
         "@type": "MedicalBusiness",
-        "@id": opts?.url ? `${absoluteUrl(opts.url)}#business` : `${SITE.url}/#organization`,
+        "@id": `${absoluteUrl(opts.url)}#business`,
         name: area ? `${SITE.name} — ${area}` : SITE.name,
-        url: opts?.url ? absoluteUrl(opts.url) : SITE.url,
+        url: absoluteUrl(opts.url),
+        parentOrganization: { "@id": `${SITE.url}/#organization` },
         image: absoluteUrl(SITE.logo),
         logo: absoluteUrl(SITE.logo),
         description: SITE.description,
@@ -106,13 +132,6 @@ export function localBusinessSchema(opts?: { area?: string; city?: string; url?:
             "@type": "City",
             name,
         })),
-        aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: SITE.rating,
-            reviewCount: SITE.reviewCount,
-            bestRating: 5,
-            worstRating: 1,
-        },
     };
 }
 

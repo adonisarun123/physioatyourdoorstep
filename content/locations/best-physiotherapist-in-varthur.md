@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Varthur, Bangalore | Home Physio Services"
 city: "Bangalore"
 area: "Varthur"
-metaTitle: "Best Physiotherapist in Varthur, Bangalore | Home Physio Services | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Varthur, Bangalore | Home Visits"
 metaDescription: "Expert home physiotherapy in Varthur, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

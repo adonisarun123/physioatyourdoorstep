@@ -13,6 +13,9 @@ const nextConfig: NextConfig = {
   // and let Next generate right-sized responsive variants.
   images: {
     formats: ['image/avif', 'image/webp'],
+    // Drop Next's 2048/3840 defaults: no layout here renders wider than ~1920px,
+    // and crawlers/audits pick the largest srcset entry.
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920],
     // Only hosts that actually serve site images; an open wildcard would let
     // anyone use the image optimizer as a free proxy.
     remotePatterns: [

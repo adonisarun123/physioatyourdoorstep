@@ -172,7 +172,7 @@ Your employees’ health and your company’s success are interconnected. Corpor
 
 - [Occupational Safety and Health Administration (OSHA) Ergonomics Guidelines](https://www.osha.gov/)
 - [American Physical Therapy Association – Workplace Health Resources](https://www.apta.org/)
-- [National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/niosh)
+- [National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/niosh/index.html)
 - [Workers’ Compensation Research Institute](https://www.wcrinet.org/)
 
 *For more information about implementing corporate wellness physical therapy programs at your organization, [contact Physio At Your Doorstep](/contact-us). Our experienced team specializes in creating customized workplace wellness solutions that deliver measurable results for businesses of all sizes.*

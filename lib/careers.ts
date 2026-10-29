@@ -16,6 +16,16 @@ export const POSTED_ON = "2026-09-02";
 /** JobPosting.validThrough. Bump this when the roles are still open. */
 export const VALID_THROUGH = "2027-03-31";
 
+/**
+ * Full-time pay band (₹ per month) — drives JobPosting.baseSalary and the
+ * figure shown on /careers and every area page. Keep the two in sync by
+ * editing only here.
+ */
+export const SALARY = { min: 25000, max: 45000, currency: "INR", unit: "MONTH" } as const;
+
+/** "₹25,000–₹45,000 per month" */
+export const SALARY_LABEL = `₹${SALARY.min.toLocaleString("en-IN")}–₹${SALARY.max.toLocaleString("en-IN")} per month`;
+
 export type Zone = "South Bangalore" | "East Bangalore" | "Central Bangalore";
 
 export interface CareerArea {
@@ -23,6 +33,8 @@ export interface CareerArea {
     slug: string;
     /** Area name as written on the page. */
     area: string;
+    /** India Post PIN code for the area — JobPosting.jobLocation.address.postalCode. */
+    pincode: string;
     zone: Zone;
     /** Matching patient-facing location page slug (served at /<slug>). */
     locationSlug?: string;
@@ -39,6 +51,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "koramangala",
         area: "Koramangala",
+        pincode: "560034",
         zone: "South Bangalore",
         locationSlug: "physiotherapist-in-koramangala",
         nearby: ["1st to 8th Block", "Ejipura", "Adugodi", "Jakkasandra", "St. John's Road"],
@@ -48,6 +61,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "hsr-layout",
         area: "HSR Layout",
+        pincode: "560102",
         zone: "South Bangalore",
         locationSlug: "physiotherapist-in-hsr-layout",
         nearby: ["Sectors 1–7", "Agara", "Somasundarapalya", "27th Main", "Parangi Palya"],
@@ -57,6 +71,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "btm-layout",
         area: "BTM Layout",
+        pincode: "560076",
         zone: "South Bangalore",
         locationSlug: "physiotherapist-in-btm-layout",
         nearby: ["1st & 2nd Stage", "Silk Board", "Madiwala", "Tavarekere", "Mico Layout"],
@@ -66,6 +81,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "jp-nagar",
         area: "JP Nagar",
+        pincode: "560078",
         zone: "South Bangalore",
         locationSlug: "physiotherapist-in-jp-nagar",
         nearby: ["Phases 1–9", "Sarakki", "Puttenahalli", "Brigade Millennium", "Marenahalli"],
@@ -75,6 +91,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "jayanagar",
         area: "Jayanagar",
+        pincode: "560011",
         zone: "South Bangalore",
         locationSlug: "home-physiotherapist-in-jayanagar",
         nearby: ["3rd, 4th & 9th Block", "South End Circle", "Tilak Nagar", "Byrasandra", "Basavanagudi edge"],
@@ -84,6 +101,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "banashankari",
         area: "Banashankari",
+        pincode: "560050",
         zone: "South Bangalore",
         locationSlug: "best-physiotherapist-in-banashankari",
         nearby: ["BSK 2nd & 3rd Stage", "Padmanabhanagar", "Kathriguppe", "Girinagar", "Uttarahalli Road"],
@@ -93,6 +111,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "arekere",
         area: "Arekere",
+        pincode: "560076",
         zone: "South Bangalore",
         locationSlug: "best-physiotherapist-in-arekere",
         nearby: ["Bannerghatta Road", "Omkar Nagar", "Meenakshi Temple", "Bilekahalli", "Hulimavu edge"],
@@ -102,6 +121,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "hulimavu",
         area: "Hulimavu",
+        pincode: "560076",
         zone: "South Bangalore",
         locationSlug: "home-physiotherapist-in-hulimavu",
         nearby: ["Bannerghatta Road", "Gottigere", "Kalena Agrahara", "Vijaya Bank Layout", "Royal Residency"],
@@ -111,6 +131,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "begur",
         area: "Begur",
+        pincode: "560068",
         zone: "South Bangalore",
         locationSlug: "best-physiotherapist-in-begur",
         nearby: ["Begur Road", "Hongasandra", "Bommanahalli", "Yelenahalli", "Akshayanagar"],
@@ -120,6 +141,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "kudlu",
         area: "Kudlu",
+        pincode: "560068",
         zone: "South Bangalore",
         locationSlug: "best-physiotherapist-in-kudlu",
         nearby: ["Kudlu Gate", "Singasandra", "Hosa Road", "Parappana Agrahara", "HSR fringe"],
@@ -129,6 +151,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "ejipura",
         area: "Ejipura",
+        pincode: "560047",
         zone: "South Bangalore",
         locationSlug: "physiotherapist-in-ejipura",
         nearby: ["Viveknagar", "Koramangala 6th Block", "Austin Town", "Neelasandra", "Sarjapur Road start"],
@@ -138,6 +161,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "electronic-city",
         area: "Electronic City",
+        pincode: "560100",
         zone: "South Bangalore",
         locationSlug: "best-physiotherapist-in-electronic-city",
         nearby: ["Phase 1 & 2", "Neeladri Nagar", "Konappana Agrahara", "Hebbagodi", "Chandapura"],
@@ -149,6 +173,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "indiranagar",
         area: "Indiranagar",
+        pincode: "560038",
         zone: "East Bangalore",
         locationSlug: "physiotherapist-in-indiranagar",
         nearby: ["100 Ft Road", "Defence Colony", "Jeevan Bhima Nagar", "Ulsoor", "CV Raman Nagar"],
@@ -158,6 +183,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "domlur",
         area: "Domlur",
+        pincode: "560071",
         zone: "East Bangalore",
         locationSlug: "physiotherapist-in-domlur",
         nearby: ["Amarjyoti Layout", "Old Airport Road", "Indiranagar edge", "Ejipura", "Konena Agrahara"],
@@ -167,6 +193,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "whitefield",
         area: "Whitefield",
+        pincode: "560066",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-whitefield",
         nearby: ["ITPL", "Brookefield", "Kadugodi", "Hoodi", "Varthur Road"],
@@ -176,6 +203,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "marathahalli",
         area: "Marathahalli",
+        pincode: "560037",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-marathahalli",
         nearby: ["AECS Layout", "Kundalahalli", "Munnekollal", "Outer Ring Road", "Doddanekkundi"],
@@ -185,6 +213,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "bellandur",
         area: "Bellandur",
+        pincode: "560103",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-bellandur",
         nearby: ["Ecospace", "Devarabisanahalli", "Kaikondrahalli", "Green Glen Layout", "Kadubeesanahalli"],
@@ -194,6 +223,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "sarjapur-road",
         area: "Sarjapur Road",
+        pincode: "560035",
         zone: "East Bangalore",
         locationSlug: "physiotherapist-in-sarjapur-road",
         nearby: ["Kaikondrahalli", "Dommasandra", "Carmelaram", "Harlur", "Ambalipura"],
@@ -203,6 +233,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "haralur",
         area: "Haralur",
+        pincode: "560102",
         zone: "East Bangalore",
         locationSlug: "physiotherapist-in-haralur",
         nearby: ["Haralur Road", "Ambalipura", "HSR Sector 6", "Kudlu Gate", "Somasundarapalya"],
@@ -212,6 +243,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "varthur",
         area: "Varthur",
+        pincode: "560087",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-varthur",
         nearby: ["Varthur Kodi", "Gunjur", "Panathur", "Whitefield edge", "Siddapura"],
@@ -221,6 +253,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "gunjur",
         area: "Gunjur",
+        pincode: "560087",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-gunjur",
         nearby: ["Gunjur Palya", "Panathur", "Balagere", "Varthur", "Whitefield edge"],
@@ -230,6 +263,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "kadubeesanahalli",
         area: "Kadubeesanahalli",
+        pincode: "560103",
         zone: "East Bangalore",
         locationSlug: "best-physiotherapist-in-kadubeesanahalli",
         nearby: ["Panathur", "Devarabisanahalli", "Bellandur", "Marathahalli bridge", "Green Glen"],
@@ -241,6 +275,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "shivajinagar",
         area: "Shivajinagar",
+        pincode: "560051",
         zone: "Central Bangalore",
         locationSlug: "physiotherapist-in-shivajinagar",
         nearby: ["Commercial Street", "Cantonment", "Vasanth Nagar", "Frazer Town edge", "Cunningham Road"],
@@ -250,6 +285,7 @@ export const CAREER_AREAS: CareerArea[] = [
     {
         slug: "ashok-nagar",
         area: "Ashok Nagar",
+        pincode: "560025",
         zone: "Central Bangalore",
         locationSlug: "physiotherapist-in-ashok-nagar",
         nearby: ["Richmond Town", "Residency Road", "MG Road", "Shanthala Nagar", "Langford Town"],

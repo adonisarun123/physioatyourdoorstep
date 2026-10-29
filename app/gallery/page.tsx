@@ -6,7 +6,7 @@ import JsonLd from "@/components/JsonLd";
 import EventGallery, { EventVideo } from "@/components/EventGallery";
 import Link from "next/link";
 import { Briefcase, Building2, Calendar, Camera, Images, MapPin, Phone, Sparkles, Video } from "lucide-react";
-import { GALLERY_EVENTS, GALLERY_TOTALS } from "@/lib/gallery";
+import { GALLERY_EVENTS, GALLERY_TOTALS, galleryVideoPath } from "@/lib/gallery";
 import { SITE, absoluteUrl } from "@/lib/seo";
 import type { Metadata } from "next";
 
@@ -50,19 +50,6 @@ const gallerySchema = {
             width: p.width,
             height: p.height,
         })),
-        ...(e.video
-            ? {
-                  video: {
-                      "@type": "VideoObject",
-                      name: e.video.title,
-                      description: e.video.description,
-                      contentUrl: absoluteUrl(e.video.src),
-                      thumbnailUrl: absoluteUrl(e.video.poster),
-                      uploadDate: e.dateISO,
-                      duration: e.video.duration,
-                  },
-              }
-            : {}),
     })),
 };
 
@@ -168,6 +155,13 @@ export default function GalleryPage() {
                             {e.video && (
                                 <div className="mb-6 md:mb-8">
                                     <EventVideo video={e.video} />
+                                    <Link
+                                        href={galleryVideoPath(e.slug)}
+                                        className="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-[#3B3B6D] hover:text-[#E31E24]"
+                                    >
+                                        <Video className="h-4 w-4" />
+                                        Open the video page
+                                    </Link>
                                 </div>
                             )}
 

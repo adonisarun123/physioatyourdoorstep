@@ -12,7 +12,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Media Coverage | Physio At Your Doorstep in the News",
     description:
-        "Press coverage of Physio At Your Doorstep — read what The Hindustan Wires, The Entrepreneur Stories, The Business Stories and DailyHunt have written about our home physiotherapy service in Bangalore and Pune.",
+        "Press coverage of Physio At Your Doorstep: what The Hindustan Wires, The Entrepreneur Stories, DailyHunt and others wrote about our home physiotherapy service.",
     alternates: { canonical: "/media-coverage" },
     openGraph: {
         title: "Media Coverage",

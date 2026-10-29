@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Shivajinagar, Bangalore | Home Physiotherapy Services"
 city: "Bangalore"
 area: "Shivajinagar"
-metaTitle: "Best Physiotherapist in Shivajinagar, Bangalore | Home Physiotherapy Services | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Shivajinagar, Bangalore | Home Care"
 metaDescription: "Expert home physiotherapy in Shivajinagar, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

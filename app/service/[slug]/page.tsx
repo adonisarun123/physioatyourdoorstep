@@ -8,7 +8,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import { serviceSchema, faqSchema, SITE } from "@/lib/seo";
 import { getServiceMarkdown } from "@/lib/markdown";
-import { getAllServices, getServiceFile, getBlogsByCategory, getAllLocations, getAllServiceAreas } from "@/lib/content";
+import { getAllServices, getServiceFile, getServiceMetaTitle, getBlogsByCategory, getAllLocations, getAllServiceAreas } from "@/lib/content";
 import { ArrowRight, Calendar, Check, Clock, Home, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -48,13 +48,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const descMatch = serviceContent.content.match(/^(?!#)(.+?)(?=\n\n|$)/m);
     const description = descMatch ? descMatch[1].substring(0, 160) : `Professional ${serviceContent.title} services at your doorstep`;
     const summary = getAllServices().find((s) => s.slug === slug);
+    const metaTitle = getServiceMetaTitle(slug) ?? serviceContent.title;
 
     return {
-        title: serviceContent.title,
+        title: metaTitle,
         description: description,
         alternates: { canonical: `/service/${slug}` },
         openGraph: {
-            title: serviceContent.title,
+            title: metaTitle,
             description: description,
             url: `/service/${slug}`,
             type: "article",
@@ -82,7 +83,7 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
     }, {});
 
     const whatsappHref = `https://wa.me/${SITE.phoneRaw.replace("+", "")}?text=${encodeURIComponent(
-        `Hi, I would like to book a ${serviceContent.title} session at home.`
+        `Hi, I would like to book a ${summary?.title ?? serviceContent.title} session at home.`
     )}`;
     const bookingHref = `/booking?service=${slug}`;
 

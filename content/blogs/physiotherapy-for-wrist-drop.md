@@ -2,7 +2,7 @@
 title: "Physiotherapy for Wrist Drop: Radial Nerve Care Guide"
 date: "2026-05-06"
 metaTitle: "Physiotherapy for Wrist Drop: Causes and Recovery Guide"
-metaDescription: "Physiotherapy for wrist drop explained with causes, exercises, and recovery tips for radial nerve palsy management."
+metaDescription: "Physiotherapy for wrist drop: causes, splinting, strengthening exercises and recovery tips for radial nerve palsy, explained by expert physiotherapists."
 excerpt: "Waking up one morning and finding that you cannot lift your wrist or extend your fingers is understandably alarming. This condition, commonly known as wrist drop, is one of the most recognizable signs of radial nerve palsy."
 coverImage: "/images/blog/physiotherapy-for-wrist-drop.jpg"
 category: "Orthopaedic Physiotherapy"
@@ -175,7 +175,7 @@ While recovery progresses, there are several practical strategies to make daily 
 
 ## Resources and Further Reading
 
-1. National Institutes of Health (NIH) – Integrated Physical Therapy in Radial Palsy Case Report: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11055539/>
+1. National Institutes of Health (NIH) – Integrated Physical Therapy in Radial Palsy Case Report: <https://pmc.ncbi.nlm.nih.gov/articles/PMC11055539/>
 2. Neurological Physiotherapy Services at Physio at Your Doorstep: </service/neurological-physiotherapy/>
 3. Post Surgical Physiotherapy at Physio at Your Doorstep: </service/post-surgical-physiotherapy/>
 4. Orthopaedic Physiotherapy at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>

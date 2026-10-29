@@ -10,9 +10,8 @@ import {
     CHANNEL_VIDEOS,
     FEATURED_VIDEO_ID,
     VIDEO_CATEGORIES,
-    isoDuration,
     thumbnailUrl,
-    watchUrl,
+    videoPagePath,
 } from "@/lib/videos";
 import { SITE, absoluteUrl } from "@/lib/seo";
 import type { Metadata } from "next";
@@ -20,7 +19,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Physiotherapy Videos — Recovery Stories & Home Exercises",
     description:
-        "Watch patient recovery stories, at-home exercises and sports physiotherapy videos from Physio At Your Doorstep — ACL rehab, frozen shoulder, posture, back pain and more.",
+        "Patient recovery stories, home exercises and sports physiotherapy videos: ACL rehab, frozen shoulder, posture, back pain and more from our physiotherapists.",
     alternates: { canonical: "/videos" },
     openGraph: {
         title: "Physiotherapy Videos — Recovery Stories & Home Exercises",
@@ -51,17 +50,10 @@ const collectionSchema = {
         itemListElement: CHANNEL_VIDEOS.map((v, i) => ({
             "@type": "ListItem",
             position: i + 1,
-            item: {
-                "@type": "VideoObject",
-                name: v.title,
-                description: v.description,
-                thumbnailUrl: [thumbnailUrl(v.id)],
-                uploadDate: v.uploadDate,
-                duration: isoDuration(v.seconds),
-                contentUrl: watchUrl(v),
-                embedUrl: `https://www.youtube.com/embed/${v.id}`,
-                publisher: { "@id": `${SITE.url}/#organization` },
-            },
+            // VideoObject markup lives on each watch page (/videos/[id]); a list
+            // page only links to them, per Google's video indexing rules.
+            url: absoluteUrl(videoPagePath(v.id)),
+            name: v.title,
         })),
     },
 };

@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Bellandur | Home Physio service"
 city: "Bangalore"
 area: "Bellandur"
-metaTitle: "Best Physiotherapist in Bellandur | Home Physio service | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Bellandur | Home Physio service"
 metaDescription: "Expert home physiotherapy in Bellandur, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

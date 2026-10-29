@@ -2,7 +2,7 @@
 title: "COPD Physiotherapy Management, Assessment & Exercise Guide"
 date: "2026-05-14"
 metaTitle: "COPD Physiotherapy Management, Assessment & Exercise Guide"
-metaDescription: "COPD physiotherapy management explained with assessment methods, exercises, and evidence-based care strategies."
+metaDescription: "COPD physiotherapy management: assessment methods, breathing techniques, exercise prescription and evidence-based home care strategies for easier breathing."
 excerpt: "Chronic Obstructive Pulmonary Disease (COPD) has quietly become one of the most pressing public health challenges in India."
 coverImage: "/images/blog/copd-physiotherapy-management.jpg"
 category: "Physiotherapy"
@@ -234,11 +234,11 @@ The greatest barrier most patients face is not the disease itself but access to 
 ## Trusted Resources for Further Reading
 
 - Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2024 Report: https://goldcopd.org
-- American Thoracic Society Patient Information on Pulmonary Rehabilitation: https://www.thoracic.org
+- American Thoracic Society Patient Information on Pulmonary Rehabilitation: https://site.thoracic.org/
 - Cochrane Review: Pulmonary Rehabilitation for COPD: https://www.cochrane.org
 - Journal of Physiotherapy, Holland AE: Physiotherapy Management of Acute Exacerbations of COPD: https://www.sciencedirect.com/science/article/pii/S1836955314001295
 - BMC Pulmonary Medicine, Burden of COPD Among Indian Adults (2026 Systematic Review): https://link.springer.com/article/10.1186/s12890-026-04134-0
-- Lung India, True Burden of COPD in India: https://journals.lww.com/lungindia/fulltext/2021/11000/what_is_the_true_burden_of_chronic_obstructive.1.aspx
+- Lung India, True Burden of COPD in India: https://www.ovid.com/jnls/lungindia/fulltext/10.4103/lungindia.lungindia_579_21~what-is-the-true-burden-of-chronic-obstructive-pulmonary
 
 ***Disclaimer***: *This article is for educational purposes and does not replace personalized medical or physiotherapy advice. Please consult a qualified pulmonologist and a registered physiotherapist for an individualized assessment and treatment plan.*
 

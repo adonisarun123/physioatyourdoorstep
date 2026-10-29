@@ -26,6 +26,7 @@ import {
     areasByZone,
     careerPath,
     getAllCareerAreas,
+    SALARY_LABEL,
 } from "@/lib/careers";
 import { SITE, absoluteUrl, faqSchema } from "@/lib/seo";
 import type { Metadata } from "next";
@@ -33,9 +34,9 @@ import type { Metadata } from "next";
 const areas = getAllCareerAreas();
 
 export const metadata: Metadata = {
-    title: "Careers | Physiotherapist Jobs in Bangalore — Full-time, Part-time & Freelance",
+    title: "Physiotherapist Jobs in Bangalore | Home-Visit Careers",
     description:
-        "Physiotherapist jobs across Bangalore with Physio At Your Doorstep. Full-time, part-time and freelance home-visit roles in Koramangala, HSR Layout, Whitefield, Indiranagar, Electronic City and 19 more areas. BPT minimum, MPT preferred. Apply with your CV.",
+        "Physiotherapist jobs across Bangalore: full-time, part-time and freelance home-visit roles in 24 areas. BPT minimum, MPT preferred. Apply with your CV.",
     alternates: { canonical: "/careers" },
     openGraph: {
         title: "Careers — Physiotherapist Jobs in Bangalore",
@@ -60,7 +61,7 @@ const FAQS = [
     },
     {
         q: "What does the pay look like?",
-        a: "Compensation depends on your qualification, experience and the engagement type — full-time, part-time or per visit. We discuss it openly at the interview stage, and the figures are agreed before you take your first patient.",
+        a: `Full-time roles pay ${SALARY_LABEL}, depending on your qualification and experience. Part-time and per-visit rates are discussed at the interview stage, and the figures are agreed before you take your first patient.`,
     },
     {
         q: "My area isn't listed. Can I still apply?",
@@ -233,8 +234,8 @@ export default function CareersPage() {
                             </div>
                         </div>
                         <p className="mt-6 text-sm text-[#6B7280]">
-                            Compensation is discussed openly at the interview stage and depends on your qualification,
-                            experience and whether you join full-time, part-time or per visit.
+                            Full-time pay is {SALARY_LABEL}, depending on your qualification and experience.
+                            Part-time and per-visit rates are agreed at the interview stage.
                         </p>
                     </div>
                 </section>

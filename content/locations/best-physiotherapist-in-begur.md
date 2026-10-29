@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Begur, Bangalore | Home Physio Service"
 city: "Bangalore"
 area: "Begur"
-metaTitle: "Best Physiotherapist in Begur, Bangalore | Home Physio Service | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Begur, Bangalore | Home Visits"
 metaDescription: "Expert home physiotherapy in Begur, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

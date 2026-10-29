@@ -15,7 +15,6 @@ import Image from "next/image";
 import BlogCard from "@/components/BlogCard";
 import { getAllServices, getAllBlogs } from "@/lib/content";
 import { SITE } from "@/lib/seo";
-import { reviewsJsonLd } from "@/lib/reviews";
 import type { Metadata } from "next";
 
 const serviceIcons: Record<string, typeof Activity> = {
@@ -32,7 +31,7 @@ const serviceIcons: Record<string, typeof Activity> = {
 };
 
 export const metadata: Metadata = {
-    title: "Best Physiotherapist in Bangalore",
+    title: "Best Physiotherapist in Bangalore | Physiotherapy at Home",
     description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts. Personalized care for pain relief, recovery, and mobility, right at your doorstep",
     alternates: { canonical: "/" },
     openGraph: {
@@ -596,7 +595,7 @@ export default async function HomePage() {
                 </section>
             </main>
 
-            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer }))), reviewsJsonLd()]} />
+            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer })))]} />
 
             <Footer />
             <CTABar />

@@ -1,7 +1,7 @@
 ---
 title: "Hemiplegia Treatment Physiotherapy Exercise: A Complete, Evidence-Based Recovery Guide"
 date: "2026-08-07"
-metaTitle: "Hemiplegia Treatment Physiotherapy Exercise: Recovery Guide (2026)"
+metaTitle: "Hemiplegia Treatment: Physiotherapy Exercises for Recovery"
 metaDescription: "Research-backed hemiplegia physiotherapy exercises, the Brunnstrom recovery stages, home care techniques, and realistic recovery timelines."
 excerpt: "Hemiplegia appears in more than 80 percent of stroke survivors. Here are the physiotherapy exercises that actually work at each stage of recovery, how the Brunnstrom stages guide treatment, and what a realistic timeline looks like."
 coverImage: "/images/blog/hemiplegia-treatment-physiotherapy-exercise.jpg"

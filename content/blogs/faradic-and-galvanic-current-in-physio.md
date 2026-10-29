@@ -1,7 +1,7 @@
 ---
 title: "Faradic and Galvanic Current in Physio Care Guide 26"
 date: "2026-07-06"
-metaTitle: "Faradic and Galvanic Current in Physio Care Guide 26 | Physio At Your Doorstep"
+metaTitle: "Faradic and Galvanic Current in Physio Care Guide 26"
 metaDescription: "Electricity has been part of medical treatment for far longer than most people realize, and in modern physiotherapy, two of its oldest and most reliable applica"
 excerpt: "Electricity has been part of medical treatment for far longer than most people realize, and in modern physiotherapy, two of its oldest and most reliable applications are faradic current and galvanic current. If you have ever had a physiotherapist place small electrode pads on your skin and felt a ge"
 coverImage: "/images/blog/new-project-1.jpg"

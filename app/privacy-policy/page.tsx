@@ -5,8 +5,8 @@ import { SITE } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Privacy Policy",
-    description: "How Physio At Your Doorstep collects, uses, and protects your personal information.",
+    title: "Privacy Policy | Physio At Your Doorstep",
+    description: "How Physio At Your Doorstep collects, uses, stores and protects the personal and health information you share when booking home physiotherapy.",
     alternates: { canonical: "/privacy-policy" },
     robots: { index: true, follow: true },
 };

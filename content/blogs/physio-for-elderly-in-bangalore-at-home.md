@@ -2,7 +2,7 @@
 title: "Physio for Elderly in Bangalore at Home: The Complete Guide for Families in 2026"
 date: "2026-07-27"
 metaTitle: "Physio for Elderly in Bangalore at Home: 2026 Family Guide"
-metaDescription: "A 2026 guide to home physiotherapy for elderly patients in Bangalore: conditions treated, how sessions work, costs, fall prevention, and choosing the right provider."
+metaDescription: "A 2026 guide to home physiotherapy for elderly patients in Bangalore: conditions treated, how sessions work, costs, fall prevention and choosing a provider."
 excerpt: "Home physiotherapy has become the preferred choice for Bangalore families who want expert, doctor-guided rehabilitation for seniors without the risk and stress of clinic visits. Here is what it involves, which conditions it treats, and how to choose the right provider."
 coverImage: "https://ik.imagekit.io/adonisarun/Physio%20At%20Your%20Doorstep/physio-for-elderly-bangalore-home.jpeg"
 category: "Geriatric Physiotherapy"
@@ -144,4 +144,4 @@ Ageing does not have to mean giving up independence or living with avoidable pai
 
 * [Burden of falls among elderly persons in India: A systematic review and meta-analysis, National Medical Journal of India](https://nmji.in/burden-of-falls-among-elderly-persons-in-india-a-systematic-review-and-meta-analysis/)
 * [Prevalence of fall and its associated factors among elderly population in India (LASI data)](https://the.evidencejournals.com/index.php/j/article/view/47)
-* [Evidence on physical activity and falls prevention for people aged 65+ years, WHO systematic review, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689963/)
+* [Evidence on physical activity and falls prevention for people aged 65+ years, WHO systematic review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7689963/)
