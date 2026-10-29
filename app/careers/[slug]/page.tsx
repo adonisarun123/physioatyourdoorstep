@@ -22,6 +22,8 @@ import {
     POSTED_ON,
     REQUIREMENTS,
     RESPONSIBILITIES,
+    SALARY,
+    SALARY_LABEL,
     VALID_THROUGH,
     WHAT_WE_OFFER,
     careerPath,
@@ -110,8 +112,19 @@ export default async function CareerAreaPage({ params }: { params: Promise<{ slu
                 "@type": "PostalAddress",
                 streetAddress: `${area.area} and surrounding localities`,
                 addressLocality: area.area,
+                postalCode: area.pincode,
                 addressRegion: "Karnataka",
                 addressCountry: "IN",
+            },
+        },
+        baseSalary: {
+            "@type": "MonetaryAmount",
+            currency: SALARY.currency,
+            value: {
+                "@type": "QuantitativeValue",
+                minValue: SALARY.min,
+                maxValue: SALARY.max,
+                unitText: SALARY.unit,
             },
         },
         applicantLocationRequirements: { "@type": "Country", name: "India" },
@@ -267,7 +280,7 @@ export default async function CareerAreaPage({ params }: { params: Promise<{ slu
                                     <div>
                                         <dt className="text-[#6B7280]">Compensation</dt>
                                         <dd className="font-semibold text-[#1F2933]">
-                                            Discussed at interview, based on experience
+                                            {SALARY_LABEL} (full-time), based on experience
                                         </dd>
                                     </div>
                                 </dl>
