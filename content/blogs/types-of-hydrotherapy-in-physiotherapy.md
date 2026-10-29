@@ -4,7 +4,7 @@ date: "2026-10-12"
 metaTitle: "Types of Hydrotherapy in Physiotherapy: Methods and Benefits"
 metaDescription: "Types of hydrotherapy in physiotherapy explained: aquatic exercise, warm, cold and contrast baths, what research shows, who should avoid it, and home options."
 excerpt: "Hydrotherapy is more than soaking in warm water. Here are the main types physiotherapists use, which condition each one suits, who should avoid it, and what you can safely do at home."
-coverImage: "/images/blog/thermotherapy-vs-cryotherapy-in-physiotherapy.jpg"
+coverImage: "/images/blog/types-of-hydrotherapy-in-physiotherapy.jpg"
 category: "Physiotherapy"
 ---
 Water has been used to soothe pain for thousands of years, but modern physiotherapy has turned it into a precise clinical tool. If you have searched for the types of hydrotherapy in physiotherapy, you have probably noticed that most pages give you a long list of names and stop there. They rarely tell you which type suits which problem, how warm the water should be, who should avoid it, or what you can safely do at home.
