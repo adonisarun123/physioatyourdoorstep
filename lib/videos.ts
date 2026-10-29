@@ -279,3 +279,12 @@ export function watchUrl(v: Pick<ChannelVideo, "id" | "format">): string {
         ? `https://www.youtube.com/shorts/${v.id}`
         : `https://www.youtube.com/watch?v=${v.id}`;
 }
+
+/** On-site watch page for a video — the URL Google indexes the video on. */
+export function videoPagePath(id: string): string {
+    return `/videos/${id}`;
+}
+
+export function getVideo(id: string): ChannelVideo | undefined {
+    return CHANNEL_VIDEOS.find((v) => v.id === id);
+}

@@ -118,3 +118,12 @@ export const GALLERY_TOTALS = {
     photos: GALLERY_EVENTS.reduce((n, e) => n + e.photos.length, 0),
     videos: GALLERY_EVENTS.filter((e) => e.video).length,
 };
+
+/** On-site watch page for an event's video (only events with a video have one). */
+export function galleryVideoPath(slug: string): string {
+    return `/gallery/${slug}/video`;
+}
+
+export function getGalleryEvent(slug: string): GalleryEvent | undefined {
+    return GALLERY_EVENTS.find((e) => e.slug === slug);
+}
