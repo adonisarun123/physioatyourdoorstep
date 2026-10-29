@@ -4,7 +4,7 @@ date: "2026-09-15"
 metaTitle: "ACBT in Physiotherapy: Active Cycle of Breathing Explained"
 metaDescription: "What ACBT in physiotherapy means, its 3 phases, step-by-step instructions and who needs it. An evidence-based guide with home care options in Bangalore."
 excerpt: "ACBT is one of the most widely used airway clearance techniques in respiratory physiotherapy, and it needs no equipment at all. Here are its three phases, how to perform it at home, who it helps, and what the research actually shows."
-coverImage: "/images/blog/physiotherapy-for-pulmonary-hypertension.jpg"
+coverImage: "/images/blog/acbt-in-physiotherapy.jpg"
 category: "Pulmonary Physiotherapy"
 ---
 If you or a family member has been told to "do your ACBT," it can feel confusing without a clear explanation of what that actually means. ACBT in physiotherapy stands for the Active Cycle of Breathing Technique, one of the most widely used and well-researched breathing exercises in respiratory physiotherapy. It is used to clear mucus from the lungs, improve airflow, and make breathing easier for people with a wide range of chest and lung conditions.

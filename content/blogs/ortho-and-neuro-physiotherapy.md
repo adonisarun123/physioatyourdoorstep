@@ -4,7 +4,7 @@ date: "2026-09-30"
 metaTitle: "Ortho and Neuro Physiotherapy: Conditions & Treatment"
 metaDescription: "What ortho and neuro physiotherapy treat, how they differ and overlap, what research says, and how home rehab works for fractures, stroke and nerve injury."
 excerpt: "Orthopaedic physiotherapy treats bones, joints and muscles; neurological physiotherapy retrains movement after brain, spinal cord or nerve damage. Here is how each works, where they overlap, and what to expect from home care."
-coverImage: "/images/blog/orthopaedic-conditions-in-physiotherapy.jpg"
+coverImage: "/images/blog/ortho-and-neuro-physiotherapy.jpg"
 category: "Physiotherapy"
 ---
 Ortho and neuro physiotherapy are two specialised branches of rehabilitation. Orthopaedic physiotherapy treats problems of bones, joints, muscles, ligaments and tendons. Neurological physiotherapy treats movement problems caused by damage to the brain, spinal cord or nerves. Many people need both, and a good treatment plan often blends the two.

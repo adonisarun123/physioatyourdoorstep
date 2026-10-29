@@ -4,7 +4,7 @@ date: "2026-10-03"
 metaTitle: "Erb's Palsy Physiotherapy Treatment: A Guide for Parents"
 metaDescription: "How Erb's palsy physiotherapy treatment works, from early passive range of motion to CIMT, taping and splinting, with recovery timelines and home exercises."
 excerpt: "Most babies with Erb's palsy regain much of their arm function, and physiotherapy is the biggest factor. This guide explains treatment by stage, home exercises, when surgery is considered, and what the research says."
-coverImage: "/images/blog/pediatric-physiotherapy-conditions.jpg"
+coverImage: "/images/blog/erbs-palsy-physiotherapy-treatment.jpg"
 category: "Pediatric Physiotherapy"
 ---
 Finding out that your newborn has Erb's palsy can be frightening, especially in the first few days when you are still learning what the diagnosis actually means. The good news, backed by decades of clinical research, is that most babies with this condition recover a large part of their arm function, and physiotherapy is the single most important factor in that recovery.

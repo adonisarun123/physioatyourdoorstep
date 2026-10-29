@@ -4,7 +4,7 @@ date: "2026-09-27"
 metaTitle: "Agonist and Antagonist in Physiotherapy: Complete Guide"
 metaDescription: "Agonist and antagonist muscles in physiotherapy: how reciprocal inhibition works, common muscle pairs, and why their balance shapes rehab and recovery."
 excerpt: "Every joint moves through a pair of muscles working in opposition. Here is what agonist and antagonist muscles are, how reciprocal inhibition works, and why their balance decides pain, posture and recovery."
-coverImage: "/images/blog/new-project-3-1.jpg"
+coverImage: "/images/blog/agonist-and-antagonist-in-physiotherapy.jpg"
 category: "Physiotherapy"
 ---
 If you have ever watched a physiotherapist assess how you bend your elbow or straighten your knee, you have already seen agonist and antagonist muscles at work, even if nobody used those words out loud. These two terms sit at the core of how physiotherapists understand movement, design exercise programs, and figure out why a joint is not moving the way it should.
