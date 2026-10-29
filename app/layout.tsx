@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import JsonLd from "@/components/JsonLd";
-import { organizationSchema, websiteSchema, localBusinessSchema } from "@/lib/seo";
+import { organizationSchema, websiteSchema } from "@/lib/seo";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -45,7 +45,7 @@ export default function RootLayout({
     return (
         <html lang="en-IN">
             <body>
-                <JsonLd data={[organizationSchema(), websiteSchema(), localBusinessSchema()]} />
+                <JsonLd data={[organizationSchema(), websiteSchema()]} />
                 <GoogleAnalytics />
                 {children}
             </body>

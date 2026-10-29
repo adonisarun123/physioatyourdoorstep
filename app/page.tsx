@@ -15,7 +15,6 @@ import Image from "next/image";
 import BlogCard from "@/components/BlogCard";
 import { getAllServices, getAllBlogs } from "@/lib/content";
 import { SITE } from "@/lib/seo";
-import { reviewsJsonLd } from "@/lib/reviews";
 import type { Metadata } from "next";
 
 const serviceIcons: Record<string, typeof Activity> = {
@@ -596,7 +595,7 @@ export default async function HomePage() {
                 </section>
             </main>
 
-            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer }))), reviewsJsonLd()]} />
+            <JsonLd data={[faqSchema(faqs.map((f) => ({ q: f.question, a: f.answer })))]} />
 
             <Footer />
             <CTABar />
