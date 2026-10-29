@@ -1,7 +1,7 @@
 ---
 title: "Torticollis Physiotherapy Treatment: Causes, Techniques & Recovery"
 date: "2026-03-26"
-metaTitle: "Torticollis Physiotherapy Treatment: Causes, Techniques & Recovery | Physio At Your Doorstep"
+metaTitle: "Torticollis Physiotherapy Treatment: Causes & Techniques"
 metaDescription: "Waking up with your neck twisted to one side, or watching your newborn hold their head at an awkward angle, can be alarming. These are the defining experiences "
 excerpt: "Waking up with your neck twisted to one side, or watching your newborn hold their head at an awkward angle, can be alarming. These are the defining experiences of torticollis, a condition that affects people across all age groups. The good news is that torticollis physiotherapy treatment is highly e"
 coverImage: "/images/blog/new-project-2-1.jpg"

@@ -20,7 +20,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
     title: "Physiotherapy Videos — Recovery Stories & Home Exercises",
     description:
-        "Watch patient recovery stories, at-home exercises and sports physiotherapy videos from Physio At Your Doorstep — ACL rehab, frozen shoulder, posture, back pain and more.",
+        "Patient recovery stories, home exercises and sports physiotherapy videos: ACL rehab, frozen shoulder, posture, back pain and more from our physiotherapists.",
     alternates: { canonical: "/videos" },
     openGraph: {
         title: "Physiotherapy Videos — Recovery Stories & Home Exercises",

@@ -599,7 +599,7 @@ Take control of your health today. Your journey to pain-free living starts with 
 ### Medical and Scientific Sources:
 
 1. Mayo Clinic – Cervical Disc Disease and Treatment Guidelines
-  - [mayoclinic.org/diseases-conditions/herniated-disk](https://mayoclinic.org/)
+  - [mayoclinic.org/diseases-conditions/herniated-disk](https://www.mayoclinic.org/)
 2. PubMed Studies on Physiotherapy for Cervical Prolapse:
   - “Effectiveness of Manual Therapy and Exercise for Cervical Radiculopathy” – Journal of Orthopedic & Sports Physical Therapy, 2023
   - “Conservative Management of Cervical Disc Herniation: A Systematic Review” – Spine Journal, 2022

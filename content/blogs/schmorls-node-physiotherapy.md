@@ -2,9 +2,9 @@
 title: "Schmorl’s Node Physiotherapy Management: Rehab Guide"
 date: "2026-05-19"
 metaTitle: "Schmorl's Node Physiotherapy Management: Rehab Guide"
-metaDescription: "A complete guide to Schmorl's node physiotherapy management covering symptoms, treatment, and recovery methods."
+metaDescription: "Schmorl's node physiotherapy management: symptoms, diagnosis, treatment options, core exercises and a practical recovery plan for lasting back pain relief."
 excerpt: "If you have been diagnosed with a Schmorl’s node or discovered one incidentally on a spinal MRI, you may have walked away with more questions than answers. What exactly is this condition?"
-coverImage: "/images/blog/schmorls-node-physiotherapy.png"
+coverImage: "/images/blog/schmorls-node-physiotherapy.webp"
 category: "Orthopaedic Physiotherapy"
 ---
 If you have been diagnosed with a Schmorl’s node or discovered one incidentally on a spinal MRI, you may have walked away with more questions than answers. What exactly is this condition? Will it cause long-term back pain? And most importantly, how does physiotherapy help you recover from it? This guide breaks everything down clearly so you can move forward with confidence.

@@ -1,7 +1,7 @@
 ---
 title: "Types of Neurological Rehabilitation: A Recovery Guide"
 date: "2025-11-24"
-metaTitle: "Types of Neurological Rehabilitation: A Recovery Guide | Physio At Your Doorstep"
+metaTitle: "Types of Neurological Rehabilitation: A Recovery Guide"
 metaDescription: "Neurological conditions can dramatically alter life as you know it, affecting everything from basic movements to cognitive abilities and emotional well-being. W"
 excerpt: "Neurological conditions can dramatically alter life as you know it, affecting everything from basic movements to cognitive abilities and emotional well-being. Whether you’re recovering from a stroke, managing Parkinson’s disease, or supporting a loved one through a spinal cord injury, understanding "
 coverImage: "/images/blog/new-project-2-1.jpg"

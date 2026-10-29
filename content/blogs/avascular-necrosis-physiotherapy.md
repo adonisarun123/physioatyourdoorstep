@@ -1,7 +1,7 @@
 ---
 title: "Avascular Necrosis Physiotherapy Treatment and Rehab Guide"
 date: "2026-04-15"
-metaTitle: "Avascular Necrosis Physiotherapy Treatment and Rehab Guide | Physio At Your Doorstep"
+metaTitle: "Avascular Necrosis Physiotherapy Treatment and Rehab Guide"
 metaDescription: "Imagine waking up one morning with a dull ache in your hip that refuses to go away. You assume it is a pulled muscle, perhaps from sitting too long or overdoing"
 excerpt: "Imagine waking up one morning with a dull ache in your hip that refuses to go away. You assume it is a pulled muscle, perhaps from sitting too long or overdoing it at work. Weeks pass. The pain deepens. Walking to the kitchen becomes a deliberate, cautious act. Then comes the diagnosis — Avascular N"
 coverImage: "/images/blog/new-project-1.jpg"

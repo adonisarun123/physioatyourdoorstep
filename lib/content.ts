@@ -80,6 +80,10 @@ export interface CategoryContent {
     slug: string;
     name: string;
     description: string;
+    /** SEO <title>; falls back to name. */
+    metaTitle?: string;
+    /** SEO meta description (120–160 chars); falls back to description. */
+    metaDescription?: string;
 }
 
 export interface ServiceSummary {
@@ -93,15 +97,15 @@ export interface ServiceSummary {
 // ---------------- categories ----------------
 
 export const CATEGORIES: CategoryContent[] = [
-    { id: 1, slug: "physiotherapy", name: "Physiotherapy", description: "General physiotherapy articles and information" },
-    { id: 2, slug: "neurological-physiotherapy", name: "Neurological Physiotherapy", description: "Neurological conditions and treatments" },
-    { id: 3, slug: "geriatric-physiotherapy", name: "Geriatric Physiotherapy", description: "Physiotherapy for elderly patients" },
-    { id: 4, slug: "pediatric-physiotherapy", name: "Pediatric Physiotherapy", description: "Physiotherapy for children" },
-    { id: 5, slug: "pulmonary-physiotherapy", name: "Pulmonary Physiotherapy", description: "Respiratory and lung-related physiotherapy" },
-    { id: 6, slug: "post-surgical-physiotherapy", name: "Post-Surgical Physiotherapy", description: "Rehabilitation after surgery" },
-    { id: 7, slug: "physiotherapy-at-pregnancy", name: "Physiotherapy at Pregnancy", description: "Physiotherapy during and after pregnancy" },
-    { id: 8, slug: "orthopaedic-physiotherapy", name: "Orthopaedic Physiotherapy", description: "Musculoskeletal and bone-related physiotherapy" },
-    { id: 9, slug: "sports-physiotherapy", name: "Sports Physiotherapy", description: "Sports injuries and athletic performance" },
+    { id: 1, slug: "physiotherapy", name: "Physiotherapy", description: "General physiotherapy articles and information", metaTitle: "Physiotherapy Blog: Expert Guides, Exercises & Tips", metaDescription: "Expert physiotherapy articles: conditions, treatment techniques, home exercises and recovery advice from the physiotherapists at Physio At Your Doorstep." },
+    { id: 2, slug: "neurological-physiotherapy", name: "Neurological Physiotherapy", description: "Neurological conditions and treatments", metaTitle: "Neurological Physiotherapy Articles & Recovery Guides", metaDescription: "Guides on neurological physiotherapy for stroke, Parkinson’s, multiple sclerosis, facial palsy and nerve injuries: assessment, techniques and home exercises." },
+    { id: 3, slug: "geriatric-physiotherapy", name: "Geriatric Physiotherapy", description: "Physiotherapy for elderly patients", metaTitle: "Geriatric Physiotherapy Articles: Elderly Care Guides", metaDescription: "Physiotherapy guides for elderly patients: arthritis, balance and fall prevention, mobility, cardiac rehab and safe home exercise programmes for seniors." },
+    { id: 4, slug: "pediatric-physiotherapy", name: "Pediatric Physiotherapy", description: "Physiotherapy for children", metaTitle: "Pediatric Physiotherapy Articles: Guides for Parents", metaDescription: "Pediatric physiotherapy guides for parents: developmental delays, torticollis, Erb’s palsy, chest physiotherapy and how home therapy supports your child." },
+    { id: 5, slug: "pulmonary-physiotherapy", name: "Pulmonary Physiotherapy", description: "Respiratory and lung-related physiotherapy", metaTitle: "Pulmonary Physiotherapy Articles: Breathing & Lung Care", metaDescription: "Pulmonary physiotherapy guides: COPD, pneumonia, breathing techniques such as ACBT, airway clearance and exercise to improve lung function at home." },
+    { id: 6, slug: "post-surgical-physiotherapy", name: "Post-Surgical Physiotherapy", description: "Rehabilitation after surgery", metaTitle: "Post-Surgical Physiotherapy Articles & Rehab Guides", metaDescription: "Rehab guides after surgery: knee and hip replacement, ACL reconstruction, spine, cardiac and fracture surgery, with phase-by-phase physiotherapy plans." },
+    { id: 7, slug: "physiotherapy-at-pregnancy", name: "Physiotherapy at Pregnancy", description: "Physiotherapy during and after pregnancy", metaTitle: "Pregnancy Physiotherapy Articles: Prenatal & Postnatal", metaDescription: "Physiotherapy during and after pregnancy: back and pelvic pain, safe exercises, pelvic floor recovery, postnatal rehab and preparing your body for birth." },
+    { id: 8, slug: "orthopaedic-physiotherapy", name: "Orthopaedic Physiotherapy", description: "Musculoskeletal and bone-related physiotherapy", metaTitle: "Orthopaedic Physiotherapy Articles: Joint & Spine Guides", metaDescription: "Orthopaedic physiotherapy guides for back and neck pain, disc problems, arthritis, frozen shoulder, tennis elbow and other joint and muscle conditions." },
+    { id: 9, slug: "sports-physiotherapy", name: "Sports Physiotherapy", description: "Sports injuries and athletic performance", metaTitle: "Sports Physiotherapy Articles: Injury Rehab Guides", metaDescription: "Sports physiotherapy guides: ACL, ligament and muscle injuries, return-to-sport rehab, injury prevention and performance training for active people." },
 ];
 
 const categoryByName = new Map(CATEGORIES.map((c) => [c.name.toLowerCase(), c]));
@@ -273,17 +277,17 @@ export function getBlogsByCategory(categorySlug: string): BlogContent[] {
 // ---------------- services ----------------
 
 /** Static service index: slug order controls display order. */
-const SERVICE_INDEX: Array<{ slug: string; file: string; title: string; description: string }> = [
-    { slug: "orthopaedic-physiotherapy", file: "orthopaedic-physiotherapy", title: "Orthopaedic Physiotherapy", description: "Expert treatment for musculoskeletal conditions, joint pain, and mobility issues." },
-    { slug: "neurological-physiotherapy", file: "neurological-physiotherapy", title: "Neurological Physiotherapy", description: "Comprehensive care for neurological conditions to improve function and quality of life." },
-    { slug: "sports-physiotherapy", file: "sports-physiotherapy", title: "Sports Physiotherapy", description: "Specialized care for athletes and sports injuries to enhance performance and recovery." },
-    { slug: "geriatric-physiotherapy", file: "geriatric-physiotherapy", title: "Geriatric Physiotherapy", description: "Specialized care for elderly patients focusing on mobility, balance, and independence." },
-    { slug: "post-surgical-physiotherapy", file: "post-surgical-physiotherapy", title: "Post Surgical Physiotherapy", description: "Rehabilitation programs designed to accelerate recovery after surgical procedures." },
-    { slug: "pediatric-physiotherapy", file: "pediatric-physiotherapy", title: "Pediatric Physiotherapy", description: "Gentle, engaging physiotherapy that supports your child's development and mobility." },
-    { slug: "physiotherapy-in-pregnancy", file: "physiotherapy-during-pregnancy", title: "Physiotherapy in Pregnancy", description: "Safe, supportive care for back pain, pelvic health, and fitness through pregnancy." },
-    { slug: "pulmonary-physiotherapy", file: "pulmonary-physiotherapy", title: "Pulmonary Physiotherapy", description: "Breathing exercises and techniques to improve respiratory function and lung capacity." },
-    { slug: "corporate-wellness-physiotherapy-program", file: "corporate-wellness-physiotherapy", title: "Corporate Wellness Physiotherapy Program", description: "Workplace ergonomics and wellness programs that keep your teams pain-free and productive." },
-    { slug: "online-physiotherapy-consultation-india", file: "online-physiotherapy-consultation", title: "Online Physiotherapy", description: "Expert physiotherapy consultations from anywhere in India, over video." },
+const SERVICE_INDEX: Array<{ slug: string; file: string; title: string; description: string; metaTitle: string }> = [
+    { slug: "orthopaedic-physiotherapy", file: "orthopaedic-physiotherapy", title: "Orthopaedic Physiotherapy", description: "Expert treatment for musculoskeletal conditions, joint pain, and mobility issues.", metaTitle: "Orthopaedic Physiotherapy at Home | Joint & Back Pain Care" },
+    { slug: "neurological-physiotherapy", file: "neurological-physiotherapy", title: "Neurological Physiotherapy", description: "Comprehensive care for neurological conditions to improve function and quality of life.", metaTitle: "Neurological Physiotherapy at Home | Stroke & Neuro Rehab" },
+    { slug: "sports-physiotherapy", file: "sports-physiotherapy", title: "Sports Physiotherapy", description: "Specialized care for athletes and sports injuries to enhance performance and recovery.", metaTitle: "Sports Physiotherapy at Home | Injury Rehab in Bangalore" },
+    { slug: "geriatric-physiotherapy", file: "geriatric-physiotherapy", title: "Geriatric Physiotherapy", description: "Specialized care for elderly patients focusing on mobility, balance, and independence.", metaTitle: "Geriatric Physiotherapy at Home | Elderly Care Bangalore" },
+    { slug: "post-surgical-physiotherapy", file: "post-surgical-physiotherapy", title: "Post Surgical Physiotherapy", description: "Rehabilitation programs designed to accelerate recovery after surgical procedures.", metaTitle: "Post-Surgical Physiotherapy at Home | Rehab in Bangalore" },
+    { slug: "pediatric-physiotherapy", file: "pediatric-physiotherapy", title: "Pediatric Physiotherapy", description: "Gentle, engaging physiotherapy that supports your child's development and mobility.", metaTitle: "Pediatric Physiotherapy at Home for Children | Bangalore" },
+    { slug: "physiotherapy-in-pregnancy", file: "physiotherapy-during-pregnancy", title: "Physiotherapy in Pregnancy", description: "Safe, supportive care for back pain, pelvic health, and fitness through pregnancy.", metaTitle: "Physiotherapy During Pregnancy | Prenatal & Postnatal Care" },
+    { slug: "pulmonary-physiotherapy", file: "pulmonary-physiotherapy", title: "Pulmonary Physiotherapy", description: "Breathing exercises and techniques to improve respiratory function and lung capacity.", metaTitle: "Pulmonary Physiotherapy at Home | Breathing & Lung Rehab" },
+    { slug: "corporate-wellness-physiotherapy-program", file: "corporate-wellness-physiotherapy", title: "Corporate Wellness Physiotherapy Program", description: "Workplace ergonomics and wellness programs that keep your teams pain-free and productive.", metaTitle: "Corporate Wellness Physiotherapy Program in Bangalore" },
+    { slug: "online-physiotherapy-consultation-india", file: "online-physiotherapy-consultation", title: "Online Physiotherapy", description: "Expert physiotherapy consultations from anywhere in India, over video.", metaTitle: "Online Physiotherapy Consultation in India | Video Sessions" },
 ];
 
 export function getAllServices(): ServiceSummary[] {
@@ -299,6 +303,11 @@ export function getAllServices(): ServiceSummary[] {
 /** Maps a service URL slug to its markdown file name under /markdown. */
 export function getServiceFile(slug: string): string | undefined {
     return SERVICE_INDEX.find((s) => s.slug === slug)?.file;
+}
+
+/** SEO <title> for a global service page (the markdown H1 is too long for SERPs). */
+export function getServiceMetaTitle(slug: string): string | undefined {
+    return SERVICE_INDEX.find((s) => s.slug === slug)?.metaTitle;
 }
 
 /** Display title for a global service slug. */

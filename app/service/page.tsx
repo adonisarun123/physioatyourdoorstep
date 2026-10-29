@@ -12,7 +12,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Our Services | Professional Physiotherapy Treatments",
-    description: "Comprehensive physiotherapy services including sports physiotherapy, post-surgical rehabilitation, neurological care, geriatric therapy, and more. Expert treatment at your home.",
+    description: "Physiotherapy at home: sports, post-surgical, neurological, geriatric, orthopaedic, pediatric and pulmonary care from expert physiotherapists near you.",
     alternates: { canonical: "/service" },
     openGraph: { title: "Our Services", url: "/service", type: "website", images: ["/images/logo-square.webp"], },
 };

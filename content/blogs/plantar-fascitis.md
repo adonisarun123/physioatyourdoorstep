@@ -1,7 +1,7 @@
 ---
 title: "Plantar Fascitis: Causes, Symptoms & Best Treatments"
 date: "2025-01-13"
-metaTitle: "Plantar Fascitis: Causes, Symptoms & Best Treatments | Physio At Your Doorstep"
+metaTitle: "Plantar Fascitis: Causes, Symptoms & Best Treatments"
 metaDescription: "PLANTAR FASCITIS It is Inflammation of the thick band of tissue that connects the heel bone to the toes. CAUSES: Plantar fasciitis is most commonly caused by re"
 excerpt: "PLANTAR FASCITIS It is Inflammation of the thick band of tissue that connects the heel bone to the toes. CAUSES: Plantar fasciitis is most commonly caused by repetitive strain injury to the ligament of the sole of the foot. Such strain injury can be from excessive running or walking, inadequate foot"
 coverImage: "/images/blog/banner4-1536x608-1.jpg"
@@ -26,27 +26,27 @@ The treatment includes physical therapy, stretching exercises, shoe inserts, ana
 
 ### PHYSIOTHERAPY EXERCISES
 
-![Tennis Ball Roll](/images/blog/image003-1.png)
+![Tennis Ball Roll](/images/blog/image003-1.webp)
 
 ### Tennis Ball Roll
 
-![Towel Stretch](/images/blog/image005-1.png)
+![Towel Stretch](/images/blog/image005-1.webp)
 
 ### Towel Stretch
 
-![Toe Stretch](/images/blog/image007-1.png)
+![Toe Stretch](/images/blog/image007-1.webp)
 
 ### Toe Stretch
 
-![Toe Curls](/images/blog/image009-1.png)
+![Toe Curls](/images/blog/image009-1.webp)
 
 ### Toe Curls
 
-![Calf Stretch](/images/blog/image011.png)
+![Calf Stretch](/images/blog/image011.webp)
 
 ### Calf Stretch
 
-![Picking Up Marbles](/images/blog/image013.png)
+![Picking Up Marbles](/images/blog/image013.webp)
 
 ### Picking Up Marbles
 

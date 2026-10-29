@@ -1,7 +1,7 @@
 ---
 title: "Facial Palsy Physiotherapy Treatment: A Complete Recovery Guide (2026)"
 date: "2026-08-07"
-metaTitle: "Facial Palsy Physiotherapy Treatment: Complete Recovery Guide"
+metaTitle: "Facial Palsy Physiotherapy Treatment: Recovery Guide"
 metaDescription: "Facial palsy physiotherapy treatment explained: causes, the phased rehab approach, facial retraining exercises, synkinesis, and recovery timelines."
 excerpt: "Facial palsy affects how you eat, speak, blink and express yourself. Here is how physiotherapy helps you regain facial movement, symmetry and confidence, phase by phase, and what a realistic recovery looks like."
 coverImage: "/images/blog/facial-palsy-physiotherapy-treatment.jpg"
@@ -112,8 +112,8 @@ Ready to start your recovery? [Explore our neurological physiotherapy service](/
 For readers who want to explore the clinical background and evidence further, these are reliable starting points:
 
 - [Facial Palsy — Physiopedia](https://www.physio-pedia.com/Facial_Palsy)
-- [Physiotherapy Management of Bell's Palsy: A Case Report (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12355149/)
-- [The Use of Mirror Therapy in Peripheral Seventh Nerve Palsy: A Systematic Review (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11202037/)
+- [Physiotherapy Management of Bell's Palsy: A Case Report (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12355149/)
+- [The Use of Mirror Therapy in Peripheral Seventh Nerve Palsy: A Systematic Review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11202037/)
 
 You can also browse our full range of [physiotherapy services](/service) or read more expert advice on our [physiotherapy blog](/blogs).
 

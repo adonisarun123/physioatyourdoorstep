@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Banashankari, Bangalore | Home Care"
 city: "Bangalore"
 area: "Banashankari"
-metaTitle: "Best Physiotherapist in Banashankari, Bangalore | Home Care | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Banashankari, Bangalore | Home Care"
 metaDescription: "Expert home physiotherapy in Banashankari, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

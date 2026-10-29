@@ -1,7 +1,7 @@
 ---
 title: "Hemiparesis Treatment in Physiotherapy Recovery Guide"
 date: "2026-06-28"
-metaTitle: "Hemiparesis Treatment in Physiotherapy Recovery Guide | Physio At Your Doorstep"
+metaTitle: "Hemiparesis Treatment in Physiotherapy Recovery Guide"
 metaDescription: "Introduction: Understanding Hemiparesis and Why Early Physiotherapy MattersIf you or a loved one has been told you have hemiparesis, the first question that nat"
 excerpt: "Introduction: Understanding Hemiparesis and Why Early Physiotherapy MattersIf you or a loved one has been told you have hemiparesis, the first question that naturally follows is: “What can be done about it?” The short answer is a great deal, especially with the right physiotherapy intervention start"
 coverImage: "/images/blog/new-project-3.jpg"

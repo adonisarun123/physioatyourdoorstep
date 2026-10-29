@@ -1,14 +1,12 @@
 ---
 title: "Cervical PIVD Physiotherapy Treatment: Complete Recovery Guide"
 date: "2025-10-29"
-metaTitle: "Cervical PIVD Physiotherapy Treatment: Complete Recovery Guide | Physio At Your Doorstep"
-metaDescription: ""
-excerpt: ""
+metaTitle: "Cervical PIVD Physiotherapy: Treatment & Recovery Guide"
+metaDescription: "Cervical PIVD physiotherapy explained: symptoms of a neck disc prolapse, treatment techniques, home exercises and a recovery timeline for lasting relief."
+excerpt: "Cervical PIVD physiotherapy explained: symptoms of a neck disc prolapse, treatment techniques, home exercises and a recovery timeline for lasting relief."
 coverImage: "/images/blog/new-project-1.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
-
-######
 
 Living with neck pain that radiates down your arms can be debilitating. If you’ve been diagnosed with Cervical PIVD (Prolapsed Intervertebral Disc), understanding your treatment options is the first step toward recovery. Physiotherapy offers a non-surgical, evidence-based approach to managing cervical disc herniation, helping you regain mobility and return to daily activities pain-free.
 

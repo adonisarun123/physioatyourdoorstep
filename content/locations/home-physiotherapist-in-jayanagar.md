@@ -2,7 +2,7 @@
 title: "Home Physiotherapist in Jayanagar | Expert Physiotherapy at Your Doorstep"
 city: "Bangalore"
 area: "Jayanagar"
-metaTitle: "Home Physiotherapist in Jayanagar | Physio at Your Doorstep"
+metaTitle: "Home Physiotherapist in Jayanagar, Bangalore | 24×7 Visits"
 metaDescription: "Get a Certified home physiotherapist in Jayanagar. Expert physiotherapy at your doorstep for pain relief, rehab & mobility. Book your session today!"
 ---
 

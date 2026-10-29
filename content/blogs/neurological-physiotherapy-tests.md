@@ -1,7 +1,7 @@
 ---
 title: "Neurological Physiotherapy Tests for Patient Evaluation"
 date: "2026-01-28"
-metaTitle: "Neurological Physiotherapy Tests for Patient Evaluation | Physio At Your Doorstep"
+metaTitle: "Neurological Physiotherapy Tests for Patient Evaluation"
 metaDescription: "Neurological physiotherapy tests form the cornerstone of effective rehabilitation for individuals dealing with nervous system disorders. Whether you’re recoveri"
 excerpt: "Neurological physiotherapy tests form the cornerstone of effective rehabilitation for individuals dealing with nervous system disorders. Whether you’re recovering from a stroke, managing Parkinson’s disease, or dealing with spinal cord injuries, understanding these specialized assessment techniques "
 coverImage: "/images/blog/new-project-1-1.jpg"

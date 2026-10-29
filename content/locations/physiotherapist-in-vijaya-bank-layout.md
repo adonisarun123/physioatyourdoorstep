@@ -3,7 +3,7 @@ title: "Best Physiotherapist in Vijaya Bank Layout, Bangalore | Home Physiothera
 city: "Bangalore"
 area: "Vijaya Bank Layout"
 metaTitle: "Best Physiotherapist in Vijaya Bank Layout | Home Physio"
-metaDescription: "Certified physiotherapists at home in Vijaya Bank Layout, Bilekahalli — back pain, post-surgery rehab, stroke, sports injuries, senior and child care. ₹799–₹1,099."
+metaDescription: "Physiotherapists at home in Vijaya Bank Layout, Bilekahalli: back pain, post-surgery rehab, stroke, sports injuries, senior and child care. ₹799–₹1,099."
 ---
 
 ## Expert Home Physiotherapy in Vijaya Bank Layout

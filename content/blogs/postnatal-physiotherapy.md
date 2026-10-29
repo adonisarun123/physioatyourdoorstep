@@ -2,7 +2,7 @@
 title: "Postnatal Physiotherapy: Assessment and Exercise Guide"
 date: "2026-04-30"
 metaTitle: "Postnatal Physiotherapy: Assessment and Exercise Guide"
-metaDescription: "Postnatal physiotherapy guide covering assessment, safe exercises, and postpartum management for recovery and strength."
+metaDescription: "Postnatal physiotherapy guide: assessment, safe postpartum exercises, pelvic floor and core recovery, and when to start rebuilding strength after delivery."
 excerpt: "Giving birth is one of the most physically demanding events a body can experience. Yet, the postpartum period often called the “fourth trimester” receives far less clinical attention than pregnancy itself."
 coverImage: "/images/blog/postnatal-physiotherapy.jpg"
 category: "Physiotherapy at Pregnancy"

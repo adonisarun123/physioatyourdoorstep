@@ -2,7 +2,7 @@
 title: "Home Physiotherapist in JP Nagar | Expert Physiotherapy at Your Doorstep"
 city: "Bangalore"
 area: "JP Nagar"
-metaTitle: "Best Physiotherapist in JP Nagar | Physio at Your Doorstep"
+metaTitle: "Best Physiotherapist in JP Nagar, Bangalore | Home Visits"
 metaDescription: "Book a certified home physiotherapist in JP Nagar for personalized treatment. Convenient, professional care at your doorstep. Schedule your session now!"
 ---
 

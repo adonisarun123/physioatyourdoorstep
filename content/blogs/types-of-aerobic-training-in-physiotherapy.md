@@ -1,7 +1,7 @@
 ---
 title: "Types of Aerobic Training in Physiotherapy: A Complete Evidence-Based Guide"
 date: "2026-09-24"
-metaTitle: "Types of Aerobic Training in Physiotherapy: Evidence-Based Guide"
+metaTitle: "Types of Aerobic Training in Physiotherapy: Full Guide"
 metaDescription: "The 8 types of aerobic training used in physiotherapy, how intensity is dosed with FITT, which type suits your condition, and how to progress safely."
 excerpt: "Rehabilitation cardio is not a gym session. Learn the eight types of aerobic training physiotherapists use, how intensity is measured, which type fits your condition, and how to progress safely."
 coverImage: "/images/blog/geriatric-cardio-physiotherapy.jpg"
@@ -298,7 +298,7 @@ Whether you need cardio-respiratory conditioning, post-surgical reconditioning o
 ## References and Resources
 
 1. Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. *British Journal of Sports Medicine*. 2020;54(24):1451-1462. doi:10.1136/bjsports-2020-102955. <https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/>
-2. Du L, Zhang X, Chen K, Ren X, Chen S, He Q. Effect of high-intensity interval training on physical health in coronary artery disease patients: a meta-analysis of randomized controlled trials. *Journal of Cardiovascular Development and Disease*. 2021;8(11):158. doi:10.3390/jcdd8110158. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8622669/>
+2. Du L, Zhang X, Chen K, Ren X, Chen S, He Q. Effect of high-intensity interval training on physical health in coronary artery disease patients: a meta-analysis of randomized controlled trials. *Journal of Cardiovascular Development and Disease*. 2021;8(11):158. doi:10.3390/jcdd8110158. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8622669/>
 3. Liou K, Ho S, Fildes J, Ooi SY. High intensity interval versus moderate intensity continuous training in patients with coronary artery disease: a meta-analysis of physiological and clinical parameters. *Heart, Lung and Circulation*. 2016. doi:10.1016/j.hlc.2015.06.828
 4. Effects of high-intensity interval vs. moderate-intensity continuous training on cardiac rehabilitation in patients with cardiovascular disease: a systematic review and meta-analysis. <https://pmc.ncbi.nlm.nih.gov/articles/PMC8904881/>
 5. Comparison of the effect of interval aerobic training and continuous training on coronary artery disease. ClinicalTrials.gov NCT06525233. <https://clinicaltrials.gov/study/NCT06525233>

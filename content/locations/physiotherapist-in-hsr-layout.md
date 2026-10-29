@@ -2,7 +2,7 @@
 title: "Home Physiotherapist in HSR Layout | Expert Care at Your Doorstep"
 city: "Bangalore"
 area: "HSR Layout"
-metaTitle: "Best Physiotherapist in HSR Layout | Physio at Your Doorstep"
+metaTitle: "Best Physiotherapist in HSR Layout, Bangalore | Home Visits"
 metaDescription: "Get expert home physiotherapist in HSR Layout. Personalized care at your doorstep for pain relief, recovery, and mobility. Book your session today!"
 ---
 

@@ -2,7 +2,7 @@
 title: "Best Physiotherapist in Ashok Nagar Bangalore"
 city: "Bangalore"
 area: "Ashok Nagar"
-metaTitle: "Best Physiotherapist in Ashok Nagar Bangalore | Physio At Your Doorstep"
+metaTitle: "Best Physiotherapist in Ashok Nagar Bangalore"
 metaDescription: "Expert home physiotherapy in Ashok Nagar, Bangalore. Certified physiotherapists at your doorstep for pain relief, rehab and recovery."
 ---
 

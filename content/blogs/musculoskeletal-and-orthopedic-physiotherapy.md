@@ -1,7 +1,7 @@
 ---
 title: "Musculoskeletal & Orthopedic Physiotherapy | Complete Guide"
 date: "2025-11-06"
-metaTitle: "Musculoskeletal & Orthopedic Physiotherapy | Complete Guide | Physio At Your Doorstep"
+metaTitle: "Musculoskeletal & Orthopedic Physiotherapy | Complete Guide"
 metaDescription: "When joint pain, muscle stiffness, or mobility issues affect your daily life, understanding your treatment options becomes crucial. Musculoskeletal and orthoped"
 excerpt: "When joint pain, muscle stiffness, or mobility issues affect your daily life, understanding your treatment options becomes crucial. Musculoskeletal and orthopedic physiotherapy stands as one of the most effective, non-invasive approaches to restoring function, reducing pain, and preventing future in"
 coverImage: "/images/blog/new-project-2.jpg"

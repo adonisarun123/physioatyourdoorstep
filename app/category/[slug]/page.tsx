@@ -27,13 +27,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
 
-    const description = category.description || `Read articles about ${category.name}`;
+    const description = category.metaDescription || category.description || `Read articles about ${category.name}`;
+    const title = category.metaTitle || category.name;
 
     return {
-        title: category.name,
+        title,
         description,
         alternates: { canonical: `/category/${slug}` },
-        openGraph: { title: category.name, description, url: `/category/${slug}`, type: "website" },
+        openGraph: { title, description, url: `/category/${slug}`, type: "website" },
     };
 }
 

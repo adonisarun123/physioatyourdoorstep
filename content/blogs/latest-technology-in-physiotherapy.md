@@ -1,7 +1,7 @@
 ---
 title: "Latest Technology in Physiotherapy: Smarter Recovery Techniques"
 date: "2025-10-15"
-metaTitle: "Latest Technology in Physiotherapy: Smarter Recovery Techniques | Physio At Your Doorstep"
+metaTitle: "Latest Technology in Physiotherapy: Smarter Recovery"
 metaDescription: "The landscape of rehabilitation medicine has undergone a remarkable transformation in recent years. What was once limited to manual techniques and conventional "
 excerpt: "The landscape of rehabilitation medicine has undergone a remarkable transformation in recent years. What was once limited to manual techniques and conventional exercise protocols has evolved into a sophisticated field powered by cutting-edge innovations. The latest technology in physiotherapy is not"
 coverImage: "/images/blog/new-project-2.jpg"

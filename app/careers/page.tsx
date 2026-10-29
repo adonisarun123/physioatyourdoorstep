@@ -33,9 +33,9 @@ import type { Metadata } from "next";
 const areas = getAllCareerAreas();
 
 export const metadata: Metadata = {
-    title: "Careers | Physiotherapist Jobs in Bangalore — Full-time, Part-time & Freelance",
+    title: "Physiotherapist Jobs in Bangalore | Home-Visit Careers",
     description:
-        "Physiotherapist jobs across Bangalore with Physio At Your Doorstep. Full-time, part-time and freelance home-visit roles in Koramangala, HSR Layout, Whitefield, Indiranagar, Electronic City and 19 more areas. BPT minimum, MPT preferred. Apply with your CV.",
+        "Physiotherapist jobs across Bangalore: full-time, part-time and freelance home-visit roles in 24 areas. BPT minimum, MPT preferred. Apply with your CV.",
     alternates: { canonical: "/careers" },
     openGraph: {
         title: "Careers — Physiotherapist Jobs in Bangalore",

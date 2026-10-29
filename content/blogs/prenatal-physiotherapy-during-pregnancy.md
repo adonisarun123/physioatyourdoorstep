@@ -1,7 +1,7 @@
 ---
 title: "Prenatal Physiotherapy During Pregnancy: Your Complete Guide"
 date: "2026-01-16"
-metaTitle: "Prenatal Physiotherapy During Pregnancy: Your Complete Guide | Physio At Your Doorstep"
+metaTitle: "Prenatal Physiotherapy During Pregnancy: Your Complete Guide"
 metaDescription: "Bunions can significantly impact your daily activities, from walking and exercising to simply wearing your favorite shoes. While conservative treatments like or"
 excerpt: "Bunions can significantly impact your daily activities, from walking and exercising to simply wearing your favorite shoes. While conservative treatments like orthotics and proper footwear often provide relief, sometimes surgical intervention becomes necessary to restore proper foot function and elim"
 coverImage: "/images/blog/new-project-1.jpg"
@@ -506,9 +506,9 @@ Don’t let bunion pain limit your life. Contact us today to schedule your consu
 
 For more information about foot and ankle conditions and treatments available at Sports Orthopedics Institute, explore these resources:
 
-- [Understanding Ankle Pain: Causes and Treatment Options](https://www.sportsorthopedics.in/bone-joint-school/ankle-pain)
+- [Understanding Ankle Pain: Causes and Treatment Options](https://sportsorthopedics.in/bone-joint-school/ankle-pain)
 - [Inversion Ankle Sprains: Complete Recovery Guide](https://sportsorthopedics.in/inversion-ankle-sprains)
-- [Sports Orthopedics Institute: Meet Our Team](https://www.sportsorthopedics.in/surgeons-staff)
+- [Sports Orthopedics Institute: Meet Our Team](https://sportsorthopedics.in/surgeons-staff)
 
 ### Expert References
 

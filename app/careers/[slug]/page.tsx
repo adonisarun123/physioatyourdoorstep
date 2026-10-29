@@ -56,8 +56,11 @@ export async function generateMetadata({
     const area = areaFromParam(slug);
     if (!area) return {};
 
-    const title = `Physiotherapist Jobs in ${area.area}, Bangalore | Full-time, Part-time & Freelance`;
-    const description = `Hiring physiotherapists for home visits in ${area.area}, Bangalore — full-time, part-time or freelance. BPT minimum, MPT preferred, own two-wheeler required. Cover ${area.nearby.slice(0, 3).join(", ")} and nearby. Apply with your CV.`;
+    // Keep <title> ≤60 chars: add the suffix only where the area name leaves room.
+    const baseTitle = `Physiotherapist Jobs in ${area.area}, Bangalore`;
+    const title = baseTitle.length <= 46 ? `${baseTitle} | Home Visits` : baseTitle;
+    // Keep description 120–160 chars for every area name length.
+    const description = `Physiotherapist jobs in ${area.area}, Bangalore: full-time, part-time or freelance home visits. BPT minimum, MPT preferred. Apply with your CV.`;
 
     return {
         title,

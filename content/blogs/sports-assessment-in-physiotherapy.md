@@ -182,7 +182,7 @@ Whether you’re a runner, weekend footballer, badminton player, or a competitiv
 - Physiopedia — [Screening in Sport](https://www.physio-pedia.com/Screening_in_Sport)
 - Physiopedia — [Pre-season Evaluation in Sport](https://www.physio-pedia.com/Pre-Season_Evaluation_in_Sport)
 - [2016 Return-to-Sport Consensus (BJSM)](https://bjsm.bmj.com/content/50/14/853.abstract)
-- AAFP summary of the PPE ([athlete pre-participation eval](https://www.aafp.org/pubs/afp/issues/2021/0501/p539.pdf))
+- AAFP summary of the PPE ([athlete pre-participation eval](https://www.aafp.org/afp/2021/0501/p539.pdf))
 - IOC 2023 RED-S consensus ([energy deficiency](https://stillmed.olympics.com/media/Documents/Athletes/Medical-Scientific/Consensus-Statements/REDs/BJSM-IOC-consensus-statement-on-Relative-Energy-Deficiency-in-Sport-REDs.pdf))
 - FIFA 11+ injury prevention ([official hub](https://inside.fifa.com/health-and-medical/injury-prevention))
 - Y-Balance Test overview ([RehabMeasures](https://www.sralab.org/rehabilitation-measures/lower-quarter-y-balance-test))

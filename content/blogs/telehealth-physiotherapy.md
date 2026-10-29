@@ -210,7 +210,7 @@ This article provides general information for educational purposes only and is n
 - FSBPT: Telehealth in Physical Therapy (regulatory overview): <https://www.fsbpt.org/Free-Resources/Regulatory-Resources/Telehealth-in-Physical-Therapy>
 - CSP (UK): Telehealth resources for physiotherapy: <https://www.csp.org.uk/professional-clinical/digital-physiotherapy/telehealth>
 - NHS England: Remote consultations in adult MSK services: <https://www.england.nhs.uk/long-read/guide-to-adopting-remote-consultations-in-adult-musculoskeletal-physiotherapy-services/>
-- PEDro: Evidence to guide telehealth physiotherapy: <https://pedro.org.au/english/evidence-to-guide-telehealth-physiotherapy>
+- PEDro: Evidence to guide telehealth physiotherapy: <https://pedro.org.au/english/evidence-to-guide-telehealth-physiotherapy/>
 - Systematic review: Telephysiotherapy in older adults (PMC): <https://pmc.ncbi.nlm.nih.gov/articles/PMC11395322/>
 - Telehealth education and training in physical therapy (PMC): <https://pmc.ncbi.nlm.nih.gov/articles/PMC11066584/>
 - ChoosePT: Reasons to consider telehealth PT: <https://www.choosept.com/health-tips/6-reasons-telehealth-physical-therapy>

@@ -1,14 +1,12 @@
 ---
 title: "Physiotherapy for Osteoarthritis: Effective Techniques for Pain Relief"
 date: "2025-11-17"
-metaTitle: "Physiotherapy for Osteoarthritis: Effective Techniques for Pain Relief | Physio At Your Doorstep"
-metaDescription: ""
-excerpt: ""
+metaTitle: "Physiotherapy for Osteoarthritis: Techniques for Pain Relief"
+metaDescription: "Physiotherapy for osteoarthritis: effective techniques for knee, hip and hand joint pain, exercises that work, and how home physiotherapy restores mobility."
+excerpt: "Physiotherapy for osteoarthritis: effective techniques for knee, hip and hand joint pain, exercises that work, and how home physiotherapy restores mobility."
 coverImage: "/images/blog/new-project-1.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
-
-###
 
 Living with osteoarthritis can feel overwhelming, especially when joint pain and stiffness interfere with daily activities you once took for granted. Whether it’s climbing stairs, playing with grandchildren, or simply getting out of bed without discomfort, osteoarthritis affects millions of people worldwide. The good news? Physiotherapy offers a proven, non-invasive approach to managing symptoms and improving your quality of life.
 
