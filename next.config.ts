@@ -45,6 +45,13 @@ const nextConfig: NextConfig = {
         destination: "https://www.physioatyourdoorstep.com/:path*",
         permanent: true,
       },
+      // SB Road copy (Nov 2026) lives on the long-standing Senapati Bapat Road URL;
+      // the draft's planned slug redirects there so the two never compete.
+      {
+        source: "/best-physiotherapist-in-sb-road",
+        destination: "/physiotherapist-in-senapati-bapat-road",
+        permanent: true,
+      },
     ];
   },
 };
