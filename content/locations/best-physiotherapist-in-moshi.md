@@ -42,15 +42,15 @@ Structured rehab after knee and hip replacements, ACL and ligament repair, spine
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Treatment for low back pain, neck pain, sciatica, knee arthritis, frozen shoulder, sprains and strains. We use exercise, stretching, manual therapy and pain-relief modalities (heat, ice, TENS), plus posture and ergonomic advice so the pain does not keep returning.
+Treatment for low back pain, neck pain, [sciatica](/sciatica-physiotherapy), knee arthritis, frozen shoulder, sprains and strains. We use exercise, stretching, manual therapy and pain-relief modalities (heat, ice, TENS), plus posture and ergonomic advice so the pain does not keep returning.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
-Home rehabilitation for stroke, Parkinson's disease, multiple sclerosis, cerebral palsy, Bell's palsy and neuropathy. After a stroke, for example, we might practise supported walking in your hallway and arm and hand tasks at your dining table — skills that carry straight into daily life.
+Home rehabilitation for stroke, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), cerebral palsy, [Bell's palsy](/facial-palsy-physiotherapy-treatment) and neuropathy. After a stroke, for example, we might practise supported walking in your hallway and arm and hand tasks at your dining table — skills that carry straight into daily life.
 
 ### [Sports injury physiotherapy](/service/sports-physiotherapy)
 
-For weekend athletes and gym-goers: ankle sprains, ACL tears, runner's knee, tennis elbow, shoulder strains and muscle tears. We settle pain and swelling first, then rebuild strength and flexibility for your sport — in your living room, society gym or a nearby ground.
+For weekend athletes and gym-goers: ankle sprains, ACL tears, runner's knee, [tennis elbow](/tennis-elbow-physiotherapy-treatment), shoulder strains and muscle tears. We settle pain and swelling first, then rebuild strength and flexibility for your sport — in your living room, society gym or a nearby ground.
 
 ### [Geriatric physiotherapy](/service/geriatric-physiotherapy)
 

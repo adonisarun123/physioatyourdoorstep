@@ -186,7 +186,7 @@ A comprehensive
 **Soft Tissue Mobilization**
 :
 
-- Scar tissue massage to prevent adhesions
+- Scar tissue massage to prevent [adhesions](/adhesion-in-physiotherapy)
 - Myofascial release for tight calf, plantar fascia, and intrinsic foot muscles
 - Promotes tissue extensibility and reduces pain
 

@@ -38,7 +38,7 @@ Physio At Your Doorstep offers a comprehensive range of physiotherapy services t
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery after operations with physiotherapy at home. If you've had orthopedic surgeries (like knee replacement, hip replacement, etc), our therapists will help you regain strength, joint movement, and function.
+Guided recovery after operations with physiotherapy at home. If you've had orthopedic surgeries (like [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip replacement, etc), our therapists will help you regain strength, joint movement, and function.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -120,20 +120,20 @@ Subsequent sessions will follow the established plan. The physiotherapist comes 
 
 ### How much does home physiotherapy cost in Sarjapur Road?
 
-The cost of home physiotherapy in Sarjapur Road can vary depending on the type of treatment and duration of each session. On average, rates in Bangalore for at-home physio sessions range from around ₹500 to ₹800 per session. At Physio At Your Doorstep, we offer competitive and transparent pricing. The exact cost will depend on your specific needs, for example, post-surgery rehabilitation may cost a bit more than general fitness exercises due to the specialized care involved. We also have package deals for multiple sessions (which can lower the per-session cost). There are **no hidden charges**, you pay for the therapy session and the convenience of a home visit. To get an accurate quote, you can call us with details of your condition, and we'll provide the pricing upfront. Our goal is to ensure you receive affordable care without compromising on quality. Keep in mind, with home physiotherapy you also save on travel time and expenses, making it a valuable investment in your health.
+The cost of home physiotherapy in Sarjapur Road can vary depending on the type of treatment and duration of each session. On average, rates in Bangalore for at-home physio sessions range from around ₹799–₹1,099 per session. At Physio At Your Doorstep, we offer competitive and transparent pricing. The exact cost will depend on your specific needs, for example, post-surgery rehabilitation may cost a bit more than general fitness exercises due to the specialized care involved. We also have package deals for multiple sessions (which can lower the per-session cost). There are **no hidden charges**, you pay for the therapy session and the convenience of a home visit. To get an accurate quote, you can call us with details of your condition, and we'll provide the pricing upfront. Our goal is to ensure you receive affordable care without compromising on quality. Keep in mind, with home physiotherapy you also save on travel time and expenses, making it a valuable investment in your health.
 
 ### What conditions can be treated with home physiotherapy in Sarjapur Road?
 
 Home physiotherapy can address a **wide range of conditions**, just like in-clinic therapy. Our team is equipped to treat most musculoskeletal and neurological issues right in your home. Common conditions we treat include:
 
-- **Orthopedic problems:** Back pain, neck pain, shoulder injuries (like frozen shoulder), knee pain, arthritis, slip disc, sciatica, sprains, and fracture recovery.
+- **Orthopedic problems:** Back pain, neck pain, shoulder injuries (like frozen shoulder), [knee pain](/knee-pain), arthritis, slip disc, [sciatica](/sciatica-physiotherapy), sprains, and fracture recovery.
 - **Post-surgical rehab:** Recovery after knee or hip replacements, ACL reconstructions, rotator cuff surgery, spine surgeries, etc. We follow your surgeon's guidelines to ensure a safe recovery at home.
 - **Neurological conditions:** Stroke rehabilitation, Parkinson's disease management, multiple sclerosis, neuropathies, and balance disorders.
 - **Sports injuries:** Tennis elbow, runner's knee, ligament tears, muscle strains, shin splints, helping athletes and fitness enthusiasts recover and get back to activity.
 - **Pediatric conditions:** Cerebral palsy, developmental delays, muscular dystrophy, and rehabilitation after injuries for children.
 - **Geriatric issues:** Age-related mobility problems, osteoarthritis, joint stiffness, and fall prevention training for seniors.
 
-Essentially, **any condition that requires physiotherapy can be treated at home** in Sarjapur Road, provided you have a skilled therapist. Our physiotherapists bring any needed equipment (such as resistance bands, therapy balls, or portable electrotherapy machines) to assist in your treatment. Whether it's chronic pain management or improving your walking after an injury, we create a home rehab program to suit your condition. If you have a specific ailment and are unsure if home physio can help, just ask us, chances are, we've treated similar cases at home successfully.
+Essentially, **any condition that requires physiotherapy can be treated at home** in Sarjapur Road, provided you have a skilled therapist. Our physiotherapists bring any needed equipment (such as resistance bands, therapy balls, or portable [electrotherapy](/electrotherapy-modalities-in-physiotherapy) machines) to assist in your treatment. Whether it's chronic pain management or improving your walking after an injury, we create a home rehab program to suit your condition. If you have a specific ailment and are unsure if home physio can help, just ask us, chances are, we've treated similar cases at home successfully.
 
 ### Are your physiotherapists qualified and experienced?
 

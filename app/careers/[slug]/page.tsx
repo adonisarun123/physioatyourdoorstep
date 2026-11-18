@@ -30,7 +30,7 @@ import {
     getCareerArea,
     jobDescriptionHtml,
 } from "@/lib/careers";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 /**
@@ -68,7 +68,7 @@ export async function generateMetadata({
         title,
         description,
         alternates: { canonical: careerPath(area.slug) },
-        openGraph: {
+        openGraph: { ...OG_DEFAULTS,
             title: `Physiotherapist Jobs in ${area.area}, Bangalore`,
             description,
             url: careerPath(area.slug),

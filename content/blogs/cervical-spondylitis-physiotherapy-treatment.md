@@ -86,7 +86,7 @@ A 2023 narrative review in *Biomolecules and Biomedicine* confirms that conserva
 
 ### Pain Relief and Calming the Flare
 
-When the neck is highly irritable, the first goal is comfort. Your therapist may use heat, TENS, interferential current or therapeutic ultrasound alongside gentle positioning. These modalities do not fix the cause, but they create a window in which movement becomes possible. Learn how they differ in [electrotherapy modalities in physiotherapy](/electrotherapy-modalities-in-physiotherapy) and [TENS vs traction](/tens-vs-traction-physiotherapy).
+When the neck is highly irritable, the first goal is comfort. Your therapist may use heat, TENS, [interferential current](/ict-vs-ipt-vs-ift-in-physiotherapy) or therapeutic ultrasound alongside gentle positioning. These modalities do not fix the cause, but they create a window in which movement becomes possible. Learn how they differ in [electrotherapy modalities in physiotherapy](/electrotherapy-modalities-in-physiotherapy) and [TENS vs traction](/tens-vs-traction-physiotherapy).
 
 ### Manual Therapy
 
@@ -167,7 +167,7 @@ If nerve involvement is significant, our [neurological physiotherapy](/service/n
 
 If you live in Bangalore, you do not need to battle traffic to the clinic with a painful neck. Physio At Your Doorstep brings qualified physiotherapists to your home across [40+ areas of the city](/locations), including Koramangala, HSR Layout, Indiranagar, JP Nagar, BTM Layout, Jayanagar, Whitefield, Marathahalli, Bellandur and Electronic City. This matters especially for software professionals along the IT corridors, where long hours at a laptop and long commutes combine to make neck problems so common.
 
-Every plan begins with a full assessment, red flag screening and a personalised programme led by a qualified physiotherapist. Our founder, Dr. Atharva Mishra, holds a Master's in Sports Physiotherapy, and the team offers 24x7 availability, with same-day visits subject to therapist availability in your area.
+Every plan begins with a full assessment, red flag screening and a personalised programme led by a qualified physiotherapist. Our founder, Dr. Atharva Mishra, holds a Master's in [Sports Physiotherapy](/service/sports-physiotherapy), and the team offers 24x7 availability, with same-day visits subject to therapist availability in your area.
 
 ### Ready to start?
 

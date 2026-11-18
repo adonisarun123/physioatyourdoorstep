@@ -46,7 +46,7 @@ Specialised rehab programmes for post-operative recovery. Whether you've had a *
 
 ### Orthopaedic Physiotherapy
 
-Treatment for bone, muscle and joint conditions is one of our core specialities. We address **chronic back pain, neck stiffness, frozen shoulder, tennis elbow, arthritis, sciatica, knee injuries (meniscus and ligament issues)** and sprains. An IT professional with desk-related lower back pain, for instance, benefits from posture correction and core-strengthening exercises done right at home. Sessions typically include therapeutic stretches, joint mobilisations and strengthening routines customised to reduce pain and improve function.
+Treatment for bone, muscle and joint conditions is one of our core specialities. We address **chronic back pain, neck stiffness, frozen shoulder, [tennis elbow](/tennis-elbow-physiotherapy-treatment), arthritis, [sciatica](/sciatica-physiotherapy), knee injuries (meniscus and ligament issues)** and sprains. An IT professional with desk-related lower back pain, for instance, benefits from posture correction and core-strengthening exercises done right at home. Sessions typically include therapeutic stretches, joint mobilisations and strengthening routines customised to reduce pain and improve function.
 
 ### Neurological Physiotherapy
 
@@ -144,7 +144,7 @@ We try to accommodate same-day or next-day visits in Kadubeesanahalli whenever p
 
 ### What qualifications do your physiotherapists in Kadubeesanahalli have?
 
-Every therapist on our team holds a Bachelor's in Physiotherapy (BPT) at minimum, and most hold a Master's (MPT) in a specialised field such as orthopaedics, neurology, sports or geriatrics. They are registered with professional physiotherapy associations. We only take on physiotherapists with at least 2–3 years of clinical experience, and many have 5–10 years or more. They stay current with continuing education and are trained in modern manual therapy, paediatric and neurological rehabilitation techniques. Your therapist carries their registration and credentials to every visit.
+Every therapist on our team holds a Bachelor's in Physiotherapy (BPT) at minimum, and most hold a Master's (MPT) in a specialised field such as orthopaedics, neurology, sports or geriatrics. They are registered with professional physiotherapy associations. We only take on physiotherapists with at least 2–3 years of clinical experience, and many have 5–10 years or more. They stay current with continuing education and are trained in modern manual therapy, paediatric and [neurological rehabilitation](/types-of-neurological-rehabilitation) techniques. Your therapist carries their registration and credentials to every visit.
 
 ### How long is each physiotherapy session at home, and how many sessions will I need?
 
@@ -152,4 +152,4 @@ The initial assessment usually lasts about 60 minutes since we need extra time t
 
 ### What conditions can home physiotherapy treat in Kadubeesanahalli?
 
-Home physiotherapy can treat virtually any musculoskeletal or neurological condition normally managed in a clinic. Common ones include **back and neck pain, arthritis, frozen shoulder, knee pain (ACL and MCL injuries, meniscus tears, post-replacement), foot and ankle sprains, tendonitis, sciatica and sports injuries**. It also covers **neurological conditions** such as stroke rehabilitation, post-paralysis recovery, Parkinson's disease, multiple sclerosis and nerve injuries, plus **women's health** needs like postnatal rehab and pelvic pain, and **paediatric developmental delays**. Only very severe cases needing specialised fixed equipment might require a clinic; almost everything else can be treated effectively at home.
+Home physiotherapy can treat virtually any musculoskeletal or neurological condition normally managed in a clinic. Common ones include **back and neck pain, arthritis, frozen shoulder, [knee pain](/knee-pain) (ACL and MCL injuries, meniscus tears, post-replacement), foot and ankle sprains, tendonitis, sciatica and sports injuries**. It also covers **neurological conditions** such as stroke rehabilitation, post-paralysis recovery, Parkinson's disease, multiple sclerosis and nerve injuries, plus **women's health** needs like postnatal rehab and pelvic pain, and **paediatric developmental delays**. Only very severe cases needing specialised fixed equipment might require a clinic; almost everything else can be treated effectively at home.

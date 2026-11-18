@@ -10,7 +10,7 @@ category: "Pediatric Physiotherapy"
 
 Pneumonia is one of the leading causes of hospitalization and mortality in children under five years of age worldwide. According to the World Health Organization, there are an estimated 120 million cases of pneumonia in children every year, and the condition accounts for a significant proportion of under-five deaths globally. For parents watching a child struggle to breathe, cough persistently, or run a prolonged fever, the experience is frightening and overwhelming.
 
-While antibiotics and supportive medical care remain the cornerstone of pneumonia treatment, **chest physiotherapy for pediatric pneumonia** has emerged as a valuable adjunct therapy that helps clear the airways, improve lung function, and support faster recovery. As a [home-based physiotherapy](/) service in Bangalore, we regularly see children whose recovery is significantly aided by timely and well-executed respiratory physiotherapy.
+While antibiotics and supportive medical care remain the cornerstone of pneumonia treatment, **chest physiotherapy for pediatric pneumonia** has emerged as a valuable adjunct therapy that helps clear the airways, improve lung function, and support faster recovery. As a [home-based physiotherapy](/service) service in Bangalore, we regularly see children whose recovery is significantly aided by timely and well-executed respiratory physiotherapy.
 
 This guide walks you through everything a parent or caregiver needs to know about **pediatric chest physiotherapy**, including what it is, the techniques involved, when it helps, when to be cautious, and how home-based care can make a meaningful difference for your child.
 
@@ -73,7 +73,7 @@ In younger children and infants who cannot voluntarily cough on command, trachea
 
 ### 5. Active Cycle of Breathing Techniques (ACBT)
 
-ACBT is a structured sequence of breathing exercises that combines breathing control, thoracic expansion exercises, and forced expiration. It is more appropriate for older children (above 6 to 7 years) and is one of the more effective self-administered airway clearance strategies.
+[ACBT](/acbt-in-physiotherapy) is a structured sequence of breathing exercises that combines breathing control, thoracic expansion exercises, and forced expiration. It is more appropriate for older children (above 6 to 7 years) and is one of the more effective self-administered airway clearance strategies.
 
 The cycle typically looks like this: relaxed breathing to control work of breathing, followed by three to four deep thoracic expansion breaths, and ending with one to two huffs and a cough. This cycle is repeated until the airway is clear.
 

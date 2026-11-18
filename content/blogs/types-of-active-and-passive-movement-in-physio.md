@@ -71,13 +71,13 @@ Relaxed passive movement is the go-to choice immediately after surgery, during p
 
 ### 2. Forced or Manipulative Passive Movement
 
-Forced passive movement takes the joint slightly beyond its current available range using controlled overpressure, applied by a trained physiotherapist. Because this technique carries a higher risk of tissue damage if performed incorrectly, it is used selectively, mainly to break down early adhesions, address specific joint restrictions, and restore range that has been lost due to stiffness or scar tissue formation.
+Forced passive movement takes the joint slightly beyond its current available range using controlled overpressure, applied by a trained physiotherapist. Because this technique carries a higher risk of tissue damage if performed incorrectly, it is used selectively, mainly to break down early [adhesions](/adhesion-in-physiotherapy), address specific joint restrictions, and restore range that has been lost due to stiffness or scar tissue formation.
 
 This technique differs from manipulation, which typically involves a fast, small-amplitude thrust at the end of a joint's range, most often used by qualified professionals for specific joint restrictions. Both approaches require sound clinical judgement, correct patient positioning, and an accurate diagnosis before use.
 
 ### 3. Continuous Passive Motion (CPM)
 
-Continuous passive motion uses a mechanical device to move a joint slowly and repeatedly through a controlled range for an extended period, often several hours a day. CPM machines are frequently used after major joint surgeries such as total knee replacement or ligament reconstruction. Research on post-surgical knee rehabilitation has associated early CPM use with reduced stiffness, better maintenance of range of motion, and lower rates of adhesion formation during the initial healing window, when active movement is still restricted by pain, swelling, or surgical protocol.
+Continuous passive motion uses a mechanical device to move a joint slowly and repeatedly through a controlled range for an extended period, often several hours a day. CPM machines are frequently used after major joint surgeries such as total [knee replacement](/physiotherapy-exercises-after-knee-surgery) or ligament reconstruction. Research on post-surgical knee rehabilitation has associated early CPM use with reduced stiffness, better maintenance of range of motion, and lower rates of adhesion formation during the initial healing window, when active movement is still restricted by pain, swelling, or surgical protocol.
 
 Unlike relaxed passive movement performed by hand, CPM allows for consistent, prolonged, low-load motion that would be difficult to sustain manually, making it a valuable tool in the earliest days after certain orthopedic surgeries.
 

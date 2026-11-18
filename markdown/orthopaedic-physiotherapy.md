@@ -1,6 +1,6 @@
 # Orthopaedic Physiotherapy in Bangalore – Comprehensive Musculoskeletal Rehabilitation
 
-Orthopaedic physiotherapy focuses on the assessment, treatment, and rehabilitation of conditions affecting the musculoskeletal system, including bones, joints, muscles, ligaments, and tendons. It plays a crucial role in pain management, injury recovery, post-surgical rehabilitation, and restoration of functional movement.
+Orthopaedic physiotherapy focuses on the assessment, treatment, and rehabilitation of conditions affecting the musculoskeletal system, including bones, joints, muscles, ligaments, and tendons. It plays a crucial role in pain management, injury recovery, [post-surgical rehabilitation](/service/post-surgical-physiotherapy), and restoration of functional movement.
 
 Whether caused by injury, degeneration, surgery, or lifestyle-related strain, musculoskeletal problems can significantly limit daily activities and quality of life. Orthopaedic physiotherapy uses evidence-based techniques to address these challenges in a structured, progressive, and patient-centred manner.
 
@@ -22,9 +22,9 @@ Orthopaedic physiotherapy supports a wide range of acute and chronic conditions,
 - Ligament tears such as ACL, MCL, and meniscus injuries  
 - Frozen shoulder and shoulder stiffness  
 - Fractures and post-fracture stiffness  
-- Osteoarthritis and rheumatoid arthritis  
+- [Osteoarthritis](/physiotherapy-for-osteoarthritis) and [rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis)  
 - Tendonitis, bursitis, and overuse injuries  
-- Back pain, disc-related issues, and spinal stiffness  
+- [Back pain](/back-ache), disc-related issues, and spinal stiffness  
 - Post-operative orthopaedic rehabilitation  
 
 ---

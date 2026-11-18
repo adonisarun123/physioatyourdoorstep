@@ -59,7 +59,7 @@ A skilled neuro physiotherapist assesses each patient individually, since no two
 
 ### 1. Spasticity and Muscle Stiffness
 
-Spasticity, characterized by involuntary muscle stiffness and spasms, is present in up to 80% of people with MS. It most commonly affects the legs, making walking difficult and painful. Physiotherapy techniques including prolonged stretching, positioning programs, and hydrotherapy have been shown to reduce spasticity effectively and improve range of motion without the side effects associated with antispasmodic medications.
+Spasticity, characterized by involuntary muscle stiffness and spasms, is present in up to 80% of people with MS. It most commonly affects the legs, making walking difficult and painful. Physiotherapy techniques including prolonged stretching, positioning programs, and [hydrotherapy](/types-of-hydrotherapy-in-physiotherapy) have been shown to reduce spasticity effectively and improve range of motion without the side effects associated with antispasmodic medications.
 
 ### 2. Gait Impairment and Walking Difficulties
 
@@ -71,7 +71,7 @@ Impaired proprioception, weakness, and spasticity all contribute to balance dysf
 
 ### 4. Fatigue
 
-MS-related fatigue affects more than 75% of patients and is rated as one of the most disabling symptoms. Physiotherapy addresses fatigue through energy conservation strategies, graded aerobic exercise programs, and activity pacing techniques. Counterintuitively, regular structured exercise has been shown to reduce MS fatigue rather than worsen it, as long as exercise is appropriately dosed and monitored to prevent heat-induced symptom exacerbation (Uhthoff’s phenomenon).
+MS-related fatigue affects more than 75% of patients and is rated as one of the most disabling symptoms. Physiotherapy addresses fatigue through energy conservation strategies, graded [aerobic exercise](/types-of-aerobic-training-in-physiotherapy) programs, and activity pacing techniques. Counterintuitively, regular structured exercise has been shown to reduce MS fatigue rather than worsen it, as long as exercise is appropriately dosed and monitored to prevent heat-induced symptom exacerbation (Uhthoff’s phenomenon).
 
 ### 5. Weakness and Muscle Atrophy
 
@@ -273,16 +273,30 @@ Ready to take the next step?
 
 ## Frequently Asked Questions
 
-- [Can physiotherapy cure multiple sclerosis?](#acc-mxnx0-0) No, physiotherapy cannot cure MS. There is currently no known cure for the condition. However, neurological physiotherapy is one of the most effective tools available for managing MS symptoms, maintaining physical function, slowing disability progression, and improving quality of life. It works alongside disease-modifying therapies to deliver comprehensive, holistic care.
+### Can physiotherapy cure multiple sclerosis?
 
-- [How often should someone with MS see a physiotherapist?](#acc-mxnx0-1) Frequency depends on the individual’s disease stage, severity, and goals. During stable periods, 2 to 3 sessions per week with a home exercise program is common. During or immediately after a relapse, more intensive sessions may be needed to regain lost function. Your physiotherapist will recommend an appropriate schedule based on your assessment.
+No, physiotherapy cannot cure MS. There is currently no known cure for the condition. However, neurological physiotherapy is one of the most effective tools available for managing MS symptoms, maintaining physical function, slowing disability progression, and improving quality of life. It works alongside disease-modifying therapies to deliver comprehensive, holistic care.
 
-- [Is exercise safe during an MS relapse?](#acc-mxnx0-2) Generally, high-intensity exercise is not recommended during an active relapse, as the nervous system needs rest to recover. However, gentle activities such as breathing exercises, careful stretching, and light mobilization can be maintained under the guidance of a physiotherapist. Once the relapse has settled, a progressive return to a full exercise program is strongly encouraged to regain any function that was temporarily lost.
+### How often should someone with MS see a physiotherapist?
 
-- [What is the difference between neurological physiotherapy and regular physiotherapy for MS?](#acc-mxnx0-3) Neurological physiotherapy is a specialized branch of physiotherapy that focuses specifically on conditions affecting the brain, spinal cord, and peripheral nerves. For MS patients, this means using techniques specifically designed to address neurological deficits, including neuroplasticity-based movement retraining, spasticity management, and fatigue-specific exercise prescription. General physiotherapy, which is more often used for musculoskeletal injuries, would not have the same depth of expertise in these neurological domains.
+Frequency depends on the individual’s disease stage, severity, and goals. During stable periods, 2 to 3 sessions per week with a home exercise program is common. During or immediately after a relapse, more intensive sessions may be needed to regain lost function. Your physiotherapist will recommend an appropriate schedule based on your assessment.
 
-- [Can physiotherapy help with MS fatigue?](#acc-mxnx0-4) Yes. While it may seem counterintuitive, structured, appropriately dosed exercise has been shown in multiple clinical trials to reduce MS-related fatigue significantly. Physiotherapists use graded aerobic exercise, energy conservation techniques, and activity pacing strategies to help patients manage fatigue more effectively. The key is working with a knowledgeable physiotherapist who understands the neurological nature of MS fatigue and can design an exercise plan that builds capacity without triggering symptom exacerbation.
+### Is exercise safe during an MS relapse?
 
-- [Does physiotherapy at home work as well as clinic-based physiotherapy for MS?](#acc-mxnx0-5) Research supports that home-based physiotherapy for MS is as effective as clinic-based care for most patients, and in some cases more effective because of greater consistency, reduced travel burden, and the ability to practice exercises in the real-life context of the patient’s home. For MS patients with moderate to severe mobility limitations, home-based physiotherapy is often the more practical and clinically appropriate choice.
+Generally, high-intensity exercise is not recommended during an active relapse, as the nervous system needs rest to recover. However, gentle activities such as breathing exercises, careful stretching, and light mobilization can be maintained under the guidance of a physiotherapist. Once the relapse has settled, a progressive return to a full exercise program is strongly encouraged to regain any function that was temporarily lost.
 
-- [How do I book a neurological physiotherapy session for MS in Bangalore?](#acc-mxnx0-6) You can book a home physiotherapy session with Physio at Your Doorstep by visiting our [online booking page](/booking) , calling us at +91 82337 87737, or messaging us on WhatsApp. We offer same-day appointments across major areas of Bangalore and will match you with a physiotherapist experienced in neurological conditions and MS rehabilitation.
+### What is the difference between neurological physiotherapy and regular physiotherapy for MS?
+
+Neurological physiotherapy is a specialized branch of physiotherapy that focuses specifically on conditions affecting the brain, spinal cord, and peripheral nerves. For MS patients, this means using techniques specifically designed to address neurological deficits, including neuroplasticity-based movement retraining, spasticity management, and fatigue-specific exercise prescription. General physiotherapy, which is more often used for musculoskeletal injuries, would not have the same depth of expertise in these neurological domains.
+
+### Can physiotherapy help with MS fatigue?
+
+Yes. While it may seem counterintuitive, structured, appropriately dosed exercise has been shown in multiple clinical trials to reduce MS-related fatigue significantly. Physiotherapists use graded aerobic exercise, energy conservation techniques, and activity pacing strategies to help patients manage fatigue more effectively. The key is working with a knowledgeable physiotherapist who understands the neurological nature of MS fatigue and can design an exercise plan that builds capacity without triggering symptom exacerbation.
+
+### Does physiotherapy at home work as well as clinic-based physiotherapy for MS?
+
+Research supports that home-based physiotherapy for MS is as effective as clinic-based care for most patients, and in some cases more effective because of greater consistency, reduced travel burden, and the ability to practice exercises in the real-life context of the patient’s home. For MS patients with moderate to severe mobility limitations, home-based physiotherapy is often the more practical and clinically appropriate choice.
+
+### How do I book a neurological physiotherapy session for MS in Bangalore?
+
+You can book a home physiotherapy session with Physio at Your Doorstep by visiting our [online booking page](/booking) , calling us at +91 82337 87737, or messaging us on WhatsApp. We offer same-day appointments across major areas of Bangalore and will match you with a physiotherapist experienced in neurological conditions and MS rehabilitation.

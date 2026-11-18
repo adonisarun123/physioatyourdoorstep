@@ -1,4 +1,5 @@
 import CTABar from "@/components/CTABar";
+import { OG_DEFAULTS } from "@/lib/seo";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { SITE } from "@/lib/seo";
@@ -8,6 +9,7 @@ export const metadata: Metadata = {
     title: "Privacy Policy | Physio At Your Doorstep",
     description: "How Physio At Your Doorstep collects, uses, stores and protects the personal and health information you share when booking home physiotherapy.",
     alternates: { canonical: "/privacy-policy" },
+    openGraph: { ...OG_DEFAULTS, url: "/privacy-policy", type: "website" },
     robots: { index: true, follow: true },
 };
 

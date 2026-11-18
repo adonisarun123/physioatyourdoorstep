@@ -61,7 +61,7 @@ While virtually all surgeries can benefit from some form of physiotherapy, certa
 
 ### Cardiac Surgeries
 
-- Coronary Artery Bypass Grafting (CABG)
+- Coronary Artery Bypass Grafting ([CABG](/cabg-post-surgical-physiotherapy-management))
 - Heart Valve Replacements
 - Cardiac Transplantation
 
@@ -136,7 +136,7 @@ Our physiotherapists at Physio At Your Doorstep employ a wide range of evidence-
 
 - **Joint mobilizations**: Gentle movements applied to joints to improve mobility and reduce pain.
 - **Soft tissue mobilization**: Techniques to address muscle tension and improve tissue mobility.
-- **Scar tissue management**: Specific approaches to minimize restrictive scarring and adhesions.
+- **Scar tissue management**: Specific approaches to minimize restrictive scarring and [adhesions](/adhesion-in-physiotherapy).
 
 ### Therapeutic Exercise
 

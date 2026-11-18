@@ -142,4 +142,4 @@ Yes, we offer **same-day home physiotherapy in HSR Layout** based on availabilit
 
 ### Do you provide post-surgery physiotherapy at home in HSR Layout?
 
-Absolutely! We specialize in **post-surgery rehabilitation in HSR Layout**, helping patients recover safely and regain strength after surgeries like knee replacement, spinal surgery, or fractures.
+Absolutely! We specialize in **post-surgery rehabilitation in HSR Layout**, helping patients recover safely and regain strength after surgeries like [knee replacement](/physiotherapy-exercises-after-knee-surgery), spinal surgery, or fractures.

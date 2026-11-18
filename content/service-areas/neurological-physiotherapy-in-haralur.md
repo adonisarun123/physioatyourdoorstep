@@ -16,9 +16,9 @@ For neurological conditions, simply getting to a clinic is often the single bigg
 
 Neurological physiotherapy helps people affected by conditions of the brain, spinal cord and nerves regain as much movement, balance and independence as possible. Recovery works by encouraging the nervous system to relearn movement through repeated, task-specific practice — which is exactly why consistency and the right environment matter so much.
 
-We work with stroke and paralysis, Parkinson's disease, multiple sclerosis, neuropathy, Bell's palsy, and balance and gait disorders, always alongside the patient's neurologist and medical team. Our full [neurological physiotherapy service](/service/neurological-physiotherapy) sets out the techniques we use.
+We work with stroke and paralysis, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), neuropathy, Bell's palsy, and balance and gait disorders, always alongside the patient's neurologist and medical team. Our full [neurological physiotherapy service](/service/neurological-physiotherapy) sets out the techniques we use.
 
-Importantly, neurological rehabilitation is about far more than walking again. It also restores the everyday functions that give a person their independence — dressing, using the bathroom, moving safely from bed to chair — and helps rebuild the confidence that a stroke or a diagnosis so often takes away.
+Importantly, [neurological rehabilitation](/types-of-neurological-rehabilitation) is about far more than walking again. It also restores the everyday functions that give a person their independence — dressing, using the bathroom, moving safely from bed to chair — and helps rebuild the confidence that a stroke or a diagnosis so often takes away.
 
 ## Why home care is the right setting in Haralur
 

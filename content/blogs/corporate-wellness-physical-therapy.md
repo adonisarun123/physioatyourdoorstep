@@ -34,7 +34,7 @@ Perhaps most concerning is the long-term impact on employee morale and company c
 
 The primary advantage of corporate wellness physical therapy lies in its preventive approach. Licensed physical therapists conduct comprehensive movement screenings to identify potential risk factors before they result in injuries. These assessments evaluate posture, flexibility, strength imbalances, and movement patterns that could predispose employees to musculoskeletal problems.
 
-Through targeted interventions, physical therapists can address these risk factors early. This might involve prescribing specific stretching routines for employees with tight hip flexors from prolonged sitting, or strengthening exercises for workers whose jobs require repetitive lifting motions. By addressing these issues proactively, companies can significantly reduce their injury rates.
+Through targeted interventions, physical therapists can address these risk factors early. This might involve prescribing specific stretching routines for employees with tight hip flexors from [prolonged sitting](/desk-job-syndrome-physiotherapy), or strengthening exercises for workers whose jobs require repetitive lifting motions. By addressing these issues proactively, companies can significantly reduce their injury rates.
 
 Real-world data supports this approach’s effectiveness. Companies implementing comprehensive corporate wellness physical therapy programs report injury rate reductions of 25-50% within the first year. This dramatic improvement stems from the program’s focus on education and prevention rather than simply treating injuries after they occur.
 
@@ -150,7 +150,7 @@ Data analytics platforms can identify trends and patterns across different depar
 
 ### Expanding Services Based on Success
 
-Successful corporate wellness physical therapy programs often expand to include additional services as they demonstrate value and gain employee support. Advanced programs might incorporate massage therapy, nutritional counseling, stress management, or specialized services for specific conditions like carpal tunnel syndrome or back pain.
+Successful corporate wellness physical therapy programs often expand to include additional services as they demonstrate value and gain employee support. Advanced programs might incorporate massage therapy, nutritional counseling, stress management, or specialized services for specific conditions like carpal tunnel syndrome or [back pain](/back-ache).
 
 The key to successful expansion is maintaining focus on employee needs and workplace relevance. New services should address identified health challenges within the organization rather than following general wellness trends. Employee feedback and utilization data should guide expansion decisions to ensure continued program effectiveness.
 

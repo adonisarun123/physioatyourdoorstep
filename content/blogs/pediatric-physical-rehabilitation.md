@@ -81,7 +81,7 @@ Some children with physical disabilities also have trouble with speech and swall
 
 #### Hydrotherapy and Other Alternative Therapies
 
-Hydrotherapy (water-based therapy) is an excellent option for children with mobility issues because:
+[Hydrotherapy](/types-of-hydrotherapy-in-physiotherapy) (water-based therapy) is an excellent option for children with mobility issues because:
 
 - Water reduces strain on joints, making movement easier.
 - It helps improve muscle strength and coordination.

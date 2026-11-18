@@ -12,7 +12,7 @@ Searching for the best physiotherapist in Vijaya Bank Layout who comes to you? P
 
 Tucked off Bannerghatta Road in Bilekahalli, right beside IIM Bangalore, Vijaya Bank Layout is one of South Bangalore's most established residential neighbourhoods. It holds a close-knit mix of long-time families, senior citizens and younger IT professionals, with Arekere, Hulimavu and JP Nagar as its neighbours and Apollo and Fortis hospitals a short drive up the road. Being this well placed should make care easy to reach — but a clinic visit here usually means the peak-hour crawl on Bannerghatta Road or Bilekahalli Main Road, then parking.
 
-Home physiotherapy removes that. Whether you are managing desk-driven back pain, recovering from a knee replacement, rehabilitating after a stroke, coming back from a sports injury, or arranging care for an elderly parent or a child, our physiotherapists bring the assessment, the hands-on treatment and the portable equipment (exercise bands, weights, TENS and ultrasound units) to your door.
+Home physiotherapy removes that. Whether you are managing desk-driven back pain, recovering from a knee replacement, rehabilitating after a stroke, coming back from a sports injury, or arranging care for an elderly parent or a child, our physiotherapists bring the assessment, the hands-on treatment and the portable equipment (exercise bands, weights, [TENS](/tens-vs-traction-physiotherapy) and ultrasound units) to your door.
 
 ## Why choose home physiotherapy in Vijaya Bank Layout
 
@@ -42,7 +42,7 @@ Structured rehab after knee and hip replacements, ACL and ligament reconstructio
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Treatment for back pain, neck pain, sciatica, disc problems, knee pain, frozen shoulder, arthritis, sprains and joint stiffness — common in both desk professionals and seniors. We combine manual therapy, targeted exercise, traction and pain-relief modalities, plus ergonomic advice so the problem does not keep returning.
+Treatment for back pain, neck pain, [sciatica](/sciatica-physiotherapy), disc problems, [knee pain](/knee-pain), frozen shoulder, arthritis, sprains and joint stiffness — common in both desk professionals and seniors. We combine manual therapy, targeted exercise, traction and pain-relief modalities, plus ergonomic advice so the problem does not keep returning.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
@@ -50,7 +50,7 @@ Home rehabilitation for stroke, Parkinson's disease, multiple sclerosis, neuropa
 
 ### [Sports injury physiotherapy](/service/sports-physiotherapy)
 
-For gym-goers, weekend badminton and cricket players, and runners on the IIM Bangalore stretch: ankle sprains, ligament tears, muscle strains, tennis elbow, runner's knee and more. We settle pain first, then rebuild strength and movement patterns specific to your sport, and correct the imbalances behind repeat injuries.
+For gym-goers, weekend badminton and cricket players, and runners on the IIM Bangalore stretch: ankle sprains, ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee and more. We settle pain first, then rebuild strength and movement patterns specific to your sport, and correct the imbalances behind repeat injuries.
 
 ### [Geriatric physiotherapy](/service/geriatric-physiotherapy)
 

@@ -37,15 +37,15 @@ A qualified geriatric physiotherapist begins with a detailed assessment covering
 * Cognitive status and how it may affect exercise compliance
 * Home environment and daily activity demands
 
-Based on this assessment, a personalised treatment plan is created using manual therapy, targeted exercises, mobility aids training, and, where required, electrotherapy modalities such as TENS or ultrasound therapy delivered with portable equipment.
+Based on this assessment, a personalised treatment plan is created using manual therapy, targeted exercises, mobility aids training, and, where required, [electrotherapy](/electrotherapy-modalities-in-physiotherapy) modalities such as [TENS](/tens-vs-traction-physiotherapy) or ultrasound therapy delivered with portable equipment.
 
 ## Common Conditions Treated Through Home Physiotherapy for Seniors
 
 Physio for elderly in Bangalore at home is commonly sought for the following conditions:
 
-**Arthritis and joint pain.** Osteoarthritis of the knee and hip is one of the most frequent reasons families book a home physiotherapist. Manual therapy combined with strengthening exercises can meaningfully reduce pain and stiffness without relying solely on medication.
+**Arthritis and joint pain.** [Osteoarthritis](/physiotherapy-for-osteoarthritis) of the knee and hip is one of the most frequent reasons families book a home physiotherapist. Manual therapy combined with strengthening exercises can meaningfully reduce pain and stiffness without relying solely on medication.
 
-**Post-surgical recovery.** Seniors recovering from hip replacement, knee replacement, or spine surgery need early, structured rehabilitation to regain strength and prevent complications like stiffness or muscle wasting. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) programme is designed specifically to support this recovery window at home.
+**Post-surgical recovery.** Seniors recovering from hip replacement, [knee replacement](/physiotherapy-exercises-after-knee-surgery), or spine surgery need early, structured rehabilitation to regain strength and prevent complications like stiffness or muscle wasting. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) programme is designed specifically to support this recovery window at home.
 
 **Stroke and neurological conditions.** Patients recovering from stroke, Parkinson's disease, or other neurological conditions require specialised retraining of movement, balance, and coordination. This falls under our [Neurological Physiotherapy](/service/neurological-physiotherapy) service.
 
@@ -53,7 +53,7 @@ Physio for elderly in Bangalore at home is commonly sought for the following con
 
 **Osteoporosis.** Weak, brittle bones call for carefully dosed weight-bearing and resistance exercises that improve bone density without risking fracture.
 
-**Cardiopulmonary conditions.** Seniors recovering from cardiac events or living with COPD benefit from supervised breathing exercises and graded activity to rebuild endurance safely.
+**Cardiopulmonary conditions.** Seniors recovering from cardiac events or living with [COPD](/copd-physiotherapy-management) benefit from supervised breathing exercises and graded activity to rebuild endurance safely.
 
 **General weakness and deconditioning.** After a prolonged hospital stay or illness, many elderly patients lose significant strength. Structured reconditioning at home helps them regain independence in daily tasks like walking, dressing, and using the bathroom.
 

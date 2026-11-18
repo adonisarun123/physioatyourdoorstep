@@ -2,13 +2,14 @@ import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import BlogCard from "@/components/BlogCard";
+import RelatedVideos from "@/components/RelatedVideos";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { ServiceFAQ } from "@/components/ServiceFAQ";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
-import { serviceSchema, faqSchema, SITE } from "@/lib/seo";
+import { serviceSchema, faqSchema, SITE, truncateAtWord, OG_DEFAULTS } from "@/lib/seo";
 import { getServiceMarkdown } from "@/lib/markdown";
-import { getAllServices, getServiceFile, getServiceMetaTitle, getBlogsByCategory, getAllLocations, getAllServiceAreas } from "@/lib/content";
+import { getAllServices, getServiceFile, getServiceMetaTitle, getServiceMetaDescription, getBlogsByCategory, getAllLocations, getAllServiceAreas, SERVICE_TO_CATEGORY } from "@/lib/content";
 import { ArrowRight, Calendar, Check, Clock, Home, MapPin, MessageCircle, Phone, ShieldCheck } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -16,18 +17,6 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 /** Maps a service slug to the blog category that best matches it. */
-const SERVICE_TO_CATEGORY: Record<string, string> = {
-    "orthopaedic-physiotherapy": "orthopaedic-physiotherapy",
-    "neurological-physiotherapy": "neurological-physiotherapy",
-    "sports-physiotherapy": "sports-physiotherapy",
-    "geriatric-physiotherapy": "geriatric-physiotherapy",
-    "post-surgical-physiotherapy": "post-surgical-physiotherapy",
-    "pediatric-physiotherapy": "pediatric-physiotherapy",
-    "physiotherapy-in-pregnancy": "physiotherapy-at-pregnancy",
-    "pulmonary-physiotherapy": "pulmonary-physiotherapy",
-    "corporate-wellness-physiotherapy-program": "physiotherapy",
-    "online-physiotherapy-consultation-india": "physiotherapy",
-};
 
 export async function generateStaticParams() {
     return getAllServices().map((service) => ({
@@ -45,8 +34,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
 
-    const descMatch = serviceContent.content.match(/^(?!#)(.+?)(?=\n\n|$)/m);
-    const description = descMatch ? descMatch[1].substring(0, 160) : `Professional ${serviceContent.title} services at your doorstep`;
+    const description =
+        getServiceMetaDescription(slug) ?? `Professional ${serviceContent.title} services at your doorstep`;
     const summary = getAllServices().find((s) => s.slug === slug);
     const metaTitle = getServiceMetaTitle(slug) ?? serviceContent.title;
 
@@ -54,11 +43,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         title: metaTitle,
         description: description,
         alternates: { canonical: `/service/${slug}` },
-        openGraph: {
+        openGraph: { ...OG_DEFAULTS,
             title: metaTitle,
             description: description,
             url: `/service/${slug}`,
-            type: "article",
+            type: "website",
             images: [summary?.heroImage ?? "/images/logo-square.webp"],
         },
     };
@@ -75,7 +64,8 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
     const allServices = getAllServices();
     const summary = allServices.find((s) => s.slug === slug);
     const otherServices = allServices.filter((s) => s.slug !== slug).slice(0, 6);
-    const relatedBlogs = getBlogsByCategory(SERVICE_TO_CATEGORY[slug] ?? "physiotherapy").slice(0, 3);
+    const relatedCategory = SERVICE_TO_CATEGORY[slug] ?? "physiotherapy";
+    const relatedBlogs = getBlogsByCategory(relatedCategory).slice(0, 6);
     const localPages = getAllServiceAreas().filter((sa) => sa.service === slug);
     const locationsByCity = getAllLocations().reduce<Record<string, { slug: string; area: string }[]>>((acc, l) => {
         (acc[l.city] ??= []).push({ slug: l.slug, area: l.area });
@@ -90,7 +80,9 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
     // Extract hero content (first paragraph after H1)
     const contentParts = serviceContent.content.split("\n\n");
     const heroSubheadline = contentParts.find((part) => !part.startsWith("#") && part.trim().length > 0);
-    const description = heroSubheadline?.substring(0, 160) ?? `Professional ${serviceContent.title} at your doorstep`;
+    const description = heroSubheadline
+        ? truncateAtWord(heroSubheadline.replace(/[*_`]/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1"), 160)
+        : `Professional ${serviceContent.title} at your doorstep`;
 
     // The hero already renders the H1 and intro paragraph — remove them from the body
     // so they don't appear twice.
@@ -281,6 +273,8 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                     </section>
                 )}
 
+                <RelatedVideos topic={relatedCategory} seed={allServices.findIndex((s) => s.slug === slug)} />
+
                 {/* Related Blogs */}
                 {relatedBlogs.length > 0 && (
                     <section className="section bg-white">
@@ -297,7 +291,7 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
                                 ))}
                             </div>
                             <div className="text-center mt-10">
-                                <Link href="/blogs" className="btn-secondary">View All Articles</Link>
+                                <Link href={`/category/${relatedCategory}`} className="btn-secondary">View All Related Articles</Link>
                             </div>
                         </div>
                     </section>
@@ -321,7 +315,12 @@ export default async function ServiceDetailPage({ params }: { params: Promise<{ 
 
             <JsonLd
                 data={[
-                    serviceSchema({ name: serviceContent.title, description, url: `/service/${slug}` }),
+                    serviceSchema({
+                        name: serviceContent.title,
+                        serviceType: shortTitle,
+                        description: getServiceMetaDescription(slug) ?? description,
+                        url: `/service/${slug}`,
+                    }),
                     ...(serviceContent.faqs && serviceContent.faqs.length > 0
                         ? [faqSchema(serviceContent.faqs.map((f) => ({ q: f.question, a: f.answer })))]
                         : []),

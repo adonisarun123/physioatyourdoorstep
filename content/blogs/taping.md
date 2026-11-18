@@ -5,7 +5,7 @@ metaTitle: "Athletic Taping: Benefits & Risks You Should Know"
 metaDescription: "What is athletic taping ? Athletic Taping is the process of applying Rigid Tape directly/indirectly to the skin in order to maintain a stable position of bones "
 excerpt: "What is athletic taping ? Athletic Taping is the process of applying Rigid Tape directly/indirectly to the skin in order to maintain a stable position of bones and muscles during athletic activity."
 coverImage: "/images/blog/banner6-1536x608-1.jpg"
-category: "Physiotherapy"
+category: "Sports Physiotherapy"
 ---
 
 ## What is athletic taping ?

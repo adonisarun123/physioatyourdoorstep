@@ -61,13 +61,13 @@ Osteoporosis, characterized by decreased bone mineral density and increased frac
 
 ### 4. Stroke and Neurological Conditions
 
-Stroke incidence increases dramatically with age, often resulting in hemiparesis, balance impairment, gait abnormalities, and reduced functional independence. Other neurological conditions like Parkinson’s disease, multiple sclerosis, and peripheral neuropathy also commonly affect the geriatric population.
+Stroke incidence increases dramatically with age, often resulting in [hemiparesis](/hemiparesis-treatment-in-physiotherapy), balance impairment, gait abnormalities, and reduced functional independence. Other neurological conditions like Parkinson’s disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), and peripheral neuropathy also commonly affect the geriatric population.
 
 **Physiotherapy Management:** [Neurological physiotherapy](/service/neurological-physiotherapy) employs specialized techniques including neurodevelopmental approaches, task-specific training, constraint-induced movement therapy, and functional electrical stimulation. Gait retraining, balance exercises, and activities of daily living (ADL) training help maximize recovery and functional independence.
 
 ### 5. Chronic Obstructive Pulmonary Disease (COPD) and Respiratory Conditions
 
-COPD affects approximately 12% of older adults aged 65 and above, causing breathing difficulties, reduced exercise tolerance, and decreased quality of life. Chronic bronchitis and emphysema are the primary conditions within this category.
+[COPD](/copd-physiotherapy-management) affects approximately 12% of older adults aged 65 and above, causing breathing difficulties, reduced exercise tolerance, and decreased quality of life. Chronic bronchitis and emphysema are the primary conditions within this category.
 
 **Physiotherapy Management:** [Pulmonary physiotherapy](/service/pulmonary-physiotherapy) includes breathing exercises, airway clearance techniques, endurance training, and energy conservation strategies. Pursed-lip breathing, diaphragmatic breathing, and graded exercise programs significantly improve respiratory function and exercise capacity.
 
@@ -75,7 +75,7 @@ COPD affects approximately 12% of older adults aged 65 and above, causing breath
 
 Heart disease remains the leading cause of death among individuals 65 and older. Conditions including coronary artery disease, heart failure, and hypertension require careful management to prevent complications and maintain functional capacity.
 
-**Physiotherapy Management:** Cardiac rehabilitation programs supervised by physiotherapists include graduated exercise training, cardiovascular conditioning, risk factor modification education, and lifestyle counseling. These interventions improve cardiovascular fitness, reduce hospital readmissions, and enhance quality of life.
+**Physiotherapy Management:** [Cardiac rehabilitation](/cardiac-rehabilitation-physio-for-heart) programs supervised by physiotherapists include graduated exercise training, cardiovascular conditioning, risk factor modification education, and lifestyle counseling. These interventions improve cardiovascular fitness, reduce hospital readmissions, and enhance quality of life.
 
 ### 7. Diabetes and Its Complications
 
@@ -103,7 +103,7 @@ Bladder control issues affect many elderly individuals, causing embarrassment, s
 
 ## Comprehensive Physiotherapy Assessment for Geriatric Patients
 
-Effective physiotherapy management begins with thorough comprehensive geriatric assessment (CGA). This multidimensional evaluation process examines:
+Effective physiotherapy management begins with thorough comprehensive [geriatric assessment](/geriatric-physiotherapy-assessment) (CGA). This multidimensional evaluation process examines:
 
 - **Medical history:** Current diagnoses, medication review (polypharmacy assessment), surgical history, and symptom analysis
 - **Functional assessment:** Activities of daily living (ADLs), instrumental activities of daily living (IADLs), and mobility status

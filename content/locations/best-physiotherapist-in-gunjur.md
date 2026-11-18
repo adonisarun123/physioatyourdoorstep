@@ -48,7 +48,7 @@ Recover safely at home after orthopaedic surgery. If you've had a **knee replace
 
 ### Orthopaedic Physiotherapy
 
-We treat all common musculoskeletal problems at your doorstep — **chronic back pain, neck pain, frozen shoulder, knee problems (arthritis, meniscus tears), ankle sprains, sciatica and hip pain**. Many Gunjur residents report back pain from desk work at nearby IT offices; our therapists provide ergonomic advice alongside core-strengthening exercises to relieve it. We also manage tennis elbow, golfer's elbow and repetitive strain injuries. Using manual therapy, stretching and customised exercise routines at home, we restore joint range and muscle balance.
+We treat all common musculoskeletal problems at your doorstep — **chronic back pain, neck pain, frozen shoulder, knee problems (arthritis, meniscus tears), ankle sprains, [sciatica](/sciatica-physiotherapy) and hip pain**. Many Gunjur residents report back pain from desk work at nearby IT offices; our therapists provide ergonomic advice alongside core-strengthening exercises to relieve it. We also manage [tennis elbow](/tennis-elbow-physiotherapy-treatment), golfer's elbow and repetitive strain injuries. Using manual therapy, stretching and customised exercise routines at home, we restore joint range and muscle balance.
 
 ### Neurological Physiotherapy
 
@@ -64,7 +64,7 @@ Gentle, effective care for senior citizens. We address common elderly issues at 
 
 ### Paediatric Physiotherapy
 
-Children from infants to teens can receive effective physiotherapy at home too. We treat **developmental delays (late sitting or walking), cerebral palsy, muscular dystrophy, torticollis, Down syndrome, autism-related motor issues** and recovery after injuries or orthopaedic surgery. Our paediatric physiotherapists use play-based exercises to keep children engaged — toys and games that encourage crawling or balancing. Doing this at home is ideal, since getting a toddler to a clinic is a challenge in itself, and parents are encouraged to participate so exercises continue between sessions.
+Children from infants to teens can receive effective physiotherapy at home too. We treat **developmental delays (late sitting or walking), cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), Down syndrome, autism-related motor issues** and recovery after injuries or orthopaedic surgery. Our paediatric physiotherapists use play-based exercises to keep children engaged — toys and games that encourage crawling or balancing. Doing this at home is ideal, since getting a toddler to a clinic is a challenge in itself, and parents are encouraged to participate so exercises continue between sessions.
 
 ## How It Works — Getting Started in Gunjur
 
@@ -120,7 +120,7 @@ Yes. Home physiotherapy in Gunjur is just as effective as visiting a clinic, pro
 
 ### What conditions can be treated with physiotherapy at home in Gunjur?
 
-Virtually any condition you would treat at a physiotherapy clinic can be addressed at home. Our therapists manage **musculoskeletal issues** such as back pain, neck pain, frozen shoulder, knee pain, arthritis, sciatica, sprains and tendon injuries, as well as **neurological conditions** including stroke recovery, Parkinson's disease, multiple sclerosis, nerve injuries and paralysis. We also handle **post-surgical rehabilitation** (knee and hip replacement, ACL repair), **sports injuries**, and specialised **paediatric** and **geriatric** physiotherapy. If it's treatable by physiotherapy, we can bring that treatment to your living room.
+Virtually any condition you would treat at a physiotherapy clinic can be addressed at home. Our therapists manage **musculoskeletal issues** such as back pain, neck pain, frozen shoulder, [knee pain](/knee-pain), arthritis, sciatica, sprains and tendon injuries, as well as **neurological conditions** including stroke recovery, Parkinson's disease, multiple sclerosis, nerve injuries and paralysis. We also handle **post-surgical rehabilitation** (knee and hip replacement, ACL repair), **sports injuries**, and specialised **paediatric** and **geriatric** physiotherapy. If it's treatable by physiotherapy, we can bring that treatment to your living room.
 
 ### How can I find the best physiotherapist in Gunjur for home visits?
 

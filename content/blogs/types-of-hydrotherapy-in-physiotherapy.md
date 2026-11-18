@@ -9,7 +9,7 @@ category: "Physiotherapy"
 ---
 Water has been used to soothe pain for thousands of years, but modern physiotherapy has turned it into a precise clinical tool. If you have searched for the types of hydrotherapy in physiotherapy, you have probably noticed that most pages give you a long list of names and stop there. They rarely tell you which type suits which problem, how warm the water should be, who should avoid it, or what you can safely do at home.
 
-This guide fills those gaps. You will learn how hydrotherapy works, the main types used by physiotherapists, what research says about their effectiveness, how to match a method to your condition, and how water-based care can be built into [home physiotherapy in Bangalore](/).
+This guide fills those gaps. You will learn how hydrotherapy works, the main types used by physiotherapists, what research says about their effectiveness, how to match a method to your condition, and how water-based care can be built into [home physiotherapy in Bangalore](/locations).
 
 ## Key Takeaways
 
@@ -75,7 +75,7 @@ Physiotherapy pools are usually heated to between about 28 and 36 degrees Celsiu
 
 ### General Aquatic Exercise
 
-This is the most common form. A therapist guides you through walking, marching, leg swings, squats, stretching and strengthening in chest-deep water. It is widely used for osteoarthritis, back pain, post-surgical rehabilitation and general deconditioning. Aquatic work is also one of the [types of aerobic training in physiotherapy](/types-of-aerobic-training-in-physiotherapy) used to rebuild stamina. Our guide to [physiotherapy for osteoarthritis](/physiotherapy-for-osteoarthritis) shows how land and water work fit together.
+This is the most common form. A therapist guides you through walking, marching, leg swings, squats, stretching and strengthening in chest-deep water. It is widely used for osteoarthritis, back pain, [post-surgical rehabilitation](/service/post-surgical-physiotherapy) and general deconditioning. Aquatic work is also one of the [types of aerobic training in physiotherapy](/types-of-aerobic-training-in-physiotherapy) used to rebuild stamina. Our guide to [physiotherapy for osteoarthritis](/physiotherapy-for-osteoarthritis) shows how land and water work fit together.
 
 ### Bad Ragaz Ring Method
 
@@ -83,7 +83,7 @@ Often described as an aquatic version of proprioceptive neuromuscular facilitati
 
 ### Halliwick Concept
 
-Halliwick began as a way to teach swimming to people with disabilities and is now used as a therapy approach built around balance control, rotation control and breathing. Research on Halliwick therapy in subacute stroke has examined its effect on functional mobility. It is helpful in neurological rehabilitation and for children. See our guide to [hemiplegia treatment and physiotherapy exercise](/hemiplegia-treatment-physiotherapy-exercise) for how rehabilitation progresses after stroke.
+Halliwick began as a way to teach swimming to people with disabilities and is now used as a therapy approach built around balance control, rotation control and breathing. Research on Halliwick therapy in subacute stroke has examined its effect on functional mobility. It is helpful in [neurological rehabilitation](/types-of-neurological-rehabilitation) and for children. See our guide to [hemiplegia treatment and physiotherapy exercise](/hemiplegia-treatment-physiotherapy-exercise) for how rehabilitation progresses after stroke.
 
 ### Ai Chi
 

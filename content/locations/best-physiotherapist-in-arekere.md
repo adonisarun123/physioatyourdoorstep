@@ -38,7 +38,7 @@ Physio At Your Doorstep offers a comprehensive range of physiotherapy services a
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after surgeries with specialized physiotherapy. If you've had orthopedic operations like a knee replacement, hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, restore joint mobility, and improve function right in your Arekere home.
+Guided recovery at home after surgeries with specialized physiotherapy. If you've had orthopedic operations like a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, restore joint mobility, and improve function right in your Arekere home.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -56,7 +56,7 @@ Rehabilitation for nerve, spine, and brain-related conditions. We offer home the
 
 ### Sports Injury Rehabilitation
 
-Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy jogging and playing sports on weekends, we can treat sports injuries like ligament tears, muscle strains, tennis elbow, runner's knee, and more. We come equipped with therapy tools to manage your injury on-site and help you safely return to your activities.
+Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy jogging and playing sports on weekends, we can treat sports injuries like ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, and more. We come equipped with therapy tools to manage your injury on-site and help you safely return to your activities.
 
 [Learn More](/service/sports-physiotherapy)
 
@@ -68,7 +68,7 @@ Specialized care for older adults. We help senior citizens in Arekere with age-r
 
 ### Pediatric Physiotherapy
 
-Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative throughout the session.
+Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative throughout the session.
 
 [Learn More](/service/pediatric-physiotherapy)
 
@@ -140,7 +140,7 @@ Yes. Home physiotherapy in Arekere is just as effective as visiting a clinic, as
 
 ### What conditions can be treated with physiotherapy at home in Arekere?
 
-Our physiotherapists can address a wide range of conditions with home visits. We treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries, arthritis, and tendon/ligament problems. We also handle neurological rehabilitation for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis, and nerve injuries. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we provide sports injury rehab (for sprains, muscle tears, etc.) and post-surgical rehab after operations like knee replacements or fractures. Essentially, nearly any condition that would be treated at a physiotherapy clinic can be treated at home by our qualified therapists – we adapt our techniques and equipment to the home setting to ensure you get the care you need.
+Our physiotherapists can address a wide range of conditions with home visits. We treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries, arthritis, and tendon/ligament problems. We also handle [neurological rehabilitation](/types-of-neurological-rehabilitation) for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis, and nerve injuries. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we provide sports injury rehab (for sprains, muscle tears, etc.) and post-surgical rehab after operations like knee replacements or fractures. Essentially, nearly any condition that would be treated at a physiotherapy clinic can be treated at home by our qualified therapists – we adapt our techniques and equipment to the home setting to ensure you get the care you need.
 
 ### How can I find the best physiotherapist in Arekere for home visits?
 
@@ -148,7 +148,7 @@ Finding the best physiotherapist in Arekere for at-home treatment involves looki
 
 ### What are the charges for physiotherapy at home in Arekere?
 
-The cost of home physiotherapy in Arekere depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Arekere) are comparable to clinic rates – typically ranging around ₹500 to ₹800 per session – and you save on transportation costs and time. Physio At Your Doorstep offers transparent pricing and customized therapy plans. The exact cost will be determined by your specific needs. For instance, a simple ankle sprain might only require a few sessions (lower total cost), whereas post-surgical rehabilitation or highly specialized therapy could be priced slightly higher per session due to the advanced care involved. We also provide package deals for multiple sessions, which can reduce the per-session cost. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a package that suits you best – with no hidden charges
+The cost of home physiotherapy in Arekere depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Arekere) are comparable to clinic rates – typically ranging around ₹799–₹1,099 per session – and you save on transportation costs and time. Physio At Your Doorstep offers transparent pricing and customized therapy plans. The exact cost will be determined by your specific needs. For instance, a simple ankle sprain might only require a few sessions (lower total cost), whereas post-surgical rehabilitation or highly specialized therapy could be priced slightly higher per session due to the advanced care involved. We also provide package deals for multiple sessions, which can reduce the per-session cost. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a package that suits you best – with no hidden charges
 
 ### Do you provide physiotherapy for senior citizens at home in Arekere?
 

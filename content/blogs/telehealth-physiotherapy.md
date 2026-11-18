@@ -9,7 +9,7 @@ category: "Physiotherapy"
 ---
 ## Overview
 
-Telehealth physiotherapy (also called tele-physiotherapy, telerehabilitation, online physiotherapy, or virtual physio) lets you consult a licensed physiotherapist via secure video at home. When used for the right conditions, it can be as effective as in-person care, especially for education, exercise therapy, ergonomics coaching, and progress reviews. This guide explains when telehealth is appropriate, how a session works on Google Meet, why it’s effective, what you’ll need, common conditions it helps, and how to combine online and home-visit care in a hybrid plan for faster recovery.
+Telehealth physiotherapy (also called tele-physiotherapy, telerehabilitation, [online physiotherapy](/service/online-physiotherapy-consultation-india), or virtual physio) lets you consult a licensed physiotherapist via secure video at home. When used for the right conditions, it can be as effective as in-person care, especially for education, exercise therapy, ergonomics coaching, and progress reviews. This guide explains when telehealth is appropriate, how a session works on Google Meet, why it’s effective, what you’ll need, common conditions it helps, and how to combine online and home-visit care in a hybrid plan for faster recovery.
 
 ## What is Telehealth Physiotherapy?
 
@@ -35,7 +35,7 @@ Comparable outcomes for MSK pain and function: Systematic reviews and profession
 
 ### How We Track Outcomes Online
 
-Adherence to home exercise program (HEP); Pain intensity and irritability trends; Functional scales (e.g., Oswestry for back pain; KOOS for knee OA); Return-to-activity milestones; Patient-reported experience measures
+Adherence to home exercise program (HEP); Pain intensity and irritability trends; Functional scales (e.g., Oswestry for [back pain](/back-ache); KOOS for knee OA); Return-to-activity milestones; Patient-reported experience measures
 
 ## When Telehealth is the Right Choice
 
@@ -49,7 +49,7 @@ Adherence to home exercise program (HEP); Pain intensity and irritability trends
 
 **Post-operative progressions (select phases):** Later-stage rehab that focuses on ROM, strength, gait, and functional training can be safely advanced online under therapist guidance. Headache and neck-related disorders: Exercise, posture cues, and trigger management are ideal for remote coaching. Learn more about [cervical-related headaches here](/cervicogenic-headache)
 
-**Sports injury return-to-play planning**: Telehealth check-ins for load progression, movement quality via video, and program updates. Pregnancy and early postnatal care (selected needs): Pelvic floor education, safe movement strategies, low-load strengthening, and pain management where appropriate.
+**Sports injury return-to-play planning**: Telehealth check-ins for load progression, movement quality via video, and program updates. Pregnancy and early [postnatal care](/postnatal-physiotherapy) (selected needs): Pelvic floor education, safe movement strategies, low-load strengthening, and pain management where appropriate.
 
 **Senior care at home**: Balance, falls prevention, and mobility training when travel is difficult. Caregivers can join video calls for safer carryover between sessions.
 
@@ -118,7 +118,7 @@ ACL/meniscus (later stages), total knee/hip replacement (after early milestones)
 
 ### Neurological and Chronic Conditions
 
-Balance and falls prevention, gait training, and endurance building (with caregiver support as appropriate). COPD and cardiac rehab elements that focus on breathing strategies, mobility, and self-management can be progressed via video under a clinician’s guidance.
+Balance and falls prevention, gait training, and endurance building (with caregiver support as appropriate). [COPD](/copd-physiotherapy-management) and cardiac rehab elements that focus on breathing strategies, mobility, and self-management can be progressed via video under a clinician’s guidance.
 
 ### Pediatric and Pelvic Health Considerations
 

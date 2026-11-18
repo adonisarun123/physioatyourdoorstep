@@ -196,7 +196,7 @@ Recent research has demonstrated the effectiveness of physiotherapy for cervical
 
 ### Manual Therapy
 
-Cervical Mobilization: Gentle, passive movements performed by the physiotherapist to improve joint mobility and reduce pain. These techniques include:
+Cervical Mobilization: Gentle, [passive movements](/types-of-active-and-passive-movement-in-physio) performed by the physiotherapist to improve joint mobility and reduce pain. These techniques include:
 
 - Grade I-IV mobilizations based on pain tolerance
 - Specific joint mobilization techniques for C2-C7 segments
@@ -386,7 +386,7 @@ Mechanical Traction: Using specialized equipment for controlled and measured tra
 **Daily Activity Management:**
 
 - Maintain good posture throughout the day
-- Take frequent breaks from prolonged sitting (every 30-45 minutes)
+- Take frequent breaks from [prolonged sitting](/desk-job-syndrome-physiotherapy) (every 30-45 minutes)
 - Use proper ergonomics at workstation and home
 - Sleep with adequate neck support using appropriate pillows
 - Stay hydrated to maintain disc health
@@ -547,7 +547,7 @@ For comprehensive spinal health management, explore our related services:
 - Arthritis-related neck pain
 - Degenerative disc disease
 
-### [Home Visit Physiotherapy](/)
+### [Home Visit Physiotherapy](/service)
 
 - Post-surgical rehabilitation
 - Elderly care physiotherapy
@@ -633,7 +633,7 @@ The best treatment approach is typically conservative management with physiother
 
 ### How does physiotherapy help in cervical disc issues?
 
-Physiotherapy helps through multiple mechanisms: reducing inflammation and pain through manual techniques and electrotherapy, improving disc nutrition through specific movements and exercises, strengthening supporting muscles to reduce disc stress, correcting postural abnormalities that contribute to the problem, and educating patients about prevention strategies. The comprehensive approach addresses both symptoms and underlying causes for long-term recovery.
+Physiotherapy helps through multiple mechanisms: reducing inflammation and pain through manual techniques and [electrotherapy](/electrotherapy-modalities-in-physiotherapy), improving disc nutrition through specific movements and exercises, strengthening supporting muscles to reduce disc stress, correcting postural abnormalities that contribute to the problem, and educating patients about prevention strategies. The comprehensive approach addresses both symptoms and underlying causes for long-term recovery.
 
 ### How long does it take to recover from a cervical disc prolapse?
 

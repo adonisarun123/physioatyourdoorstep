@@ -42,7 +42,7 @@ Recovering from surgery can be challenging, but our at-home post-operative rehab
 
 ### Orthopedic Physiotherapy
 
-Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like fractures or sprains. If you're suffering from back pain, neck pain, knee injuries, shoulder stiffness, arthritis or joint pain, we provide targeted treatment at home.
+Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like fractures or sprains. If you're suffering from [back pain](/back-ache), neck pain, knee injuries, shoulder stiffness, arthritis or joint pain, we provide targeted treatment at home.
 
 ### Neurological Physiotherapy
 
@@ -50,15 +50,15 @@ Patients with neurological conditions can greatly benefit from physiotherapy –
 
 ### Sports Injury Rehabilitation
 
-If you've suffered a sports-related injury or sprain, our home physiotherapy can get you back in the game safely. Sports injuries often involve muscles, ligaments, or joints. Our physiotherapist will first help reduce your pain and swelling using techniques like ice/heat therapy, gentle mobilization, and rest advice.
+If you've suffered a sports-related injury or sprain, our home physiotherapy can get you back in the game safely. [Sports injuries](/service/sports-physiotherapy) often involve muscles, ligaments, or joints. Our physiotherapist will first help reduce your pain and swelling using techniques like ice/heat therapy, gentle mobilization, and rest advice.
 
 ### Geriatric Physiotherapy
 
-For seniors in Laxmi Chowk, we provide gentle and effective physiotherapy at home to address age-related issues. Geriatric physiotherapy focuses on the unique needs of older adults, such as joint stiffness, muscle weakness, balance problems, arthritis pain, and **fall prevention**.
+For seniors in Laxmi Chowk, we provide gentle and effective physiotherapy at home to address age-related issues. [Geriatric physiotherapy](/service/geriatric-physiotherapy) focuses on the unique needs of older adults, such as joint stiffness, muscle weakness, balance problems, arthritis pain, and **fall prevention**.
 
 ### Pediatric Physiotherapy
 
-Children and adolescents sometimes need physiotherapy too – whether to recover from injuries or to address developmental concerns. Our pediatric physiotherapy service brings **playful, child-friendly rehab exercises** right to your home. which often leads to better cooperation and faster progress
+Children and adolescents sometimes need physiotherapy too – whether to recover from injuries or to address developmental concerns. Our [pediatric physiotherapy](/service/pediatric-physiotherapy) service brings **playful, child-friendly rehab exercises** right to your home. which often leads to better cooperation and faster progress
 
 ## How It Works?
 
@@ -117,7 +117,7 @@ The number of physiotherapy sessions required varies from person to person. It d
 
 ### How much does a home physiotherapy session cost in Laxmi Chowk?
 
-The cost of a physiotherapy home visit in Pune can depend on the type of treatment and session length, but we maintain transparent and affordable pricing. Generally, in Pune, a single at-home physiotherapy session costs around **₹700 to ₹1,000** on average. Your exact quote will depend on factors like the complexity of your case and the duration of each session (typically 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting personalized one-on-one care and you save on travel time/costs. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your situation.
+The cost of a physiotherapy home visit in Pune can depend on the type of treatment and session length, but we maintain transparent and affordable pricing. Generally, in Pune, a single at-home physiotherapy session costs around **₹799–₹1,099** on average. Your exact quote will depend on factors like the complexity of your case and the duration of each session (typically 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting personalized one-on-one care and you save on travel time/costs. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your situation.
 
 ### Is physiotherapy at home safe (especially for seniors or post-surgery patients)?
 

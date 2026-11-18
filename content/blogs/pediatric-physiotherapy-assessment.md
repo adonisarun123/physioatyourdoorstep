@@ -59,7 +59,7 @@ Following the interview, the physiotherapist conducts a hands-on physical examin
 
 **Posture and Alignment Assessment**: The physiotherapist observes your child’s posture in different positions including supine (lying on back), prone (lying on stomach), sitting, and standing. They look for asymmetries, spinal curves, and alignment issues that might affect movement.
 
-**Muscle Tone Evaluation**: Through gentle handling and passive movement, the physiotherapist assesses whether muscle tone is normal, increased (hypertonia/spasticity), or decreased (hypotonia). The Modified Ashworth Scale is commonly used to grade spasticity levels in children with neurological conditions.
+**Muscle Tone Evaluation**: Through gentle handling and [passive movement](/types-of-active-and-passive-movement-in-physio), the physiotherapist assesses whether muscle tone is normal, increased (hypertonia/spasticity), or decreased (hypotonia). The Modified Ashworth Scale is commonly used to grade spasticity levels in children with neurological conditions.
 
 **Range of Motion Testing**: Each joint is moved through its full range to identify any limitations, tightness, or contractures that might restrict movement. Both active (child moves independently) and passive (therapist moves the joint) range of motion are evaluated.
 
@@ -434,8 +434,8 @@ Common conditions benefiting from pediatric physiotherapy assessment include:
 - Orthopedic conditions (fractures, joint problems, limb length discrepancies)
 - Sports injuries
 - Post-surgical rehabilitation
-- Torticollis, plagiocephaly, and other infant positioning issues
-- Respiratory conditions requiring chest physiotherapy
+- [Torticollis](/torticollis-physiotherapy-treatment), plagiocephaly, and other infant positioning issues
+- Respiratory conditions requiring [chest physiotherapy](/service/pulmonary-physiotherapy)
 - Balance and coordination difficulties
 - Toe walking and gait abnormalities
 

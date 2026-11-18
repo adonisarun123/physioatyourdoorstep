@@ -7,7 +7,7 @@ import EventGallery, { EventVideo } from "@/components/EventGallery";
 import Link from "next/link";
 import { Briefcase, Building2, Calendar, Camera, Images, MapPin, Phone, Sparkles, Video } from "lucide-react";
 import { GALLERY_EVENTS, GALLERY_TOTALS, galleryVideoPath } from "@/lib/gallery";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 const lead = GALLERY_EVENTS[0];
@@ -15,9 +15,9 @@ const lead = GALLERY_EVENTS[0];
 export const metadata: Metadata = {
     title: "Gallery — Corporate Wellness & Ergonomic Sessions",
     description:
-        "Photos and video from Physio At Your Doorstep's corporate wellness work, including the Quess Corp : Ergonomic Session — posture, desk stretches and workplace ergonomics for teams in Bengaluru.",
+        "Photos and video from our corporate wellness work, including the Quess Corp ergonomic session: posture, desk stretches and workplace ergonomics in Bengaluru.",
     alternates: { canonical: "/gallery" },
-    openGraph: {
+    openGraph: { ...OG_DEFAULTS,
         title: "Gallery — Corporate Wellness & Ergonomic Sessions",
         url: "/gallery",
         type: "website",

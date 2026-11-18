@@ -36,7 +36,7 @@ Common Indications for CABG:
 
 - Multi-vessel coronary artery disease
 - Left main coronary artery stenosis
-- Failed angioplasty or stent procedures
+- Failed [angioplasty](/angioplasty-post-surgical-physiotherapy) or stent procedures
 - Acute coronary syndrome with complex anatomy
 - Diabetic patients with multi-vessel disease
 

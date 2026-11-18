@@ -12,7 +12,7 @@ category: "Geriatric Physiotherapy"
 
 The heart does not age in isolation. As the body grows older, the cardiovascular system quietly undergoes a series of structural and functional changes. Arterial walls stiffen, the left ventricle thickens, resting heart rate variability narrows, and the overall capacity for physical exertion declines. For millions of older adults in India, these changes are not just statistics. They translate into breathlessness while climbing stairs, fatigue after a short walk, and a creeping loss of independence.
 
-Geriatric cardio physiotherapy is the specialized branch of physical rehabilitation that addresses exactly these challenges. It combines the science of cardiac rehabilitation with a deep understanding of age-related physiological changes, offering older adults a structured, supervised, and safe pathway back to functional fitness. Whether someone is recovering from a heart attack, managing chronic heart failure, or simply trying to keep hypertension in check, cardio physiotherapy for elderly patients is one of the most effective, evidence-backed interventions available.
+Geriatric cardio physiotherapy is the specialized branch of physical rehabilitation that addresses exactly these challenges. It combines the science of [cardiac rehabilitation](/cardiac-rehabilitation-physio-for-heart) with a deep understanding of age-related physiological changes, offering older adults a structured, supervised, and safe pathway back to functional fitness. Whether someone is recovering from a heart attack, managing chronic heart failure, or simply trying to keep hypertension in check, cardio physiotherapy for elderly patients is one of the most effective, evidence-backed interventions available.
 
 This guide covers what geriatric cardio physiotherapy involves, the most common complications it addresses, the safest exercises for elderly patients with cardiac conditions, key precautions every caregiver and patient must know, and how home-based physiotherapy can make a meaningful difference in quality of life.
 
@@ -20,7 +20,7 @@ This guide covers what geriatric cardio physiotherapy involves, the most common 
 
 Geriatric cardio physiotherapy refers to a personalized program of physical assessment, therapeutic exercise, breathing training, and lifestyle guidance designed specifically for older adults with cardiovascular conditions. It sits at the intersection of two medical fields: geriatric medicine (focused on the complex health needs of ageing individuals) and cardiac rehabilitation (focused on restoring heart function after illness or surgery).
 
-Unlike standard physiotherapy or even general cardiac rehabilitation, geriatric cardio physiotherapy accounts for the unique challenges that come with age. These include multiple coexisting conditions such as diabetes, osteoarthritis, and chronic kidney disease; age-related decline in muscle mass (sarcopenia); slower neurological reflexes that affect balance; and the cognitive or emotional factors that influence exercise adherence.
+Unlike standard physiotherapy or even general cardiac rehabilitation, geriatric cardio physiotherapy accounts for the unique challenges that come with age. These include multiple coexisting conditions such as diabetes, [osteoarthritis](/physiotherapy-for-osteoarthritis), and chronic kidney disease; age-related decline in muscle mass (sarcopenia); slower neurological reflexes that affect balance; and the cognitive or emotional factors that influence exercise adherence.
 
 A trained geriatric physiotherapist working in the cardio rehabilitation space will typically assess the patient's aerobic capacity, muscle strength, balance and fall risk, breathing patterns, daily functional ability, medications (since several cardiac drugs affect exercise response), and caregiver support at home.
 
@@ -48,7 +48,7 @@ Atrial fibrillation (AF) is the most common arrhythmia in older adults and signi
 
 ### 5. Post-Cardiac Surgery Recovery (CABG and Valve Replacement)
 
-Older patients recovering from coronary artery bypass grafting (CABG) or heart valve replacement surgery face significant functional deconditioning. A geriatric rehabilitation program focused on cardio recovery, as described in research published in BMC Geriatrics, has been shown to restore functional capacity to a level where patients can safely return home and reduce future hospital readmissions.
+Older patients recovering from coronary artery bypass grafting ([CABG](/cabg-post-surgical-physiotherapy-management)) or heart valve replacement surgery face significant functional deconditioning. A geriatric rehabilitation program focused on cardio recovery, as described in research published in BMC Geriatrics, has been shown to restore functional capacity to a level where patients can safely return home and reduce future hospital readmissions.
 
 ### 6. Peripheral Vascular Disease
 
@@ -106,7 +106,7 @@ Rising from a chair is a functional movement that predicts falls and functional 
 
 ### 4. Stationary Cycling (Recumbent or Upright)
 
-For patients who can tolerate more than minimal exertion, stationary cycling provides a controlled, joint-friendly aerobic workout. Recumbent cycling is preferred for those with balance concerns or lower back pain, as the supported position reduces cardiovascular strain. Exercise intensity is typically set to 50% of the estimated maximum heart rate reserve.
+For patients who can tolerate more than minimal exertion, stationary cycling provides a controlled, joint-friendly aerobic workout. Recumbent cycling is preferred for those with balance concerns or [lower back pain](/back-ache), as the supported position reduces cardiovascular strain. Exercise intensity is typically set to 50% of the estimated maximum heart rate reserve.
 
 Research supports stationary cycling as an effective modality for improving aerobic capacity in elderly heart failure patients, particularly when combined with structured cool-down protocols.
 
@@ -116,7 +116,7 @@ For patients who cannot use their lower limbs adequately due to peripheral vascu
 
 ### 6. Breathing and Respiratory Muscle Training
 
-Diaphragmatic breathing and pursed-lip breathing are foundational techniques in geriatric cardio physiotherapy. These exercises improve respiratory efficiency, reduce the work of breathing, lower resting heart rate, and help manage the dyspnea (breathlessness) that commonly accompanies heart failure and COPD.
+Diaphragmatic breathing and pursed-lip breathing are foundational techniques in geriatric cardio physiotherapy. These exercises improve respiratory efficiency, reduce the work of breathing, lower resting heart rate, and help manage the dyspnea (breathlessness) that commonly accompanies heart failure and [COPD](/copd-physiotherapy-management).
 
 **Diaphragmatic breathing technique:** Place one hand on the chest and one on the abdomen. Breathe in slowly through the nose, allowing the abdomen to rise while keeping the chest relatively still. Exhale slowly through pursed lips (as if blowing out a candle). Repeat for 5 to 10 cycles, 2 to 3 times daily.
 

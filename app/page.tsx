@@ -5,7 +5,7 @@ import GoogleReviews from "@/components/GoogleReviews";
 import YouTubeSection from "@/components/YouTubeSection";
 import { ServiceFAQ } from "@/components/ServiceFAQ";
 import JsonLd from "@/components/JsonLd";
-import { faqSchema } from "@/lib/seo";
+import { faqSchema, OG_DEFAULTS } from "@/lib/seo";
 import {
     Check, Heart, Users, Stethoscope, Phone, Zap, MapPin, Star, ArrowRight,
     Activity, Bone, Brain, Baby, HeartPulse, Wind, Video,
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: "Best Physiotherapist in Bangalore | Physiotherapy at Home",
     description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts. Personalized care for pain relief, recovery, and mobility, right at your doorstep",
     alternates: { canonical: "/" },
-    openGraph: {
+    openGraph: { ...OG_DEFAULTS,
         title: "Best Physiotherapist in Bangalore",
         description: "Physio at your Doorstep – Bangalore's trusted home physiotherapy experts.",
         url: "/",

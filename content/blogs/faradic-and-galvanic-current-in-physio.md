@@ -14,7 +14,7 @@ Despite being decades old, faradic and galvanic current therapy remain part of e
 
 ## What Is Electrotherapy in Physiotherapy?
 
-Electrotherapy refers to the use of low-voltage, low-frequency electrical impulses to stimulate nerves and muscles for therapeutic purposes. It is a non-invasive, drug-free treatment option used to manage pain, reduce inflammation, and restore muscle function. Faradic and galvanic currents are two of the four classic low-frequency currents used in this field, alongside interrupted galvanic current and surged faradic current.
+[Electrotherapy](/electrotherapy-modalities-in-physiotherapy) refers to the use of low-voltage, low-frequency electrical impulses to stimulate nerves and muscles for therapeutic purposes. It is a non-invasive, drug-free treatment option used to manage pain, reduce inflammation, and restore muscle function. Faradic and galvanic currents are two of the four classic low-frequency currents used in this field, alongside interrupted galvanic current and surged faradic current.
 
 An electrical muscle stimulator, sometimes called an EMS or NMES device, generates and delivers these currents through electrodes placed on the skin over the affected muscle or nerve pathway. This creates a closed circuit through which the electrical impulse travels, triggering a physiological response in the underlying tissue.
 
@@ -74,7 +74,7 @@ Because faradic current can produce a strong, near-tetanic contraction, it is us
 
 ### 4. Pain Modulation Through the Gate Control Mechanism
 
-Faradic current, especially in its surged form, can help reduce pain by overloading sensory nerve fibers, which interferes with the transmission of pain signals to the brain. This mechanism is similar to the one used in TENS, though faradic current additionally produces a muscle contraction that TENS typically does not.
+Faradic current, especially in its surged form, can help reduce pain by overloading sensory nerve fibers, which interferes with the transmission of pain signals to the brain. This mechanism is similar to the one used in [TENS](/tens-vs-traction-physiotherapy), though faradic current additionally produces a muscle contraction that TENS typically does not.
 
 ### 5. Improved Local Circulation
 
@@ -94,7 +94,7 @@ Galvanic current works through a fundamentally different mechanism, and its ther
 
 ### 1. Stimulation of Denervated Muscle
 
-This is the defining therapeutic use of galvanic current. When a peripheral nerve is damaged, as seen in conditions like foot drop or facial palsy, the muscle it supplies loses its normal nerve signal. Galvanic current’s long pulse duration can directly depolarize the muscle fiber itself, producing a slow, worm-like contraction that keeps the muscle active and helps delay atrophy while the nerve regenerates.
+This is the defining therapeutic use of galvanic current. When a peripheral nerve is damaged, as seen in conditions like foot drop or [facial palsy](/facial-palsy-physiotherapy-treatment), the muscle it supplies loses its normal nerve signal. Galvanic current’s long pulse duration can directly depolarize the muscle fiber itself, producing a slow, worm-like contraction that keeps the muscle active and helps delay atrophy while the nerve regenerates.
 
 ### 2. Iontophoresis for Drug Delivery
 
@@ -328,16 +328,30 @@ Ready to experience professionally supervised electrotherapy and physiotherapy a
 
 ## Frequently Asked Questions (FAQ)
 
-- [What is the main difference between faradic and galvanic current?](#acc-hmg0342-0) Faradic current uses short-duration, high-frequency pulses (50 to 100 Hz) to stimulate muscles with an intact nerve supply, making it useful for strengthening and re-education. Galvanic current is a continuous or long-duration direct current that can stimulate denervated muscle directly and is also used for iontophoresis and chronic pain management.
+### What is the main difference between faradic and galvanic current?
 
-- [Which current is better for foot drop or facial palsy?](#acc-hmg0342-1) Galvanic current is generally preferred when the underlying muscle is denervated, as is often the case in foot drop from nerve damage or in facial (Bell’s) palsy. Faradic current only works effectively if the nerve supply to the muscle is still intact, so it is less useful in these cases until reinnervation begins.
+Faradic current uses short-duration, high-frequency pulses (50 to 100 Hz) to stimulate muscles with an intact nerve supply, making it useful for strengthening and re-education. Galvanic current is a continuous or long-duration direct current that can stimulate denervated muscle directly and is also used for iontophoresis and chronic pain management.
 
-- [Can faradic and galvanic current be used in the same treatment session?](#acc-hmg0342-2) Yes. Physiotherapists sometimes use both currents in the same session or across a treatment plan, particularly when a muscle group has a mix of intact and partially denervated fibers, or when transitioning a patient from denervation-focused treatment to active strengthening as nerve function returns.
+### Which current is better for foot drop or facial palsy?
 
-- [Is electrotherapy with faradic or galvanic current painful?](#acc-hmg0342-3) No, when applied correctly, both currents typically produce a tingling or pins-and-needles sensation with a visible muscle contraction, not pain. Some patients describe a mild pricking sensation with faradic current or a warm, buzzing feeling with galvanic current. If you experience sharp pain or burning, the physiotherapist should adjust the intensity immediately.
+Galvanic current is generally preferred when the underlying muscle is denervated, as is often the case in foot drop from nerve damage or in facial (Bell’s) palsy. Faradic current only works effectively if the nerve supply to the muscle is still intact, so it is less useful in these cases until reinnervation begins.
 
-- [How many sessions of faradic or galvanic current therapy are usually needed?](#acc-hmg0342-4) A typical course involves 10 to 15 sessions delivered 3 to 5 times per week, though this varies based on the underlying condition. Faradic sessions generally last 10 to 15 minutes per muscle group, while galvanic sessions may run 15 to 30 minutes depending on whether the goal is muscle stimulation, pain relief, or iontophoresis.
+### Can faradic and galvanic current be used in the same treatment session?
 
-- [Are there any side effects of faradic or galvanic current treatment?](#acc-hmg0342-5) Mild skin redness or tingling under the electrodes is common and usually resolves quickly. Overuse of galvanic current at high intensity can occasionally cause chemical skin irritation due to sustained ion transfer, while excessive faradic stimulation may lead to temporary muscle fatigue. These risks are minimized significantly when treatment is supervised by a trained physiotherapist.
+Yes. Physiotherapists sometimes use both currents in the same session or across a treatment plan, particularly when a muscle group has a mix of intact and partially denervated fibers, or when transitioning a patient from denervation-focused treatment to active strengthening as nerve function returns.
 
-- [Can I use a home electrical stimulation device instead of visiting a physiotherapist?](#acc-hmg0342-6) Over-the-counter EMS or TENS units can offer general comfort, but they cannot replace a physiotherapist’s clinical assessment. Choosing the correct current type, intensity, electrode placement, and treatment duration depends on an accurate diagnosis of whether a muscle is innervated or denervated, which is a clinical judgment best made by a qualified professional.
+### Is electrotherapy with faradic or galvanic current painful?
+
+No, when applied correctly, both currents typically produce a tingling or pins-and-needles sensation with a visible muscle contraction, not pain. Some patients describe a mild pricking sensation with faradic current or a warm, buzzing feeling with galvanic current. If you experience sharp pain or burning, the physiotherapist should adjust the intensity immediately.
+
+### How many sessions of faradic or galvanic current therapy are usually needed?
+
+A typical course involves 10 to 15 sessions delivered 3 to 5 times per week, though this varies based on the underlying condition. Faradic sessions generally last 10 to 15 minutes per muscle group, while galvanic sessions may run 15 to 30 minutes depending on whether the goal is muscle stimulation, pain relief, or iontophoresis.
+
+### Are there any side effects of faradic or galvanic current treatment?
+
+Mild skin redness or tingling under the electrodes is common and usually resolves quickly. Overuse of galvanic current at high intensity can occasionally cause chemical skin irritation due to sustained ion transfer, while excessive faradic stimulation may lead to temporary muscle fatigue. These risks are minimized significantly when treatment is supervised by a trained physiotherapist.
+
+### Can I use a home electrical stimulation device instead of visiting a physiotherapist?
+
+Over-the-counter EMS or TENS units can offer general comfort, but they cannot replace a physiotherapist’s clinical assessment. Choosing the correct current type, intensity, electrode placement, and treatment duration depends on an accurate diagnosis of whether a muscle is innervated or denervated, which is a clinical judgment best made by a qualified professional.

@@ -9,7 +9,7 @@ category: "Neurological Physiotherapy"
 ---
 ## Introduction
 
-Neurological conditions affect millions of people worldwide, significantly impacting daily functioning and quality of life. Whether stemming from stroke, traumatic brain injury, Parkinson's disease, multiple sclerosis, or other conditions affecting the nervous system, the path to recovery often involves specialized neurological physiotherapy. At the heart of effective neurological rehabilitation lies a thorough and precise neurological assessment – the crucial first step in developing a personalized treatment plan tailored to each patient's specific needs.
+Neurological conditions affect millions of people worldwide, significantly impacting daily functioning and quality of life. Whether stemming from stroke, traumatic brain injury, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), or other conditions affecting the nervous system, the path to recovery often involves specialized neurological physiotherapy. At the heart of effective [neurological rehabilitation](/types-of-neurological-rehabilitation) lies a thorough and precise neurological assessment – the crucial first step in developing a personalized treatment plan tailored to each patient's specific needs.
 
 At [Physio at your Doorstep](/), we understand that a comprehensive neurological assessment forms the foundation of successful rehabilitation outcomes. This detailed evaluation process allows our physiotherapists to identify specific impairments, establish baseline measurements, set realistic goals, and create evidence-based treatment strategies that address the root causes of functional limitations.
 
@@ -99,7 +99,7 @@ Systematic evaluation of all 12 cranial nerves to identify specific deficits aff
 #### Motor Function Assessment:
 
 1. **Muscle Tone**: Evaluation for hypotonia, hypertonia, spasticity, or rigidity.
-2. **Range of Motion**: Assessment of active and passive movement at all joints.
+2. **Range of Motion**: Assessment of active and [passive movement](/types-of-active-and-passive-movement-in-physio) at all joints.
 3. **Muscle Strength**: Manual muscle testing using the Medical Research Council (MRC) scale or other standardized measures.
 4. **Coordination**: Testing fine and gross motor coordination through specialized tests like finger-to-nose, heel-to-shin, and rapid alternating movements.
 
@@ -204,7 +204,7 @@ At Physio at your Doorstep, our experienced neurological physiotherapists excel 
 
 ### Stroke Assessment
 
-Stroke (cerebrovascular accident) is one of the most common neurological conditions requiring specialized physiotherapy assessment. The location and extent of brain damage determine the specific impairments, which may include hemiparesis, sensory deficits, aphasia, and balance problems.
+Stroke (cerebrovascular accident) is one of the most common neurological conditions requiring specialized physiotherapy assessment. The location and extent of brain damage determine the specific impairments, which may include [hemiparesis](/hemiparesis-treatment-in-physiotherapy), sensory deficits, aphasia, and balance problems.
 
 #### Key Elements in Stroke Assessment:
 

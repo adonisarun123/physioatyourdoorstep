@@ -50,13 +50,13 @@ We provide home rehabilitation following knee replacement, hip replacement, liga
 
 ### Orthopaedic Physiotherapy
 
-Orthopaedic conditions affect mobility, work productivity and overall quality of life. Our experienced physiotherapists provide personalised treatment for lower back pain, cervical pain, frozen shoulder, arthritis, ligament injuries, tennis elbow, sciatica, muscle strains, postural disorders and chronic joint pain.
+Orthopaedic conditions affect mobility, work productivity and overall quality of life. Our experienced physiotherapists provide personalised treatment for lower back pain, cervical pain, frozen shoulder, arthritis, ligament injuries, [tennis elbow](/tennis-elbow-physiotherapy-treatment), sciatica, muscle strains, postural disorders and chronic joint pain.
 
 Treatment combines manual therapy, therapeutic exercise, posture correction, flexibility training and movement education to address the root cause of pain and restore normal function.
 
 ### Neurological Physiotherapy
 
-Neurological rehabilitation requires specialised knowledge and patient-specific treatment planning. Our physiotherapists provide home-based neurological physiotherapy for people recovering from stroke, Parkinson's disease, multiple sclerosis, spinal cord injuries, Bell's palsy, neuropathy and paralysis.
+[Neurological rehabilitation](/types-of-neurological-rehabilitation) requires specialised knowledge and patient-specific treatment planning. Our physiotherapists provide home-based neurological physiotherapy for people recovering from stroke, Parkinson's disease, multiple sclerosis, spinal cord injuries, [Bell's palsy](/facial-palsy-physiotherapy-treatment), neuropathy and paralysis.
 
 Each rehabilitation programme focuses on improving coordination, balance, gait, muscle control, strength and independence, helping patients perform everyday activities with confidence.
 
@@ -111,7 +111,7 @@ Physio At Your Doorstep offers professional home physiotherapy services across P
 
 ### Can I book a physiotherapist at home in Pashan for back pain, neck pain or knee pain?
 
-Yes. Our home physiotherapy services are highly effective for lower back pain, cervical pain, knee pain, frozen shoulder, arthritis, sciatica, muscle strains, ligament injuries and posture-related discomfort. After a detailed assessment, your physiotherapist develops a customised treatment plan combining manual therapy, strengthening exercises, posture correction and mobility training to address the underlying cause of your pain.
+Yes. Our home physiotherapy services are highly effective for lower back pain, cervical pain, [knee pain](/knee-pain), frozen shoulder, arthritis, sciatica, muscle strains, ligament injuries and posture-related discomfort. After a detailed assessment, your physiotherapist develops a customised treatment plan combining manual therapy, strengthening exercises, posture correction and mobility training to address the underlying cause of your pain.
 
 ### Do you provide physiotherapy at home after knee replacement or orthopaedic surgery?
 

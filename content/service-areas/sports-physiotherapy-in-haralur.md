@@ -8,7 +8,7 @@ metaTitle: "Sports Injury Physiotherapy in Haralur | Home Physio Service"
 metaDescription: "Sports injury physiotherapy at home in Haralur — ACL rehab, runner's knee, tennis elbow and gym injuries. Certified sports physios, 24×7."
 ---
 
-Picked up an ACL tear, runner's knee, a tennis elbow or a gym injury in Haralur? Our sports physiotherapists come to your home — into the apartment clubhouses, gyms and running loops across Haralur Main Road, Silver County and the Sarjapur belt — with sport-specific rehabilitation built to get you back to training safely, not just out of pain.
+Picked up an ACL tear, runner's knee, a [tennis elbow](/tennis-elbow-physiotherapy-treatment) or a gym injury in Haralur? Our sports physiotherapists come to your home — into the apartment clubhouses, gyms and running loops across Haralur Main Road, Silver County and the Sarjapur belt — with sport-specific rehabilitation built to get you back to training safely, not just out of pain.
 
 Haralur's gated communities are full of young, active residents who train hard between long work hours, and that mix produces a steady flow of both acute and overuse injuries. Structured, progressive rehabilitation delivered at home is one of the most dependable ways to recover fully and avoid a repeat.
 

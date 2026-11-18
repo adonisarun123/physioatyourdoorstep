@@ -42,7 +42,7 @@ In simple terms, an orthopaedic physiotherapist asks, "What is wrong with the jo
 
 The need is large. The World Health Organization estimates that about 2.4 billion people live with conditions that could benefit from rehabilitation, a number that has risen by roughly two thirds over three decades. The main drivers are ageing, long-term illness and injury.
 
-Musculoskeletal problems are a big part of this. According to PAHO, around 1.71 billion people have musculoskeletal conditions, and low back pain is the single leading cause of disability in 160 countries. Neurological disorders and stroke add to that burden, which is why both branches of physiotherapy are in demand.
+Musculoskeletal problems are a big part of this. According to PAHO, around 1.71 billion people have musculoskeletal conditions, and low [back pain](/back-ache) is the single leading cause of disability in 160 countries. Neurological disorders and stroke add to that burden, which is why both branches of physiotherapy are in demand.
 
 ## Orthopaedic Physiotherapy: Conditions and Treatment
 
@@ -60,7 +60,7 @@ Orthopaedic physiotherapy helps people recover from injuries and surgeries of th
 ### What treatment usually includes
 
 - **Assessment:** Pain mapping, posture and movement analysis, strength and range of motion testing.
-- **Pain control:** Manual therapy, soft tissue release, taping and electrotherapy where suitable.
+- **Pain control:** Manual therapy, soft tissue release, taping and [electrotherapy](/electrotherapy-modalities-in-physiotherapy) where suitable.
 - **Progressive strengthening:** Exercises that rebuild muscle support around the joint.
 - **Functional training:** Walking, stair climbing, sitting to standing and return-to-work or return-to-sport tasks.
 - **Self-management:** A home exercise plan, ergonomic advice and flare-up strategies.

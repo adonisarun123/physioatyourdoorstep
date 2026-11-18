@@ -8,7 +8,7 @@ metaTitle: "Orthopaedic Physiotherapy in Haralur | Home Physio Service"
 metaDescription: "Back, neck, knee and joint pain physiotherapy at home in Haralur. Sciatica, frozen shoulder and disc care on Haralur Road. 24×7 home visits."
 ---
 
-Struggling with a stubborn back, a stiff neck, an aching knee or sciatica in Haralur? Our home physiotherapy for back pain in Haralur brings certified physiotherapists straight to your door — into the apartment townships and gated communities along Haralur Main Road, Silver County Road and Ambalipura — so you get expert orthopaedic care without battling Haralur Road and Sarjapur traffic to reach a clinic.
+Struggling with a stubborn back, a stiff neck, an aching knee or [sciatica](/sciatica-physiotherapy) in Haralur? Our home physiotherapy for back pain in Haralur brings certified physiotherapists straight to your door — into the apartment townships and gated communities along Haralur Main Road, Silver County Road and Ambalipura — so you get expert orthopaedic care without battling Haralur Road and Sarjapur traffic to reach a clinic.
 
 From a slipped-disc flare-up or years of desk posture to a frozen shoulder or an arthritic knee, we assess what is really causing the pain and build a plan around your body, your routine and your home — then come to you to deliver it, session after session.
 
@@ -26,12 +26,12 @@ Home care removes that friction. You get expert one-on-one treatment in your own
 
 ## Conditions we treat
 
-- Lower back pain and desk-job postural strain
+- Lower back pain and [desk-job](/desk-job-syndrome-physiotherapy) postural strain
 - Neck pain and cervical spondylosis
 - Knee pain, including osteoarthritis
 - Frozen shoulder and shoulder stiffness
 - Sciatica and disc bulge or disc-related pain
-- Arthritis (osteoarthritis, rheumatoid)
+- Arthritis ([osteoarthritis](/physiotherapy-for-osteoarthritis), rheumatoid)
 - Muscle strains, ligament sprains and overuse injuries
 - Posture correction for long-hours desk workers
 

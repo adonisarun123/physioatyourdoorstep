@@ -5,7 +5,7 @@ metaTitle: "Massage Therapy vs Physical Therapy vs OT : Geriatric Care"
 metaDescription: "Confused between geriatric massage therapy, physical therapy, or occupational therapy? Learn which option best supports elderly mobility and independence."
 excerpt: "When an older adult starts experiencing chronic pain, reduced mobility, or difficulty managing daily tasks, families often find themselves facing a maze of treatment options. Geriatric massage therapy, geriatric physical therapy, and geriatric occupational therapy are three of the most commonly recommended approaches, yet most people have little clarity on what each actually involves."
 coverImage: "/images/blog/massage-therapy-vs-physical-therapy-vs-ot.jpg"
-category: "Geriatric Physiotherapy"
+category: "Physiotherapy"
 ---
 When an older adult starts experiencing chronic pain, reduced mobility, or difficulty managing daily tasks, families often find themselves facing a maze of treatment options. Geriatric massage therapy, geriatric physical therapy, and geriatric occupational therapy are three of the most commonly recommended approaches, yet most people have little clarity on what each actually involves or, more importantly, which one their loved one truly needs.
 
@@ -49,20 +49,20 @@ Physiotherapists who specialise in geriatric care use a structured assessment to
 
 **Common conditions treated through geriatric physical therapy include:**
 
-- Recovery from hip or knee replacement surgery
-- Osteoarthritis and osteoporosis management
+- Recovery from hip or [knee replacement](/physiotherapy-exercises-after-knee-surgery) surgery
+- [Osteoarthritis](/physiotherapy-for-osteoarthritis) and osteoporosis management
 - Balance disorders and fall prevention
 - Post-stroke rehabilitation to restore movement and coordination
 - Parkinson’s disease to slow functional decline
 - Chronic back or neck pain from postural changes
-- COPD and other pulmonary conditions requiring breathing exercises
+- [COPD](/copd-physiotherapy-management) and other pulmonary conditions requiring breathing exercises
 
 **Techniques used by geriatric physiotherapists include:**
 
 - Targeted strengthening and stretching exercises to build muscle and improve range of motion
 - Manual therapy, which includes hands-on joint mobilisation and soft tissue techniques (including therapeutic massage as a component)
 - Balance training such as single-leg stands, backward walking, and gait training
-- Electrotherapy modalities like TENS (Transcutaneous Electrical Nerve Stimulation) and ultrasound therapy
+- [Electrotherapy](/electrotherapy-modalities-in-physiotherapy) modalities like [TENS](/tens-vs-traction-physiotherapy) (Transcutaneous Electrical Nerve Stimulation) and ultrasound therapy
 - Hydrotherapy for joint flexibility with reduced mechanical load
 - Heat and cold application for pain and inflammation management
 

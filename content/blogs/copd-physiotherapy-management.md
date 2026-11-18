@@ -5,7 +5,7 @@ metaTitle: "COPD Physiotherapy Management, Assessment & Exercise Guide"
 metaDescription: "COPD physiotherapy management: assessment methods, breathing techniques, exercise prescription and evidence-based home care strategies for easier breathing."
 excerpt: "Chronic Obstructive Pulmonary Disease (COPD) has quietly become one of the most pressing public health challenges in India."
 coverImage: "/images/blog/copd-physiotherapy-management.jpg"
-category: "Physiotherapy"
+category: "Pulmonary Physiotherapy"
 ---
 Chronic Obstructive Pulmonary Disease (COPD) has quietly become one of the most pressing public health challenges in India. According to a 2026 systematic review published in BMC Pulmonary Medicine, the pooled prevalence of COPD among Indian adults is approximately 13 percent, and the Global Burden of Disease report ranks COPD as the second leading cause of death and disability-adjusted life years (DALYs) in the country, with an estimated 37.8 million people affected. Add air pollution, biomass fuel exposure, occupational dust, and tobacco smoke into the equation, and the picture becomes clear: millions of Indians are struggling to take a full, comfortable breath every single day.
 
@@ -95,7 +95,7 @@ These are the bread-and-butter interventions that every COPD patient should mast
 
 **Diaphragmatic (Abdominal) Breathing:** The patient places one hand on the chest and one on the abdomen, then breathes in slowly through the nose while focusing on raising the abdominal hand more than the chest hand. This retrains the diaphragm, which is often pushed into a mechanically disadvantaged flattened position in COPD due to hyperinflation, to do more of the breathing work. Stronger, more efficient diaphragmatic action reduces the load on the accessory neck and shoulder muscles.
 
-**Active Cycle of Breathing Technique (ACBT):** A structured sequence of breathing control, three to four deep thoracic expansion breaths, more breathing control, and one or two forced huffs. ACBT is highly effective for mobilizing and clearing secretions in patients with chronic productive cough or bronchiectasis-overlap presentations.
+**Active Cycle of Breathing Technique (ACBT):** A structured sequence of breathing control, three to four deep thoracic expansion breaths, more breathing control, and one or two forced huffs. [ACBT](/acbt-in-physiotherapy) is highly effective for mobilizing and clearing secretions in patients with chronic productive cough or bronchiectasis-overlap presentations.
 
 **Paced Breathing:** Patients are taught to synchronize breathing with movement. For example, breathe in while stepping with one foot and breathe out across two or three steps. This is invaluable for walking, climbing stairs, and any rhythmic activity.
 
@@ -138,7 +138,7 @@ Exercise is the single most powerful intervention in COPD physiotherapy. The 202
 
 **Frequency:** 3 to 5 sessions per week **Intensity:** Moderate to high, typically 60 to 80 percent of peak work rate or a Borg dyspnea rating of 4 to 6 out of 10 **Time:** 20 to 60 minutes per session, including warm-up and cool-down **Type:** Walking (overground or treadmill), stationary cycling, marching in place
 
-Walking is the most accessible and best-tolerated modality for Indian patients. Cycle ergometry is excellent for patients with balance issues, knee pain, or significant exertional desaturation because the lower oxygen cost makes it easier to sustain exercise.
+Walking is the most accessible and best-tolerated modality for Indian patients. Cycle ergometry is excellent for patients with balance issues, [knee pain](/knee-pain), or significant exertional desaturation because the lower oxygen cost makes it easier to sustain exercise.
 
 For severely deconditioned patients who cannot sustain continuous exercise, **interval training** (for example, one minute of higher-intensity walking alternated with one minute of low-intensity walking) delivers comparable benefits with less perceived breathlessness.
 
@@ -196,7 +196,7 @@ During an acute exacerbation, deep breathing exercises that increase lung volume
 
 ### Comorbidities
 
-COPD rarely travels alone. Cardiovascular disease, type 2 diabetes, sarcopenia, osteoporosis, anxiety, and depression all influence exercise prescription. A consensus statement from the EXPERT Working Group emphasizes that exercise training must be individualized to address these comorbidities, blending principles of pulmonary and cardiac rehabilitation.
+COPD rarely travels alone. Cardiovascular disease, type 2 diabetes, sarcopenia, osteoporosis, anxiety, and depression all influence exercise prescription. A consensus statement from the EXPERT Working Group emphasizes that exercise training must be individualized to address these comorbidities, blending principles of pulmonary and [cardiac rehabilitation](/cardiac-rehabilitation-physio-for-heart).
 
 ### Smoking Cessation and Education
 

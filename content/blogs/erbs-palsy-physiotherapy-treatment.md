@@ -60,7 +60,7 @@ Treatment begins almost immediately after diagnosis, usually within the first on
 
 ### Stage 2: 3 to 9 Months, Building Active Movement
 
-As the infant grows and nerve recovery becomes clearer, therapy shifts from purely passive movement toward encouraging the baby to use the arm actively.
+As the infant grows and nerve recovery becomes clearer, therapy shifts from purely [passive movement](/types-of-active-and-passive-movement-in-physio) toward encouraging the baby to use the arm actively.
 
 - **Facilitated active movement:** Using toys, mirrors, and reaching games positioned to encourage the baby to move the affected arm against gravity.
 - **Developmental milestone training:** Physiotherapists integrate arm use into normal infant milestones like rolling, propping on forearms, reaching, and eventually crawling, since these activities naturally load and strengthen the shoulder girdle.

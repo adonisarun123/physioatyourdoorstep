@@ -188,18 +188,34 @@ A good physiotherapist will be willing to go at the child’s pace, adapt their 
 
 ## Frequently Asked Questions
 
-- [Can physiotherapy help a child with autism?](#acc-oxlq200-0) Yes. Physiotherapy is a well-supported intervention for children with autism spectrum disorder. It addresses physical challenges that are common in ASD, including low muscle tone, poor balance, coordination difficulties, and sensory processing differences. When delivered consistently and with parental involvement at home, physiotherapy can meaningfully improve a child’s motor skills, posture, and physical participation in daily life.
+### Can physiotherapy help a child with autism?
 
-- [What does a physiotherapy assessment for autism involve?](#acc-oxlq200-1) A physiotherapy assessment for autism includes a detailed parent interview, observation of the child’s movement, a musculoskeletal and neuromuscular evaluation, and standardised tests such as the Bruininks-Oseretsky Test of Motor Proficiency (BOTMP) and the Berg Balance Scale. The aim is to identify the child’s specific physical strengths and areas of difficulty so a personalised treatment plan can be designed.
+Yes. Physiotherapy is a well-supported intervention for children with autism spectrum disorder. It addresses physical challenges that are common in ASD, including low muscle tone, poor balance, coordination difficulties, and sensory processing differences. When delivered consistently and with parental involvement at home, physiotherapy can meaningfully improve a child’s motor skills, posture, and physical participation in daily life.
 
-- [At what age should physiotherapy for autism start?](#acc-oxlq200-2) Early intervention is generally more effective. Physiotherapy can begin as soon as motor delays or physical challenges are identified, which is sometimes as early as 18 to 24 months. However, physiotherapy is beneficial at any age, including school-going children and adolescents with ASD.
+### What does a physiotherapy assessment for autism involve?
 
-- [How is physiotherapy different from occupational therapy for autism?](#acc-oxlq200-3) Both are important and often complement each other. Physiotherapy primarily focuses on gross motor skills, balance, postural control, coordination, and sensory integration related to movement. Occupational therapy focuses more on fine motor skills, daily living tasks, handwriting, and sensory processing in the context of school and daily routines. Many children with ASD benefit from both simultaneously.
+A physiotherapy assessment for autism includes a detailed parent interview, observation of the child’s movement, a musculoskeletal and neuromuscular evaluation, and standardised tests such as the Bruininks-Oseretsky Test of Motor Proficiency (BOTMP) and the Berg Balance Scale. The aim is to identify the child’s specific physical strengths and areas of difficulty so a personalised treatment plan can be designed.
 
-- [How long does autism physiotherapy take to show results?](#acc-oxlq200-4) This varies significantly between children. Some children show measurable improvements in balance and motor skills within four to six weeks. For children with more complex presentations, therapy may continue for several months or become an ongoing part of their development. The physiotherapist will regularly reassess progress and adjust the programme accordingly
+### At what age should physiotherapy for autism start?
 
-- [Can physiotherapy be done at home for a child with autism?](#acc-oxlq200-5) Yes, and for many children with autism, home-based physiotherapy is actually preferred. The familiar environment reduces anxiety and resistance, and the physiotherapist can tailor exercises to fit naturally into the child’s home routine. Parents are also taught how to continue exercises between sessions, which is a critical component of good outcomes
+Early intervention is generally more effective. Physiotherapy can begin as soon as motor delays or physical challenges are identified, which is sometimes as early as 18 to 24 months. However, physiotherapy is beneficial at any age, including school-going children and adolescents with ASD.
 
-- [Is physiotherapy recommended alongside other autism therapies?](#acc-oxlq200-6) Absolutely. Physiotherapy works best as part of a multidisciplinary approach. When delivered alongside speech therapy, occupational therapy, and ABA (Applied Behaviour Analysis) where appropriate, the combined effect on the child’s development is greater than any single therapy alone. A good physiotherapist will communicate with other members of your child’s care team
+### How is physiotherapy different from occupational therapy for autism?
 
-- [Does Physio at Your Doorstep offer physiotherapy for children with autism in Bangalore?](#acc-oxlq200-7) Yes. Physio at Your Doorstep provides specialised paediatric physiotherapy services at home across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, BTM Layout, and Jayanagar. Our physiotherapists have experience with children with neurodevelopmental conditions including autism. You can [book an appointment here](/booking) .
+Both are important and often complement each other. Physiotherapy primarily focuses on gross motor skills, balance, postural control, coordination, and sensory integration related to movement. Occupational therapy focuses more on fine motor skills, daily living tasks, handwriting, and sensory processing in the context of school and daily routines. Many children with ASD benefit from both simultaneously.
+
+### How long does autism physiotherapy take to show results?
+
+This varies significantly between children. Some children show measurable improvements in balance and motor skills within four to six weeks. For children with more complex presentations, therapy may continue for several months or become an ongoing part of their development. The physiotherapist will regularly reassess progress and adjust the programme accordingly.
+
+### Can physiotherapy be done at home for a child with autism?
+
+Yes, and for many children with autism, home-based physiotherapy is actually preferred. The familiar environment reduces anxiety and resistance, and the physiotherapist can tailor exercises to fit naturally into the child’s home routine. Parents are also taught how to continue exercises between sessions, which is a critical component of good outcomes.
+
+### Is physiotherapy recommended alongside other autism therapies?
+
+Absolutely. Physiotherapy works best as part of a multidisciplinary approach. When delivered alongside speech therapy, occupational therapy, and ABA (Applied Behaviour Analysis) where appropriate, the combined effect on the child’s development is greater than any single therapy alone. A good physiotherapist will communicate with other members of your child’s care team.
+
+### Does Physio at Your Doorstep offer physiotherapy for children with autism in Bangalore?
+
+Yes. Physio at Your Doorstep provides specialised paediatric physiotherapy services at home across Bangalore, including JP Nagar, Koramangala, Whitefield, HSR Layout, BTM Layout, and Jayanagar. Our physiotherapists have experience with children with neurodevelopmental conditions including autism. You can [book an appointment here](/booking).

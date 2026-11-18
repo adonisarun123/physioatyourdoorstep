@@ -42,7 +42,7 @@ After surgery, starting rehabilitation early is crucial. We help patients at hom
 
 ### Orthopaedic Physiotherapy
 
-For bone, muscle and joint problems, our orthopaedic therapy gets you back on your feet. Conditions we commonly treat at home include **chronic back and neck pain, sciatica, arthritis-related knee pain, frozen shoulder, sports sprains, muscle strains and post-fracture stiffness**. Our therapists use therapeutic exercise, stretching, manual joint mobilisation and pain-relief techniques such as heat, ice or TENS to address the root cause. We also teach posture correction and ergonomics, which is particularly useful for IT workers spending long hours at a desk.
+For bone, muscle and joint problems, our orthopaedic therapy gets you back on your feet. Conditions we commonly treat at home include **chronic back and neck pain, [sciatica](/sciatica-physiotherapy), arthritis-related [knee pain](/knee-pain), frozen shoulder, sports sprains, muscle strains and post-fracture stiffness**. Our therapists use therapeutic exercise, stretching, manual joint mobilisation and pain-relief techniques such as heat, ice or TENS to address the root cause. We also teach posture correction and ergonomics, which is particularly useful for IT workers spending long hours at a desk.
 
 ### Neurological Physiotherapy
 
@@ -50,7 +50,7 @@ Patients with neurological conditions benefit greatly from rehabilitation at hom
 
 ### Sports Injury Rehabilitation
 
-Whether you're a weekend warrior or an aspiring athlete in Chandan Nagar, we can get you back in the game. Our sports rehabilitation covers **sprains, ligament tears including ankle sprains and ACL injuries, muscle strains, tendinopathy such as tennis elbow and runner's knee, and post-surgical recovery**. We first focus on reducing pain and swelling through gentle mobilisation and cryotherapy, then restore strength, flexibility and correct movement patterns through targeted exercise and stability training. Because we come to you there's no risk of jostling an injury in transit, and we customise workouts for your sport so you return stronger and avoid re-injury.
+Whether you're a weekend warrior or an aspiring athlete in Chandan Nagar, we can get you back in the game. Our sports rehabilitation covers **sprains, ligament tears including ankle sprains and ACL injuries, muscle strains, tendinopathy such as [tennis elbow](/tennis-elbow-physiotherapy-treatment) and runner's knee, and post-surgical recovery**. We first focus on reducing pain and swelling through gentle mobilisation and [cryotherapy](/thermotherapy-vs-cryotherapy-in-physiotherapy), then restore strength, flexibility and correct movement patterns through targeted exercise and stability training. Because we come to you there's no risk of jostling an injury in transit, and we customise workouts for your sport so you return stronger and avoid re-injury.
 
 ### Geriatric Physiotherapy
 

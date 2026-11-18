@@ -1,4 +1,5 @@
 import CTABar from "@/components/CTABar";
+import { OG_DEFAULTS } from "@/lib/seo";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { BookingForm } from "@/components/BookingForm";
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
     title: "Book Appointment | Schedule Your Physiotherapy Session",
     description: "Book your home physiotherapy appointment online. Choose your service, preferred date and time. Professional physiotherapists at your doorstep.",
     alternates: { canonical: "/booking" },
-    openGraph: { title: "Book an Appointment", url: "/booking", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { ...OG_DEFAULTS, title: "Book an Appointment", url: "/booking", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default function BookingPage() {

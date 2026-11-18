@@ -42,7 +42,7 @@ Recover confidently after surgeries (knee or hip replacement, spine surgery, lig
 
 ### Orthopedic Physiotherapy
 
-We address bone, joint and muscle issues at home. Common problems like chronic back pain (disc issues), neck pain (cervical spondylosis), knee injuries (meniscus tears, ligament sprains), frozen shoulder, and arthritis are treated with targeted exercises, stretches, and manual therapy. We work to relieve your pain and improve mobility so daily life becomes easier.
+We address bone, joint and muscle issues at home. Common problems like chronic back pain (disc issues), neck pain ([cervical spondylosis](/cervical-spondylitis-physiotherapy-treatment)), knee injuries (meniscus tears, ligament sprains), frozen shoulder, and arthritis are treated with targeted exercises, stretches, and manual therapy. We work to relieve your pain and improve mobility so daily life becomes easier.
 
 ### Neurological Physiotherapy
 
@@ -50,15 +50,15 @@ For neurological conditions, our therapy comes to you. Whether it's stroke recov
 
 ### Sports Injury Rehabilitation
 
-Athletes and sports enthusiasts can recover at home. We treat sports injuries like ankle sprains, ACL tears, tennis elbow, or runner's knee right in your living room or society gym. Your therapist first reduces pain and inflammation, then guides you through strengthening and flexibility exercises tailored to your sport.
+Athletes and sports enthusiasts can recover at home. We treat sports injuries like ankle sprains, ACL tears, [tennis elbow](/tennis-elbow-physiotherapy-treatment), or runner's knee right in your living room or society gym. Your therapist first reduces pain and inflammation, then guides you through strengthening and flexibility exercises tailored to your sport.
 
 ### Geriatric Physiotherapy
 
-We specialize in care for seniors in Nigdi. Geriatric physio at home addresses issues such as osteoarthritis, post-hip/knee replacement rehab, balance disorders, and general frailty. We use gentle, low-impact exercises and balance training to improve strength and stability, helping elders regain confidence in daily activities.
+We specialize in care for seniors in Nigdi. Geriatric physio at home addresses issues such as [osteoarthritis](/physiotherapy-for-osteoarthritis), post-hip/knee replacement rehab, balance disorders, and general frailty. We use gentle, low-impact exercises and balance training to improve strength and stability, helping elders regain confidence in daily activities.
 
 ### Pediatric Physiotherapy
 
-Children with developmental or orthopedic needs can also be treated at home. We provide child-friendly exercises for conditions like cerebral palsy, torticollis (in infants), developmental delays, or sports injuries in teens. By making therapy playful and staying in their familiar space, kids feel secure and often respond better.
+Children with developmental or orthopedic needs can also be treated at home. We provide child-friendly exercises for conditions like cerebral palsy, [torticollis](/torticollis-physiotherapy-treatment) (in infants), developmental delays, or sports injuries in teens. By making therapy playful and staying in their familiar space, kids feel secure and often respond better.
 
 ## How It Works?
 
@@ -116,7 +116,7 @@ It depends on you. A minor injury might need just a few weeks of treatment, wher
 
 ### How much does a home physiotherapy session cost in Pune?
 
-Home visit charges in Pune generally range from ₹800 to ₹1,000 per 45–60 minute session. The exact fee depends on factors like session length and any special techniques needed. We provide transparent pricing with no hidden fees. Discounts are often available for multiple-session packages. While home sessions include travel, you save on transport time and costs. You're getting high-quality, one-on-one care at home.
+Home visit charges in Pune generally range from ₹799–₹1,099 per 45–60 minute session. The exact fee depends on factors like session length and any special techniques needed. We provide transparent pricing with no hidden fees. Discounts are often available for multiple-session packages. While home sessions include travel, you save on transport time and costs. You're getting high-quality, one-on-one care at home.
 
 ### Is physiotherapy at home safe (especially for seniors or those post-surgery)?
 

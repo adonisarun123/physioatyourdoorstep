@@ -22,7 +22,7 @@ The main types of aerobic training in physiotherapy are:
 5. Low-impact ergometry (stationary bike, recumbent stepper, or arm ergometer)
 6. Walking-based programs (structured and progressive, often built on a walk test)
 7. Rhythmic and group aerobic exercise (low-impact dance, tai chi style flow, and group classes)
-8. Body-weight-supported and assisted aerobic training (used in neurological rehabilitation)
+8. Body-weight-supported and assisted aerobic training (used in [neurological rehabilitation](/types-of-neurological-rehabilitation))
 
 The best type is the one that matches your diagnosis, your current fitness, your pain level and your goals. The rest of this article shows you how that decision is made.
 
@@ -48,7 +48,7 @@ The documented benefits include:
 
 - **Better heart and lung function.** Regular aerobic exercise improves how efficiently your body delivers and uses oxygen, measured as VO2 peak.
 - **Improved circulation and tissue healing.** Increased blood flow supports nutrient delivery to healing muscles, tendons and joints.
-- **Pain modulation.** Moderate exercise triggers the body's natural pain-dampening systems, which is one reason it features in guidelines for chronic low back pain and osteoarthritis.
+- **Pain modulation.** Moderate exercise triggers the body's natural pain-dampening systems, which is one reason it features in guidelines for chronic low [back pain](/back-ache) and osteoarthritis.
 - **Metabolic health.** It helps control blood sugar, blood pressure and body weight.
 - **Mood and sleep.** Aerobic exercise is linked to lower anxiety and better sleep quality, which both support recovery.
 - **Lower risk of future problems.** Meeting activity targets reduces the risk of heart disease, type 2 diabetes and some cancers.
@@ -156,7 +156,7 @@ Intensity is the variable people find most confusing, and most guides skip it. P
 
 **What it is:** Treadmill or gait training in which a harness or support takes part of your weight, or a therapist or robotic device assists the movement.
 
-**Best for:** Stroke, spinal cord injury, Parkinson's disease, multiple sclerosis and other neurological conditions where balance, strength or coordination limit independent walking.
+**Best for:** Stroke, spinal cord injury, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy) and other neurological conditions where balance, strength or coordination limit independent walking.
 
 **Why it matters:** It lets patients perform the high number of repetitions needed for both aerobic fitness and relearning movement, without falling risk. To explore the wider picture of this area, read our guide to [neurological physiotherapy exercises](/neurological-physiotherapy-exercises) and our article on [hemiplegia treatment physiotherapy exercise](/hemiplegia-treatment-physiotherapy-exercise).
 

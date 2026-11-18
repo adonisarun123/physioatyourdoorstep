@@ -7,7 +7,7 @@ metaDescription: "Discover the key causes and symptoms of knee pain. Explore eff
 excerpt: "Most people suffer from knee pain, at some point in life, no matter what their occupation. About 50% of people can develop osteoarthritis by age 85."
 category: "Orthopaedic Physiotherapy"
 ---
-Knee pain – Most people suffer from knee pain, at some point in life, no matter what their occupation. About 50% of people can develop osteoarthritis by age 85. Daily stress on the knee causes general deterioration and damage to a healthy joint. All of this together causes knee pain that can be debilitating for patients; simple movements such as crossing your legs also seem like a daunting task.
+Knee pain – Most people suffer from knee pain, at some point in life, no matter what their occupation. About 50% of people can develop [osteoarthritis](/physiotherapy-for-osteoarthritis) by age 85. Daily stress on the knee causes general deterioration and damage to a healthy joint. All of this together causes knee pain that can be debilitating for patients; simple movements such as crossing your legs also seem like a daunting task.
 
 Knee pain can be prevented in one area, or it spreads throughout the knee. It often leads to physical restraint.
 

@@ -119,7 +119,7 @@ Exercise therapy is the cornerstone of osteoarthritis management and has the str
 Manual therapy involves hands-on treatment by your physiotherapist to improve joint mobility and reduce pain.
 
 **Joint Mobilization**
-: Gentle, passive movements applied to stiff joints to improve range of motion and decrease pain.
+: Gentle, [passive movements](/types-of-active-and-passive-movement-in-physio) applied to stiff joints to improve range of motion and decrease pain.
 
 **Soft Tissue Massage**
 : Therapeutic massage reduces muscle tension, improves blood flow, breaks down scar tissue, and promotes relaxation.
@@ -260,7 +260,7 @@ Think of physiotherapy as disease management rather than cure—it helps you liv
 
 ## When Should You Consider Physiotherapy at Home?
 
-[Home physiotherapy services in Bangalore](/)
+[Home physiotherapy services in Bangalore](/locations)
  offer exceptional convenience and benefits for osteoarthritis patients. Consider home-based treatment if you:
 
 - Have limited mobility or difficulty traveling to clinics
@@ -327,7 +327,7 @@ Weight management plays a crucial role in osteoarthritis treatment, especially f
 : Excess body fat produces inflammatory chemicals that worsen osteoarthritis symptoms. Weight loss reduces systemic inflammation.
 
 **Improved Function**
-: Studies show that every 1% of weight lost is associated with a 2% reduced risk of knee replacement and a 3% reduced risk of hip replacement.
+: Studies show that every 1% of weight lost is associated with a 2% reduced risk of [knee replacement](/physiotherapy-exercises-after-knee-surgery) and a 3% reduced risk of hip replacement.
 
 **Enhanced Mobility**
 : Reducing weight makes movement easier, allowing increased physical activity, which further benefits joint health.
@@ -505,7 +505,7 @@ The key to success lies in early intervention, consistent participation in your 
 Remember that osteoarthritis management is a journey, not a destination. Progress may be gradual, but with patience, persistence, and professional guidance, you can achieve meaningful improvements in pain, function, and quality of life.
 
 Ready to take control of your osteoarthritis?
-[Contact Physio at Your Doorstep](/)
+[Contact Physio at Your Doorstep](/contact-us)
  for a comprehensive assessment and personalized treatment plan delivered in the comfort of your home across Bangalore. Our experienced physiotherapists specialize in osteoarthritis management and are committed to helping you move better, feel better, and live better.
 
 ## Additional Resources
@@ -520,26 +520,46 @@ For more information about physiotherapy and musculoskeletal health, explore the
 - **Physiopedia** – Open-access physiotherapy resource with detailed clinical information
 *Disclaimer: This article is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare provider before starting any new treatment program for osteoarthritis. Individual results may vary based on condition severity, adherence to treatment, and other health factors.*
 
-## FAQs About Physiotherapy for Osteoarthritis
-
-- [Does physiotherapy cure osteoarthritis?](#acc-2qwd379-0) No, physiotherapy cannot cure osteoarthritis, as the cartilage damage is permanent. However, it significantly reduces pain, improves function, slows disease progression, and helps you manage symptoms effectively, potentially delaying or avoiding surgery.
-
-- [How many physiotherapy sessions do I need for osteoarthritis?](#acc-2qwd379-1) The number of sessions varies based on severity, but most patients see improvements within 6-12 sessions over 6-12 weeks. Your physiotherapist will create a personalized plan and transition you to a home program for long-term management.
-
-- [Will exercise make my osteoarthritis worse?](#acc-2qwd379-2) When properly prescribed and performed, exercise does not worsen osteoarthritis. In fact, appropriate exercise strengthens supporting muscles, improves joint mechanics, and can slow disease progression. Your physiotherapist ensures exercises are safe and beneficial for your specific condition.
-
-- [Can I do physiotherapy at home without supervision?](#acc-2qwd379-3) While home exercise is essential for success, initial supervision by a qualified physiotherapist is recommended to ensure proper technique, appropriate exercise selection, and safe progression. Once you’ve learned correct form, most exercises can continue independently at home.
-
-- [Is physiotherapy painful for osteoarthritis?](#acc-2qwd379-4) You may experience mild discomfort when starting exercises as your body adapts, but physiotherapy should not cause severe pain. Your physiotherapist will adjust treatment intensity to stay within comfortable limits and provide pain management strategies.
-
-- [How soon will I feel results from physiotherapy?](#acc-2qwd379-5) Many patients notice some pain relief within 2-3 weeks of starting physiotherapy. Meaningful improvements in strength, mobility, and function typically occur within 6-12 weeks, with optimal benefits achieved after 3-6 months of consistent treatment.
-
-- [Can physiotherapy help if I have severe osteoarthritis?](#acc-2qwd379-6) Yes, physiotherapy can help at any stage of osteoarthritis. Even with advanced disease, appropriate exercises and manual therapy can improve symptoms, function, and quality of life. If conservative treatment is insufficient, your physiotherapist can help prepare you for surgery.
-
-- [Do I need a doctor's referral for physiotherapy?](#acc-2qwd379-7) Many physiotherapists accept direct access or self-referral without a doctor’s prescription, though insurance coverage may vary. Check with your physiotherapy provider and insurance company about referral requirements.
-
-- [How much does physiotherapy for osteoarthritis cost?](#acc-2qwd379-8) Costs vary based on location and insurance coverage. Many insurance plans cover physiotherapy, especially when prescribed by a physician. [Home physiotherapy services](/) may save money by eliminating travel costs and time off work.
-
-- [Should I continue physiotherapy exercises during pain flare-ups?](#acc-2qwd379-9) Yes, but with modifications. During flare-ups, focus on gentle range-of-motion exercises rather than strengthening. Apply ice after activities and consult your physiotherapist about adjusting your program temporarily until symptoms improve.
-
 **Related reading:** [Types of Hydrotherapy in Physiotherapy](/types-of-hydrotherapy-in-physiotherapy), [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
+
+## Frequently Asked Questions About Physiotherapy for Osteoarthritis
+
+### Does physiotherapy cure osteoarthritis?
+
+No, physiotherapy cannot cure osteoarthritis, as the cartilage damage is permanent. However, it significantly reduces pain, improves function, slows disease progression, and helps you manage symptoms effectively, potentially delaying or avoiding surgery.
+
+### How many physiotherapy sessions do I need for osteoarthritis?
+
+The number of sessions varies based on severity, but most patients see improvements within 6-12 sessions over 6-12 weeks. Your physiotherapist will create a personalized plan and transition you to a home program for long-term management.
+
+### Will exercise make my osteoarthritis worse?
+
+When properly prescribed and performed, exercise does not worsen osteoarthritis. In fact, appropriate exercise strengthens supporting muscles, improves joint mechanics, and can slow disease progression. Your physiotherapist ensures exercises are safe and beneficial for your specific condition.
+
+### Can I do physiotherapy at home without supervision?
+
+While home exercise is essential for success, initial supervision by a qualified physiotherapist is recommended to ensure proper technique, appropriate exercise selection, and safe progression. Once you’ve learned correct form, most exercises can continue independently at home.
+
+### Is physiotherapy painful for osteoarthritis?
+
+You may experience mild discomfort when starting exercises as your body adapts, but physiotherapy should not cause severe pain. Your physiotherapist will adjust treatment intensity to stay within comfortable limits and provide pain management strategies.
+
+### How soon will I feel results from physiotherapy?
+
+Many patients notice some pain relief within 2-3 weeks of starting physiotherapy. Meaningful improvements in strength, mobility, and function typically occur within 6-12 weeks, with optimal benefits achieved after 3-6 months of consistent treatment.
+
+### Can physiotherapy help if I have severe osteoarthritis?
+
+Yes, physiotherapy can help at any stage of osteoarthritis. Even with advanced disease, appropriate exercises and manual therapy can improve symptoms, function, and quality of life. If conservative treatment is insufficient, your physiotherapist can help prepare you for surgery.
+
+### Do I need a doctor's referral for physiotherapy?
+
+Many physiotherapists accept direct access or self-referral without a doctor’s prescription, though insurance coverage may vary. Check with your physiotherapy provider and insurance company about referral requirements.
+
+### How much does physiotherapy for osteoarthritis cost?
+
+Costs vary based on location and insurance coverage. Many insurance plans cover physiotherapy, especially when prescribed by a physician. [Home physiotherapy services](/service) may save money by eliminating travel costs and time off work.
+
+### Should I continue physiotherapy exercises during pain flare-ups?
+
+Yes, but with modifications. During flare-ups, focus on gentle range-of-motion exercises rather than strengthening. Apply ice after activities and consult your physiotherapist about adjusting your program temporarily until symptoms improve.

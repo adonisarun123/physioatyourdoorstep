@@ -25,7 +25,7 @@ Some common causes and risk factors include:
 
 - **Idiopathic pulmonary fibrosis (IPF):** No known cause
 - **Environmental exposure:** Dust, pollutants, and chemicals
-- **Autoimmune diseases:** Rheumatoid arthritis, scleroderma
+- **Autoimmune diseases:** [Rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis), scleroderma
 - **Viral infections:** Certain viruses may trigger lung scarring
 - **Medications:** Some drugs used for chemotherapy and heart conditions
 
@@ -39,11 +39,11 @@ Patients with pulmonary fibrosis often experience:
 - Chest discomfort
 - Clubbing of fingers (in advanced cases)
 
-As the disease progresses, complications such as respiratory failure, pulmonary hypertension, and increased susceptibility to lung infections may arise.
+As the disease progresses, complications such as respiratory failure, [pulmonary hypertension](/physiotherapy-for-pulmonary-hypertension), and increased susceptibility to lung infections may arise.
 
 ## Role of Physiotherapy in Pulmonary Fibrosis
 
-[Physiotherapy](/) is an essential component of pulmonary fibrosis management, focusing on improving lung function, reducing breathlessness, and enhancing overall physical endurance. Since pulmonary fibrosis causes scarring and stiffening of lung tissue, breathing becomes progressively difficult. Physiotherapy aims to optimize the efficiency of breathing, improve mobility, and help patients maintain an active lifestyle despite their condition.
+[Physiotherapy](/service) is an essential component of pulmonary fibrosis management, focusing on improving lung function, reducing breathlessness, and enhancing overall physical endurance. Since pulmonary fibrosis causes scarring and stiffening of lung tissue, breathing becomes progressively difficult. Physiotherapy aims to optimize the efficiency of breathing, improve mobility, and help patients maintain an active lifestyle despite their condition.
 
 ### How Physiotherapy Helps
 

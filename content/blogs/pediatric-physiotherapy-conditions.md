@@ -52,7 +52,7 @@ Developmental Delays encompass a broad category of conditions where children don
 
 ### Musculoskeletal Conditions
 
-Torticollis involves tightness or shortening of neck muscles, causing the head to tilt to one side and rotate toward the opposite side. This condition commonly develops in infants, sometimes due to positioning in the womb or birth trauma. Without treatment, torticollis can lead to facial asymmetry, delayed motor development, and persistent neck pain.
+[Torticollis](/torticollis-physiotherapy-treatment) involves tightness or shortening of neck muscles, causing the head to tilt to one side and rotate toward the opposite side. This condition commonly develops in infants, sometimes due to positioning in the womb or birth trauma. Without treatment, torticollis can lead to facial asymmetry, delayed motor development, and persistent neck pain.
 
 Pediatric physiotherapy for torticollis typically includes gentle stretching exercises, positioning techniques, tummy time activities to strengthen neck muscles, and parent education about handling and positioning strategies. Early intervention usually leads to complete resolution of the condition.
 
@@ -74,7 +74,7 @@ Treatment typically includes stretching exercises for calf muscles, sensory inte
 
 ### Respiratory and Postural Conditions
 
-Postural Problems have become increasingly common as children spend more time in sedentary activities. Poor posture can lead to back pain, headaches, reduced lung capacity, and increased risk of injury during physical activities.
+Postural Problems have become increasingly common as children spend more time in sedentary activities. Poor posture can lead to [back pain](/back-ache), headaches, reduced lung capacity, and increased risk of injury during physical activities.
 
 Pediatric physiotherapy addresses postural problems through strengthening exercises for core and back muscles, flexibility training for tight muscles, ergonomic education about proper sitting and standing positions, and activities that promote body awareness.
 
@@ -102,7 +102,7 @@ Parent Education forms a cornerstone of effective pediatric physiotherapy. Paren
 
 ## Assessment and Diagnosis in Pediatric Physiotherapy
 
-Understanding how pediatric physiotherapists evaluate children helps parents prepare for appointments and understand the comprehensive nature of pediatric assessment.
+Understanding how pediatric physiotherapists evaluate children helps parents prepare for appointments and understand the comprehensive nature of [pediatric assessment](/pediatric-physiotherapy-assessment).
 
 ### Comprehensive Evaluation Process
 
@@ -302,7 +302,7 @@ Early Intervention Effectiveness studies consistently demonstrate better outcome
 
 Technology Integration research explores how virtual reality, robotics, and other technologies can enhance traditional therapy approaches. While promising, most technological interventions are still being studied for safety and effectiveness in pediatric populations.
 
-Family-Centered Care Models research examines how different service delivery approaches affect family satisfaction and child outcomes. Home-based services, telehealth interventions, and parent-mediated approaches show particular promise.
+Family-Centered Care Models research examines how different service delivery approaches affect family satisfaction and child outcomes. Home-based services, [telehealth](/telehealth-physiotherapy) interventions, and parent-mediated approaches show particular promise.
 
 ### Participating in Research
 
@@ -340,7 +340,7 @@ Indian Association of Physiotherapists – Pediatric Special Interest Group – 
 
 Centers for Disease Control and Prevention (CDC) Developmental Milestones – Comprehensive milestone checklists, free mobile apps for tracking development, and evidence-based information about when to be concerned about delays.
 
-First Signs Organization – Educational resources about early signs of developmental delays, autism spectrum disorders, and other conditions that may benefit from early intervention services.
+First Signs Organization – Educational resources about early signs of developmental delays, [autism](/autism-physiotherapy-treatment) spectrum disorders, and other conditions that may benefit from early intervention services.
 
 Zero to Three National Center – Resources focused on infant and toddler development, including information about early intervention services and family support strategies.
 

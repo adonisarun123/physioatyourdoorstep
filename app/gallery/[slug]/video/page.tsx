@@ -9,7 +9,7 @@ import { Building2, Calendar, Clock, MapPin } from "lucide-react";
 import type { Metadata } from "next";
 import { EventVideo } from "@/components/EventGallery";
 import { GALLERY_EVENTS, galleryVideoPath, getGalleryEvent } from "@/lib/gallery";
-import { SITE, absoluteUrl, isoDateTimeIST } from "@/lib/seo";
+import { SITE, absoluteUrl, isoDateTimeIST, OG_DEFAULTS, truncateAtWord } from "@/lib/seo";
 
 /**
  * Watch page for an event video. /gallery is mainly a photo page, so Google
@@ -32,11 +32,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const path = galleryVideoPath(event.slug);
     return {
         title: event.video.title,
-        description: event.video.description,
+        description: truncateAtWord(event.video.description, 158),
         alternates: { canonical: path },
-        openGraph: {
+        openGraph: { ...OG_DEFAULTS,
             title: event.video.title,
-            description: event.video.description,
+            description: truncateAtWord(event.video.description, 158),
             url: path,
             type: "video.other",
             images: [event.video.poster],

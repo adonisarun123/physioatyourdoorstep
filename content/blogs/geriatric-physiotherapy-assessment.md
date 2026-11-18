@@ -136,7 +136,7 @@ Pain in older adults can stem from arthritis, neuropathy, past injuries, or musc
 
 - **Location:** Which joints or muscles are affected?
 - **Duration:** Is the pain chronic or intermittent?
-- **Triggers:** Does movement, weather, or prolonged sitting worsen the pain?
+- **Triggers:** Does movement, weather, or [prolonged sitting](/desk-job-syndrome-physiotherapy) worsen the pain?
 
 ### Sensory Testing for Neuropathy
 

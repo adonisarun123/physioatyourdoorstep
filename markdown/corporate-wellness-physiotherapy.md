@@ -1,6 +1,6 @@
 # Corporate Wellness Physiotherapy – Healthier Employees, Higher Productivity & Sustainable Workplaces
 
-Corporate wellness physiotherapy is a preventive and supportive healthcare service designed to address work-related musculoskeletal issues, postural problems, and lifestyle-related physical stress experienced by employees. With modern workplaces involving prolonged sitting, screen time, repetitive movements, and high stress levels, musculoskeletal discomfort has become one of the leading causes of reduced productivity and absenteeism.
+Corporate wellness physiotherapy is a preventive and supportive healthcare service designed to address work-related musculoskeletal issues, postural problems, and lifestyle-related physical stress experienced by employees. With modern workplaces involving [prolonged sitting](/desk-job-syndrome-physiotherapy), screen time, repetitive movements, and high stress levels, musculoskeletal discomfort has become one of the leading causes of reduced productivity and absenteeism.
 
 By integrating physiotherapy-led wellness programs into the workplace, organisations can proactively support employee health, comfort, and long-term performance.
 

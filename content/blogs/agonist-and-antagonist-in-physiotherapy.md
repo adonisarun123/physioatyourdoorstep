@@ -9,7 +9,7 @@ category: "Physiotherapy"
 ---
 If you have ever watched a physiotherapist assess how you bend your elbow or straighten your knee, you have already seen agonist and antagonist muscles at work, even if nobody used those words out loud. These two terms sit at the core of how physiotherapists understand movement, design exercise programs, and figure out why a joint is not moving the way it should.
 
-This guide breaks down what agonist and antagonist muscles actually are, how they interact through a process called reciprocal inhibition, and why this single concept quietly shapes almost every physiotherapy treatment plan, from post-surgical knee rehab to stroke recovery to a simple stretching routine. We will also look at where most articles on this topic fall short and fill in the clinical detail that patients and caregivers actually search for.
+This guide breaks down what agonist and antagonist muscles actually are, how they interact through a process called reciprocal inhibition, and why this single concept quietly shapes almost every physiotherapy treatment plan, from post-surgical knee rehab to [stroke recovery](/service/neurological-physiotherapy) to a simple stretching routine. We will also look at where most articles on this topic fall short and fill in the clinical detail that patients and caregivers actually search for.
 
 ## What Are Agonist and Antagonist Muscles?
 
@@ -62,7 +62,7 @@ This is the part most generic fitness articles never cover in depth, and it is e
 
 ### 1. Muscle Imbalance and Chronic Pain
 
-When an agonist becomes significantly stronger or tighter than its antagonist, the joint they control starts to move asymmetrically. A classic example is anterior knee pain caused by dominant, tight quadriceps paired with weak, underused hamstrings and glutes. Another is upper crossed syndrome, common in people who sit at a desk all day, where tight chest and upper trapezius muscles overpower weak deep neck flexors and lower trapezius, producing the forward-head, rounded-shoulder posture that drives neck pain (see our guide to [cervical spondylitis physiotherapy](/cervical-spondylitis-physiotherapy-treatment)) and [shoulder blade pain](/physiotherapy-for-shoulder-blade-pain). A thorough physiotherapy assessment always checks agonist-antagonist strength ratios, not just the painful side, because the real cause of pain is often the weaker, neglected antagonist rather than the muscle that hurts.
+When an agonist becomes significantly stronger or tighter than its antagonist, the joint they control starts to move asymmetrically. A classic example is anterior [knee pain](/knee-pain) caused by dominant, tight quadriceps paired with weak, underused hamstrings and glutes. Another is upper crossed syndrome, common in people who sit at a desk all day, where tight chest and upper trapezius muscles overpower weak deep neck flexors and lower trapezius, producing the forward-head, rounded-shoulder posture that drives neck pain (see our guide to [cervical spondylitis physiotherapy](/cervical-spondylitis-physiotherapy-treatment)) and [shoulder blade pain](/physiotherapy-for-shoulder-blade-pain). A thorough physiotherapy assessment always checks agonist-antagonist strength ratios, not just the painful side, because the real cause of pain is often the weaker, neglected antagonist rather than the muscle that hurts.
 
 ### 2. Post-Surgical and Post-Injury Rehabilitation
 

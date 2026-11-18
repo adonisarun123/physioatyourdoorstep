@@ -24,7 +24,7 @@ Each level affects the body differently because different nerve roots exit at ea
 
 * **L3-L4 disc bulge:** Often affects the front of the thigh and inner knee. People may notice weakness when straightening the knee or pain that runs down the front of the leg.
 * **L4-L5 disc bulge:** The most commonly affected level in the lower back. It can compress the L5 nerve root, causing pain, tingling, or numbness that travels through the outer leg into the top of the foot and big toe, sometimes with weakness in lifting the foot upward (foot drop in more severe cases).
-* **L5-S1 disc bulge:** Involves the S1 nerve root, typically producing classic sciatica, pain radiating down the back of the thigh, calf, and into the heel or sole of the foot, along with possible weakness in pushing off the foot (calf raise).
+* **L5-S1 disc bulge:** Involves the S1 nerve root, typically producing classic [sciatica](/sciatica-physiotherapy), pain radiating down the back of the thigh, calf, and into the heel or sole of the foot, along with possible weakness in pushing off the foot (calf raise).
 
 Knowing which level is involved helps your physiotherapist choose the right hands-on techniques, exercise progressions, and postural corrections, rather than applying one generic back pain protocol to every patient.
 
@@ -76,7 +76,7 @@ The first goal is to calm the irritated nerve and reduce pain enough to move saf
 
 * Gentle manual therapy and spinal mobilization to ease joint stiffness
 * Positional relief techniques, such as lying in a supported, neutral spine position to decompress the disc
-* Electrotherapy modalities like IFT (interferential therapy) or TENS for short-term pain relief where appropriate
+* [Electrotherapy](/electrotherapy-modalities-in-physiotherapy) modalities like IFT ([interferential therapy](/ict-vs-ipt-vs-ift-in-physiotherapy)) or [TENS](/tens-vs-traction-physiotherapy) for short-term pain relief where appropriate
 * Activity modification advice, not complete bed rest, since prolonged inactivity is now known to slow recovery
 
 ### Phase 2: Restoring Mobility
@@ -189,7 +189,7 @@ Surgery is generally considered only when there is progressive neurological weak
 
 ### Does sitting for long hours worsen an L3-L4 or L4-L5 disc bulge?
 
-Yes, prolonged sitting, especially with poor posture, increases pressure on the lower lumbar discs. Taking regular breaks, using proper lumbar support, and correcting workstation ergonomics are important parts of physiotherapy advice for desk-based patients.
+Yes, [prolonged sitting](/desk-job-syndrome-physiotherapy), especially with poor posture, increases pressure on the lower lumbar discs. Taking regular breaks, using proper lumbar support, and correcting workstation ergonomics are important parts of physiotherapy advice for desk-based patients.
 
 ### Can home physiotherapy be as effective as clinic-based treatment for a disc bulge?
 

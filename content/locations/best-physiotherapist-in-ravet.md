@@ -42,11 +42,11 @@ Structured rehab after knee or hip replacement, ACL repair, shoulder surgery, sp
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Treatment for back pain, neck pain, knee osteoarthritis, frozen shoulder, tennis elbow, sprains, strains and post-fracture stiffness, using therapeutic exercise, joint mobilisation, stretching and pain-relief techniques (heat, cold, TENS), plus ergonomic advice using your own furniture.
+Treatment for back pain, neck pain, knee osteoarthritis, frozen shoulder, [tennis elbow](/tennis-elbow-physiotherapy-treatment), sprains, strains and post-fracture stiffness, using therapeutic exercise, joint mobilisation, stretching and pain-relief techniques (heat, cold, TENS), plus ergonomic advice using your own furniture.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
-Home rehabilitation for stroke, Parkinson's disease, spinal cord injury, multiple sclerosis, cerebral palsy and neuropathy, focused on balance, walking, coordination, hand function and independence — practised in the home where those skills have to work.
+Home rehabilitation for stroke, Parkinson's disease, spinal cord injury, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), cerebral palsy and neuropathy, focused on balance, walking, coordination, hand function and independence — practised in the home where those skills have to work.
 
 ### [Sports injury physiotherapy](/service/sports-physiotherapy)
 
@@ -58,7 +58,7 @@ Gentle, functional care for arthritis, joint stiffness, osteoporosis, balance pr
 
 ### [Pediatric physiotherapy](/service/pediatric-physiotherapy)
 
-Play-based therapy for developmental delays, cerebral palsy, infant torticollis and rehab after a fracture or surgery. Children engage better at home, and parents learn exercises to continue between visits.
+Play-based therapy for developmental delays, cerebral palsy, infant [torticollis](/torticollis-physiotherapy-treatment) and rehab after a fracture or surgery. Children engage better at home, and parents learn exercises to continue between visits.
 
 You can also browse our [full range of physiotherapy services](/service) across Pune and Bangalore.
 
@@ -66,7 +66,7 @@ You can also browse our [full range of physiotherapy services](/service) across 
 
 ### 1. Get in touch
 
-Call or WhatsApp +91 82337 87737, or use the [booking form](/booking). Tell us briefly about the condition (for example knee pain or post-surgery rehab), your society or address in Ravet, and your preferred days and times.
+Call or WhatsApp +91 82337 87737, or use the [booking form](/booking). Tell us briefly about the condition (for example [knee pain](/knee-pain) or post-surgery rehab), your society or address in Ravet, and your preferred days and times.
 
 ### 2. Home assessment
 

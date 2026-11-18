@@ -12,7 +12,7 @@ Looking for the best physiotherapist in Richmond Town who comes to you? Physio A
 
 Richmond Town is one of central Bangalore's oldest and most sought-after residential neighbourhoods, sitting just south of Brigade Road and Residency Road, with Richmond Circle on its western edge and Ashok Nagar and Shanthinagar alongside. Its tree-lined lanes hold heritage bungalows, newer apartment blocks and long-established families — and a large share of senior citizens. Living this central should make care easy to reach, but a short clinic trip here often means crawling through Richmond Circle, Residency Road or Hosur Road at peak hour, then finding parking.
 
-Home physiotherapy removes that. Whether you are managing desk-driven back pain, recovering from a knee replacement, rehabilitating after a stroke, coming back from a sports injury, or arranging care for an elderly parent or a child, our physiotherapists bring the assessment, the hands-on treatment and the portable equipment (exercise bands, weights, TENS and ultrasound units) to your door.
+Home physiotherapy removes that. Whether you are managing desk-driven back pain, recovering from a knee replacement, rehabilitating after a stroke, coming back from a sports injury, or arranging care for an elderly parent or a child, our physiotherapists bring the assessment, the hands-on treatment and the portable equipment (exercise bands, weights, [TENS](/tens-vs-traction-physiotherapy) and ultrasound units) to your door.
 
 ## Why choose home physiotherapy in Richmond Town
 
@@ -42,7 +42,7 @@ Structured rehab after knee and hip replacements, ACL and ligament reconstructio
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Treatment for back pain, neck pain, sciatica, disc problems, knee pain, frozen shoulder, arthritis and joint stiffness — common in both desk professionals and seniors. We combine manual therapy, targeted exercise, traction and pain-relief modalities, plus ergonomic advice so the problem does not keep returning.
+Treatment for back pain, neck pain, [sciatica](/sciatica-physiotherapy), disc problems, [knee pain](/knee-pain), frozen shoulder, arthritis and joint stiffness — common in both desk professionals and seniors. We combine manual therapy, targeted exercise, traction and pain-relief modalities, plus ergonomic advice so the problem does not keep returning.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
@@ -54,7 +54,7 @@ For runners, gym-goers, cyclists and racquet players: ankle sprains, ACL and lig
 
 ### [Geriatric physiotherapy](/service/geriatric-physiotherapy)
 
-Gentle, age-appropriate care for osteoarthritis, low back pain, osteoporosis, balance problems and fall prevention. We work on sit-to-stand, walking, stair climbing and strength so seniors can stay independent and active at home.
+Gentle, age-appropriate care for [osteoarthritis](/physiotherapy-for-osteoarthritis), low back pain, osteoporosis, balance problems and fall prevention. We work on sit-to-stand, walking, stair climbing and strength so seniors can stay independent and active at home.
 
 ### [Pediatric physiotherapy](/service/pediatric-physiotherapy)
 

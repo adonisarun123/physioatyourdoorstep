@@ -67,19 +67,19 @@ Recent studies indicate that orthopaedic conditions affect approximately 45-60% 
 **Demographic Factors:**
 
 - Age-related increase: 25% in 20-30 years, 65% in 50+ years
-- Gender differences: Women show higher prevalence of osteoarthritis and osteoporosis
+- Gender differences: Women show higher prevalence of [osteoarthritis](/physiotherapy-for-osteoarthritis) and osteoporosis
 - Occupational impact: 70% higher incidence in desk-bound professions
 
 ## Common Orthopaedic Conditions Treated with Physiotherapy
 
 ### Spinal Disorders
 
-Lower Back Pain and Lumbar Conditions: Lower back pain affects over 80% of adults at some point in their lives, making it one of the most common orthopaedic conditions requiring physiotherapy intervention.
+[Lower Back Pain](/back-ache) and Lumbar Conditions: Lower back pain affects over 80% of adults at some point in their lives, making it one of the most common orthopaedic conditions requiring physiotherapy intervention.
 
 ***Common Lumbar Conditions:***
 
 - Lumbar disc herniation and prolapse
-- Lumbar spondylosis and degenerative disc disease
+- [Lumbar spondylosis](/lumbar-spondylosis-physiotherapy) and degenerative disc disease
 - Sciatica and nerve root compression
 - Lumbar spinal stenosis
 - Facet joint dysfunction
@@ -287,13 +287,13 @@ Exercise Therapy: Structured exercise programs are essential for orthopaedic rec
 - Functional training: Task-specific exercises for daily activities
 - Cardiovascular conditioning: Overall fitness and endurance improvement
 
-Electrotherapy and Physical Modalities: Modern physiotherapy utilizes various physical agents for enhanced healing.
+[Electrotherapy](/electrotherapy-modalities-in-physiotherapy) and Physical Modalities: Modern physiotherapy utilizes various physical agents for enhanced healing.
 
 ***Common Modalities:***
 
 - TENS (Transcutaneous Electrical Nerve Stimulation): Pain management
 - Ultrasound therapy: Deep tissue heating and healing
-- Interferential therapy (IFT): Pain relief and muscle stimulation
+- [Interferential therapy](/ict-vs-ipt-vs-ift-in-physiotherapy) (IFT): Pain relief and muscle stimulation
 - Laser therapy: Tissue healing and inflammation reduction
 - Heat and cold therapy: Temperature-based treatment approaches
 - Compression therapy: Swelling reduction and support

@@ -7,7 +7,7 @@ excerpt: "Giving birth is one of the most physically demanding events a body can
 coverImage: "/images/blog/postnatal-physiotherapy.jpg"
 category: "Physiotherapy at Pregnancy"
 ---
-Giving birth is one of the most physically demanding events a body can experience. Yet, the postpartum period often called the *“fourth trimester”* receives far less clinical attention than pregnancy itself. Research published in *Obstetrics and Gynecology* (Wang et al., 2004) found that between 70% and 86% of women experience musculoskeletal pain during or after pregnancy, ranging from lower back pain and pelvic girdle dysfunction to urinary leakage and abdominal muscle separation.
+Giving birth is one of the most physically demanding events a body can experience. Yet, the postpartum period often called the *“fourth trimester”* receives far less clinical attention than pregnancy itself. Research published in *Obstetrics and Gynecology* (Wang et al., 2004) found that between 70% and 86% of women experience musculoskeletal pain during or after pregnancy, ranging from [lower back pain](/back-ache) and pelvic girdle dysfunction to urinary leakage and abdominal muscle separation.
 
 A structured postnatal physiotherapy assessment is not a luxury. It is the evidence-based starting point for a safe, confident postpartum recovery. This guide walks you through exactly what such an assessment involves, which exercises help restore your core and pelvic floor, how conditions like diastasis recti are managed, and when it is safe to return to higher-impact physical activity.
 
@@ -43,7 +43,7 @@ This is a central component of the postnatal physiotherapy assessment. Using eit
 
 ### 5. Scar Assessment
 
-For women who had a Caesarean section or an episiotomy, scar tissue assessment is a critical step. Adhesions, areas of hypersensitivity, and restricted scar mobility can affect pelvic floor function, bladder control, and even lower back pain long after the incision has healed. The physiotherapist assesses scar maturity, tissue mobility, and sensitivity, and begins scar desensitisation and mobilisation techniques at the appropriate time, usually around 6 to 8 weeks post-surgery, once the scar is fully closed.
+For women who had a Caesarean section or an episiotomy, scar tissue assessment is a critical step. [Adhesions](/adhesion-in-physiotherapy), areas of hypersensitivity, and restricted scar mobility can affect pelvic floor function, bladder control, and even lower back pain long after the incision has healed. The physiotherapist assesses scar maturity, tissue mobility, and sensitivity, and begins scar desensitisation and mobilisation techniques at the appropriate time, usually around 6 to 8 weeks post-surgery, once the scar is fully closed.
 
 ### 6. Hip, Lower Back, and Sacroiliac Joint Examination
 

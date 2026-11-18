@@ -34,7 +34,7 @@ Consistent therapy produces steady progress. With home visits you're far more li
 
 ### Post-Surgery Rehabilitation
 
-Recovering safely after orthopaedic surgery — knee replacement, hip surgery, ACL repair, fracture fixation — is critical. Our home programme rebuilds strength and flexibility step by step. After a knee replacement, for instance, we start with gentle ankle pumps and range-of-motion work, then progress to standing and walking as you heal, guiding you on weight-bearing and the correct use of a walker or cane. Working from week one at home means you hit milestones such as bending the knee and walking short distances under supervision, without extra hospital trips.
+Recovering safely after orthopaedic surgery — [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL repair, fracture fixation — is critical. Our home programme rebuilds strength and flexibility step by step. After a knee replacement, for instance, we start with gentle ankle pumps and range-of-motion work, then progress to standing and walking as you heal, guiding you on weight-bearing and the correct use of a walker or cane. Working from week one at home means you hit milestones such as bending the knee and walking short distances under supervision, without extra hospital trips.
 
 ### Orthopaedic Physiotherapy
 
@@ -46,7 +46,7 @@ For conditions such as stroke, Parkinson's disease and neuropathy, specialised r
 
 ### Sports Injury Rehabilitation
 
-Whether you're a weekend runner with knee pain, a badminton player with a shoulder strain, or recovering from a ligament injury, our sports physiotherapy gets you moving again. We begin by reducing swelling and pain through rest, ice, gentle mobilisation and soft tissue work, then guide you through strengthening and flexibility routines specific to your sport. For an ankle sprain, that means balance boards and resistance bands to rebuild stability. Treating at home means you're not aggravating the injury with long walks or commutes, and patients often return to sport faster simply because they don't skip sessions.
+Whether you're a weekend runner with [knee pain](/knee-pain), a badminton player with a shoulder strain, or recovering from a ligament injury, our sports physiotherapy gets you moving again. We begin by reducing swelling and pain through rest, ice, gentle mobilisation and soft tissue work, then guide you through strengthening and flexibility routines specific to your sport. For an ankle sprain, that means balance boards and resistance bands to rebuild stability. Treating at home means you're not aggravating the injury with long walks or commutes, and patients often return to sport faster simply because they don't skip sessions.
 
 ### Geriatric Physiotherapy
 
@@ -54,7 +54,7 @@ Older residents of Bund Garden often need gentle, effective rehabilitation for a
 
 ### Paediatric Physiotherapy
 
-Children with developmental delays such as cerebral palsy or torticollis, coordination difficulties, or post-injury rehabilitation needs respond best to playful, patient care. Our paediatric physiotherapist uses fun, child-friendly exercises at home to build strength and motor skills — working on crawling or walking patterns in your living room, or balance games to improve coordination. At home children feel safe and usually engage better with therapy. We also coach parents on simple exercises to continue between sessions, whether the goal is recovering from a fracture or improving posture.
+Children with developmental delays such as cerebral palsy or [torticollis](/torticollis-physiotherapy-treatment), coordination difficulties, or post-injury rehabilitation needs respond best to playful, patient care. Our paediatric physiotherapist uses fun, child-friendly exercises at home to build strength and motor skills — working on crawling or walking patterns in your living room, or balance games to improve coordination. At home children feel safe and usually engage better with therapy. We also coach parents on simple exercises to continue between sessions, whether the goal is recovering from a fracture or improving posture.
 
 ## Home Physiotherapy in Bund Garden and Nearby Areas
 
@@ -94,7 +94,7 @@ Yes. Home-based physiotherapy delivers the same evidence-based treatments you wo
 
 ### What conditions can be treated at home in Bund Garden?
 
-Almost anything you would see in a clinic. Our therapists treat back and neck pain, arthritis, frozen shoulder, knee injuries including sprains, ACL and meniscus tears, fractures, and post-operative rehabilitation after knee or hip replacement and spine surgery. We also handle neurological cases such as stroke, Parkinson's disease, multiple sclerosis and Bell's palsy, paediatric issues including cerebral palsy and developmental delays, sports injuries and chronic pain. In short, any orthopaedic or neurological condition can be managed at home with physiotherapy.
+Almost anything you would see in a clinic. Our therapists treat back and neck pain, arthritis, frozen shoulder, knee injuries including sprains, ACL and meniscus tears, fractures, and post-operative rehabilitation after knee or hip replacement and spine surgery. We also handle neurological cases such as stroke, Parkinson's disease, multiple sclerosis and [Bell's palsy](/facial-palsy-physiotherapy-treatment), paediatric issues including cerebral palsy and developmental delays, sports injuries and chronic pain. In short, any orthopaedic or neurological condition can be managed at home with physiotherapy.
 
 ### How many sessions will I need?
 

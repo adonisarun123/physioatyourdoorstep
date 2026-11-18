@@ -8,7 +8,7 @@ coverImage: "/images/blog/ai-technology-in-physiotherapy.jpg"
 category: "Physiotherapy"
 ---
 
-Artificial intelligence has quietly moved from research labs into everyday rehabilitation. If you are recovering from surgery, managing back pain, or helping an elderly parent regain their mobility, you have probably wondered what all the talk about "smart" or "AI-driven" therapy actually means for you. The short answer is this: AI technology in physiotherapy is helping therapists assess movement more precisely, personalise treatment plans, and support patients between sessions, especially at home.
+Artificial intelligence has quietly moved from research labs into everyday rehabilitation. If you are recovering from surgery, managing [back pain](/back-ache), or helping an elderly parent regain their mobility, you have probably wondered what all the talk about "smart" or "AI-driven" therapy actually means for you. The short answer is this: AI technology in physiotherapy is helping therapists assess movement more precisely, personalise treatment plans, and support patients between sessions, especially at home.
 
 This guide explains, in plain language, how AI is being used in physiotherapy today, what the research really shows, where the limits are, and what it means if you are choosing a physiotherapist in 2026. We have kept the hype out and the evidence in, so you can make an informed decision about your own recovery.
 
@@ -32,7 +32,7 @@ One of the most impactful uses of AI is movement analysis. Using computer vision
 
 Wearable devices such as inertial measurement units, accelerometers, gyroscopes, and electromyography sensors can track movement patterns, muscle activity, and posture continuously, even outside the clinic. This allows real-time biofeedback, so a patient knows in the moment whether they are performing an exercise correctly.
 
-The evidence here is encouraging. A pilot study on shoulder adhesive capsulitis found that patients using a motion sensor device for home rehabilitation showed better shoulder mobility, improved functional recovery, and a higher exercise completion rate compared with a standard home exercise group. In a separate mixed methods evaluation of a wearable biofeedback system after knee replacement surgery, patients recorded a mean adherence rate of 79 percent and rated the system highly for usability.
+The evidence here is encouraging. A pilot study on shoulder adhesive capsulitis found that patients using a motion sensor device for home rehabilitation showed better shoulder mobility, improved functional recovery, and a higher exercise completion rate compared with a standard home exercise group. In a separate mixed methods evaluation of a wearable biofeedback system after [knee replacement](/physiotherapy-exercises-after-knee-surgery) surgery, patients recorded a mean adherence rate of 79 percent and rated the system highly for usability.
 
 ### 3. Personalised, Data-Driven Treatment Plans
 
@@ -84,7 +84,7 @@ A trustworthy guide has to talk about the limits, not just the promise. Here is 
 
 **The digital divide is real.** Reliable internet, a suitable device, and the cost of some AI tools can put them out of reach for certain patients. Affordability remains one of the main barriers to widespread adoption, as the 2025 Annals of Translational Medicine review noted.
 
-**It is not a replacement for hands-on care.** For many conditions, especially post-surgical and neurological rehabilitation, skilled manual therapy and in-person assessment are irreplaceable. AI supports that care; it does not substitute for it.
+**It is not a replacement for hands-on care.** For many conditions, especially post-surgical and [neurological rehabilitation](/types-of-neurological-rehabilitation), skilled manual therapy and in-person assessment are irreplaceable. AI supports that care; it does not substitute for it.
 
 ## What AI in Physiotherapy Means for Home-Based Recovery
 
