@@ -115,7 +115,7 @@ Yes. Our home physiotherapy services are highly effective for lower back pain, c
 
 ### Do you provide physiotherapy at home after knee replacement or orthopaedic surgery?
 
-Yes. Home physiotherapy is one of the most recommended rehabilitation options following knee replacement, hip replacement, ACL reconstruction, spinal surgery, shoulder surgery and fracture fixation. Our physiotherapists help reduce stiffness, improve joint movement, restore muscle strength and guide you safely through every phase of post-operative recovery without frequent hospital visits.
+Yes. Home physiotherapy is one of the most recommended rehabilitation options following knee replacement, hip replacement, [ACL reconstruction](/acl-reconstruction-rehabilitation), spinal surgery, shoulder surgery and fracture fixation. Our physiotherapists help reduce stiffness, improve joint movement, restore muscle strength and guide you safely through every phase of post-operative recovery without frequent hospital visits.
 
 ### How much does home physiotherapy cost in Pashan?
 

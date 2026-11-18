@@ -114,7 +114,7 @@ Yes — geriatric physiotherapy is one of our most requested services around JM 
 
 ### Do you offer physiotherapy at home after knee replacement surgery on JM Road?
 
-Yes. Central Pune has several leading orthopaedic hospitals, and many patients from JM Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a total knee replacement, hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through JM Road traffic while you are in pain or on a walker.
+Yes. Central Pune has several leading orthopaedic hospitals, and many patients from JM Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a [total knee replacement](/physiotherapy-after-total-knee-replacement), hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through JM Road traffic while you are in pain or on a walker.
 
 ### Is paralysis and stroke physiotherapy available at home on JM Road?
 

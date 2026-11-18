@@ -85,7 +85,7 @@ Getting your knee to bend and straighten fully again is one of the biggest hurdl
 
 - **Wall slides and heel props**
 
-Patients recovering from procedures like total knee replacement often struggle with knee flexion (bending). Hitting the 90-degree mark by week 2–3 and progressing to 120+ degrees is often a milestone. Extension (straightening the leg) is equally important to avoid limping or dragging your foot.
+Patients recovering from procedures like [total knee replacement](/physiotherapy-after-total-knee-replacement) often struggle with knee flexion (bending). Hitting the 90-degree mark by week 2–3 and progressing to 120+ degrees is often a milestone. Extension (straightening the leg) is equally important to avoid limping or dragging your foot.
 
 Your physiotherapist will track these numbers closely and coach you through stretches and exercises that help improve flexibility safely. They’ll also educate you on how often to stretch, how long to hold each position, and how to avoid overstretching, which can do more harm than good.
 

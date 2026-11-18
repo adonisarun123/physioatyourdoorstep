@@ -48,7 +48,7 @@ Recovering in a familiar environment can often lead to quicker progress. Many pa
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain right in your Banashankari home.
+Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, [ACL reconstruction](/acl-reconstruction-rehabilitation), shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain right in your Banashankari home.
 
 [Learn More](/service/post-surgical-physiotherapy)
 

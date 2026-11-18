@@ -38,7 +38,7 @@ With consistent, tailored sessions and no breaks in treatment due to travel hass
 
 ### Post-Surgery Rehabilitation
 
-Recovering from surgery can be challenging, but our at-home post-operative rehab makes it easier. Physiotherapy is often needed after many types of surgery (such as knee replacements, hip surgery, ACL reconstruction, or spine surgery) to restore mobility, reduce pain, and prevent complications.
+Recovering from surgery can be challenging, but our at-home post-operative rehab makes it easier. Physiotherapy is often needed after many types of surgery (such as knee replacements, hip surgery, [ACL reconstruction](/acl-reconstruction-rehabilitation), or spine surgery) to restore mobility, reduce pain, and prevent complications.
 
 ### Orthopedic Physiotherapy
 

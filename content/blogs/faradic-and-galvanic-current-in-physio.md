@@ -224,7 +224,7 @@ Smaller muscles, facial muscles, denervated limb muscles
 
 - Disuse atrophy following cast immobilization or prolonged bed rest
 
-- Post-surgical muscle weakness, such as after ACL reconstruction or joint replacement
+- Post-surgical muscle weakness, such as after [ACL reconstruction](/acl-reconstruction-rehabilitation) or joint replacement
 
 - Muscle re-education following [orthopaedic conditions](/orthopaedic-conditions-in-physiotherapy) and soft tissue injuries
 

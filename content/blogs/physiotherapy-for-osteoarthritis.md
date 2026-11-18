@@ -345,7 +345,7 @@ Your physiotherapist can:
 
 ## What Is the Role of Physiotherapy Before and After Joint Surgery?
 
-For advanced osteoarthritis cases where conservative treatment is insufficient, surgery may become necessary. Physiotherapy plays a vital role both before and after procedures like total knee replacement or hip replacement.
+For advanced osteoarthritis cases where conservative treatment is insufficient, surgery may become necessary. Physiotherapy plays a vital role both before and after procedures like [total knee replacement](/physiotherapy-after-total-knee-replacement) or hip replacement.
 
 ### Pre-Surgical Physiotherapy (Prehabilitation)
 

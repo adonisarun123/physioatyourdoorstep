@@ -154,7 +154,7 @@ Yes. We frequently treat patients in Jayanagar suffering from **chronic back pai
 
 ### Can home physiotherapy help me recover after knee or hip replacement surgery?
 
-Absolutely. Our **post-surgery rehabilitation physiotherapists in Jayanagar** specialize in recovery after procedures like **total knee replacement (TKR), hip replacement, ACL reconstruction, rotator cuff repairs**, and spinal surgeries. We guide you through each phase of recovery—pain management, regaining joint range of motion, muscle strengthening, gait training, and full functional restoration—ensuring safe and steady progress right at home.
+Absolutely. Our **post-surgery rehabilitation physiotherapists in Jayanagar** specialize in recovery after procedures like **[total knee replacement](/physiotherapy-after-total-knee-replacement) (TKR), hip replacement, ACL reconstruction, rotator cuff repairs**, and spinal surgeries. We guide you through each phase of recovery—pain management, regaining joint range of motion, muscle strengthening, gait training, and full functional restoration—ensuring safe and steady progress right at home.
 
 ### Do you offer pediatric physiotherapy at home in Jayanagar?
 

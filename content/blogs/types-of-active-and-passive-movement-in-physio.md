@@ -106,7 +106,7 @@ Skipping stages, for example, pushing straight into resisted exercise before a j
 
 ## Where Active and Passive Movement Are Used in Real Recovery
 
-**Post-surgical recovery:** After procedures like knee replacement, ACL reconstruction, or rotator cuff repair, patients typically begin with relaxed passive movement or CPM, progress to active-assisted exercises, and gradually build up to active resisted strengthening. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) programs are structured around exactly this progression, monitored closely at every stage.
+**Post-surgical recovery:** After procedures like knee replacement, [ACL reconstruction](/acl-reconstruction-rehabilitation), or rotator cuff repair, patients typically begin with relaxed passive movement or CPM, progress to active-assisted exercises, and gradually build up to active resisted strengthening. Our [Post Surgical Physiotherapy](/service/post-surgical-physiotherapy) programs are structured around exactly this progression, monitored closely at every stage.
 
 **Neurological conditions:** Stroke, Parkinson's disease, and spinal cord injuries often involve muscle weakness or altered tone, making passive and active-assisted movement essential in the early phase to prevent contractures and re-train movement patterns. You can read more about this progression in our detailed guide on [Hemiparesis Treatment in Physiotherapy](/hemiparesis-treatment-in-physiotherapy), or explore our full [Neurological Physiotherapy](/service/neurological-physiotherapy) service.
 

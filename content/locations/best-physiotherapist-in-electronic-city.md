@@ -37,7 +37,7 @@ There’s nothing like recovering in the comfort and privacy of your own home. B
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain *right in your Electronic City home*.
+Guided recovery at home after surgeries with specialized physiotherapy care. If you’ve undergone an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, [ACL reconstruction](/acl-reconstruction-rehabilitation), shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain *right in your Electronic City home*.
 
 [Learn More](/service/post-surgical-physiotherapy)
 

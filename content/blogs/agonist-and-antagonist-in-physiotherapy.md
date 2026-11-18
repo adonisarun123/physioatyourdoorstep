@@ -66,7 +66,7 @@ When an agonist becomes significantly stronger or tighter than its antagonist, t
 
 ### 2. Post-Surgical and Post-Injury Rehabilitation
 
-After surgeries like ACL reconstruction, total knee replacement, or rotator cuff repair, agonist and antagonist muscles around the joint often atrophy at very different rates. Quadriceps weakness after knee surgery, for instance, is one of the most well-documented and persistent deficits in orthopaedic rehab, and it can linger for months if not specifically targeted. Physiotherapists sequence exercises deliberately, sometimes activating the antagonist first through gentle reciprocal inhibition techniques to reduce guarding in the surgical agonist before progressing to resisted strengthening.
+After surgeries like ACL reconstruction, [total knee replacement](/physiotherapy-after-total-knee-replacement), or rotator cuff repair, agonist and antagonist muscles around the joint often atrophy at very different rates. Quadriceps weakness after knee surgery, for instance, is one of the most well-documented and persistent deficits in orthopaedic rehab, and it can linger for months if not specifically targeted. Physiotherapists sequence exercises deliberately, sometimes activating the antagonist first through gentle reciprocal inhibition techniques to reduce guarding in the surgical agonist before progressing to resisted strengthening.
 
 ### 3. Neurological Rehabilitation
 

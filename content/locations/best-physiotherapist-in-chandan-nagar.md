@@ -38,7 +38,7 @@ Our physiotherapists in Chandan Nagar offer a wide range of at-home services, ea
 
 ### Post-Surgery Rehabilitation
 
-After surgery, starting rehabilitation early is crucial. We help patients at home following procedures such as **knee or hip replacement, ACL reconstruction, shoulder repair, spinal surgery and fracture fixation**. You receive a progressive exercise programme and hands-on therapy to reduce pain, improve joint movement and rebuild muscle strength. Because we come to you, even patients fresh out of surgery can begin gentle exercises — with their surgeon's approval — without risking a trip to a clinic. We monitor swelling and ensure safe mobility practice so you regain confidence step by step.
+After surgery, starting rehabilitation early is crucial. We help patients at home following procedures such as **knee or hip replacement, [ACL reconstruction](/acl-reconstruction-rehabilitation), shoulder repair, spinal surgery and fracture fixation**. You receive a progressive exercise programme and hands-on therapy to reduce pain, improve joint movement and rebuild muscle strength. Because we come to you, even patients fresh out of surgery can begin gentle exercises — with their surgeon's approval — without risking a trip to a clinic. We monitor swelling and ensure safe mobility practice so you regain confidence step by step.
 
 ### Orthopaedic Physiotherapy
 
