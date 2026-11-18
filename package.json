@@ -7,7 +7,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "eslint",
+        "lint": "eslint .",
         "check": "tsc --noEmit"
     },
     "dependencies": {
@@ -31,6 +31,7 @@
         "zod": "^4.1.12"
     },
     "devDependencies": {
+        "@eslint/eslintrc": "^3",
         "@tailwindcss/postcss": "^4",
         "@types/node": "^24.7.0",
         "@types/nodemailer": "^6.4.17",

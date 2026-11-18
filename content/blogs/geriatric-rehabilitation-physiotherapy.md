@@ -454,24 +454,25 @@ From post-stroke recovery to managing arthritis, from preventing falls to enhanc
 
 So whether you're a senior looking for support or a family member trying to help, don't underestimate what the right physiotherapy plan can do. It might just be the first step toward a healthier, more empowered tomorrow.
 
-## FAQs
+## Frequently Asked Questions
 
-**What age qualifies for geriatric physiotherapy?**
+
+### What age qualifies for geriatric physiotherapy?
 
 Typically, anyone over the age of 60 can benefit from geriatric physiotherapy, but it's most often recommended based on individual needs rather than age alone.
 
-**How long does rehabilitation usually take for seniors?**
+### How long does rehabilitation usually take for seniors?
 
 It varies. Some recover in weeks, others in months. It depends on the condition, consistency of therapy, and overall health of the patient.
 
-**Is physiotherapy safe for elderly patients with multiple health issues?**
+### Is physiotherapy safe for elderly patients with multiple health issues?
 
 Absolutely. Therapists customize plans to suit each patient's medical history and limitations, ensuring safety and gradual progress.
 
-**Can geriatric rehabilitation be done at home?**
+### Can geriatric rehabilitation be done at home?
 
 Yes! Home-based therapy is very common and can be equally effective as clinic-based sessions, especially with guidance from professionals.
 
-**What results can be expected from regular physiotherapy sessions?**
+### What results can be expected from regular physiotherapy sessions?
 
 Better balance, reduced pain, increased strength, improved mobility, and most importantly, a higher quality of life.

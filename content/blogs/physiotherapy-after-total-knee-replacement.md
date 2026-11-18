@@ -4,7 +4,7 @@ date: "2026-11-07"
 metaTitle: "Physiotherapy After Total Knee Replacement: Recovery Guide"
 metaDescription: "Physiotherapy after total knee replacement explained: phase-wise exercises, recovery time and red flags. Book a home physio assessment."
 excerpt: "Physiotherapy after total knee replacement usually starts within a day of surgery and continues for about 3 months, with gains in strength and comfort carrying on for up to a year."
-coverImage: "/images/blog/knee-pain.jpg"
+coverImage: "/images/blog/physiotherapy-after-total-knee-replacement-cover.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 

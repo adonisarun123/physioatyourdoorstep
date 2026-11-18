@@ -4,7 +4,7 @@ date: "2025-10-29"
 metaTitle: "Cervical PIVD Physiotherapy: Treatment & Recovery Guide"
 metaDescription: "Cervical PIVD physiotherapy explained: symptoms of a neck disc prolapse, treatment techniques, home exercises and a recovery timeline for lasting relief."
 excerpt: "Cervical PIVD physiotherapy explained: symptoms of a neck disc prolapse, treatment techniques, home exercises and a recovery timeline for lasting relief."
-coverImage: "/images/blog/new-project-1.jpg"
+coverImage: "/images/blog/cervical-pivd-physiotherapy-cover.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
 

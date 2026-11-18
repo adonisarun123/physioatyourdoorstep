@@ -2,9 +2,9 @@
 title: "Physiotherapy for Knee Surgery: A Complete Recovery Guide"
 date: "2025-04-09"
 metaTitle: "Physiotherapy for Knee Surgery: A Complete Recovery Guide"
-metaDescription: "Introduction to Knee Surgery Rehabilitation Why Physiotherapy is Essential After Knee Surgery Recovering from knee surgery isn’t just about resting and waiting "
-excerpt: "Introduction to Knee Surgery Rehabilitation Why Physiotherapy is Essential After Knee Surgery Recovering from knee surgery isn’t just about resting and waiting for your body to heal—it’s an active process that demands strategic rehabilitation. And that’s where physiotherapy becomes your best ally. W"
-coverImage: "/images/blog/new-project-1.jpg"
+metaDescription: "Physiotherapy after knee surgery: rehab phases from week 1 to return to sport, key exercises, home vs clinic rehab, and tips to avoid complications."
+excerpt: "Physiotherapy after knee surgery: rehab phases from week 1 to return to sport, key exercises, home vs clinic rehab, and tips to avoid complications."
+coverImage: "/images/blog/physiotherapy-for-knee-surgery-cover.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 

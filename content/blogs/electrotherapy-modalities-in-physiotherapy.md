@@ -2,9 +2,9 @@
 title: "Electrotherapy Modalities in Physiotherapy: Uses and Care"
 date: "2026-03-18"
 metaTitle: "Electrotherapy Modalities in Physiotherapy: Uses and Care"
-metaDescription: "You’ve probably heard a physiotherapist mention TENS, IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without"
+metaDescription: "TENS, IFT, ultrasound, laser and more: how each electrotherapy modality works, what it treats, what a session feels like and when it should be avoided."
 excerpt: "You’ve probably heard a physiotherapist mention TENS, IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without fully understanding what was happening or why. That’s more common than you’d think.Electrotherapy is one of the oldest tool sets in physiot"
-coverImage: "/images/blog/new-project-1-1.jpg"
+coverImage: "/images/blog/electrotherapy-modalities-in-physiotherapy-cover.jpg"
 category: "Physiotherapy"
 ---
 
@@ -240,47 +240,48 @@ The following peer-reviewed publications and clinical resources form part of the
 - Nadler SF, Weingand K, Kruse RJ. *The Physiologic Basis and Clinical Applications of [Cryotherapy](/thermotherapy-vs-cryotherapy-in-physiotherapy) and Thermotherapy.* Pain Physician. 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16858479/)
 *This article is authored by the physiotherapy team at Physio at Your Doorstep, Bangalore, and is reviewed for clinical accuracy. It is intended for educational purposes and does not replace professional medical or physiotherapy advice. Always consult a qualified physiotherapist before beginning any new treatment.*
 
-## Frequently Asked Questions (FAQs)
+## Frequently Asked Questions
 
-**What does electrotherapy actually do to the body?**
+
+### What does electrotherapy actually do to the body?
 
 Electrotherapy introduces electrical, electromagnetic, or sound energy into the body’s tissues. Depending on the modality and the parameters used, this can stimulate sensory nerves to reduce pain signals, activate motor nerves to produce muscle contraction, increase local circulation, promote cellular repair processes, or deliver medication through the skin. The body’s own physiological responses to these energy inputs are what produce the therapeutic benefit.
 
-**Is electrotherapy safe?**
+### Is electrotherapy safe?
 
 When administered by a trained physiotherapist who has conducted a thorough patient assessment, electrotherapy is very safe. Absolute contraindications (including cardiac pacemakers, active malignancy, and pregnancy over the treatment area) are well established, and qualified physiotherapists follow these guidelines carefully. Self-administered treatment with over-the-counter TENS devices is also generally safe when used according to manufacturer instructions and physiotherapist guidance.
 
-**What is the difference between TENS and IFT (interferential therapy)?**
+### What is the difference between TENS and IFT (interferential therapy)?
 
 TENS uses low-frequency current applied at the skin surface to stimulate sensory nerves for pain relief. IFT uses two medium-frequency currents that intersect inside the tissue, producing a low-frequency beat effect at depth. IFT penetrates more deeply and tends to be more comfortable at the skin surface, making it a preferred choice for deeper pain or larger treatment areas. Both are used for pain management, but your physiotherapist will select the most appropriate option based on your specific condition.
 
-**Can electrotherapy replace physiotherapy exercises?**
+### Can electrotherapy replace physiotherapy exercises?
 
 No. Electrotherapy should never be used as a replacement for active rehabilitation. Exercise-based treatment has far stronger evidence for long-term outcomes in most musculoskeletal and neurological conditions. Electrotherapy is most effective when used to manage pain or facilitate muscle activation at stages where active exercise is difficult, allowing the patient to then progress into therapeutic exercise more effectively.
 
-**How many sessions of electrotherapy will I need?**
+### How many sessions of electrotherapy will I need?
 
 This varies considerably depending on the condition, its severity, and the modality being used. Acute conditions may respond within 3 to 6 sessions. Chronic conditions often require longer programmes. Your physiotherapist will review your progress regularly and adjust the treatment plan accordingly. There is no universal protocol, and individualisation of treatment is essential.
 
-**Is TENS effective for chronic pain?**
+### Is TENS effective for chronic pain?
 
 TENS provides short-term relief for many patients with chronic pain. However, the long-term evidence is limited in quality. The 2019 Cochrane overview on TENS for chronic pain concluded that existing evidence was of low quality and could not draw definitive conclusions. This does not mean TENS does not work for individuals. Many patients report meaningful, consistent benefit. TENS is safe, non-pharmacological, and can be used at home, making it a valuable part of a chronic pain management strategy even if definitive population-level evidence is lacking.
 
-**What is NMES and when is it used in physiotherapy?**
+### What is NMES and when is it used in physiotherapy?
 
 Neuromuscular electrical stimulation (NMES) uses electrical impulses to stimulate motor nerves, causing the target muscles to contract. It is used to maintain or rebuild muscle mass after injury or surgery, re-educate muscles that have lost voluntary control due to neurological damage (such as after stroke or spinal cord injury), and support early rehabilitation when the patient cannot voluntarily activate the muscle strongly enough.
 
-**Can electrotherapy be used for neurological conditions like stroke?**
+### Can electrotherapy be used for neurological conditions like stroke?
 
 Yes. Functional electrical stimulation (FES), a specialised form of NMES, has established evidence for improving upper limb function and gait in stroke survivors. TENS can also be used for pain management in neurological conditions. NMES helps prevent and reverse muscle atrophy in patients with reduced mobility. These modalities are integrated into neurological physiotherapy programmes under careful clinical supervision.
 
-**Is electrotherapy suitable for elderly patients?**
+### Is electrotherapy suitable for elderly patients?
 
 Yes, with appropriate precautions. Older adults often have multiple comorbidities, reduced skin sensation, and impaired circulation, all of which require careful assessment before electrotherapy is applied. When used appropriately, TENS, IFT, and NMES are safe and effective for elderly patients. NMES in particular is valuable in geriatric care for managing sarcopenia and supporting functional rehabilitation. Our
 [geriatric physiotherapy](/service/geriatric-physiotherapy)
  service is specifically designed to address the unique needs of older adults, with experienced physiotherapists who assess all relevant risk factors before treatment.
 
-**Where can I receive electrotherapy physiotherapy at home in Bangalore?**
+### Where can I receive electrotherapy physiotherapy at home in Bangalore?
 
 Physio at Your Doorstep provides professional physiotherapy services at home across Bangalore, including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, Whitefield, and surrounding areas. Our physiotherapists bring portable clinical-grade electrotherapy equipment to your home and integrate it into a personalised treatment programme.
 [Book an appointment here](/booking)

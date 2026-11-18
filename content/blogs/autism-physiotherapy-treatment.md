@@ -2,9 +2,9 @@
 title: "Autism Physiotherapy Treatment: Assessment and Management"
 date: "2026-04-22"
 metaTitle: "Autism Physiotherapy Treatment: Assessment and Management"
-metaDescription: "If your child has recently been diagnosed with Autism Spectrum Disorder (ASD), you are probably trying to understand which therapies can genuinely make a differ"
+metaDescription: "How physiotherapy helps children with autism: assessment, motor skills, balance, coordination and sensory-friendly therapy at home, plus how parents can help."
 excerpt: "If your child has recently been diagnosed with Autism Spectrum Disorder (ASD), you are probably trying to understand which therapies can genuinely make a difference to their day-to-day life. Physiotherapy is one of the most evidence-backed and underutilised supports available for children on the spe"
-coverImage: "/images/blog/new-project-1-1.jpg"
+coverImage: "/images/blog/autism-physiotherapy-treatment-cover.jpg"
 category: "Neurological Physiotherapy"
 ---
 

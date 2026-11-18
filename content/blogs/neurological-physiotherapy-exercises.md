@@ -428,26 +428,27 @@ Neurological physiotherapy is a powerful tool that goes beyond just restoring mo
 
 Whether you're dealing with a stroke, spinal injury, Parkinson's, or multiple sclerosis, the journey is long—but you're not alone. With the right plan, a strong support system, and a bit of grit, amazing recovery is within reach.
 
-## FAQs
+**Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
 
-**1. How long does neurological physiotherapy take to show results?**
+## Frequently Asked Questions
+
+
+### How long does neurological physiotherapy take to show results?
 
 Recovery timelines vary based on the condition and severity, but noticeable improvements can be seen in as little as a few weeks with consistent therapy. Long-term recovery may take months or even years.
 
-**2. Can neurological physiotherapy fully cure paralysis?**
+### Can neurological physiotherapy fully cure paralysis?
 
 While complete recovery from paralysis may not always be possible, physiotherapy can significantly improve function, strength, and independence—even in cases of severe paralysis.
 
-**3. Are these exercises safe for elderly patients?**
+### Are these exercises safe for elderly patients?
 
 Yes. Neurological physiotherapy is adapted to each individual's age, condition, and limitations. Exercises are designed to be safe, especially for elderly patients with balance or cognitive issues.
 
-**4. What should I avoid during neuro rehab?**
+### What should I avoid during neuro rehab?
 
 Avoid pushing through pain, skipping exercises, or neglecting your mental health. Always follow your therapist's advice, and never attempt difficult movements without supervision.
 
-**5. Can I do neurological physiotherapy at home?**
+### Can I do neurological physiotherapy at home?
 
 Absolutely. Home-based therapy is not only possible but essential. With guidance from your therapist, you can perform exercises safely and effectively in your own space.
-
-**Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)

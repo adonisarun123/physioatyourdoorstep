@@ -2,100 +2,88 @@
 title: "Athletic Taping: Benefits & Risks You Should Know"
 date: "2025-01-13"
 metaTitle: "Athletic Taping: Benefits & Risks You Should Know"
-metaDescription: "What is athletic taping ? Athletic Taping is the process of applying Rigid Tape directly/indirectly to the skin in order to maintain a stable position of bones "
-excerpt: "What is athletic taping ? Athletic Taping is the process of applying Rigid Tape directly/indirectly to the skin in order to maintain a stable position of bones and muscles during athletic activity."
+metaDescription: "Athletic taping supports joints and muscles during sport. Learn its benefits, risks, the core rules physiotherapists follow and when taping is not advised."
+excerpt: "Athletic taping uses rigid tape on the skin to hold joints and muscles in a stable position during sport. Here are its benefits, risks and the rules physiotherapists follow."
 coverImage: "/images/blog/banner6-1536x608-1.jpg"
 category: "Sports Physiotherapy"
 ---
+## What Is Athletic Taping?
 
-## What is athletic taping ?
+**Athletic taping** is the application of rigid tape directly or indirectly to the skin to hold bones and muscles in a stable position during sport. The rigid strapping tape used is often called "sports tape" or "athletic tape". It is most useful for joint instability and supporting an injured area, and it can reduce pain and help recovery.
 
-**Athletic Taping**is the process of applying Rigid Tape directly/indirectly to the skin in order to maintain a stable position of bones and muscles during athletic activity.
+Athletic taping is used to:
 
-It is a procedure that uses tape attached to the skin to physically keep in place muscles or bones at a certain position.
+- Relieve pain
+- Improve joint stability
+- Increase an athlete's confidence
+- Reduce the risk of an injury recurring
+- Help prevent injury
 
-Most effective for instability or injury support.
+Rigid athletic tape is different from stretchy kinesiology tape, which is designed to move with the skin rather than restrict movement.
 
-This reduces pain and aids recovery.
+## Advantages
 
-Rigid strapping tape commonly used in taping or strapping is often referred to as “sports tape” or “athletic tape” and is most often a rigid style of strapping tape.
+### Injury Prevention
 
-### Athletic taping used to:
+Taping is one of the most widely used preventive measures in collision and court sports, where injuries often come from contact with other players or equipment. It can reduce both how often injuries happen and how severe they are, particularly for ankle sprains.
 
-Relieve pain
+### Injury Management
 
-Improve joint stability
+Tape is applied to manage the symptoms of ongoing problems such as shin splints (medial tibial stress syndrome), patellofemoral (kneecap) pain and turf toe.
 
-Enhance athlete confidence
+### Pain Management
 
-Reduce injury recurrence
+Correctly applied tape can offload irritated tissues and reduce pain during activity.
 
-Prevent injury
+### Post-Injury Benefits
 
-## ADVANTAGES:
+- Stabilises and supports joints after muscle or ligament injuries
+- Helps an athlete return to activity after minor injuries
+- Protects the injured area from further harm
+- Helps maintain good movement mechanics during activity
+- Limits the force on the area during activity
 
-### Injury Prevention:
+## Disadvantages
 
-Athletic taping is recognized as one of the top preventative measures for reduction of injuries in collision sports.
+- Incorrect taping can cause skin blisters or contribute to further injury.
+- Rigid tape loosens and loses much of its support once activity begins.
+- Athletes can become psychologically dependent on tape.
+- It becomes expensive when needed frequently.
 
-These injuries often occur as a result of extrinsic factors such as collision with other players or equipment.
+## Core Rules for Taping
 
-Athletic taping has also been shown to reduce the severity in injuries, as well as the occurrence of injury in most sports.
+1. Tape the joint in the correct position.
+2. Position the body part for stability before taping.
+3. Overlap each strip by about half its width.
+4. Avoid continuous circular taping that can restrict circulation.
+5. Keep the tape roll in your hand whenever possible.
+6. Let the tape follow the natural contours of the skin.
+7. Smooth and mould the tape as you lay it on the skin.
+8. Always start with anchor strips.
+9. Always finish with locking strips.
 
-### Injury Management:
+## When Not to Tape
 
-Tape is often applied to manage symptoms of chronic injuries such as medial tibial stress syndrome (shin splints), patella-femoral syndrome, and turf toe.
+Do not apply tape if the skin is hot or cold from a recent heat or ice treatment, or if there is broken skin, a skin allergy to adhesive, altered sensation or poor circulation in the area. Severe or unexplained pain should be assessed before taping and returning to sport.
 
-### Pain Management:
+## Frequently Asked Questions
 
-Athletic tape can be applied to ease pain symptoms as well. Taping along the nerve tract of irritated or inflamed tissue can shorten the inflamed region and reduce pain.
+### How long can athletic tape be left on?
 
-### Post-Injury benefits:
+Rigid athletic tape is usually applied just before training or a match and removed straight afterwards. Leaving it on for long periods increases the risk of skin irritation and restricted circulation.
 
-Stabilizing and supporting joints after injuries to  the muscle or ligament
+### Does taping prevent ankle sprains?
 
-Assisting and allowing the athlete to return to  activity after minor injuries
+Taping and bracing both reduce the risk of ankle sprains, particularly in athletes who have sprained the ankle before. Taping works best alongside balance and strengthening exercises rather than as a replacement for them.
 
-Preventing and reducing further harm to injured  area
+### Is athletic tape the same as kinesiology tape?
 
-Maintaining proper biomechanics during activity
+No. Athletic tape is rigid and restricts unwanted joint movement. Kinesiology tape is elastic, allows movement and is mainly used for comfort, swelling and muscle support.
 
-Preventing neuromuscular damage
+### Should a physiotherapist apply the tape?
 
-Reducing force on the area during activity
+For an injury, yes. A physiotherapist assesses the problem, applies the right technique and can teach you or a coach to tape safely for training and matches. Our [sports physiotherapy](/service/sports-physiotherapy) team offers this at home and on-field.
 
-## DISADVANTAGES:
+## Final Thoughts
 
-Incorrect athletic taping may lead to blistering or future injuries.
-
-After activity and motion begins, the stiffness of the tape reduces.
-
-Physiological dependency on using tape
-
-Expensive, especially when it is needed  frequently
-
-## 9 rules for taping:
-
-Tape joint in proper position
-
-Position for stabilization
-
-Overlap the tape by half
-
-Avoid continuous taping
-
-Keep tape roll in hand whenever possible
-
-Allow tape to follow contours of the skin
-
-Smooth and mold tape as it is laid down on skin
-
-Always start taping with anchors
-
-Always finish taping with locking strips
-
-Do not apply tape if skin is hot or cold from  treatments
-
-Altered sensation
-
-Altered circulation
+Used correctly, athletic taping supports injured or unstable joints and helps athletes return to sport with confidence. It works best as part of a full rehabilitation and strengthening plan. [Book a session](/booking) to get taping and injury advice from a sports physiotherapist.

@@ -4,7 +4,7 @@ date: "2026-11-15"
 metaTitle: "Stroke Rehabilitation at Home: A Guide for Families"
 metaDescription: "Stroke rehabilitation at home: recovery phases, exercises, home safety, caregiver tips and warning signs. Book a home neuro physio assessment."
 excerpt: "Stroke rehabilitation at home can be a safe and effective way to continue recovery once a survivor is medically stable, provided it is led by trained professionals rather than left to family alone."
-coverImage: "/images/blog/hemiplegia-treatment-physiotherapy-exercise.jpg"
+coverImage: "/images/blog/stroke-rehabilitation-at-home-cover.jpg"
 category: "Neurological Physiotherapy"
 ---
 

@@ -4,7 +4,7 @@ date: "2026-11-03"
 metaTitle: "ACL Reconstruction Rehabilitation: Physio Recovery Guide"
 metaDescription: "ACL reconstruction rehabilitation, phase by phase: timeline, exercises, red flags and home physio tips. Book a home assessment today."
 excerpt: "ACL reconstruction rehabilitation is the structured physiotherapy programme that takes your knee from the day of surgery back to walking, work and, if you want it, sport."
-coverImage: "/images/blog/new-project-1.jpg"
+coverImage: "/images/blog/acl-reconstruction-rehabilitation-cover.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 

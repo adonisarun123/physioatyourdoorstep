@@ -2,9 +2,9 @@
 title: "PIVD Physiotherapy Treatment: Non-Surgical Healing Guide"
 date: "2026-01-08"
 metaTitle: "PIVD Physiotherapy Treatment: Non-Surgical Healing Guide"
-metaDescription: "Living with back pain that radiates down your leg can feel overwhelming. If you’ve been diagnosed with PIVD (Prolapsed Intervertebral Disc), also known as a her"
+metaDescription: "PIVD (slipped disc) physiotherapy: symptoms, non-surgical treatment, exercises to avoid and do, traction and recovery timelines for back and leg pain."
 excerpt: "Living with back pain that radiates down your leg can feel overwhelming. If you’ve been diagnosed with PIVD (Prolapsed Intervertebral Disc), also known as a herniated or slipped disc, you’re likely searching for effective treatment options that can help you recover without surgery. The good news? Ph"
-coverImage: "/images/blog/new-project-3.jpg"
+coverImage: "/images/blog/pivd-physiotherapy-treatment-cover.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-3.jpg"
+coverImage: "/images/blog/telehealth-physiotherapy-cover.jpg"
 title: "Telehealth Physiotherapy Explained | When, How & Benefits"
 date: "2025-10-08"
 metaTitle: "Telehealth Physiotherapy Explained | When, How & Benefits"
@@ -218,12 +218,11 @@ This article provides general information for educational purposes only and is n
 ## Internal resources (used above)
 
 - Home/brand: </>
-- Booking: </booking/>
-- Knee pain: </knee-pain/>
-- Cervicogenic headache: </cervicogenic-headache/>
-- Taping: </taping/>
-
-**Ready to book your telehealth session? Start here:** </booking/>
+- [Booking](/booking)
+- [Knee pain](/knee-pain)
+- [Cervicogenic headache](/cervicogenic-headache)
+- [Taping](/taping)
+**Ready to book your telehealth session? Start here:** [Book a session](/booking)
 
 **Related reading:** [Types of Aerobic Training in Physiotherapy](/types-of-aerobic-training-in-physiotherapy)
 
@@ -263,7 +262,7 @@ It depends on your condition and goals. Many patients begin weekly, progressing 
 
 ### Will you show me how to tape or use braces?
 
-When appropriate, yes—we demonstrate safe self-taping and brace use, and we’ll provide written/video instructions. For general taping insights, see our overview: </taping/>
+When appropriate, yes—we demonstrate safe self-taping and brace use, and we’ll provide written/video instructions. For general taping insights, see our overview: [Athletic Taping: Benefits & Risks You Should Know](/taping)
 
 ### What if my pain worsens or I have new symptoms?
 
@@ -275,4 +274,4 @@ Often yes—especially for later-stage ROM and strengthening progressions, gait 
 
 ### Can telehealth help knee pain?
 
-Absolutely. Exercise therapy and load management are first-line treatments for knee pain and OA. Learn more: </knee-pain/>
+Absolutely. Exercise therapy and load management are first-line treatments for knee pain and OA. Learn more: [Knee Pain: Causes, Symptoms and Best Treatment Options](/knee-pain)

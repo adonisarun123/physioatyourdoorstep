@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-2-1.jpg"
+coverImage: "/images/blog/pediatric-physical-rehabilitation-cover.jpg"
 title: "Pediatric Physical Rehabilitation: A Guide for Parents"
 date: "2025-03-17"
 metaTitle: "Pediatric Physical Rehabilitation: A Guide for Parents"
@@ -305,26 +305,29 @@ Therapy can be expensive, but financial assistance is available.
 - Check if your insurance covers pediatric physical therapy.
 - Ask about co-pays and out-of-pocket expenses.
 
-### Frequently Asked Questions (FAQs)
+## Frequently Asked Questions
 
-**1. When Should My Child Start Therapy?**
+
+### When Should My Child Start Therapy?
 
 As early as possible! Early intervention leads to better outcomes.
 
-**2. How Can I Tell If My Child Is Making Progress?**
+### How Can I Tell If My Child Is Making Progress?
 
 Your therapist will track progress using movement assessments and milestone checklists.
 
-**3. Will My Child Need Therapy for Life?**
+### Will My Child Need Therapy for Life?
 
 It depends on the condition. Some children may graduate from therapy, while others need ongoing support.
 
-**4. What If My Child Refuses to Participate?**
+### What If My Child Refuses to Participate?
 
 Use fun activities, rewards, and encouragement to make therapy more enjoyable.
 
-**5. Are There Support Groups for Parents?**
+### Are There Support Groups for Parents?
 
 Yes! Many online and local groups provide emotional support and resources for parents.
+
+## Final Thoughts
 
 Pediatric physical rehabilitation is essential for children with mobility challenges, helping them gain independence and confidence. With early intervention, the right therapy, and strong parental support, children can reach their full potential.

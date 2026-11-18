@@ -2,8 +2,8 @@
 title: "Tennis Elbow Physiotherapy Treatment: A Complete Evidence-Based Guide"
 date: "2026-04-08"
 metaTitle: "Tennis Elbow Physiotherapy Treatment: Evidence-Based Guide"
-metaDescription: "IntroductionIf you have been feeling a nagging, burning pain on the outside of your elbow that worsens when you grip a racquet, shake hands, or even lift your c"
-excerpt: "IntroductionIf you have been feeling a nagging, burning pain on the outside of your elbow that worsens when you grip a racquet, shake hands, or even lift your coffee cup, you are likely dealing with tennis elbow. Medically termed lateral epicondylitis or lateral elbow tendinopathy, this condition is"
+metaDescription: "Tennis elbow physiotherapy: what causes lateral elbow pain, the exercises that work, bracing and shockwave options, and how long recovery takes."
+excerpt: "Tennis elbow physiotherapy: what causes lateral elbow pain, the exercises that work, bracing and shockwave options, and how long recovery takes."
 coverImage: "/images/blog/new-project-2.jpg"
 category: "Orthopaedic Physiotherapy"
 ---

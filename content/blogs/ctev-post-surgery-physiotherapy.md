@@ -2,9 +2,9 @@
 title: "CTEV Post-Surgery Physiotherapy: Clubfoot Recovery Guide"
 date: "2025-10-23"
 metaTitle: "CTEV Post-Surgery Physiotherapy: Clubfoot Recovery Guide"
-metaDescription: "When your child undergoes surgery for congenital talipes equinovarus (CTEV), commonly known as clubfoot, the journey to full recovery is just beginning. While s"
+metaDescription: "Physiotherapy after CTEV (clubfoot) surgery: the recovery timeline, stretching and bracing, exercises by phase and how parents can support progress at home."
 excerpt: "When your child undergoes surgery for congenital talipes equinovarus (CTEV), commonly known as clubfoot, the journey to full recovery is just beginning. While surgical correction addresses the structural deformity, post-surgical physiotherapy is the cornerstone of successful long-term outcomes. With"
-coverImage: "/images/blog/new-project-2-1.jpg"
+coverImage: "/images/blog/ctev-post-surgery-physiotherapy-cover.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 
@@ -509,15 +509,16 @@ For families in India seeking specialized CTEV post-surgical rehabilitation, ser
 
 Remember: every exercise session, every stretch, every step of progress brings your child closer to running, playing, and living without limitations. Your commitment today shapes their mobility for a lifetime.
 
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions
 
-**Q: How soon after CTEV surgery should physiotherapy begin?**
 
-A: Formal physiotherapy typically begins within 7-10 days after cast removal (approximately 6 weeks post-surgery). However, parent education and planning should start immediately after surgery. Some gentle exercises for unaffected joints can begin even while the cast is on. Early initiation of physiotherapy is crucial—delays can lead to increased stiffness and poorer outcomes.
+### How soon after CTEV surgery should physiotherapy begin?
 
-**Q: What exercises are best after CTEV surgery?**
+Formal physiotherapy typically begins within 7-10 days after cast removal (approximately 6 weeks post-surgery). However, parent education and planning should start immediately after surgery. Some gentle exercises for unaffected joints can begin even while the cast is on. Early initiation of physiotherapy is crucial—delays can lead to increased stiffness and poorer outcomes.
 
-A: The best exercises vary by recovery phase:
+### What exercises are best after CTEV surgery?
+
+The best exercises vary by recovery phase:
 
 - **Early phase (6-12 weeks)** : Gentle passive range of motion, scar massage, assisted ankle movements
 - **Strengthening phase (3-6 months)** : Active dorsiflexion, eversion exercises, toe strengthening, balance activities
@@ -525,26 +526,27 @@ A: The best exercises vary by recovery phase:
 
 All exercises should be prescribed and progressed by a qualified physiotherapist based on individual surgical procedure and recovery status.
 
-**Q: When can the child walk normally after CTEV surgery and physiotherapy?**
+### When can the child walk normally after CTEV surgery and physiotherapy?
 
-A: Most children achieve:
+Most children achieve:
 
 - **Independent walking** : 9-15 months post-surgery
 - **Normalized gait pattern** : 12-24 months post-surgery, with continued refinement through age 3-4
 
 Timeline varies based on surgery complexity, age at intervention, and physiotherapy consistency. Children with bilateral CTEV or those who had surgery at older ages may require longer rehabilitation periods.
 
-**Q: Can physiotherapy prevent CTEV relapse after surgery?**
+### Can physiotherapy prevent CTEV relapse after surgery?
 
-A: Yes, comprehensive physiotherapy significantly reduces relapse risk. Studies show that consistent post-surgical rehabilitation combined with proper orthotic use decreases recurrence rates by 60-70%. Key relapse prevention strategies include:
+Yes, comprehensive physiotherapy significantly reduces relapse risk. Studies show that consistent post-surgical rehabilitation combined with proper orthotic use decreases recurrence rates by 60-70%. Key relapse prevention strategies include:
 
 - Intensive early mobilization and strengthening
 - Strict adherence to AFO wearing schedule
 - Ongoing monitoring through growth spurts
 - Immediate intervention if any deformity recurrence is noticed
-**Q: Is home-based physiotherapy as effective as clinic-based treatment for CTEV?**
 
-A: Research suggests home-based physiotherapy can be equally or more effective when delivered by qualified specialists, primarily due to:
+### Is home-based physiotherapy as effective as clinic-based treatment for CTEV?
+
+Research suggests home-based physiotherapy can be equally or more effective when delivered by qualified specialists, primarily due to:
 
 - Higher session adherence rates
 - Better family education and involvement
@@ -554,9 +556,9 @@ A: Research suggests home-based physiotherapy can be equally or more effective w
 
 The key is ensuring the home-based physiotherapist has specific training in pediatric orthopedic conditions.
 
-**Q: What happens if we miss physiotherapy sessions or don’t do home exercises regularly?**
+### What happens if we miss physiotherapy sessions or don’t do home exercises regularly?
 
-A: Inconsistent rehabilitation significantly increases risk of:
+Inconsistent rehabilitation significantly increases risk of:
 
 - Joint stiffness and contractures
 - Muscle weakness and atrophy
@@ -567,9 +569,9 @@ A: Inconsistent rehabilitation significantly increases risk of:
 
 CTEV recovery requires sustained effort. If adherence is challenging due to schedule, cost, or other factors, discuss with your healthcare team about solutions like modified schedules, home-based services, or support programs.
 
-**Q: Should my child wear special shoes or orthotics after CTEV surgery?**
+### Should my child wear special shoes or orthotics after CTEV surgery?
 
-A: Most children require:
+Most children require:
 
 - **Custom AFO (ankle-foot orthosis)** : Worn full-time initially (3-6 months), then night-time only for 1-2 years
 - **Specialized footwear** : Shoes that accommodate AFOs and provide proper support

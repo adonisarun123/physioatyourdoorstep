@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-2-1.jpg"
+coverImage: "/images/blog/sports-assessment-in-physiotherapy-cover.jpg"
 title: "Sports Assessment in Physiotherapy: Athlete Screening Guide"
 date: "2025-09-25"
 metaTitle: "Sports Assessment in Physiotherapy: Athlete Screening Guide"
@@ -190,12 +190,12 @@ Whether you’re a runner, weekend footballer, badminton player, or a competitiv
 
 ## Related internal links (unique URLs, used once each)
 
-- Orthopaedic conditions in physiotherapy: </orthopaedic-conditions-in-physiotherapy/>
-- [Post-surgical rehabilitation](/service/post-surgical-physiotherapy): </physiotherapy-in-post-surgical-rehabilitation/>
-- Neurological assessment in physiotherapy: </neurological-assessment-in-physiotherapy/>
-- Baker’s cyst physiotherapy: </bakers-cyst-physiotherapy/>
-- Physiotherapy vs remedial vs chiropractic: </physiotherapy-vs-remedial-vs-chiropractic/>
-- About us: </about-us/>
+- [Orthopaedic conditions in physiotherapy](/orthopaedic-conditions-in-physiotherapy)
+- [Post-surgical rehabilitation](/physiotherapy-in-post-surgical-rehabilitation)
+- [Neurological assessment in physiotherapy](/neurological-assessment-in-physiotherapy)
+- [Baker’s cyst physiotherapy](/bakers-cyst-physiotherapy)
+- [Physiotherapy vs remedial vs chiropractic](/physiotherapy-vs-remedial-vs-chiropractic)
+- [About us](/about-us)
 - Physiotherapy articles: </category/physiotherapy/>
 
 ## FAQs: Sports assessment in physiotherapy

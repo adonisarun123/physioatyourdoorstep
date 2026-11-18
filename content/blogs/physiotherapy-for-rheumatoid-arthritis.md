@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-3.jpg"
+coverImage: "/images/blog/physiotherapy-for-rheumatoid-arthritis-cover.jpg"
 title: "Physiotherapy for Rheumatoid Arthritis: A Treatment Guide"
 date: "2025-03-10"
 metaTitle: "Physiotherapy for Rheumatoid Arthritis: A Treatment Guide"
@@ -7,6 +7,7 @@ metaDescription: "Discover how physiotherapy helps manage rheumatoid arthritis. 
 excerpt: "Rheumatoid arthritis (RA) is a chronic autoimmune condition that causes inflammation, pain, and joint stiffness. Unlike osteoarthritis, which results from wear and tear, RA occurs when the immune system mistakenly attacks the joints, leading to damage over time."
 category: "Orthopaedic Physiotherapy"
 ---
+
 ### Introduction
 
 Rheumatoid arthritis (RA) is a chronic autoimmune condition that causes inflammation, pain, and joint stiffness. Unlike [osteoarthritis](/physiotherapy-for-osteoarthritis), which results from wear and tear, RA occurs when the immune system mistakenly attacks the joints, leading to damage over time. Managing RA effectively requires a combination of medication, lifestyle modifications, and physiotherapy.
@@ -292,10 +293,25 @@ RA management involves:
 
 Physiotherapy is a powerful tool for managing rheumatoid arthritis. From exercise therapy to lifestyle adjustments, it helps reduce pain, maintain mobility, and improve overall well-being. With a personalized physiotherapy plan, RA patients can continue leading active and fulfilling lives.
 
-### FAQs
+## Frequently Asked Questions
 
-1. **How often should RA patients do physiotherapy?** At least 2-3 times per week, depending on symptoms.
-2. **Can physiotherapy reverse joint damage in RA?** No, but it can slow progression and prevent further damage.
-3. **Is yoga safe for RA patients?** Yes, but only gentle yoga with modifications.
-4. **Can physiotherapy replace RA medications?** No, but it complements medical treatment effectively.
-5. **What is the best exercise for RA patients?** Low-impact activities like swimming, cycling, and stretching.
+
+### How often should RA patients do physiotherapy?
+
+At least 2-3 times per week, depending on symptoms.
+
+### Can physiotherapy reverse joint damage in RA?
+
+No, but it can slow progression and prevent further damage.
+
+### Is yoga safe for RA patients?
+
+Yes, but only gentle yoga with modifications.
+
+### Can physiotherapy replace RA medications?
+
+No, but it complements medical treatment effectively.
+
+### What is the best exercise for RA patients?
+
+Low-impact activities like swimming, cycling, and stretching.

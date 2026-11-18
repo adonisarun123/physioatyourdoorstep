@@ -1,6 +1,5 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
 import { Menu, Phone, X, Mail } from "lucide-react";
 import { useEffect, useState } from "react";
 import Link from "next/link";
@@ -36,7 +35,6 @@ export default function Header() {
   }, [mobileMenuOpen]);
 
   const phoneNumber = "+918233787737";
-  const whatsappNumber = "918233787737";
   const email = "physioatyourdoorstep24x7@gmail.com";
 
   return (
@@ -64,6 +62,7 @@ export default function Header() {
       <nav className="container flex h-16 md:h-20 items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
+          {/* eslint-disable-next-line @next/next/no-img-element -- 48px logo, already sized */}
           <img src="/logo.webp" alt="Physio At Your Doorstep" width={48} height={48} className="h-12 w-12" />
           <div className="flex flex-col">
             <span className="text-xl font-bold text-[#3B3B6D]">Physio At Your Doorstep</span>

@@ -179,8 +179,7 @@ While recovery progresses, there are several practical strategies to make daily 
 2. Neurological Physiotherapy Services at Physio at Your Doorstep: </service/neurological-physiotherapy/>
 3. Post Surgical Physiotherapy at Physio at Your Doorstep: </service/post-surgical-physiotherapy/>
 4. [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>
-5. Neurological Physiotherapy Tests Blog: </neurological-physiotherapy-tests/>
-
+5. [Neurological Physiotherapy Tests Blog](/neurological-physiotherapy-tests)
 **Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)
 
 ## Frequently Asked Questions (FAQ)
