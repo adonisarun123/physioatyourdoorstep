@@ -68,7 +68,7 @@ The focus remains on improving real-life functional ability.
 
 ## Role of Caregivers and Family
 
-Caregivers play a crucial role in neurological rehabilitation. Physiotherapists provide guidance on safe transfers, positioning, daily mobility, and home exercise routines to ensure continuity and safety.
+Caregivers play a crucial role in [neurological rehabilitation](/types-of-neurological-rehabilitation). Physiotherapists provide guidance on safe transfers, positioning, daily mobility, and home exercise routines to ensure continuity and safety.
 
 ---
 

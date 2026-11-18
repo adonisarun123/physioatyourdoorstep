@@ -4,14 +4,14 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import Image from "next/image";
 import { Award, Heart, Target, Users, GraduationCap, Stethoscope, BadgeCheck, HandHeart } from "lucide-react";
-import { SITE } from "@/lib/seo";
+import { SITE, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "About Us | Meet Dr. Atharva Mishra & Dr. Manasvi Kanjolia",
     description: "Meet the physiotherapists behind Physio At Your Doorstep: Dr. Atharva Mishra (Bangalore) and Dr. Manasvi Kanjolia (Pune). Expert home physiotherapy, 24×7.",
     alternates: { canonical: "/about-us" },
-    openGraph: { title: "About Us", url: "/about-us", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { ...OG_DEFAULTS, title: "About Us", url: "/about-us", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 const values = [

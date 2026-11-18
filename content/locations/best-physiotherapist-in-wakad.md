@@ -42,7 +42,7 @@ Guided recovery at home after surgeries with specialized physiotherapy care. If 
 
 ### Orthopedic Physiotherapy
 
-Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries (like ACL/PCL strains or meniscus tears), arthritis pain, sciatica, sprains, and fracture rehabilitation
+Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic back pain, neck pain, frozen shoulder, knee injuries (like ACL/PCL strains or meniscus tears), arthritis pain, [sciatica](/sciatica-physiotherapy), sprains, and fracture rehabilitation
 
 ### Neurological Physiotherapy
 
@@ -50,7 +50,7 @@ Rehabilitation for nerve, spine, and brain-related conditions. We offer home the
 
 ### Sports Injury Rehabilitation
 
-Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast, a weekend cricketer at the local grounds, or a marathon runner training around Banashankari's parks, we can help treat and prevent sports-related injuries. We address issues like ligament tears, muscle strains, tennis elbow, runner's knee, ankle sprains, and more.
+Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast, a weekend cricketer at the local grounds, or a marathon runner training around Banashankari's parks, we can help treat and prevent sports-related injuries. We address issues like ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, ankle sprains, and more.
 
 ### Geriatric Physiotherapy
 
@@ -58,7 +58,7 @@ Specialized care for older adults, delivered with kindness and patience. We assi
 
 ### Pediatric Physiotherapy
 
-Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, torticollis (tight neck muscles in babies), delayed milestones (such as late crawling or walking), and recovery after injuries or orthopedic surgeries.
+Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment) (tight neck muscles in babies), delayed milestones (such as late crawling or walking), and recovery after injuries or orthopedic surgeries.
 
 ## How It Works?
 
@@ -106,7 +106,7 @@ Yes. Home physiotherapy in Wakad is *just as effective* as visiting a clinic, as
 
 ### What conditions can be treated with physiotherapy at home in Wakad?
 
-We can address a wide range of conditions through home visits in Wakad. Our physiotherapists treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries (ligament strains or meniscus tears), arthritis, sprains, and tendon/ligament problems. We also provide neurological rehabilitation for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, neuropathy, and nerve damage. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, torticollis, or injuries. Geriatric physiotherapy covers age-related issues like joint stiffness, osteoporosis, balance problems, and post-stroke rehab for seniors. Additionally, we handle sports injuries (ankle sprains, muscle tears, tennis elbow, runner's knee, etc.) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or shoulder surgeries. **Essentially, nearly any condition for which you would go to a physiotherapy clinic can be treated at home** by our qualified therapists – we adapt our techniques and bring the needed equipment to ensure you get effective care in a home setting.
+We can address a wide range of conditions through home visits in Wakad. Our physiotherapists treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries (ligament strains or meniscus tears), arthritis, sprains, and tendon/ligament problems. We also provide [neurological rehabilitation](/types-of-neurological-rehabilitation) for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, neuropathy, and nerve damage. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, torticollis, or injuries. Geriatric physiotherapy covers age-related issues like joint stiffness, osteoporosis, balance problems, and post-stroke rehab for seniors. Additionally, we handle sports injuries (ankle sprains, muscle tears, tennis elbow, runner's knee, etc.) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or shoulder surgeries. **Essentially, nearly any condition for which you would go to a physiotherapy clinic can be treated at home** by our qualified therapists – we adapt our techniques and bring the needed equipment to ensure you get effective care in a home setting.
 
 ### How can I be sure I'm getting the best physiotherapist in Wakad for home care?
 
@@ -114,7 +114,7 @@ We take quality seriously. All our physiotherapists are highly trained and fully
 
 ### What are the charges for physiotherapy at home in Wakad?
 
-The cost of home physiotherapy in Wakad depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the total number of sessions can influence pricing. In general, home physiotherapy charges in Pune (including Wakad) are comparable to clinic rates – typically ranging around **₹700 to ₹900 per session** on average. Keep in mind that with at-home therapy you also save on travel expenses and time. We believe in transparent pricing with no hidden fees. When you contact us, we will discuss the expected fees upfront before starting. We also offer discounted packages for multiple sessions, which can reduce the per-session cost if a longer rehabilitation plan is needed. For instance, a simple sprained ankle might only require a few sessions (lower total cost), whereas extensive post-surgical rehab or a complex neurological program could cost more overall due to the specialized, longer-term care involved. We'll make sure you are comfortable with the plan *and* the cost before we begin treatment.
+The cost of home physiotherapy in Wakad depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the total number of sessions can influence pricing. In general, home physiotherapy charges in Pune (including Wakad) are comparable to clinic rates – typically ranging around **₹799–₹1,099 per session** on average. Keep in mind that with at-home therapy you also save on travel expenses and time. We believe in transparent pricing with no hidden fees. When you contact us, we will discuss the expected fees upfront before starting. We also offer discounted packages for multiple sessions, which can reduce the per-session cost if a longer rehabilitation plan is needed. For instance, a simple sprained ankle might only require a few sessions (lower total cost), whereas extensive post-surgical rehab or a complex neurological program could cost more overall due to the specialized, longer-term care involved. We'll make sure you are comfortable with the plan *and* the cost before we begin treatment.
 
 ### Do you provide physiotherapy for senior citizens at home in Wakad?
 

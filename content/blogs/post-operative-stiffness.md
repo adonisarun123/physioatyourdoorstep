@@ -16,7 +16,7 @@ This guide explains the causes, how to tell normal stiffness from a problem, the
 
 ## What is post-operative stiffness?
 
-Post-operative stiffness is a reduced range of motion in a joint after surgery that is enough to limit everyday tasks such as walking, climbing stairs, sitting, dressing or reaching. It is most often discussed after knee surgery, including total knee replacement and ACL reconstruction, but it can also affect the shoulder, elbow, ankle and other joints.
+Post-operative stiffness is a reduced range of motion in a joint after surgery that is enough to limit everyday tasks such as walking, climbing stairs, sitting, dressing or reaching. It is most often discussed after knee surgery, including total [knee replacement](/physiotherapy-exercises-after-knee-surgery) and ACL reconstruction, but it can also affect the shoulder, elbow, ankle and other joints.
 
 ### What is arthrofibrosis?
 
@@ -85,7 +85,7 @@ Stiffness after surgery treatment usually follows a ladder, starting with the le
 1. **Prevention from day one:** early movement as allowed by your surgeon, pain control timed before exercise, swelling management and correct resting positions.
 2. **Targeted physiotherapy:** more focused range-of-motion work, joint and kneecap mobilisation, muscle activation and strengthening, and walking retraining.
 3. **Splints or braces:** some surgeons use extension or flexion devices that apply a low, prolonged stretch.
-4. **Manipulation under anaesthesia (MUA):** the surgeon moves the joint while you are anaesthetised to break down adhesions. After knee replacement, a 2017 systematic review found the best results when MUA was done within 12 weeks of surgery, and most surgeons in a 2021 international survey preferred to do it between 6 and 12 weeks.
+4. **Manipulation under anaesthesia (MUA):** the surgeon moves the joint while you are anaesthetised to break down [adhesions](/adhesion-in-physiotherapy). After knee replacement, a 2017 systematic review found the best results when MUA was done within 12 weeks of surgery, and most surgeons in a 2021 international survey preferred to do it between 6 and 12 weeks.
 5. **Arthroscopic or open release:** keyhole or open surgery to remove scar tissue, usually for persistent or late stiffness.
 6. **Revision surgery:** rarely, when there is a mechanical cause such as implant problems. A 2022 review in International Orthopaedics found revision had poorer outcomes and more need for further treatment than MUA or arthroscopic release.
 

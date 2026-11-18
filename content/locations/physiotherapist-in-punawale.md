@@ -42,11 +42,11 @@ Recovering after surgery (knee/hip replacement, ACL repair, spinal surgery, etc.
 
 ### Orthopedic Physiotherapy
 
-For musculoskeletal issues (back pain, neck pain, arthritis, fractures, etc.), our orthopedic physiotherapy at home offers pain relief and improved function. Common cases include chronic low back or sciatica, neck stiffness, rotator cuff/shoulder pain, sports sprains, or post-fracture rehab.
+For musculoskeletal issues ([back pain](/back-ache), neck pain, arthritis, fractures, etc.), our orthopedic physiotherapy at home offers pain relief and improved function. Common cases include chronic low back or [sciatica](/sciatica-physiotherapy), neck stiffness, rotator cuff/shoulder pain, sports sprains, or post-fracture rehab.
 
 ### Neurological Physiotherapy
 
-Neurological conditions like stroke, Parkinson's disease, multiple sclerosis, cerebral palsy or neuropathy often require ongoing rehab. Our home neurological physiotherapy focuses on balance, coordination, muscle control and functional mobility.
+Neurological conditions like stroke, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), cerebral palsy or neuropathy often require ongoing rehab. Our home neurological physiotherapy focuses on balance, coordination, muscle control and functional mobility.
 
 ### Sports Injury Rehabilitation
 
@@ -88,7 +88,7 @@ We proudly serve Punawale and surrounding parts of Pimpri-Chinchwad with our hom
 
 - **Punawale & Ravet (PCMC):** We serve all areas of Punawale (Phases I–III) and nearby [Ravet](/best-physiotherapist-in-ravet). Whether you live near Savta Mali Mandir, Gawade Hospital, or Ravet Flyover, our physiotherapist will come to you. Residents in these rapidly growing suburbs benefit from our services for back pain, post-operative rehab, arthritis and more.
 - **Wakad & Hinjewadi:** Just a short drive from Punawale, we reach the busy Wakad and Hinjewadi IT Park area. If you live in Wakad (the burgeoning IT residential hub) or Hinjewadi Phase 1 & 2, you don't need to battle Pune traffic for physio. We regularly treat IT professionals and residents there for neck/back pain, sports injuries, tech-neck, and workplace strains—all at home.
-- **Tathawade:** North of Punawale, Tathawade's new residential complexes (Life Republic, Prahar, etc.) are within our reach. We cover Tathawade and its surroundings (like Pimple Saudagar). If you need home physiotherapy around Bhumkar Chowk, Tathawade, or the expressway, we'll find you and treat you at home—be it for knee pain, post-surgery rehab, or balance training.
+- **Tathawade:** North of Punawale, Tathawade's new residential complexes (Life Republic, Prahar, etc.) are within our reach. We cover Tathawade and its surroundings (like Pimple Saudagar). If you need home physiotherapy around Bhumkar Chowk, Tathawade, or the expressway, we'll find you and treat you at home—be it for [knee pain](/knee-pain), post-surgery rehab, or balance training.
 - **Pimpri & Pimple Saudagar:** Even parts of central Pimpri Chinchwad are in our service zone. Residents of Pimpri Colony, Kalewadi, or Pimple Saudagar (near PCMC office) can avail our home visits. For example, if you're near PCMC Pradhikaran or city center and need orthopaedic or geriatric physiotherapy, simply call us. We'll come to your doorstep to save you a commute.
 
 If your specific Punawale neighborhood isn't mentioned, just contact us—we likely cover it. Our mission is to make top-quality physiotherapy accessible across western Pune without you having to leave home.

@@ -2,7 +2,17 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import { localBusinessSchema, serviceSchema, faqSchema, SITE } from "@/lib/seo";
-import { getServiceAreasByArea, getLocationBySlug, type ServiceAreaContent } from "@/lib/content";
+import {
+    getServiceAreasByArea,
+    getLocationBySlug,
+    getAllServiceAreas,
+    getAllServiceAreasIndex,
+    getBlogsByCategory,
+    pickWindow,
+    SERVICE_TO_CATEGORY,
+    type ServiceAreaContent,
+} from "@/lib/content";
+import BlogCard from "@/components/BlogCard";
 import {
     MapPin,
     ArrowRight,
@@ -25,6 +35,10 @@ import FaqAnswer from "@/components/FaqAnswer";
 export default function ServiceAreaPage({ data }: { data: ServiceAreaContent }) {
     const siblings = getServiceAreasByArea(data.area).filter((s) => s.slug !== data.slug);
     const pillar = data.pillar ? getLocationBySlug(data.pillar) : undefined;
+    // Same service in other neighbourhoods, and topical reads from the service's blog category.
+    const sameServiceElsewhere = getAllServiceAreas().filter((s) => s.service === data.service && s.slug !== data.slug);
+    const readsPool = getBlogsByCategory(SERVICE_TO_CATEGORY[data.service] ?? "physiotherapy");
+    const relatedReads = pickWindow(readsPool, getAllServiceAreasIndex(data.slug) * 3, 3);
 
     const whatsappHref = `https://wa.me/${SITE.phoneRaw.replace("+", "")}?text=${encodeURIComponent(
         `Hi, I would like to book ${data.serviceName.toLowerCase()} at home in ${data.area}.`
@@ -189,6 +203,42 @@ export default function ServiceAreaPage({ data }: { data: ServiceAreaContent }) 
                 </div>
             </section>
 
+            {(sameServiceElsewhere.length > 0 || relatedReads.length > 0) && (
+                <section className="section bg-[#F6F6FB]">
+                    <div className="container">
+                        {sameServiceElsewhere.length > 0 && (
+                            <div className="mb-12">
+                                <h2 className="heading-subsection mb-6">{data.serviceName} in Nearby Areas</h2>
+                                <div className="flex flex-wrap gap-3">
+                                    {sameServiceElsewhere.map((s) => (
+                                        <Link
+                                            key={s.slug}
+                                            href={`/${s.slug}`}
+                                            className="inline-flex items-center gap-1.5 rounded-full border border-[#DCDCEC] bg-white px-4 py-2 text-sm font-medium text-[#1F2933] hover:border-[#3B3B6D] hover:text-[#3B3B6D] transition-colors"
+                                        >
+                                            <MapPin className="h-4 w-4 text-[#E31E24]" />
+                                            {s.serviceName} in {s.area}
+                                        </Link>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
+                        {relatedReads.length > 0 && (
+                            <>
+                                <h2 className="heading-subsection mb-8 text-center">
+                                    Helpful Reads on {data.serviceName}
+                                </h2>
+                                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                                    {relatedReads.map((b) => (
+                                        <BlogCard key={b.slug} blog={b} />
+                                    ))}
+                                </div>
+                            </>
+                        )}
+                    </div>
+                </section>
+            )}
+
             {/* CTA */}
             <section className="section bg-[#2A2A57] text-white">
                 <div className="container text-center max-w-3xl">
@@ -214,8 +264,11 @@ export default function ServiceAreaPage({ data }: { data: ServiceAreaContent }) 
                     localBusinessSchema({ area: data.area, city: data.city, url: `/${data.slug}` }),
                     serviceSchema({
                         name: `${data.serviceName} in ${data.area}`,
+                        serviceType: data.serviceName,
                         description: data.metaDescription ?? data.title,
                         url: `/${data.slug}`,
+                        area: data.area,
+                        city: data.city,
                     }),
                     ...(data.faqs && data.faqs.length > 0 ? [faqSchema(data.faqs)] : []),
                 ]}

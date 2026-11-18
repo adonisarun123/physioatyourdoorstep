@@ -33,11 +33,11 @@ Cardiac rehabilitation is a structured program tailored to individual needs, hel
 Cardiac rehabilitation offers significant benefits for individuals with various heart conditions, including:
 
 - Recent heart attack (myocardial infarction) survivors
-- Those who have undergone coronary artery bypass grafting (CABG)
+- Those who have undergone coronary artery bypass grafting ([CABG](/cabg-post-surgical-physiotherapy-management))
 - Patients who have had valve repair or replacement surgery
 - Individuals with coronary artery disease (CAD)
 - Heart failure patients
-- Those who have undergone angioplasty or stent placement
+- Those who have undergone [angioplasty](/angioplasty-post-surgical-physiotherapy) or stent placement
 - Heart transplant recipients
 - Individuals with angina (chest pain)
 - People with multiple cardiac risk factors
@@ -262,7 +262,7 @@ Despite its proven benefits, cardiac rehabilitation remains underutilized, with 
 **At Physio at your Doorstep, we work to address these barriers through:**
 
 - Home-based rehabilitation options
-- Telehealth services for remote monitoring and guidance
+- [Telehealth](/telehealth-physiotherapy) services for remote monitoring and guidance
 - Flexible scheduling to accommodate work and family obligations
 - Assistance navigating insurance coverage
 - Ongoing motivational support and accountability

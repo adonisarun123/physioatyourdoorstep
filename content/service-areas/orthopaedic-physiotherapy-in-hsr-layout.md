@@ -8,13 +8,13 @@ metaTitle: "Orthopaedic Physiotherapy in HSR Layout | Home Physio"
 metaDescription: "Back, neck, knee & joint pain physiotherapy at home in HSR Layout. Sciatica, frozen shoulder & disc bulge care. Same-day home visits, 24×7."
 ---
 
-Struggling with back pain, a stiff neck, knee trouble or sciatica? Our home physiotherapy for back pain in HSR Layout brings certified physiotherapists to your door — across Sectors 1–7, Agara, Somasundarapalya and the apartment complexes off 27th Main — to treat the pain at its source, without the clinic commute.
+Struggling with [back pain](/back-ache), a stiff neck, knee trouble or sciatica? Our home physiotherapy for back pain in HSR Layout brings certified physiotherapists to your door — across Sectors 1–7, Agara, Somasundarapalya and the apartment complexes off 27th Main — to treat the pain at its source, without the clinic commute.
 
 From a disc bulge that flares after a long day to years of desk posture, a frozen shoulder or an arthritic knee, we assess what is really causing the pain and build a plan around your body, your routine and your home — then come to you to deliver it, session after session.
 
 ## Orthopaedic physiotherapy — and who it helps
 
-Orthopaedic physiotherapy treats problems of the musculoskeletal system: the back, neck, joints, muscles, ligaments and tendons. For most people in HSR, that means long-standing desk-job back and neck pain, an aching or arthritic knee, a frozen shoulder, sciatica, or a disc bulge that flares up after a long day.
+Orthopaedic physiotherapy treats problems of the musculoskeletal system: the back, neck, joints, muscles, ligaments and tendons. For most people in HSR, that means long-standing [desk-job](/desk-job-syndrome-physiotherapy) back and neck pain, an aching or arthritic knee, a frozen shoulder, sciatica, or a disc bulge that flares up after a long day.
 
 Care starts with a hands-on assessment — posture, joint range, strength and how you move — then a personalised plan to cut pain, restore movement and get you back to normal safely. The focus is the cause of the pain, not just the symptom, so relief lasts. You can read more about our full [orthopaedic physiotherapy service](/service/orthopaedic-physiotherapy) and how it is delivered across Bangalore.
 
@@ -31,7 +31,7 @@ Two things make home care the right fit. First, the commute: getting to a clinic
 - Knee pain, including osteoarthritis
 - Frozen shoulder and shoulder stiffness
 - Sciatica and disc bulge or disc-related pain
-- Arthritis (osteoarthritis, rheumatoid)
+- Arthritis ([osteoarthritis](/physiotherapy-for-osteoarthritis), rheumatoid)
 - Muscle strains, ligament sprains and overuse injuries
 - Posture correction for long-hours desk workers
 

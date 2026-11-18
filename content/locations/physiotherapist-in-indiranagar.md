@@ -50,25 +50,25 @@ Treatment for bones, joints, and muscle conditions. We help with common issues l
 
 ### Neurological Physiotherapy
 
-Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease management, multiple sclerosis, neuropathies, and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility
+Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease management, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), neuropathies, and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility
 
 [Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
-Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or a weekend cricket player at Indiranagar's local sports clubs, we treat sports injuries such as ligament tears, muscle strains, tennis elbow, runner's knee, and more.
+Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or a weekend cricket player at Indiranagar's local sports clubs, we treat sports injuries such as ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, and more.
 
 [Learn More](/service/sports-physiotherapy)
 
 ### Geriatric Physiotherapy
 
-Specialized care for older adults. We help senior citizens in Indiranagar with age-related issues like knee and back pain, osteoarthritis, joint stiffness, and post-stroke rehabilitation. Our gentle, **elderly-friendly physiotherapy** focuses on improving mobility, balance, and confidence.
+Specialized care for older adults. We help senior citizens in Indiranagar with age-related issues like knee and back pain, [osteoarthritis](/physiotherapy-for-osteoarthritis), joint stiffness, and post-stroke rehabilitation. Our gentle, **elderly-friendly physiotherapy** focuses on improving mobility, balance, and confidence.
 
 [Learn More](/service/geriatric-physiotherapy)
 
 ### Pediatric Physiotherapy
 
-Physiotherapy care for infants, children, and teenagers at home. Our child-friendly physiotherapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, and pediatric injuries.
+Physiotherapy care for infants, children, and teenagers at home. Our child-friendly physiotherapists treat developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), and pediatric injuries.
 
 [Learn More](/service/pediatric-physiotherapy)
 
@@ -140,7 +140,7 @@ To find the best physiotherapist in Indiranagar for home treatment, look for exp
 
 ### What are the charges for physiotherapy at home in Indiranagar?
 
-The cost of home physiotherapy in Indiranagar depends on the type of treatment you need and the duration of each session. Factors like the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. Generally, home physiotherapy charges in Bangalore are comparable to clinic rates – typically ranging around ₹500 to ₹800 per session – and you save on travel costs. At Physio At Your Doorstep, we offer **transparent pricing** and customized therapy plans. The exact cost will depend on your specific needs. For instance, post-surgical rehabilitation or highly specialized therapy may cost a bit more than a routine exercise program due to the expertise involved. We also have package deals for multiple sessions which can lower the per-session cost. Contact us with details of your condition, and we'll provide a quote or package that best suits your needs – no hidden charges.
+The cost of home physiotherapy in Indiranagar depends on the type of treatment you need and the duration of each session. Factors like the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. Generally, home physiotherapy charges in Bangalore are comparable to clinic rates – typically ranging around ₹799–₹1,099 per session – and you save on travel costs. At Physio At Your Doorstep, we offer **transparent pricing** and customized therapy plans. The exact cost will depend on your specific needs. For instance, post-surgical rehabilitation or highly specialized therapy may cost a bit more than a routine exercise program due to the expertise involved. We also have package deals for multiple sessions which can lower the per-session cost. Contact us with details of your condition, and we'll provide a quote or package that best suits your needs – no hidden charges.
 
 ### Do you provide physiotherapy for senior citizens in Indiranagar?
 

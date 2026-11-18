@@ -7,7 +7,7 @@ metaDescription: "Explore different types of pediatric physiotherapy. A parent-f
 excerpt: "Pediatric physiotherapy supports infants, toddlers, and teens to move better, build strength, achieve milestones, and participate in daily life. Core types include developmental, neurological (e.g., NDT, CIMT), musculoskeletal/orthopedic, balance and gait training, sensory-vestibular integration, respiratory/chest physiotherapy, aquatic therapy, postural management, serial casting and orthotics, and family training with structured home programs."
 category: "Pediatric Physiotherapy"
 ---
-Pediatric physiotherapy supports infants, toddlers, and teens to move better, build strength, achieve milestones, and participate in daily life. Core types include developmental, neurological (e.g., NDT, CIMT), musculoskeletal/orthopedic, balance and gait training, sensory-vestibular integration, respiratory/chest physiotherapy, aquatic therapy, postural management, serial casting and orthotics, and family training with structured home programs. Therapy is most effective when it’s playful, intensive enough, and paired with parent coaching and consistent home practice. Early intervention changes outcomes — neuroplasticity is strongest in early childhood.
+Pediatric physiotherapy supports infants, toddlers, and teens to move better, build strength, achieve milestones, and participate in daily life. Core types include developmental, neurological (e.g., NDT, CIMT), musculoskeletal/orthopedic, balance and gait training, sensory-vestibular integration, respiratory/chest physiotherapy, [aquatic therapy](/types-of-hydrotherapy-in-physiotherapy), postural management, serial casting and orthotics, and family training with structured home programs. Therapy is most effective when it’s playful, intensive enough, and paired with parent coaching and consistent home practice. Early intervention changes outcomes — neuroplasticity is strongest in early childhood.
 
 ## What is pediatric physiotherapy?
 
@@ -21,11 +21,11 @@ If you’re exploring local support, learn more about our pediatric physiotherap
 
 - Babies and toddlers with delayed milestones (rolling, sitting, crawling, walking)
 - Children with neurological conditions (cerebral palsy, spina bifida, muscular dystrophy)
-- Kids with torticollis/plagiocephaly, toe-walking, flat feet, hypermobility, scoliosis
+- Kids with [torticollis](/torticollis-physiotherapy-treatment)/plagiocephaly, toe-walking, flat feet, hypermobility, scoliosis
 - Post-injury or post-surgical rehab (fractures, ligament injuries, limb lengthening)
 - Respiratory conditions (e.g., cystic fibrosis, post-viral airway clearance)
 - Sensory and vestibular challenges affecting balance and motor planning
-- Sports injuries, pain, or recurrent sprains in children and teens
+- [Sports injuries](/service/sports-physiotherapy), pain, or recurrent sprains in children and teens
 
 Explore common pediatric physiotherapy conditions: [Pediatric physiotherapy conditions](/pediatric-physiotherapy-conditions)
 
@@ -130,14 +130,14 @@ The approaches below reflect what leading clinics, hospitals, and professional b
 ### Manual therapy and pain management
 
 **What it is:** Hands-on techniques to improve soft tissue and joint mobility and reduce pain.
-**Techniques**: Gentle joint mobilizations, soft tissue release, kinesiology taping, edema control.
+**Techniques**: Gentle joint mobilizations, soft tissue release, [kinesiology taping](/taping), edema control.
 **Who it helps**: Acute injuries, hypermobility pains, post-op stiffness, growing pains with contributing biomechanical factors.
 **Outcomes**: Comfort, improved mechanics, faster return to activity.
 
 ### Respiratory/chest physiotherapy for children
 
 **What it is**: Airway clearance and breathing mechanics training.
-**Techniques**: Positioning, percussion/vibration, breathing exercises (ACBT), PEP devices, cough facilitation, education on mucus management.
+**Techniques**: Positioning, percussion/vibration, breathing exercises ([ACBT](/acbt-in-physiotherapy)), PEP devices, cough facilitation, education on mucus management.
 **Who it helps**: Cystic fibrosis, bronchiectasis, post-viral chest congestion, neuromuscular weakness affecting cough.
 **Outcomes**: Better airway clearance, fewer infections, improved activity tolerance.
 

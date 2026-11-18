@@ -2,7 +2,7 @@ import CTABar from "@/components/CTABar";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { ContactForm } from "@/components/ContactForm";
-import { SITE } from "@/lib/seo";
+import { SITE, OG_DEFAULTS } from "@/lib/seo";
 import { Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import type { Metadata } from "next";
 
@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Contact Physio At Your Doorstep | Book Home Physiotherapy",
     description: "Contact Physio At Your Doorstep for professional home physiotherapy services. Call us, email us, or fill out our contact form. We're here to help!",
     alternates: { canonical: "/contact-us" },
-    openGraph: { title: "Contact Us", url: "/contact-us", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { ...OG_DEFAULTS, title: "Contact Us", url: "/contact-us", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default function ContactUsPage() {

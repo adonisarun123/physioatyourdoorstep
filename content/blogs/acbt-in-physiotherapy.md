@@ -9,7 +9,7 @@ category: "Pulmonary Physiotherapy"
 ---
 If you or a family member has been told to "do your ACBT," it can feel confusing without a clear explanation of what that actually means. ACBT in physiotherapy stands for the Active Cycle of Breathing Technique, one of the most widely used and well-researched breathing exercises in respiratory physiotherapy. It is used to clear mucus from the lungs, improve airflow, and make breathing easier for people with a wide range of chest and lung conditions.
 
-Unlike many chest physiotherapy methods, ACBT needs no machines, no equipment, and no assistance once it has been taught correctly. That is exactly why it remains a first-line technique in hospitals, pulmonary rehab programs, and home care settings across the world.
+Unlike many [chest physiotherapy](/service/pulmonary-physiotherapy) methods, ACBT needs no machines, no equipment, and no assistance once it has been taught correctly. That is exactly why it remains a first-line technique in hospitals, pulmonary rehab programs, and home care settings across the world.
 
 This guide explains what ACBT is, breaks down its three phases step by step, covers who it helps most, and shows what the research actually says about how well it works, including how it can be safely practised at home.
 
@@ -86,7 +86,7 @@ This cycle can be repeated once or twice a day when you are feeling well, and mo
 
 ACBT is commonly recommended for people with:
 
-- Chronic Obstructive Pulmonary Disease (COPD)
+- Chronic Obstructive Pulmonary Disease ([COPD](/copd-physiotherapy-management))
 - Bronchiectasis
 - Cystic fibrosis
 - Chronic bronchitis
@@ -103,7 +103,7 @@ Our detailed guides on [physiotherapy for pulmonary fibrosis](/physiotherapy-for
 ACBT is one of the more extensively studied airway clearance techniques in physiotherapy, and the evidence generally supports its use across several patient groups.
 
 - A crossover trial conducted at Kasturba Hospital, Manipal, compared ACBT with conventional chest physiotherapy in adults with bronchiectasis and found the two approaches to be similarly effective at airway clearance, with the majority of patients reporting ACBT was more comfortable to perform.
-- A randomised clinical trial on patients recovering from coronary artery bypass graft (CABG) surgery found that adding ACBT to routine chest physiotherapy improved arterial oxygenation, helped normalise heart rate, and reduced pain perception compared to routine care alone.
+- A randomised clinical trial on patients recovering from coronary artery bypass graft ([CABG](/cabg-post-surgical-physiotherapy-management)) surgery found that adding ACBT to routine chest physiotherapy improved arterial oxygenation, helped normalise heart rate, and reduced pain perception compared to routine care alone.
 - A study on patients recovering from esophagectomy found that structured use of ACBT was associated with a reduction in pulmonary complications after surgery.
 - A systematic review and meta-analysis published in Respiratory Medicine pooled data across multiple trials and concluded that ACBT is a safe, well-tolerated technique that performs comparably to other airway clearance methods for mucus clearance.
 - Ultrasonography-based research cited in recent clinical guidance shows that the breathing control component of ACBT is linked to a measurable reduction in respiratory rate and improved diaphragm movement.

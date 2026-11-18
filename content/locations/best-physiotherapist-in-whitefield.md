@@ -38,13 +38,13 @@ Healing in a familiar, relaxed environment can often lead to quicker progress. M
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after surgeries with specialized physiotherapy care. If you've undergone an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Whitefield home**
+Guided recovery at home after surgeries with specialized physiotherapy care. If you've undergone an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Whitefield home**
 
 [Learn More](/service/post-surgical-physiotherapy)
 
 ### Orthopedic Physiotherapy
 
-Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic **back pain**, neck pain, frozen shoulder, knee injuries (like ACL/PCL sprains or meniscus tears), arthritis pain, sciatica, muscle strains, and fracture rehabilitation
+Treatment for all kinds of bone, joint, and muscle issues. We provide relief for common orthopedic problems such as chronic **back pain**, neck pain, frozen shoulder, knee injuries (like ACL/PCL sprains or meniscus tears), arthritis pain, [sciatica](/sciatica-physiotherapy), muscle strains, and fracture rehabilitation
 
 [Learn More](/service/orthopaedic-physiotherapy)
 
@@ -68,7 +68,7 @@ Specialized care for older adults, delivered with kindness and patience. We assi
 
 ### Pediatric Physiotherapy
 
-Physiotherapy for infants, children, and teenagers, provided in the comfort of home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, torticollis, delayed milestones, and recovery after injuries or orthopedic surgeries.
+Physiotherapy for infants, children, and teenagers, provided in the comfort of home. Our child-friendly therapists treat a variety of pediatric conditions, including developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), delayed milestones, and recovery after injuries or orthopedic surgeries.
 
 [Learn More](/service/pediatric-physiotherapy)
 
@@ -138,7 +138,7 @@ Yes. Home physiotherapy in Whitefield is just as effective as visiting a clinic,
 
 ### What conditions can be treated with physiotherapy at home in Whitefield?
 
-Our physiotherapists can address a wide range of conditions through home visits in Whitefield. We treat common orthopedic issues like **back pain, neck pain, frozen shoulder, knee injuries**, arthritis, sprains, and tendon/ligament problems. We also provide neurological rehabilitation for conditions such as **stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, and nerve damage**. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, torticollis, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we handle sports injuries (e.g. ankle sprains, muscle tears, tennis elbow, runner's knee) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or ACL repairs. Essentially, nearly any condition for which you would go to a physiotherapy clinic can be treated at home by our qualified therapists – we adapt our techniques and bring the needed equipment to ensure you get the care you need in a home setting.
+Our physiotherapists can address a wide range of conditions through home visits in Whitefield. We treat common orthopedic issues like **back pain, neck pain, frozen shoulder, knee injuries**, arthritis, sprains, and tendon/ligament problems. We also provide [neurological rehabilitation](/types-of-neurological-rehabilitation) for conditions such as **stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, and nerve damage**. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, torticollis, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we handle sports injuries (e.g. ankle sprains, muscle tears, tennis elbow, runner's knee) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or ACL repairs. Essentially, nearly any condition for which you would go to a physiotherapy clinic can be treated at home by our qualified therapists – we adapt our techniques and bring the needed equipment to ensure you get the care you need in a home setting.
 
 ### How can I find the best physiotherapist in Whitefield for home visits?
 
@@ -146,7 +146,7 @@ Finding the best physiotherapist in Whitefield for at-home treatment involves lo
 
 ### What are the charges for physiotherapy at home in Whitefield?
 
-The cost of home physiotherapy in Whitefield depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Whitefield) are comparable to clinic rates – typically ranging around **₹500 to ₹800 per session**. Keep in mind that with at-home therapy you also save on travel expenses and time. **Physio At Your Doorstep** believes in transparent pricing with no hidden fees. When you contact us, we will discuss the expected fees before starting, and we also offer customized therapy packages which can reduce the per-session cost if multiple sessions are needed. The exact quote will be tailored to your specific needs – for instance, a minor ankle sprain might only require a few sessions (lower total cost), whereas extensive post-surgical rehab or a complex neurological program could be priced slightly higher per session due to the specialized care involved. Rest assured, we strive to make physiotherapy at home affordable and value-driven, so you get the best care for what you pay.
+The cost of home physiotherapy in Whitefield depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Whitefield) are comparable to clinic rates – typically ranging around **₹799–₹1,099 per session**. Keep in mind that with at-home therapy you also save on travel expenses and time. **Physio At Your Doorstep** believes in transparent pricing with no hidden fees. When you contact us, we will discuss the expected fees before starting, and we also offer customized therapy packages which can reduce the per-session cost if multiple sessions are needed. The exact quote will be tailored to your specific needs – for instance, a minor ankle sprain might only require a few sessions (lower total cost), whereas extensive post-surgical rehab or a complex neurological program could be priced slightly higher per session due to the specialized care involved. Rest assured, we strive to make physiotherapy at home affordable and value-driven, so you get the best care for what you pay.
 
 ### Do you provide physiotherapy for senior citizens at home in Whitefield?
 

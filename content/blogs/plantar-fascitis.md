@@ -5,7 +5,7 @@ metaTitle: "Plantar Fascitis: Causes, Symptoms & Best Treatments"
 metaDescription: "PLANTAR FASCITIS It is Inflammation of the thick band of tissue that connects the heel bone to the toes. CAUSES: Plantar fasciitis is most commonly caused by re"
 excerpt: "PLANTAR FASCITIS It is Inflammation of the thick band of tissue that connects the heel bone to the toes. CAUSES: Plantar fasciitis is most commonly caused by repetitive strain injury to the ligament of the sole of the foot. Such strain injury can be from excessive running or walking, inadequate foot"
 coverImage: "/images/blog/banner4-1536x608-1.jpg"
-category: "Physiotherapy"
+category: "Orthopaedic Physiotherapy"
 ---
 
 PLANTAR FASCITIS It is Inflammation of the thick band of tissue that connects the heel bone to the toes.

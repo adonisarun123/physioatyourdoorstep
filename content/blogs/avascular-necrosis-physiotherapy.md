@@ -91,7 +91,7 @@ While physiotherapy cannot reverse bone death that has already occurred, it perf
 **Pain Relief:**
  Through modalities such as
 [ultrasound therapy](/latest-technology-in-physiotherapy)
-, TENS (Transcutaneous Electrical Nerve Stimulation), and targeted manual therapy, physiotherapy provides meaningful, drug-free pain relief.
+, [TENS](/tens-vs-traction-physiotherapy) (Transcutaneous Electrical Nerve Stimulation), and targeted manual therapy, physiotherapy provides meaningful, drug-free pain relief.
 
 **Joint Preservation:**
  By strengthening the muscles surrounding an affected joint, physiotherapy reduces mechanical stress on the damaged bone — effectively offloading the area and slowing further deterioration.
@@ -127,7 +127,7 @@ At this stage, changes are detectable only on MRI. The bone is compromised but h
 **Key Interventions:**
 
 - Partial weight-bearing training with crutches or a walking aid
-- Hydrotherapy (water-based exercises) to allow movement without compressive loading
+- [Hydrotherapy](/types-of-hydrotherapy-in-physiotherapy) (water-based exercises) to allow movement without compressive loading
 - Gentle isometric exercises to maintain muscle tone without stressing the joint
 - TENS and ultrasound therapy for pain modulation
 - Postural correction and gait training
@@ -145,7 +145,7 @@ The bone shows structural changes but has not collapsed. Pain may be more consis
 - Aquatic therapy — swimming and pool walking remain excellent low-impact options
 - Core strengthening to stabilise the pelvis and reduce hip loading
 - Heat therapy before exercise to improve tissue flexibility
-- TENS and interferential current therapy for pain relief
+- TENS and [interferential current](/ict-vs-ipt-vs-ift-in-physiotherapy) therapy for pain relief
 - Education on activity modification and safe movement patterns
 
 ### Stage 3 AVN: Subchondral Collapse (Crescent Sign on Imaging)
@@ -175,7 +175,7 @@ At this advanced stage, the joint space is reduced and secondary arthritis sets 
 
 - Pre-operative physiotherapy (“prehabilitation”) to strengthen surrounding muscles
 - Breathing exercises and circulatory training
-- Post-surgical rehabilitation: early bed exercises, progressive mobilisation, gait retraining
+- [Post-surgical rehabilitation](/service/post-surgical-physiotherapy): early bed exercises, progressive mobilisation, gait retraining
 - Scar tissue management
 - Functional goal-setting for return to daily activities and independence
 
@@ -290,18 +290,46 @@ While not all cases of AVN are preventable, you can meaningfully reduce your ris
 ## References and Further Reading
 
 - Saklecha AV, et al. *Effect of physiotherapy rehabilitation on stage 4 avascular necrosis of femur following pyogenic arthritis: a case report.* Pan African Medical Journal. 2022;41(17). [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC8895557/)
-- Lespasio MJ, Sodhi N, Mont MA. *Osteonecrosis of the hip: a primer.* The Permanente Journal. 2019;23:18-100. **Matthews AH, Davis DD, Fish MJ, Stitson D. Avascular Necrosis. StatPearls Publishing, 2021.[NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK546658/)Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE. The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review. Journal of Bone and Joint Surgery. 2010;92(12):2165-2170.Karim R. Exercise program useful in enhancing patient improvement rates after AVN. Orthopaedic Research Society, referenced in Pan African Medical Journal, 2022.Max Healthcare India. Avascular Necrosis: Symptoms, Causes and Treatment.[maxhealthcare.in](https://www.maxhealthcare.in/our-specialities/orthopaedics/conditions-treatments/avascular-necrosis)This article is authored by the clinical team at[Physio At Your Doorstep](/) for informational purposes. It does not constitute medical advice. Always consult a qualified healthcare professional for diagnosis and treatment decisions specific to your condition.Ready to start your recovery journey from the comfort of your home?** [Book a Home Physiotherapy Session](/) | [Consult an Expert Today](/) *Physio At Your Doorstep — Bringing Expert Care to You, Wherever You Are in India.* ## Frequently Asked Questions ## [Can physiotherapy cure avascular necrosis completely?](#acc-tj3q908-0) Physiotherapy cannot reverse bone tissue that has already died. However, it can significantly slow the progression of AVN, relieve pain, improve joint function, and in early stages, prevent the condition from advancing to the point where surgery is necessary. For many patients — especially those diagnosed at Stage 1 or 2 — physiotherapy forms the backbone of a successful long-term management plan
+- Lespasio MJ, Sodhi N, Mont MA. *Osteonecrosis of the hip: a primer.* The Permanente Journal. 2019;23:18-100.
+- Matthews AH, Davis DD, Fish MJ, Stitson D. *Avascular Necrosis.* StatPearls Publishing, 2021. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK546658/)
+- Mont MA, Zywiel MG, Marker DR, McGrath MS, Delanois RE. *The natural history of untreated asymptomatic osteonecrosis of the femoral head: a systematic literature review.* Journal of Bone and Joint Surgery. 2010;92(12):2165-2170.
+- Karim R. *Exercise program useful in enhancing patient improvement rates after AVN.* Orthopaedic Research Society, referenced in Pan African Medical Journal, 2022.
+- Max Healthcare India. *Avascular Necrosis: Symptoms, Causes and Treatment.* [maxhealthcare.in](https://www.maxhealthcare.in/our-specialities/orthopaedics/conditions-treatments/avascular-necrosis)
 
-- [How many physiotherapy sessions are needed for AVN?](#acc-tj3q908-1) The number of sessions depends on the stage of AVN, your current functional level, and your treatment goals. Most patients benefit from 2–3 sessions per week in the initial phase, tapering to maintenance sessions over time. A personalised assessment from a physiotherapist will give you a clearer picture based on your specific condition.
+*This article is authored by the clinical team at [Physio At Your Doorstep](/) for informational purposes. It does not constitute medical advice. Always consult a qualified healthcare professional for diagnosis and treatment decisions specific to your condition.*
 
-- [Is it safe to exercise with avascular necrosis?](#acc-tj3q908-2) Yes, but exercise must be carefully selected and supervised. High-impact, high-load activities are contraindicated. Low-impact exercises such as swimming, stationary cycling, and specific range-of-motion and strengthening exercises designed by a physiotherapist are safe, beneficial, and important for maintaining joint health.
+**Ready to start your recovery journey from the comfort of your home?** [Book a Home Physiotherapy Session](/booking) | [Consult an Expert Today](/contact-us)
 
-- [What is the best physiotherapy for AVN of the hip?](#acc-tj3q908-3) The most effective physiotherapy for hip AVN combines pain management modalities (TENS, ultrasound), targeted muscle strengthening (especially hip abductors and extensors), range-of-motion exercises, gait retraining with assistive devices, and hydrotherapy. The exact combination is tailored to the patient’s AVN stage and individual capacity.
+## Frequently Asked Questions
 
-- [Can home physiotherapy be as effective as clinic-based treatment for AVN?](#acc-tj3q908-4) Yes, for most patients, home physiotherapy is equally effective — and often more consistent — than clinic-based treatment. Qualified physiotherapists can deliver the same therapeutic interventions at home, with the added advantages of a familiar environment, no travel fatigue, and stronger programme adherence. Services like Physio At Your Doorstep specialise in exactly this model.
+### Can physiotherapy cure avascular necrosis completely?
 
-- [How long does it take for physiotherapy to show results in AVN?](#acc-tj3q908-5) Most patients notice meaningful improvements in pain and mobility within 4–8 weeks of consistent physiotherapy. Significant functional gains typically develop over 3–6 months. The process is gradual, and regular attendance and home exercise compliance are key drivers of progress
+Physiotherapy cannot reverse bone tissue that has already died. However, it can significantly slow the progression of AVN, relieve pain, improve joint function, and in early stages, prevent the condition from advancing to the point where surgery is necessary. For many patients — especially those diagnosed at Stage 1 or 2 — physiotherapy forms the backbone of a successful long-term management plan.
 
-- [Is AVN more common after COVID-19 treatment in India?](#acc-tj3q908-6) Yes, post-COVID AVN has emerged as a significant concern in India. High-dose corticosteroids administered during severe COVID-19 illness are a known risk factor for AVN. Many cases have been reported among Indian patients aged 30–55 in the post-pandemic period. If you received steroid treatment during COVID and now have hip or joint pain, an MRI evaluation is strongly recommended.
+### How many physiotherapy sessions are needed for AVN?
 
-- [When is surgery unavoidable for AVN?](#acc-tj3q908-7) Surgery becomes necessary when the femoral head has significantly collapsed (Stage 3–4) and the joint can no longer be preserved. At this point, core decompression, bone grafting, or total hip replacement may be recommended. Even after surgery, physiotherapy is essential for a full and successful recovery.
+The number of sessions depends on the stage of AVN, your current functional level, and your treatment goals. Most patients benefit from 2–3 sessions per week in the initial phase, tapering to maintenance sessions over time. A personalised assessment from a physiotherapist will give you a clearer picture based on your specific condition.
+
+### Is it safe to exercise with avascular necrosis?
+
+Yes, but exercise must be carefully selected and supervised. High-impact, high-load activities are contraindicated. Low-impact exercises such as swimming, stationary cycling, and specific range-of-motion and strengthening exercises designed by a physiotherapist are safe, beneficial, and important for maintaining joint health.
+
+### What is the best physiotherapy for AVN of the hip?
+
+The most effective physiotherapy for hip AVN combines pain management modalities (TENS, ultrasound), targeted muscle strengthening (especially hip abductors and extensors), range-of-motion exercises, gait retraining with assistive devices, and hydrotherapy. The exact combination is tailored to the patient’s AVN stage and individual capacity.
+
+### Can home physiotherapy be as effective as clinic-based treatment for AVN?
+
+Yes, for most patients, home physiotherapy is equally effective — and often more consistent — than clinic-based treatment. Qualified physiotherapists can deliver the same therapeutic interventions at home, with the added advantages of a familiar environment, no travel fatigue, and stronger programme adherence. Services like Physio At Your Doorstep specialise in exactly this model.
+
+### How long does it take for physiotherapy to show results in AVN?
+
+Most patients notice meaningful improvements in pain and mobility within 4–8 weeks of consistent physiotherapy. Significant functional gains typically develop over 3–6 months. The process is gradual, and regular attendance and home exercise compliance are key drivers of progress.
+
+### Is AVN more common after COVID-19 treatment in India?
+
+Yes, post-COVID AVN has emerged as a significant concern in India. High-dose corticosteroids administered during severe COVID-19 illness are a known risk factor for AVN. Many cases have been reported among Indian patients aged 30–55 in the post-pandemic period. If you received steroid treatment during COVID and now have hip or joint pain, an MRI evaluation is strongly recommended.
+
+### When is surgery unavoidable for AVN?
+
+Surgery becomes necessary when the femoral head has significantly collapsed (Stage 3–4) and the joint can no longer be preserved. At this point, core decompression, bone grafting, or total hip replacement may be recommended. Even after surgery, physiotherapy is essential for a full and successful recovery.

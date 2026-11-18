@@ -211,6 +211,11 @@ export function getServiceAreaBySlug(slug: string): ServiceAreaContent | undefin
 }
 
 /** All service pages for one area, used to cross-link siblings and to let the pillar list its children. */
+/** Position of a service-area page in the collection (for rotating cross-links). */
+export function getAllServiceAreasIndex(slug: string): number {
+    return Math.max(0, getAllServiceAreas().findIndex((s) => s.slug === slug));
+}
+
 export function getServiceAreasByArea(area: string): ServiceAreaContent[] {
     return getAllServiceAreas().filter((s) => s.area.toLowerCase() === area.toLowerCase());
 }
@@ -274,20 +279,59 @@ export function getBlogsByCategory(categorySlug: string): BlogContent[] {
     return getAllBlogs().filter((b) => b.categorySlug === categorySlug);
 }
 
+/** Words too generic to signal topical overlap between two posts. */
+const RELATED_STOPWORDS = new Set(
+    "physiotherapy physio physical therapy treatment management in for of and the a an to vs at with your how what why types type guide home".split(" ")
+);
+
+function topicTokens(b: BlogContent): Set<string> {
+    const text = `${b.slug.replace(/-/g, " ")} ${b.title}`.toLowerCase();
+    return new Set(
+        text
+            .split(/[^a-z0-9]+/)
+            .filter((w) => w.length > 2 && !RELATED_STOPWORDS.has(w))
+            .map((w) => w.replace(/(ies|es|s)$/, ""))
+    );
+}
+
+/**
+ * Topically related posts for a blog: shared title/slug terms first, same
+ * category as a tie-breaker, then a rotation offset so equal-scoring posts are
+ * spread across the site instead of every page linking to the same newest few.
+ */
+export function getRelatedBlogs(blog: BlogContent, count: number): BlogContent[] {
+    const all = getAllBlogs();
+    const self = topicTokens(blog);
+    const offset = Math.max(0, all.findIndex((b) => b.slug === blog.slug));
+    return all
+        .map((b, i) => {
+            if (b.slug === blog.slug) return null;
+            let shared = 0;
+            for (const t of topicTokens(b)) if (self.has(t)) shared++;
+            const score = shared * 3 + (b.categorySlug === blog.categorySlug ? 2 : 0);
+            const rotation = (i - offset + all.length) % all.length;
+            return { b, score, rotation };
+        })
+        .filter((x): x is { b: BlogContent; score: number; rotation: number } => x !== null)
+        .sort((x, y) => y.score - x.score || x.rotation - y.rotation)
+        .slice(0, count)
+        .map((x) => x.b);
+}
+
 // ---------------- services ----------------
 
 /** Static service index: slug order controls display order. */
-const SERVICE_INDEX: Array<{ slug: string; file: string; title: string; description: string; metaTitle: string }> = [
-    { slug: "orthopaedic-physiotherapy", file: "orthopaedic-physiotherapy", title: "Orthopaedic Physiotherapy", description: "Expert treatment for musculoskeletal conditions, joint pain, and mobility issues.", metaTitle: "Orthopaedic Physiotherapy at Home | Joint & Back Pain Care" },
-    { slug: "neurological-physiotherapy", file: "neurological-physiotherapy", title: "Neurological Physiotherapy", description: "Comprehensive care for neurological conditions to improve function and quality of life.", metaTitle: "Neurological Physiotherapy at Home | Stroke & Neuro Rehab" },
-    { slug: "sports-physiotherapy", file: "sports-physiotherapy", title: "Sports Physiotherapy", description: "Specialized care for athletes and sports injuries to enhance performance and recovery.", metaTitle: "Sports Physiotherapy at Home | Injury Rehab in Bangalore" },
-    { slug: "geriatric-physiotherapy", file: "geriatric-physiotherapy", title: "Geriatric Physiotherapy", description: "Specialized care for elderly patients focusing on mobility, balance, and independence.", metaTitle: "Geriatric Physiotherapy at Home | Elderly Care Bangalore" },
-    { slug: "post-surgical-physiotherapy", file: "post-surgical-physiotherapy", title: "Post Surgical Physiotherapy", description: "Rehabilitation programs designed to accelerate recovery after surgical procedures.", metaTitle: "Post-Surgical Physiotherapy at Home | Rehab in Bangalore" },
-    { slug: "pediatric-physiotherapy", file: "pediatric-physiotherapy", title: "Pediatric Physiotherapy", description: "Gentle, engaging physiotherapy that supports your child's development and mobility.", metaTitle: "Pediatric Physiotherapy at Home for Children | Bangalore" },
-    { slug: "physiotherapy-in-pregnancy", file: "physiotherapy-during-pregnancy", title: "Physiotherapy in Pregnancy", description: "Safe, supportive care for back pain, pelvic health, and fitness through pregnancy.", metaTitle: "Physiotherapy During Pregnancy | Prenatal & Postnatal Care" },
-    { slug: "pulmonary-physiotherapy", file: "pulmonary-physiotherapy", title: "Pulmonary Physiotherapy", description: "Breathing exercises and techniques to improve respiratory function and lung capacity.", metaTitle: "Pulmonary Physiotherapy at Home | Breathing & Lung Rehab" },
-    { slug: "corporate-wellness-physiotherapy-program", file: "corporate-wellness-physiotherapy", title: "Corporate Wellness Physiotherapy Program", description: "Workplace ergonomics and wellness programs that keep your teams pain-free and productive.", metaTitle: "Corporate Wellness Physiotherapy Program in Bangalore" },
-    { slug: "online-physiotherapy-consultation-india", file: "online-physiotherapy-consultation", title: "Online Physiotherapy", description: "Expert physiotherapy consultations from anywhere in India, over video.", metaTitle: "Online Physiotherapy Consultation in India | Video Sessions" },
+const SERVICE_INDEX: Array<{ slug: string; file: string; title: string; description: string; metaTitle: string; metaDescription: string }> = [
+    { slug: "orthopaedic-physiotherapy", file: "orthopaedic-physiotherapy", title: "Orthopaedic Physiotherapy", description: "Expert treatment for musculoskeletal conditions, joint pain, and mobility issues.", metaTitle: "Orthopaedic Physiotherapy at Home | Joint & Back Pain Care", metaDescription: "Home orthopaedic physiotherapy in Bangalore & Pune for back, neck, knee and joint pain, arthritis and fractures. Certified physios, ₹799–₹1,099 a session." },
+    { slug: "neurological-physiotherapy", file: "neurological-physiotherapy", title: "Neurological Physiotherapy", description: "Comprehensive care for neurological conditions to improve function and quality of life.", metaTitle: "Neurological Physiotherapy at Home | Stroke & Neuro Rehab", metaDescription: "Neuro physiotherapy at home for stroke, Parkinson's, MS, spinal cord injury and nerve palsies. Specialist physios across Bangalore & Pune. Book a visit." },
+    { slug: "sports-physiotherapy", file: "sports-physiotherapy", title: "Sports Physiotherapy", description: "Specialized care for athletes and sports injuries to enhance performance and recovery.", metaTitle: "Sports Physiotherapy at Home | Injury Rehab in Bangalore", metaDescription: "Sports injury physiotherapy at home in Bangalore & Pune: ACL, sprains, tendonitis and return-to-sport rehab by certified sports physios. Book today." },
+    { slug: "geriatric-physiotherapy", file: "geriatric-physiotherapy", title: "Geriatric Physiotherapy", description: "Specialized care for elderly patients focusing on mobility, balance, and independence.", metaTitle: "Geriatric Physiotherapy at Home | Elderly Care Bangalore", metaDescription: "Geriatric physiotherapy at home for seniors: balance and fall prevention, arthritis, post-stroke and mobility care across Bangalore & Pune. Book a visit." },
+    { slug: "post-surgical-physiotherapy", file: "post-surgical-physiotherapy", title: "Post Surgical Physiotherapy", description: "Rehabilitation programs designed to accelerate recovery after surgical procedures.", metaTitle: "Post-Surgical Physiotherapy at Home | Rehab in Bangalore", metaDescription: "Post-surgery rehab at home after knee/hip replacement, ACL, spine and fracture surgery. Physios follow your surgeon's protocol. Bangalore & Pune." },
+    { slug: "pediatric-physiotherapy", file: "pediatric-physiotherapy", title: "Pediatric Physiotherapy", description: "Gentle, engaging physiotherapy that supports your child's development and mobility.", metaTitle: "Pediatric Physiotherapy at Home for Children | Bangalore", metaDescription: "Pediatric physiotherapy at home for developmental delay, cerebral palsy and other childhood conditions. Gentle, play-based sessions in Bangalore & Pune." },
+    { slug: "physiotherapy-in-pregnancy", file: "physiotherapy-during-pregnancy", title: "Physiotherapy in Pregnancy", description: "Safe, supportive care for back pain, pelvic health, and fitness through pregnancy.", metaTitle: "Physiotherapy During Pregnancy | Prenatal & Postnatal Care", metaDescription: "Prenatal and postnatal physiotherapy at home: pregnancy back pain, pelvic floor, postnatal recovery and safe exercise. Women's health physios, Bangalore & Pune." },
+    { slug: "pulmonary-physiotherapy", file: "pulmonary-physiotherapy", title: "Pulmonary Physiotherapy", description: "Breathing exercises and techniques to improve respiratory function and lung capacity.", metaTitle: "Pulmonary Physiotherapy at Home | Breathing & Lung Rehab", metaDescription: "Pulmonary physiotherapy at home for COPD, post-COVID and pneumonia recovery: breathing exercises and airway clearance. Bangalore & Pune." },
+    { slug: "corporate-wellness-physiotherapy-program", file: "corporate-wellness-physiotherapy", title: "Corporate Wellness Physiotherapy Program", description: "Workplace ergonomics and wellness programs that keep your teams pain-free and productive.", metaTitle: "Corporate Wellness Physiotherapy Program in Bangalore", metaDescription: "Corporate wellness physiotherapy in Bangalore: ergonomic assessments, posture workshops and on-site physio sessions that cut desk-job pain. Get a proposal." },
+    { slug: "online-physiotherapy-consultation-india", file: "online-physiotherapy-consultation", title: "Online Physiotherapy", description: "Expert physiotherapy consultations from anywhere in India, over video.", metaTitle: "Online Physiotherapy Consultation in India | Video Sessions", metaDescription: "Online physiotherapy consultation over video, anywhere in India: assessment and a personalised exercise plan from a certified physiotherapist." },
 ];
 
 export function getAllServices(): ServiceSummary[] {
@@ -306,6 +350,31 @@ export function getServiceFile(slug: string): string | undefined {
 }
 
 /** SEO <title> for a global service page (the markdown H1 is too long for SERPs). */
+/** Blog category that best matches each service — drives service↔blog cross-links. */
+export const SERVICE_TO_CATEGORY: Record<string, string> = {
+    "orthopaedic-physiotherapy": "orthopaedic-physiotherapy",
+    "neurological-physiotherapy": "neurological-physiotherapy",
+    "sports-physiotherapy": "sports-physiotherapy",
+    "geriatric-physiotherapy": "geriatric-physiotherapy",
+    "post-surgical-physiotherapy": "post-surgical-physiotherapy",
+    "pediatric-physiotherapy": "pediatric-physiotherapy",
+    "physiotherapy-in-pregnancy": "physiotherapy-at-pregnancy",
+    "pulmonary-physiotherapy": "pulmonary-physiotherapy",
+    "corporate-wellness-physiotherapy-program": "physiotherapy",
+    "online-physiotherapy-consultation-india": "physiotherapy",
+};
+
+/** Inverse of SERVICE_TO_CATEGORY for the category pages (first match wins). */
+export function getServiceForCategory(categorySlug: string): ServiceSummary | undefined {
+    const slug =
+        Object.entries(SERVICE_TO_CATEGORY).find(([, c]) => c === categorySlug)?.[0] ?? "orthopaedic-physiotherapy";
+    return getAllServices().find((s) => s.slug === slug);
+}
+
+export function getServiceMetaDescription(slug: string): string | undefined {
+    return SERVICE_INDEX.find((s) => s.slug === slug)?.metaDescription;
+}
+
 export function getServiceMetaTitle(slug: string): string | undefined {
     return SERVICE_INDEX.find((s) => s.slug === slug)?.metaTitle;
 }

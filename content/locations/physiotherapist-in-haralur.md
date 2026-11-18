@@ -38,7 +38,7 @@ Each of these is delivered at your home in Haralur by a physiotherapist with the
 
 ### [Back, neck and joint pain physiotherapy](/orthopaedic-physiotherapy-in-haralur)
 
-Orthopaedic care for lower back pain, cervical spondylosis, knee osteoarthritis, frozen shoulder, sciatica and disc-related pain — including posture and ergonomic correction for long-hours desk workers.
+Orthopaedic care for lower back pain, [cervical spondylosis](/cervical-spondylitis-physiotherapy-treatment), knee osteoarthritis, frozen shoulder, [sciatica](/sciatica-physiotherapy) and disc-related pain — including posture and ergonomic correction for long-hours desk workers.
 
 ### [Post-surgical rehabilitation](/post-surgical-physiotherapy-in-haralur)
 
@@ -46,7 +46,7 @@ Protocol-led recovery after knee and hip replacement, ACL reconstruction, spine 
 
 ### [Neurological physiotherapy](/neurological-physiotherapy-in-haralur)
 
-Structured home rehabilitation for stroke and paralysis, Parkinson's disease, multiple sclerosis, neuropathy and Bell's palsy, with gait, balance and transfer retraining plus caregiver training.
+Structured home rehabilitation for stroke and paralysis, Parkinson's disease, multiple sclerosis, neuropathy and [Bell's palsy](/facial-palsy-physiotherapy-treatment), with gait, balance and transfer retraining plus caregiver training.
 
 ### [Sports injury physiotherapy](/sports-physiotherapy-in-haralur)
 
@@ -126,7 +126,7 @@ Every physiotherapist on our team holds at least a Bachelor's in Physiotherapy (
 
 ### How many sessions will I need?
 
-It depends on the condition. A simple strain might settle in 4–6 sessions, while post-surgical or neurological rehabilitation usually runs longer and is reviewed as you progress. Your physiotherapist gives you a realistic estimate after the first assessment rather than committing you to a fixed package upfront.
+It depends on the condition. A simple strain might settle in 4–6 sessions, while post-surgical or [neurological rehabilitation](/types-of-neurological-rehabilitation) usually runs longer and is reviewed as you progress. Your physiotherapist gives you a realistic estimate after the first assessment rather than committing you to a fixed package upfront.
 
 ### How do I book?
 

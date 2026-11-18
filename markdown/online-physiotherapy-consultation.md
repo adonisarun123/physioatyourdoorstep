@@ -19,12 +19,12 @@ While hands-on techniques are not part of online care, research-backed exercise 
 Online physiotherapy is appropriate for stable, non-emergency conditions, including:
 
 - Neck pain and cervical spondylosis  
-- Lower back pain and posture-related discomfort  
+- [Lower back pain](/back-ache) and posture-related discomfort  
 - Shoulder pain, stiffness, and rotator cuff issues  
-- Knee pain and early-stage osteoarthritis  
+- [Knee pain](/knee-pain) and early-stage [osteoarthritis](/physiotherapy-for-osteoarthritis)  
 - Ankle sprains and foot pain  
 - Plantar fasciitis  
-- Sports injuries during the rehabilitation phase  
+- [Sports injuries](/service/sports-physiotherapy) during the rehabilitation phase  
 - Post-surgical exercise progression (after surgeon clearance)  
 - Work-from-home posture problems  
 

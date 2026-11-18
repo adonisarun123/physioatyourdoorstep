@@ -54,7 +54,7 @@ Natural sunlight contains a full spectrum of UV, visible, and infrared rays. Whe
 
 * Osteomalacia and rickets
 * Vitamin D deficiency contributing to bone or joint pain
-* Rheumatoid arthritis and osteoarthritis-related stiffness
+* [Rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis) and osteoarthritis-related stiffness
 * Chronic lower back pain
 * Obesity-linked mobility issues
 * Insomnia and mood-related complaints alongside physical rehab
@@ -120,7 +120,7 @@ Because both therapies involve some degree of radiation exposure, dosage and dur
 
 ## Why This Comparison Still Matters in Modern Physiotherapy
 
-Some readers assume actinotherapy and heliotherapy are outdated techniques replaced entirely by newer electrotherapy modalities. In reality, both are still taught in physiotherapy curricula, including in standard student textbooks on electrotherapy and actinotherapy used to train physiotherapists, and light-based treatment continues to be studied for inflammatory skin conditions. Research on sunlight's anti-inflammatory properties and specific beneficial wavelengths has led to the increasingly successful use of selected light spectra in modern dermatological phototherapy, including narrowband UVB and UVA-1 treatment. Home-based physiotherapy patients, particularly the elderly and those recovering from surgery, often benefit from a hybrid approach: brief, physiotherapist-guided sun exposure combined with targeted equipment-based treatments like actinotherapy, electrotherapy, or manual therapy, depending on what the recovery plan calls for.
+Some readers assume actinotherapy and heliotherapy are outdated techniques replaced entirely by newer [electrotherapy](/electrotherapy-modalities-in-physiotherapy) modalities. In reality, both are still taught in physiotherapy curricula, including in standard student textbooks on electrotherapy and actinotherapy used to train physiotherapists, and light-based treatment continues to be studied for inflammatory skin conditions. Research on sunlight's anti-inflammatory properties and specific beneficial wavelengths has led to the increasingly successful use of selected light spectra in modern dermatological phototherapy, including narrowband UVB and UVA-1 treatment. Home-based physiotherapy patients, particularly the elderly and those recovering from surgery, often benefit from a hybrid approach: brief, physiotherapist-guided sun exposure combined with targeted equipment-based treatments like actinotherapy, electrotherapy, or manual therapy, depending on what the recovery plan calls for.
 
 At Physio At Your Doorstep, our physiotherapists assess each patient individually before recommending any light-based or electro-modality treatment, ensuring the approach matches the diagnosis rather than applying a one-size-fits-all protocol.
 
@@ -165,7 +165,7 @@ Actinotherapy is commonly used for chronic wounds, pressure sores, localized ski
 
 ### Which conditions respond best to heliotherapy?
 
-Heliotherapy is generally recommended for vitamin D deficiency, osteomalacia, rheumatoid arthritis, osteoarthritis-related stiffness, chronic low back pain, and general mood or sleep support during rehabilitation.
+Heliotherapy is generally recommended for vitamin D deficiency, osteomalacia, rheumatoid arthritis, osteoarthritis-related stiffness, chronic low [back pain](/back-ache), and general mood or sleep support during rehabilitation.
 
 ### Are actinotherapy and heliotherapy the same as phototherapy?
 

@@ -15,7 +15,10 @@ export const SITE = {
     logo: "/images/logo.webp",
     founder: "Dr. Atharva Mishra",
     areasServed: ["Bangalore", "Pune"],
-    priceRange: "₹₹",
+    /** Per-session home-visit price (see project pricing note) — keep in sync with page copy. */
+    priceRange: "₹799–₹1,099",
+    minPrice: 799,
+    maxPrice: 1099,
     tagline: "Let Your Pain Not Be Showstopper Of Your Life",
     socials: {
         linkedin: "https://www.linkedin.com/in/dr-atharva-mishra-pt-73717b215/",
@@ -32,6 +35,27 @@ export const SITE = {
  */
 export function isoDateTimeIST(date: string): string {
     return /T\d/.test(date) ? date : `${date}T00:00:00+05:30`;
+}
+
+/**
+ * Defaults every page's `openGraph` must carry. Next.js replaces (not merges)
+ * the parent openGraph object when a page sets its own, so without this spread
+ * child pages silently lose og:site_name, og:locale and the fallback og:image.
+ * Spread it FIRST so page-specific keys win.
+ */
+export const OG_DEFAULTS = {
+    siteName: SITE.name,
+    locale: "en_IN",
+    images: [{ url: "/images/logo-square.webp", width: 512, height: 512, alt: SITE.name }],
+};
+
+/** Cut text to at most `max` chars on a word boundary (no dangling half-words). */
+export function truncateAtWord(text: string, max = 160): string {
+    const clean = text.replace(/\s+/g, " ").trim();
+    if (clean.length <= max) return clean;
+    const cut = clean.slice(0, max - 1);
+    const at = cut.lastIndexOf(" ");
+    return `${(at > 60 ? cut.slice(0, at) : cut).replace(/[\s,;:–—-]+$/, "")}…`;
 }
 
 /** Absolute URL from a site-relative path. */
@@ -76,6 +100,8 @@ export function organizationSchema() {
         email: SITE.email,
         priceRange: SITE.priceRange,
         medicalSpecialty: "Physiotherapy",
+        // Footer + header copy: "Open 24 hours, 7 days a week".
+        openingHoursSpecification: OPEN_24_7,
         address: {
             "@type": "PostalAddress",
             addressLocality: "Bangalore",
@@ -86,6 +112,13 @@ export function organizationSchema() {
     };
 }
 
+const OPEN_24_7 = {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    opens: "00:00",
+    closes: "23:59",
+};
+
 /** WebSite schema — used site-wide. */
 export function websiteSchema() {
     return {
@@ -95,6 +128,7 @@ export function websiteSchema() {
         url: SITE.url,
         name: SITE.name,
         description: SITE.description,
+        inLanguage: "en-IN",
         publisher: { "@id": `${SITE.url}/#organization` },
     };
 }
@@ -122,6 +156,7 @@ export function localBusinessSchema(opts?: { area?: string; city?: string; url?:
         email: SITE.email,
         priceRange: SITE.priceRange,
         medicalSpecialty: "Physiotherapy",
+        openingHoursSpecification: OPEN_24_7,
         address: {
             "@type": "PostalAddress",
             addressLocality: area ?? city,
@@ -135,16 +170,48 @@ export function localBusinessSchema(opts?: { area?: string; city?: string; url?:
     };
 }
 
-/** MedicalProcedure/Service schema for a service page. */
-export function serviceSchema(opts: { name: string; description: string; url: string }) {
+/**
+ * Service schema for a service page (or a service×area page when `area` is set).
+ * Uses schema.org/Service (not MedicalTherapy) because only Service carries
+ * `offers`, `provider` and `areaServed` — the facts that matter for a bookable
+ * home-visit service.
+ */
+export function serviceSchema(opts: {
+    name: string;
+    description: string;
+    url: string;
+    serviceType?: string;
+    area?: string;
+    city?: string;
+}) {
+    const url = absoluteUrl(opts.url);
     return {
         "@context": "https://schema.org",
-        "@type": "MedicalTherapy",
+        "@type": "Service",
+        "@id": `${url}#service`,
         name: opts.name,
+        serviceType: opts.serviceType ?? opts.name,
+        category: "Physiotherapy",
         description: opts.description,
-        url: absoluteUrl(opts.url),
+        url,
         provider: { "@id": `${SITE.url}/#organization` },
-        areaServed: SITE.areasServed.map((name) => ({ "@type": "City", name })),
+        areaServed: (opts.area ? [opts.area, opts.city ?? "Bangalore"] : SITE.areasServed).map((name) => ({
+            "@type": opts.area && name === opts.area ? "Place" : "City",
+            name,
+        })),
+        offers: {
+            "@type": "Offer",
+            priceCurrency: "INR",
+            priceSpecification: {
+                "@type": "PriceSpecification",
+                priceCurrency: "INR",
+                minPrice: SITE.minPrice,
+                maxPrice: SITE.maxPrice,
+                unitText: "per home-visit session",
+            },
+            availability: "https://schema.org/InStock",
+            url: absoluteUrl("/booking"),
+        },
     };
 }
 
@@ -156,20 +223,29 @@ export function articleSchema(opts: {
     image?: string | null;
     datePublished?: string;
     dateModified?: string;
+    section?: string;
+    about?: string;
 }) {
+    const url = absoluteUrl(opts.url);
     return {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
-        headline: opts.title,
+        "@id": `${url}#article`,
+        headline: opts.title.length > 110 ? truncateAtWord(opts.title, 110) : opts.title,
         description: opts.description,
-        url: absoluteUrl(opts.url),
-        mainEntityOfPage: absoluteUrl(opts.url),
+        url,
+        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        isPartOf: { "@id": `${SITE.url}/#website` },
+        inLanguage: "en-IN",
         ...(opts.image ? { image: absoluteUrl(opts.image) } : {}),
         ...(opts.datePublished ? { datePublished: opts.datePublished } : {}),
         dateModified: opts.dateModified ?? opts.datePublished,
-        author: { "@type": "Organization", name: SITE.name, url: SITE.url },
+        ...(opts.section ? { articleSection: opts.section } : {}),
+        ...(opts.about ? { about: { "@type": "MedicalTherapy", name: opts.about } } : {}),
+        author: { "@type": "Organization", "@id": `${SITE.url}/#organization`, name: SITE.name, url: SITE.url },
         publisher: {
             "@type": "Organization",
+            "@id": `${SITE.url}/#organization`,
             name: SITE.name,
             logo: { "@type": "ImageObject", url: absoluteUrl(SITE.logo) },
         },

@@ -57,7 +57,7 @@ A qualified physiotherapist designs a treatment plan based on a thorough assessm
 
 Exercise is the cornerstone of physiotherapy for varicose veins. A well-designed program rehabilitates the calf muscle pump, the primary mechanism responsible for pushing venous blood back toward the heart.
 
-A research study published in the *Medical Journal of Dr. D.Y. Patil Vidyapeeth* documented a 2-month physiotherapy rehabilitation protocol for a patient with severe varicose veins. By the end of the program, the enlarged veins had reduced in size, discoloration had improved, and associated knee pain had resolved — results achieved purely through physiotherapy intervention with no additional surgery.
+A research study published in the *Medical Journal of Dr. D.Y. Patil Vidyapeeth* documented a 2-month physiotherapy rehabilitation protocol for a patient with severe varicose veins. By the end of the program, the enlarged veins had reduced in size, discoloration had improved, and associated [knee pain](/knee-pain) had resolved — results achieved purely through physiotherapy intervention with no additional surgery.
 
 The exercises most commonly prescribed include:
 
@@ -91,7 +91,7 @@ When varicose veins are complicated by significant edema or lymphedema, physioth
 
 ### 4. Kinesio Taping
 
-Kinesio taping around the affected lower limb provides mild, continuous compression and proprioceptive feedback, which can reduce swelling and improve the patient’s awareness of limb position during daily activities. While not a standalone treatment, it serves as a useful adjunct to the core exercise program.
+[Kinesio taping](/taping) around the affected lower limb provides mild, continuous compression and proprioceptive feedback, which can reduce swelling and improve the patient’s awareness of limb position during daily activities. While not a standalone treatment, it serves as a useful adjunct to the core exercise program.
 
 ### 5. Hydrotherapy
 
@@ -99,7 +99,7 @@ Water-based exercises and contrast baths are often incorporated into physiothera
 
 ### 6. Electrotherapy Modalities
 
-In clinical settings, physiotherapists may use electrotherapy tools such as Transcutaneous Electrical Nerve Stimulation (TENS) or [Interferential Therapy](/ict-vs-ipt-vs-ift-in-physiotherapy) (IFT) to manage pain and reduce edema, particularly in the early stages of rehabilitation when exercise tolerance is limited.
+In clinical settings, physiotherapists may use [electrotherapy](/electrotherapy-modalities-in-physiotherapy) tools such as Transcutaneous Electrical Nerve Stimulation ([TENS](/tens-vs-traction-physiotherapy)) or [Interferential Therapy](/ict-vs-ipt-vs-ift-in-physiotherapy) (IFT) to manage pain and reduce edema, particularly in the early stages of rehabilitation when exercise tolerance is limited.
 
 ## Lifestyle Modifications That Physiotherapy Addresses
 
@@ -129,7 +129,7 @@ Short walks of up to 10 minutes are encouraged from day 2 onward, increasing gra
 
 ### Early Recovery Phase (Week 1 to Week 2)
 
-During this phase, low-impact aerobic exercise is the primary focus. Walking, gentle stretching, leg raises, and ankle pumps are all appropriate. Swimming can typically be introduced within the first week for procedures like sclerotherapy, though patients should confirm timing with their treating clinician.
+During this phase, low-impact [aerobic exercise](/types-of-aerobic-training-in-physiotherapy) is the primary focus. Walking, gentle stretching, leg raises, and ankle pumps are all appropriate. Swimming can typically be introduced within the first week for procedures like sclerotherapy, though patients should confirm timing with their treating clinician.
 
 Strenuous activities – including running, jumping, heavy lifting, and high-intensity resistance training- should generally be avoided for at least 14 days after the procedure. Activities that raise body temperature significantly, such as hot yoga, saunas, or prolonged hot showers, should also be avoided during this period, as heat promotes vascular dilation and may compromise the closure of the treated vein.
 

@@ -8,7 +8,7 @@ coverImage: "/images/blog/knee-pain.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 
-Physiotherapy after total knee replacement usually starts within a day of surgery and continues for about 3 months, with gains in strength and comfort carrying on for up to a year. Its job is simple to describe and hard to do alone: get the new knee bending and straightening, rebuild the thigh muscles, and get you walking confidently without support.
+Physiotherapy after total [knee replacement](/physiotherapy-exercises-after-knee-surgery) usually starts within a day of surgery and continues for about 3 months, with gains in strength and comfort carrying on for up to a year. Its job is simple to describe and hard to do alone: get the new knee bending and straightening, rebuild the thigh muscles, and get you walking confidently without support.
 
 In this guide you will find a phase-wise recovery plan, the exercises physiotherapists commonly use, realistic milestones, warning signs, and how physiotherapy at home works for older patients and their families.
 
@@ -18,7 +18,7 @@ In this guide you will find a phase-wise recovery plan, the exercises physiother
 
 Physiotherapy after total knee replacement is a structured rehabilitation programme that restores range of motion (how far the knee bends and straightens), quadriceps and hip strength, balance and walking after the damaged joint surfaces are replaced with an implant. It also manages pain and swelling and teaches safe ways to climb stairs, use the toilet and get in and out of bed.
 
-Total knee replacement (TKR), also called total knee arthroplasty, is most often done for advanced osteoarthritis. The surgery removes the painful, worn surfaces. It does not automatically restore the muscle strength and movement that years of arthritis have taken away. That part comes from rehabilitation.
+Total knee replacement (TKR), also called total knee arthroplasty, is most often done for advanced [osteoarthritis](/physiotherapy-for-osteoarthritis). The surgery removes the painful, worn surfaces. It does not automatically restore the muscle strength and movement that years of arthritis have taken away. That part comes from rehabilitation.
 
 ## Does physiotherapy after knee replacement really help?
 

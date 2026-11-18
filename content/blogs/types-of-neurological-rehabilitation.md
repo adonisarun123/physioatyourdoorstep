@@ -33,7 +33,7 @@ Neurological rehabilitation benefits individuals with various conditions, includ
 - **Post-surgical neurological patients** recovering from brain or spinal cord operations
 
 Understanding your condition is the first step toward effective rehabilitation. Our team at Physio At Your Doorstep provides
-[specialized neurological physiotherapy services](/)
+[specialized neurological physiotherapy services](/service/neurological-physiotherapy)
  tailored to your specific diagnosis and recovery goals.
 
 ## Major Types of Neurological Rehabilitation
@@ -218,7 +218,7 @@ Water-based rehabilitation offers unique advantages for neurological patients:
 - **Muscle relaxation** : Warm water reduces muscle tone and pain
 - **Psychological benefits** : Aquatic environments often feel more enjoyable and less clinical
 
-Hydrotherapy is particularly beneficial for patients with severe mobility limitations, spasticity, or pain that limits land-based exercise participation.
+[Hydrotherapy](/types-of-hydrotherapy-in-physiotherapy) is particularly beneficial for patients with severe mobility limitations, spasticity, or pain that limits land-based exercise participation.
 
 ### 8. Constraint and Adaptation-Based Therapies
 
@@ -329,7 +329,7 @@ Home-based rehabilitation brings therapy directly to your residence, combining t
 - **Contextual learning** : Practicing functional tasks in your actual living environment
 
 Our
-[home physiotherapy services](/)
+[home physiotherapy services](/service)
  ensure you receive expert neurological rehabilitation without leaving your home, making recovery more accessible and effective.
 
 ## The Multidisciplinary Rehabilitation Team
@@ -588,7 +588,7 @@ The field of neurological rehabilitation continues evolving with exciting develo
 
 ### Telerehabilitation
 
-Remote therapy delivery using video conferencing and digital platforms expands access to rehabilitation services, particularly for individuals in underserved areas or with transportation limitations. Telerehabilitation enables:
+Remote therapy delivery using video conferencing and digital platforms expands access to rehabilitation services, particularly for individuals in underserved areas or with transportation limitations. [Telerehabilitation](/telehealth-physiotherapy) enables:
 
 - Real-time guidance from therapists
 - Home exercise monitoring
@@ -670,20 +670,38 @@ For more information about specialized physiotherapy services we offer:
 
 ## Frequently Asked Questions About Neurological Rehabilitation
 
-- [How long does neurological rehabilitation take?](#acc-80si926-0) Recovery timelines vary significantly based on the condition’s severity, type of neurological damage, individual factors, and rehabilitation intensity. Some patients show substantial improvement within 3-6 months, while others continue making gains for years. Consistency in therapy over an extended period typically produces the best outcomes. Your rehabilitation team will provide personalized expectations based on your specific situation.
+### How long does neurological rehabilitation take?
 
-- [Is neurological rehabilitation painful?](#acc-80si926-1) Most neurological rehabilitation techniques are not painful, though you may experience some discomfort during stretching exercises or when working muscles that haven’t been used effectively. Therapists carefully monitor your tolerance and adjust exercises accordingly. Certain treatments like stretching tight muscles or mobilizing stiff joints might cause temporary discomfort, but therapies are designed to minimize pain while maximizing effectiveness. Always communicate discomfort to your therapist so adjustments can be made.
+Recovery timelines vary significantly based on the condition’s severity, type of neurological damage, individual factors, and rehabilitation intensity. Some patients show substantial improvement within 3-6 months, while others continue making gains for years. Consistency in therapy over an extended period typically produces the best outcomes. Your rehabilitation team will provide personalized expectations based on your specific situation.
 
-- [Can I do neurological rehabilitation at home?](#acc-80si926-2) Yes, home-based neurological rehabilitation is highly effective and increasingly common. At Physio At Your Doorstep, we bring specialized neuro rehabilitation directly to your home across Bangalore. Home-based therapy offers numerous advantages, including comfort, convenience, family involvement, and the ability to practice functional tasks in your actual living environment. Your therapist will assess whether home-based rehabilitation is appropriate for your condition and safety needs.
+### Is neurological rehabilitation painful?
 
-- [Will my insurance cover neurological rehabilitation?](#acc-80si926-3) Most health insurance plans cover neurological rehabilitation, though coverage varies based on your specific policy, the type of rehabilitation, and whether it’s deemed medically necessary. Contact your insurance provider to understand your benefits, coverage limits, and any prior authorization requirements. Our team can also assist with insurance verification and documentation to support coverage approval.
+Most neurological rehabilitation techniques are not painful, though you may experience some discomfort during stretching exercises or when working muscles that haven’t been used effectively. Therapists carefully monitor your tolerance and adjust exercises accordingly. Certain treatments like stretching tight muscles or mobilizing stiff joints might cause temporary discomfort, but therapies are designed to minimize pain while maximizing effectiveness. Always communicate discomfort to your therapist so adjustments can be made.
 
-- [How often should I attend rehabilitation sessions?](#acc-80si926-4) Session frequency depends on your condition’s severity, recovery phase, and specific goals. Acute rehabilitation often involves daily sessions (5-7 days per week), while outpatient rehabilitation typically occurs 2-5 times weekly. Home-based programs can be customized to your needs and may include both therapist visits and independent exercise programs. Research suggests that more frequent, intensive therapy generally produces better outcomes, though individual tolerance and circumstances vary.
+### Can I do neurological rehabilitation at home?
 
-- [What if I'm not seeing progress?](#acc-80si926-5) Plateaus are common in neurological rehabilitation. If progress seems stalled, discuss concerns with your rehabilitation team. They may recommend adjusting your treatment approach, increasing or changing exercise intensity, adding new interventions, or setting different goals. Sometimes internal neural changes are occurring even when external improvements aren’t immediately visible. Persistence, patience, and treatment modifications often help overcome plateaus.
+Yes, home-based neurological rehabilitation is highly effective and increasingly common. At Physio At Your Doorstep, we bring specialized neuro rehabilitation directly to your home across Bangalore. Home-based therapy offers numerous advantages, including comfort, convenience, family involvement, and the ability to practice functional tasks in your actual living environment. Your therapist will assess whether home-based rehabilitation is appropriate for your condition and safety needs.
 
-- [Can I combine different types of rehabilitation?](#acc-80si926-6) Absolutely—in fact, comprehensive rehabilitation typically combines multiple approaches. Most patients benefit from integrated programs including physical therapy, occupational therapy, and often speech therapy or cognitive rehabilitation. Combining complementary techniques like traditional exercises with technology-based approaches or aquatic therapy often produces superior outcomes compared to single-modality treatment.
+### Will my insurance cover neurological rehabilitation?
 
-- [When should neurological rehabilitation begin?](#acc-80si926-7) Generally, rehabilitation should begin as soon as medically stable and safe. Earlier intervention typically produces better outcomes by capitalizing on the period of maximum spontaneous recovery and neuroplasticity. However, it’s never too late to benefit from rehabilitation—even individuals years post-injury can achieve meaningful improvements with appropriate therapy.
+Most health insurance plans cover neurological rehabilitation, though coverage varies based on your specific policy, the type of rehabilitation, and whether it’s deemed medically necessary. Contact your insurance provider to understand your benefits, coverage limits, and any prior authorization requirements. Our team can also assist with insurance verification and documentation to support coverage approval.
 
-- [What role does nutrition play in neurological rehabilitation?](#acc-80si926-8) Proper nutrition supports healing, provides energy for rehabilitation activities, maintains muscle mass, and promotes overall health. Your rehabilitation team may include nutritional counseling addressing adequate protein intake, hydration, anti-inflammatory foods, and management of weight changes. Swallowing difficulties may require dietary modifications or special feeding strategies.
+### How often should I attend rehabilitation sessions?
+
+Session frequency depends on your condition’s severity, recovery phase, and specific goals. Acute rehabilitation often involves daily sessions (5-7 days per week), while outpatient rehabilitation typically occurs 2-5 times weekly. Home-based programs can be customized to your needs and may include both therapist visits and independent exercise programs. Research suggests that more frequent, intensive therapy generally produces better outcomes, though individual tolerance and circumstances vary.
+
+### What if I'm not seeing progress?
+
+Plateaus are common in neurological rehabilitation. If progress seems stalled, discuss concerns with your rehabilitation team. They may recommend adjusting your treatment approach, increasing or changing exercise intensity, adding new interventions, or setting different goals. Sometimes internal neural changes are occurring even when external improvements aren’t immediately visible. Persistence, patience, and treatment modifications often help overcome plateaus.
+
+### Can I combine different types of rehabilitation?
+
+Absolutely—in fact, comprehensive rehabilitation typically combines multiple approaches. Most patients benefit from integrated programs including physical therapy, occupational therapy, and often speech therapy or cognitive rehabilitation. Combining complementary techniques like traditional exercises with technology-based approaches or aquatic therapy often produces superior outcomes compared to single-modality treatment.
+
+### When should neurological rehabilitation begin?
+
+Generally, rehabilitation should begin as soon as medically stable and safe. Earlier intervention typically produces better outcomes by capitalizing on the period of maximum spontaneous recovery and neuroplasticity. However, it’s never too late to benefit from rehabilitation—even individuals years post-injury can achieve meaningful improvements with appropriate therapy.
+
+### What role does nutrition play in neurological rehabilitation?
+
+Proper nutrition supports healing, provides energy for rehabilitation activities, maintains muscle mass, and promotes overall health. Your rehabilitation team may include nutritional counseling addressing adequate protein intake, hydration, anti-inflammatory foods, and management of weight changes. Swallowing difficulties may require dietary modifications or special feeding strategies.

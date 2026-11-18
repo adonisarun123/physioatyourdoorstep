@@ -38,7 +38,7 @@ With home physiotherapy, you avoid crowded waiting rooms and reduce exposure to 
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after operations with specialized physiotherapy. If you've had orthopedic surgeries like a knee replacement, hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, joint mobility, and function right in your BTM Layout home.
+Guided recovery at home after operations with specialized physiotherapy. If you've had orthopedic surgeries like a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, ACL reconstruction, or fracture repair, our therapists help you regain strength, joint mobility, and function right in your BTM Layout home.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -50,13 +50,13 @@ Treatment for bone, joint, and muscle conditions. We help with common issues suc
 
 ### Neurological Physiotherapy
 
-Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease, multiple sclerosis, and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility, balance, and daily function after a neurological condition
+Rehabilitation for nerve and brain-related conditions. We provide home therapy for stroke recovery, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), and paralysis. Our neuro-physiotherapist will work patiently with you or your family member to improve mobility, balance, and daily function after a neurological condition
 
 [Learn More](/service/neurological-physiotherapy)
 
 ### Sports Injury Rehabilitation
 
-Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy weekend sports in BTM Layout's parks, we treat sports injuries like ligament tears, muscle strains, tennis elbow, runner's knee, and more. We come equipped with therapy tools to manage your injury on-site.
+Recovery and conditioning for athletes and active individuals. Whether you're a gym enthusiast or enjoy weekend sports in BTM Layout's parks, we treat sports injuries like ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, and more. We come equipped with therapy tools to manage your injury on-site.
 
 [Learn More](/service/sports-physiotherapy)
 
@@ -68,7 +68,7 @@ Specialized care for older adults. We help senior citizens in BTM Layout with ag
 
 ### Pediatric Physiotherapy
 
-Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, torticollis, injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative.
+Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly therapists treat developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), injuries, and other pediatric conditions. We make therapy fun and engaging for kids – using play-based exercises so children stay relaxed and cooperative.
 
 [Learn More](/service/pediatric-physiotherapy)
 
@@ -139,7 +139,7 @@ Finding the best physiotherapist in BTM Layout for at-home treatment involves lo
 
 ### What are the charges for physiotherapy at home in BTM Layout?
 
-The cost of home physiotherapy in BTM Layout depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore are comparable to clinic rates – typically ranging around ₹500 to ₹800 per session – and you save on transportation costs and time. **Physio At Your Doorstep** offers transparent pricing and customized therapy plans. The exact cost will be determined by your specific needs. For instance, a simple sprain might only require a few sessions (lower total cost), whereas post-surgical rehabilitation or highly specialized therapy could be priced slightly higher per session due to the advanced care involved. We also provide package deals for multiple sessions, which can reduce the per-session cost. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a package that suits you best – with no hidden charges.
+The cost of home physiotherapy in BTM Layout depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore are comparable to clinic rates – typically ranging around ₹799–₹1,099 per session – and you save on transportation costs and time. **Physio At Your Doorstep** offers transparent pricing and customized therapy plans. The exact cost will be determined by your specific needs. For instance, a simple sprain might only require a few sessions (lower total cost), whereas post-surgical rehabilitation or highly specialized therapy could be priced slightly higher per session due to the advanced care involved. We also provide package deals for multiple sessions, which can reduce the per-session cost. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a package that suits you best – with no hidden charges.
 
 ### Do you provide physiotherapy for senior citizens at home in BTM Layout?
 

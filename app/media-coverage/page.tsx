@@ -6,7 +6,7 @@ import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
 import { ArrowUpRight, Calendar, Newspaper, Phone, Quote, User } from "lucide-react";
 import { MEDIA_MENTIONS } from "@/lib/media";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     description:
         "Press coverage of Physio At Your Doorstep: what The Hindustan Wires, The Entrepreneur Stories, DailyHunt and others wrote about our home physiotherapy service.",
     alternates: { canonical: "/media-coverage" },
-    openGraph: {
+    openGraph: { ...OG_DEFAULTS,
         title: "Media Coverage",
         url: "/media-coverage",
         type: "website",

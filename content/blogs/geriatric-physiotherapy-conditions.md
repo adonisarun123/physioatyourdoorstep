@@ -7,14 +7,14 @@ metaDescription: "Discover common geriatric physiotherapy conditions and safe ho
 excerpt: "Aging brings wisdom—and also unique physical challenges that can slowly chip away at mobility, independence, and confidence. The good news is that most age-related limitations respond very well to targeted, evidence-based physiotherapy delivered consistently."
 category: "Geriatric Physiotherapy"
 ---
-Aging brings wisdom—and also unique physical challenges that can slowly chip away at mobility, independence, and confidence. The good news is that most age-related limitations respond very well to targeted, evidence-based physiotherapy delivered consistently. Whether you or your loved one is managing arthritis pain, recovering after a stroke, living with Parkinson’s disease, or coping with frailty and frequent falls, a structured geriatric physiotherapy plan can restore function, reduce risk, and improve quality of life.
+Aging brings wisdom—and also unique physical challenges that can slowly chip away at mobility, independence, and confidence. The good news is that most age-related limitations respond very well to targeted, evidence-based physiotherapy delivered consistently. Whether you or your loved one is managing arthritis pain, recovering after a stroke, living with Parkinson’s disease, or coping with frailty and frequent falls, a structured [geriatric physiotherapy](/service/geriatric-physiotherapy) plan can restore function, reduce risk, and improve quality of life.
 
 This in-depth guide explains the most common geriatric physiotherapy conditions, how physiotherapists assess and treat them, and what an at-home program in Bangalore looks like—step by step. You’ll also find practical safety advice, caregiver tips, and a detailed FAQ.
 
 ## Quick takeaways
 
 - Geriatric physiotherapy focuses on functional mobility, balance, strength, endurance, pain relief, and independence in activities of daily living (ADLs).
-- Common conditions include osteoarthritis, osteoporosis, sarcopenia (age-related muscle loss), stroke, Parkinson’s disease, peripheral neuropathy, COPD, cardiac conditions, incontinence, and post-surgical rehab (hip/knee replacements).
+- Common conditions include [osteoarthritis](/physiotherapy-for-osteoarthritis), osteoporosis, sarcopenia (age-related muscle loss), stroke, Parkinson’s disease, peripheral neuropathy, [COPD](/copd-physiotherapy-management), cardiac conditions, incontinence, and [post-surgical rehab](/service/post-surgical-physiotherapy) (hip/knee replacements).
 - The most effective approach combines progressive exercise therapy, balance and gait training, manual therapy when appropriate, education, home modifications, and caregiver training.
 - Home-based physiotherapy is highly effective for seniors—reducing hospital visits, improving adherence, and enabling real-time environmental modifications.
 

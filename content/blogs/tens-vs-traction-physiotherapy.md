@@ -10,9 +10,9 @@ category: "Physiotherapy"
 
 ## Introduction: Two Powerful Physiotherapy Modalities, One Important Decision
 
-When a physiotherapist recommends either TENS or traction as part of your treatment plan, it is natural to wonder what each therapy does, how they differ, and which one is better suited for your specific condition. Both are widely used electrotherapy and manual therapy modalities in modern physiotherapy practice, yet they work through completely different mechanisms and target distinct pain conditions.
+When a physiotherapist recommends either TENS or traction as part of your treatment plan, it is natural to wonder what each therapy does, how they differ, and which one is better suited for your specific condition. Both are widely used [electrotherapy](/electrotherapy-modalities-in-physiotherapy) and manual therapy modalities in modern physiotherapy practice, yet they work through completely different mechanisms and target distinct pain conditions.
 
-This guide provides a research-backed, side-by-side comparison of TENS physiotherapy treatment vs traction physiotherapy treatment. Whether you are managing chronic back pain, a herniated disc, nerve compression, or musculoskeletal discomfort, understanding these two approaches will help you make an informed decision alongside your physiotherapist.
+This guide provides a research-backed, side-by-side comparison of TENS physiotherapy treatment vs traction physiotherapy treatment. Whether you are managing chronic [back pain](/back-ache), a herniated disc, nerve compression, or musculoskeletal discomfort, understanding these two approaches will help you make an informed decision alongside your physiotherapist.
 
 At
 [Physio at Your Doorstep](/)
@@ -159,7 +159,7 @@ Traction physiotherapy is most effective for conditions where mechanical compres
 
 - Cervical disc herniation and bulge
 
-- Radiculopathy (sciatica, cervical radiculopathy)
+- Radiculopathy ([sciatica](/sciatica-physiotherapy), cervical radiculopathy)
 
 - Degenerative disc disease
 
@@ -402,7 +402,7 @@ The choice between TENS and traction, or a combination of both, should always be
 
 - Your primary complaint is widespread chronic pain, muscle pain, or neuropathic pain
 
-- You have fibromyalgia, osteoarthritis, or tendinitis
+- You have fibromyalgia, [osteoarthritis](/physiotherapy-for-osteoarthritis), or tendinitis
 
 - You need a portable, easy-to-use pain management tool for daily use
 
@@ -492,22 +492,42 @@ Explore our
 
 ## Frequently Asked Questions (FAQ)
 
-- [What is the difference between TENS and traction physiotherapy?](#acc-xg8q427-0) TENS (Transcutaneous Electrical Nerve Stimulation) uses gentle electrical pulses delivered through skin electrode pads to block pain signals and trigger the body’s natural pain-killing response. Traction physiotherapy applies a controlled mechanical force to stretch and decompress the spine, reducing pressure on intervertebral discs and nerve roots. TENS is primarily a pain-modulating technique, while traction is a structural decompression technique.
+### What is the difference between TENS and traction physiotherapy?
 
-- [Is TENS therapy effective for back pain?](#acc-xg8q427-1) Yes. TENS is widely used for both acute and chronic lower back pain. It can significantly reduce pain intensity during and immediately after treatment by stimulating nerve pathways and promoting endorphin release. However, TENS provides symptomatic relief rather than treating the mechanical cause of back pain, so it is most effective when combined with therapeutic exercise and other physiotherapy interventions.
+TENS (Transcutaneous Electrical Nerve Stimulation) uses gentle electrical pulses delivered through skin electrode pads to block pain signals and trigger the body’s natural pain-killing response. Traction physiotherapy applies a controlled mechanical force to stretch and decompress the spine, reducing pressure on intervertebral discs and nerve roots. TENS is primarily a pain-modulating technique, while traction is a structural decompression technique.
 
-- [Is traction physiotherapy safe for disc herniation?](#acc-xg8q427-2) Traction is one of the most evidence-backed conservative treatments for lumbar disc herniation and cervical disc herniation. When performed by a trained physiotherapist and based on appropriate clinical assessment and imaging findings, it is considered safe and effective. However, it is not suitable for all patients, and contraindications such as fractures, active infection, or severe osteoporosis must be ruled out first.
+### Is TENS therapy effective for back pain?
 
-- [How many sessions of traction therapy do I need?](#acc-xg8q427-3) The number of sessions varies depending on the severity and type of your condition. Most clinical protocols recommend between 8 and 15 sessions, typically scheduled 3 to 5 times per week. Your physiotherapist will reassess your progress regularly and adjust the frequency and intensity of traction accordingly.
+Yes. TENS is widely used for both acute and chronic lower back pain. It can significantly reduce pain intensity during and immediately after treatment by stimulating nerve pathways and promoting endorphin release. However, TENS provides symptomatic relief rather than treating the mechanical cause of back pain, so it is most effective when combined with therapeutic exercise and other physiotherapy interventions.
 
-- [Can TENS be used during pregnancy?](#acc-xg8q427-4) TENS is generally not recommended over the abdomen or lower back during the first trimester of pregnancy due to insufficient safety data. However, it can be used under close physiotherapy supervision for pregnancy-related pelvic girdle pain and back pain in the later stages of pregnancy. Our team offers specialized [Physiotherapy in Pregnancy](/service/physiotherapy-in-pregnancy) services with safe, evidence-based treatment options.
+### Is traction physiotherapy safe for disc herniation?
 
-- [Can I receive TENS or traction therapy at home in Bangalore?](#acc-xg8q427-5) TENS therapy can be fully administered at home by a qualified physiotherapist. Manual traction techniques can also be performed at home during physiotherapy visits without the need for a motorized machine. Physio at Your Doorstep offers home physiotherapy services across Bangalore, including TENS and manual therapy. [Contact us](/contact-us) to book a home visit.
+Traction is one of the most evidence-backed conservative treatments for lumbar disc herniation and cervical disc herniation. When performed by a trained physiotherapist and based on appropriate clinical assessment and imaging findings, it is considered safe and effective. However, it is not suitable for all patients, and contraindications such as fractures, active infection, or severe osteoporosis must be ruled out first.
 
-- [Are TENS and traction physiotherapy painful?](#acc-xg8q427-6) TENS therapy is generally comfortable. Patients typically experience a mild tingling or buzzing sensation. The intensity is always kept within the patient’s comfort range. Traction therapy may feel unusual at first, as patients experience a gentle pulling sensation, but it should not be painful. Any discomfort should be reported to the physiotherapist immediately so the force or position can be adjusted.
+### How many sessions of traction therapy do I need?
 
-- [Which is better for sciatica: TENS or traction?](#acc-xg8q427-7) For classic sciatica caused by lumbar disc herniation compressing the sciatic nerve, traction therapy is often the more targeted treatment because it directly addresses the mechanical compression at the root of the problem. TENS can be a valuable adjunct for managing the radiating leg pain and associated muscle spasm. A physiotherapy assessment will determine which combination is most appropriate for your presentation.
+The number of sessions varies depending on the severity and type of your condition. Most clinical protocols recommend between 8 and 15 sessions, typically scheduled 3 to 5 times per week. Your physiotherapist will reassess your progress regularly and adjust the frequency and intensity of traction accordingly.
 
-- [How long does a TENS therapy session last?](#acc-xg8q427-8) A TENS session in a clinical physiotherapy setting typically lasts between 20 and 60 minutes. Some patients use TENS devices at home for shorter sessions of 20 to 30 minutes, several times a day. Your physiotherapist will guide you on the optimal session length and frequency based on your condition.
+### Can TENS be used during pregnancy?
 
-- [Is traction therapy the same as spinal decompression?](#acc-xg8q427-9) Traction is one method of achieving spinal decompression. Both terms are sometimes used interchangeably, but spinal decompression therapy (particularly non-surgical spinal decompression or NSD) uses a more sophisticated computerized approach that adjusts the traction angle and force in real time to target specific spinal segments and create a true negative intradiscal pressure. Traditional traction applies a more general pull along the spine’s axis. Both have their place in physiotherapy, and your physiotherapist will recommend the most appropriate form of decompression based on your diagnosis.
+TENS is generally not recommended over the abdomen or lower back during the first trimester of pregnancy due to insufficient safety data. However, it can be used under close physiotherapy supervision for pregnancy-related pelvic girdle pain and back pain in the later stages of pregnancy. Our team offers specialized [Physiotherapy in Pregnancy](/service/physiotherapy-in-pregnancy) services with safe, evidence-based treatment options.
+
+### Can I receive TENS or traction therapy at home in Bangalore?
+
+TENS therapy can be fully administered at home by a qualified physiotherapist. Manual traction techniques can also be performed at home during physiotherapy visits without the need for a motorized machine. Physio at Your Doorstep offers home physiotherapy services across Bangalore, including TENS and manual therapy. [Contact us](/contact-us) to book a home visit.
+
+### Are TENS and traction physiotherapy painful?
+
+TENS therapy is generally comfortable. Patients typically experience a mild tingling or buzzing sensation. The intensity is always kept within the patient’s comfort range. Traction therapy may feel unusual at first, as patients experience a gentle pulling sensation, but it should not be painful. Any discomfort should be reported to the physiotherapist immediately so the force or position can be adjusted.
+
+### Which is better for sciatica: TENS or traction?
+
+For classic sciatica caused by lumbar disc herniation compressing the sciatic nerve, traction therapy is often the more targeted treatment because it directly addresses the mechanical compression at the root of the problem. TENS can be a valuable adjunct for managing the radiating leg pain and associated muscle spasm. A physiotherapy assessment will determine which combination is most appropriate for your presentation.
+
+### How long does a TENS therapy session last?
+
+A TENS session in a clinical physiotherapy setting typically lasts between 20 and 60 minutes. Some patients use TENS devices at home for shorter sessions of 20 to 30 minutes, several times a day. Your physiotherapist will guide you on the optimal session length and frequency based on your condition.
+
+### Is traction therapy the same as spinal decompression?
+
+Traction is one method of achieving spinal decompression. Both terms are sometimes used interchangeably, but spinal decompression therapy (particularly non-surgical spinal decompression or NSD) uses a more sophisticated computerized approach that adjusts the traction angle and force in real time to target specific spinal segments and create a true negative intradiscal pressure. Traditional traction applies a more general pull along the spine’s axis. Both have their place in physiotherapy, and your physiotherapist will recommend the most appropriate form of decompression based on your diagnosis.

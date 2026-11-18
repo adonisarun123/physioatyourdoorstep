@@ -40,7 +40,7 @@ If you've had surgery (knee/hip replacement, spinal surgery, etc.), early rehabi
 
 ### Orthopedic Physiotherapy
 
-We treat orthopedic issues like chronic back pain, neck strains, shoulder injuries, and joint arthritis right at home. For example, a banker in Camp with back pain will get a tailored core-strengthening routine in his apartment. Or a shop owner in Laxmi Road with knee pain will learn leg stretches and strengthening on-site.
+We treat orthopedic issues like chronic back pain, neck strains, shoulder injuries, and joint arthritis right at home. For example, a banker in Camp with back pain will get a tailored core-strengthening routine in his apartment. Or a shop owner in Laxmi Road with [knee pain](/knee-pain) will learn leg stretches and strengthening on-site.
 
 ### Neurological Physiotherapy
 
@@ -48,7 +48,7 @@ For conditions like stroke or Parkinson's, home neuro-therapy can enhance indepe
 
 ### Sports Injury Rehabilitation
 
-Even urban sports enthusiasts (cricketers, cyclists, gym-goers) get injured. We provide home rehab for sports injuries like tendonitis, tennis elbow, sprains, and muscle tears. We begin with pain and swelling management (RICE, gentle movement) and progress to strengthening and coordination drills.
+Even urban sports enthusiasts (cricketers, cyclists, gym-goers) get injured. We provide home rehab for sports injuries like tendonitis, [tennis elbow](/tennis-elbow-physiotherapy-treatment), sprains, and muscle tears. We begin with pain and swelling management (RICE, gentle movement) and progress to strengthening and coordination drills.
 
 ### Geriatric Physiotherapy
 
@@ -56,7 +56,7 @@ Elderly clients in Shaniwarwada often face issues like arthritis, osteoporosis, 
 
 ### Pediatric Physiotherapy
 
-Children in central Pune (from infants to teens) sometimes need physio. We bring playful, child-friendly rehab to your home. Whether it's torticollis in a baby (we might do gentle neck stretches while singing lullabies) or coordination exercises for an older child, we make it engaging. Familiar surroundings help kids feel secure
+Children in central Pune (from infants to teens) sometimes need physio. We bring playful, child-friendly rehab to your home. Whether it's [torticollis](/torticollis-physiotherapy-treatment) in a baby (we might do gentle neck stretches while singing lullabies) or coordination exercises for an older child, we make it engaging. Familiar surroundings help kids feel secure
 
 ## How It Works?
 
@@ -74,7 +74,7 @@ On the first visit, our physiotherapist will evaluate your condition (range of m
 
 ### Treatment & Recovery
 
-During each home session (45–60 minutes), our therapist will provide manual therapy, guide exercises, and use portable modalities (ultrasound, TENS) if needed. You'll do exercises together in your home environment
+During each home session (45–60 minutes), our therapist will provide manual therapy, guide exercises, and use portable modalities (ultrasound, [TENS](/tens-vs-traction-physiotherapy)) if needed. You'll do exercises together in your home environment
 
 ### Ongoing Support
 
@@ -115,7 +115,7 @@ It varies by individual. Factors include your age, overall health, and the sever
 
 ### How much does a home physiotherapy session cost in Pune (Shaniwarwada)?
 
-In Pune (including central areas), a home visit generally costs ₹700–₹1,000 for a 45–60 minute session. The exact rate depends on the treatment required and session duration. We are transparent about pricing, and often offer package discounts for multiple sessions. Remember, this service includes travel time and personalized one-on-one care. Many patients find the convenience (saving on time, fuel) makes it cost-effective. We will inform you of all charges before you book.
+In Pune (including central areas), a home visit generally costs ₹799–₹1,099 for a 45–60 minute session. The exact rate depends on the treatment required and session duration. We are transparent about pricing, and often offer package discounts for multiple sessions. Remember, this service includes travel time and personalized one-on-one care. Many patients find the convenience (saving on time, fuel) makes it cost-effective. We will inform you of all charges before you book.
 
 ### Is physiotherapy at home safe (especially for seniors or after surgery)?
 

@@ -13,7 +13,7 @@ When dealing with bone, joint, or muscle issues, two major medical fields often 
 
 Orthopaedics is a **medical specialty that diagnoses, treats, and prevents disorders of the bones, joints, ligaments, tendons, and muscles**. Orthopaedic doctors often use surgical and non-surgical methods to address musculoskeletal issues.
 
-On the other hand, [physiotherapy](/) is a **non-invasive treatment approach that focuses on restoring movement, improving function, and reducing pain through exercises, manual therapy, and rehabilitation techniques**.
+On the other hand, [physiotherapy](/service) is a **non-invasive treatment approach that focuses on restoring movement, improving function, and reducing pain through exercises, manual therapy, and rehabilitation techniques**.
 
 Understanding the **difference between orthopaedic and physiotherapy** is crucial for making informed healthcare decisions. In this blog, we will explore their key differences, treatment methods, and when to seek each specialist.
 
@@ -28,7 +28,7 @@ Orthopaedics is a branch of medicine that specializes in diagnosing and treating
 Orthopaedic specialists treat a wide range of musculoskeletal conditions, including:
 
 - **Fractures and dislocations** – Broken bones and joint displacements.
-- **Arthritis and joint pain** – Osteoarthritis, rheumatoid arthritis, and other joint disorders.
+- **Arthritis and joint pain** – [Osteoarthritis](/physiotherapy-for-osteoarthritis), [rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis), and other joint disorders.
 - **Spinal disorders** – Herniated discs, scoliosis, and spinal stenosis.
 - **Sports injuries** – Torn ligaments (ACL tears), sprains, and stress fractures.
 - **Osteoporosis and bone deformities** – Weak bones prone to fractures.
@@ -63,8 +63,8 @@ Physiotherapists help manage a variety of conditions, including:
 
 - **Muscle strains and sprains** – Common injuries from daily activities or sports.
 - **Post-surgical rehabilitation** – Recovering movement and strength after orthopaedic surgeries.
-- **Neurological disorders** – Stroke rehabilitation, Parkinson's disease, and multiple sclerosis.
-- **Chronic pain conditions** – Back pain, neck pain, and fibromyalgia.
+- **Neurological disorders** – [Stroke rehabilitation](/service/neurological-physiotherapy), Parkinson's disease, and [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy).
+- **Chronic pain conditions** – [Back pain](/back-ache), neck pain, and fibromyalgia.
 - **Mobility issues in elderly individuals** – Balance training and fall prevention.
 
 ### Types of Physiotherapy Treatments

@@ -28,7 +28,7 @@ import {
     getAllCareerAreas,
     SALARY_LABEL,
 } from "@/lib/careers";
-import { SITE, absoluteUrl, faqSchema } from "@/lib/seo";
+import { SITE, absoluteUrl, faqSchema, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 const areas = getAllCareerAreas();
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     description:
         "Physiotherapist jobs across Bangalore: full-time, part-time and freelance home-visit roles in 24 areas. BPT minimum, MPT preferred. Apply with your CV.",
     alternates: { canonical: "/careers" },
-    openGraph: {
+    openGraph: { ...OG_DEFAULTS,
         title: "Careers — Physiotherapist Jobs in Bangalore",
         url: "/careers",
         type: "website",

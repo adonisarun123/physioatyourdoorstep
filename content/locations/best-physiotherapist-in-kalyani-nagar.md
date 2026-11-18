@@ -42,7 +42,7 @@ Recovering from surgery can be challenging, but our at-home post-operative rehab
 
 ### Orthopedic Physiotherapy
 
-Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like sprains or fractures. If you're suffering from lower back pain, neck stiffness, knee injuries, frozen shoulder, arthritis pain, or sciatica, our physiotherapist will provide targeted treatment at home.
+Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like sprains or fractures. If you're suffering from lower back pain, neck stiffness, knee injuries, frozen shoulder, arthritis pain, or [sciatica](/sciatica-physiotherapy), our physiotherapist will provide targeted treatment at home.
 
 ### Neurological Physiotherapy
 
@@ -50,7 +50,7 @@ Patients with neurological conditions can greatly benefit from physiotherapy –
 
 ### Sports Injury Rehabilitation
 
-If you've suffered a sports-related injury or strain, our home physiotherapy can get you back in the game safely. Sports injuries often involve muscles, ligaments, or joints – for example, ligament tears, muscle strains, tennis elbow, runner's knee, or ankle sprains.
+If you've suffered a sports-related injury or strain, our home physiotherapy can get you back in the game safely. Sports injuries often involve muscles, ligaments, or joints – for example, ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, or ankle sprains.
 
 ### Geriatric Physiotherapy
 
@@ -109,7 +109,7 @@ Yes – you can expect results from home physiotherapy that are equal to or even
 
 ### What conditions can be treated with physiotherapy at home in Kalyani Nagar?
 
-We can address a wide range of conditions through home physiotherapy. Our physiotherapists treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries (ligament sprains or meniscus tears), arthritis, and sciatica. We also provide neurological rehabilitation for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, or neuropathy. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, torticollis in infants, or injuries. Geriatric physiotherapy covers age-related issues like joint stiffness, osteoporosis, balance problems, and post-stroke rehab for seniors. Additionally, we handle sports injuries (ankle sprains, muscle tears, tennis elbow, runner's knee, etc.) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or shoulder surgeries. Essentially, almost any condition for which you would go to a physiotherapy clinic can be **treated at home by our qualified therapists** – we adapt our techniques and bring the needed equipment to ensure you get effective care in a home setting
+We can address a wide range of conditions through home physiotherapy. Our physiotherapists treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries (ligament sprains or meniscus tears), arthritis, and sciatica. We also provide [neurological rehabilitation](/types-of-neurological-rehabilitation) for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis (MS), spinal cord injuries, or neuropathy. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, [torticollis](/torticollis-physiotherapy-treatment) in infants, or injuries. Geriatric physiotherapy covers age-related issues like joint stiffness, osteoporosis, balance problems, and post-stroke rehab for seniors. Additionally, we handle sports injuries (ankle sprains, muscle tears, tennis elbow, runner's knee, etc.) and offer post-surgical rehab after operations like knee replacements, hip surgeries, or shoulder surgeries. Essentially, almost any condition for which you would go to a physiotherapy clinic can be **treated at home by our qualified therapists** – we adapt our techniques and bring the needed equipment to ensure you get effective care in a home setting
 
 ### How many sessions will I need to recover?
 
@@ -117,7 +117,7 @@ The number of physiotherapy sessions required varies from person to person. It d
 
 ### How much does a home physiotherapy session cost in Kalyani Nagar?
 
-The cost of a physiotherapy home visit in Pune can depend on the type of treatment and session length, but we maintain transparent and affordable pricing. Generally, in Pune, a single at-home physiotherapy session **costs around ₹700 to ₹1,000 on average**. Your exact quote will depend on factors like the complexity of your case and the duration of each session (typically 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting personalized one-on-one care and you save on travel time and fuel costs. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your particular situation.
+The cost of a physiotherapy home visit in Pune can depend on the type of treatment and session length, but we maintain transparent and affordable pricing. Generally, in Pune, a single at-home physiotherapy session **costs around ₹799–₹1,099 on average**. Your exact quote will depend on factors like the complexity of your case and the duration of each session (typically 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting personalized one-on-one care and you save on travel time and fuel costs. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your particular situation.
 
 ### Is physiotherapy at home safe (especially for seniors or post-surgery patients)?
 

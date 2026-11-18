@@ -126,7 +126,7 @@ To find the **best physiotherapist in Koramangala** for home treatment, look for
 
 ### What are the charges for physiotherapy at home in Koramangala?
 
-The **cost of home physiotherapy in Koramangala** depends on the type of treatment you need and the duration of each session. Factors like the severity of your condition, required equipment (for example, electrotherapy machines), and the number of sessions can influence pricing. We strive to keep our physiotherapy sessions affordable while maintaining the highest quality of care. Typically, home physiotherapy charges in Bangalore are comparable to clinic rates (and you save on travel costs). At Physio At Your Doorstep, we offer transparent pricing and customized therapy plans. **Contact us** with details of your condition, and we'll provide a quote or package that best suits your needs – no hidden charges.
+The **cost of home physiotherapy in Koramangala** depends on the type of treatment you need and the duration of each session. Factors like the severity of your condition, required equipment (for example, [electrotherapy](/electrotherapy-modalities-in-physiotherapy) machines), and the number of sessions can influence pricing. We strive to keep our physiotherapy sessions affordable while maintaining the highest quality of care. Typically, home physiotherapy charges in Bangalore are comparable to clinic rates (and you save on travel costs). At Physio At Your Doorstep, we offer transparent pricing and customized therapy plans. **Contact us** with details of your condition, and we'll provide a quote or package that best suits your needs – no hidden charges.
 
 ### Do you provide physiotherapy for senior citizens in Koramangala?
 
@@ -142,7 +142,7 @@ Yes, we do our best to accommodate same-day appointments in Koramangala whenever
 
 ### Do you treat sports injuries at home in Koramangala?
 
-Yes, we provide **sports physiotherapy at home** for clients in Koramangala. Whether you're dealing with a sprained ankle from a basketball game or a tennis elbow from long matches, our sports injury specialists can help. We come equipped with therapy tools like resistance bands, balance trainers, and cold packs to manage your injury. Treatment may include pain relief techniques, guided exercises to restore strength and flexibility, and advice on injury prevention. We have helped runners, gym-goers, and sports enthusiasts in Koramangala get back to their activities safely. Our physiotherapist will also tailor a rehab program that fits your routine, so you can recover without missing out on too much of your training or work schedule.
+Yes, we provide **sports physiotherapy at home** for clients in Koramangala. Whether you're dealing with a sprained ankle from a basketball game or a [tennis elbow](/tennis-elbow-physiotherapy-treatment) from long matches, our sports injury specialists can help. We come equipped with therapy tools like resistance bands, balance trainers, and cold packs to manage your injury. Treatment may include pain relief techniques, guided exercises to restore strength and flexibility, and advice on injury prevention. We have helped runners, gym-goers, and sports enthusiasts in Koramangala get back to their activities safely. Our physiotherapist will also tailor a rehab program that fits your routine, so you can recover without missing out on too much of your training or work schedule.
 
 ### What qualifications do the physiotherapists in your Koramangala team have?
 

@@ -45,7 +45,7 @@ PNF uses diagonal, spiral movement patterns combined with stretching and resista
 
 ### 5. Neurodevelopmental Treatment (Bobath Approach)
 
-Originally developed for cerebral palsy and later adapted for adult neurological rehabilitation, the Bobath approach focuses on normalising muscle tone and guiding the patient through correct movement patterns using hands-on facilitation. It is frequently used in early-stage stroke recovery, when abnormal tone and poor postural control are the biggest obstacles to functional movement.
+Originally developed for cerebral palsy and later adapted for adult [neurological rehabilitation](/types-of-neurological-rehabilitation), the Bobath approach focuses on normalising muscle tone and guiding the patient through correct movement patterns using hands-on facilitation. It is frequently used in early-stage stroke recovery, when abnormal tone and poor postural control are the biggest obstacles to functional movement.
 
 ### 6. Mirror Therapy
 

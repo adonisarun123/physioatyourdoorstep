@@ -38,7 +38,7 @@ Your health is in the hands of experts. Our team consists of **highly qualified 
 
 ### Post-Surgery Rehabilitation
 
-Guided recovery at home after surgeries with specialized physiotherapy care. If you've had an operation – such as a knee replacement, hip surgery, ACL reconstruction, shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Marathahalli home**
+Guided recovery at home after surgeries with specialized physiotherapy care. If you've had an operation – such as a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, [ACL reconstruction](/acl-reconstruction-rehabilitation), shoulder surgery, or fracture repair – our therapists help you regain strength, restore joint mobility, and reduce pain **right in your Marathahalli home**
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -68,7 +68,7 @@ Specialized care for older adults, delivered with kindness and patience. We assi
 
 ### Pediatric Physiotherapy
 
-Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including developmental delays in infants, cerebral palsy, muscular dystrophy, torticollis, delayed milestones (crawling, walking), and rehabilitation for children.
+Physiotherapy for infants, children, and teenagers, right at home. Our child-friendly physiotherapists treat a variety of pediatric conditions, including developmental delays in infants, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), delayed milestones (crawling, walking), and rehabilitation for children.
 
 [Learn More](/service/pediatric-physiotherapy)
 
@@ -136,7 +136,7 @@ Yes. Home physiotherapy in Marathahalli is just as effective as visiting a clini
 
 ### What conditions can be treated with physiotherapy at home in Marathahalli?
 
-Our physiotherapists can address a wide range of conditions through home visits. We treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries, arthritis, and tendon or ligament problems. We also handle neurological rehabilitation for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis, spinal cord injuries, and nerve damage. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we provide sports injury rehab (for sprains, muscle tears, tennis elbow, etc.) and post-surgical rehab after operations like knee replacements, hip surgeries, or fracture repairs. Essentially, **nearly any condition that would be treated at a physiotherapy clinic can be treated at home** by our qualified therapists – we adapt our techniques and bring equipment to ensure you get the care you need in a home setting.
+Our physiotherapists can address a wide range of conditions through home visits. We treat common orthopedic issues like back pain, neck pain, frozen shoulder, knee injuries, arthritis, and tendon or ligament problems. We also handle [neurological rehabilitation](/types-of-neurological-rehabilitation) for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis, spinal cord injuries, and nerve damage. Pediatric physiotherapy is available for children with developmental delays, cerebral palsy, or injuries, and geriatric physiotherapy covers age-related issues like joint stiffness, balance problems, and post-stroke care for seniors. Additionally, we provide sports injury rehab (for sprains, muscle tears, [tennis elbow](/tennis-elbow-physiotherapy-treatment), etc.) and post-surgical rehab after operations like knee replacements, hip surgeries, or fracture repairs. Essentially, **nearly any condition that would be treated at a physiotherapy clinic can be treated at home** by our qualified therapists – we adapt our techniques and bring equipment to ensure you get the care you need in a home setting.
 
 ### How can I find the best physiotherapist in Marathahalli for home visits?
 
@@ -144,7 +144,7 @@ Finding the best physiotherapist in Marathahalli for at-home treatment involves 
 
 ### What are the charges for physiotherapy at home in Marathahalli?
 
-The cost of home physiotherapy in Marathahalli depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the total number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Marathahalli) are comparable to clinic rates – typically ranging around **₹500 to ₹800 per session**. You also save on transportation costs and time by receiving care at home. Physio At Your Doorstep believes in transparent pricing with no hidden fees. We offer customized therapy packages as well, which can lower the per-session cost if you need multiple sessions. The exact cost will be determined by your specific needs – for instance, a simple ankle sprain might only require a few sessions (lower total cost), whereas extensive post-surgical rehabilitation or highly specialized therapy could be at the higher end of the range. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a cost-effective treatment plan that suits you best.
+The cost of home physiotherapy in Marathahalli depends on the type of treatment you need and the duration of each session. Factors such as the severity of your condition, the specialization required (for example, neurological rehab or pediatric therapy), and the total number of sessions can influence pricing. In general, home physiotherapy charges in Bangalore (including Marathahalli) are comparable to clinic rates – typically ranging around **₹799–₹1,099 per session**. You also save on transportation costs and time by receiving care at home. Physio At Your Doorstep believes in transparent pricing with no hidden fees. We offer customized therapy packages as well, which can lower the per-session cost if you need multiple sessions. The exact cost will be determined by your specific needs – for instance, a simple ankle sprain might only require a few sessions (lower total cost), whereas extensive post-surgical rehabilitation or highly specialized therapy could be at the higher end of the range. Contact us with details of your condition, and we'll be happy to give you a quote or recommend a cost-effective treatment plan that suits you best.
 
 ### Do you provide physiotherapy for senior citizens at home in Marathahalli?
 

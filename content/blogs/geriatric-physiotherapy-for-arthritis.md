@@ -8,7 +8,7 @@ coverImage: "/images/blog/geriatric-physiotherapy-for-arthritis.jpg"
 category: "Geriatric Physiotherapy"
 ---
 
-As we age, arthritis becomes an increasingly common companion, affecting millions of seniors worldwide. While the stiffness, pain, and reduced mobility can feel overwhelming, there’s hope. Geriatric physiotherapy for arthritis offers a proven, evidence-based approach to managing symptoms, improving quality of life, and helping seniors maintain their independence.
+As we age, arthritis becomes an increasingly common companion, affecting millions of seniors worldwide. While the stiffness, pain, and reduced mobility can feel overwhelming, there’s hope. [Geriatric physiotherapy](/service/geriatric-physiotherapy) for arthritis offers a proven, evidence-based approach to managing symptoms, improving quality of life, and helping seniors maintain their independence.
 
 At [Physio At Your Doorstep](/), we understand that each senior’s journey with arthritis is unique. Our specialized approach to geriatric physiotherapy brings expert care directly to your home, ensuring comfort, convenience, and personalized treatment that addresses your specific needs.
 
@@ -136,7 +136,7 @@ Geriatric physiotherapy employs various evidence-based techniques specifically a
 ### Pain Management Techniques
 
 - Heat and Cold Therapy: Reducing inflammation and pain
-- TENS (Transcutaneous Electrical Nerve Stimulation): Natural pain relief
+- [TENS](/tens-vs-traction-physiotherapy) (Transcutaneous Electrical Nerve Stimulation): Natural pain relief
 - Breathing Exercises: Managing pain and stress
 - Relaxation Techniques: Comprehensive pain management
 
@@ -368,8 +368,8 @@ Contact us now to begin your journey toward pain-free living.
 ### Scientific References:
 
 1. Bennell, K.L., et al. (2022). “Effectiveness of physiotherapy in older adults with arthritis: A systematic review.” *Journal of Geriatric Physical Therapy*, 45(3), 123-135.
-2. Zhang, W., et al. (2023). “Home-based physiotherapy for seniors with osteoarthritis: A randomized controlled trial.” *Age and Ageing*, 52(4), 234-241.
-3. Smith, R.J., et al. (2023). “Exercise therapy for rheumatoid arthritis in older adults: Updated guidelines.” *Arthritis Care & Research*, 75(8), 1456-1467.
+2. Zhang, W., et al. (2023). “Home-based physiotherapy for seniors with [osteoarthritis](/physiotherapy-for-osteoarthritis): A randomized controlled trial.” *Age and Ageing*, 52(4), 234-241.
+3. Smith, R.J., et al. (2023). “Exercise therapy for [rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis) in older adults: Updated guidelines.” *Arthritis Care & Research*, 75(8), 1456-1467.
 4. Johnson, M.K., et al. (2022). “Pain management strategies in geriatric arthritis care: Evidence-based approaches.” *Pain Medicine Journal*, 23(12), 2034-2045.
 5. Davis, L.A., et al. (2023). “Quality of life improvements in seniors receiving physiotherapy for arthritis: A longitudinal study.” *Gerontology Today*, 41(6), 789-798.
 

@@ -3,10 +3,11 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
-import { articleSchema, faqSchema } from "@/lib/seo";
+import { articleSchema, faqSchema, OG_DEFAULTS } from "@/lib/seo";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import BlogCard from "@/components/BlogCard";
-import { getAllBlogs, getBlogBySlug, getBlogsByCategory, getAllServices } from "@/lib/content";
+import RelatedVideos from "@/components/RelatedVideos";
+import { getAllBlogs, getBlogBySlug, getRelatedBlogs, getAllServices } from "@/lib/content";
 import { Calendar, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
@@ -50,7 +51,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         title: (blog.metaTitle || blog.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
         description,
         alternates: { canonical: `/${slug}` },
-        openGraph: {
+        openGraph: { ...OG_DEFAULTS,
             title: blog.metaTitle || blog.title,
             description,
             url: `/${slug}`,
@@ -68,9 +69,8 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
         notFound();
     }
 
-    const relatedBlogs = getBlogsByCategory(blog.categorySlug)
-        .filter((b) => b.slug !== blog.slug)
-        .slice(0, 3);
+    const relatedBlogs = getRelatedBlogs(blog, 6);
+    const blogIndex = Math.max(0, getAllBlogs().findIndex((b) => b.slug === blog.slug));
     const relatedServiceSlug = CATEGORY_TO_SERVICE[blog.categorySlug] ?? "orthopaedic-physiotherapy";
     const relatedService = getAllServices().find((s) => s.slug === relatedServiceSlug);
 
@@ -87,6 +87,7 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                                 className="mb-6"
                                 items={[
                                     { name: "Blog", href: "/blogs" },
+                                    { name: blog.category, href: `/category/${blog.categorySlug}` },
                                     { name: blog.title },
                                 ]}
                             />
@@ -169,6 +170,8 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                     </section>
                 )}
 
+                <RelatedVideos topic={blog.categorySlug} seed={blogIndex} />
+
                 {/* CTA */}
                 <section className="section bg-[#2A2A57] text-white">
                     <div className="container text-center max-w-3xl">
@@ -192,6 +195,8 @@ export default async function BlogDetailPage({ params }: { params: Promise<{ slu
                         url: `/${slug}`,
                         image: blog.coverImage,
                         datePublished: new Date(blog.publishedAt).toISOString(),
+                        section: blog.category,
+                        about: blog.category === "Physiotherapy" ? undefined : blog.category,
                     }),
                     ...(blog.faqs.length > 0 ? [faqSchema(blog.faqs)] : []),
                 ]}

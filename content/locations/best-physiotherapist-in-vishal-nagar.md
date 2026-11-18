@@ -46,7 +46,7 @@ Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues
 
 ### Neurological Physiotherapy
 
-Patients with neurological conditions can greatly benefit from physiotherapy – and receiving it at home makes the process smoother. We offer neurological physiotherapy for conditions such as **stroke, Parkinson's disease, multiple sclerosis (MS), cerebral palsy, neuropathies,** and other nervous system disorders.
+Patients with neurological conditions can greatly benefit from physiotherapy – and receiving it at home makes the process smoother. We offer neurological physiotherapy for conditions such as **stroke, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy) (MS), cerebral palsy, neuropathies,** and other nervous system disorders.
 
 ### Sports Injury Rehabilitation
 
@@ -58,7 +58,7 @@ For seniors in Vishal Nagar, we provide gentle and effective physiotherapy at ho
 
 ### Pediatric Physiotherapy
 
-Children and adolescents sometimes need physiotherapy too, whether to recover from injuries or to address developmental concerns. Our pediatric physiotherapy service brings playful, child-friendly rehab exercises right to your home.
+Children and adolescents sometimes need physiotherapy too, whether to recover from injuries or to address developmental concerns. Our [pediatric physiotherapy](/service/pediatric-physiotherapy) service brings playful, child-friendly rehab exercises right to your home.
 
 ## How It Works:
 
@@ -87,7 +87,7 @@ Recovery is a journey, and we support you at every step. The physiotherapist wil
 We are proud to serve the **Vishal Nagar** community and surrounding localities with our home physiotherapy services. If you're in or around Vishal Nagar, you can easily avail our expert physiotherapists at your doorstep. Our coverage includes the following areas near Vishal Nagar:
 
 - **Vishal Nagar / Pimple Nilakh:** We serve all parts of Vishal Nagar and the broader Pimple Nilakh area (a part of Pimpri-Chinchwad). No matter if you live near Samarth Colony or closer to Kaspate Wasti, our physio will find you and provide treatment at home.
-- **Pimple Saudagar:** Residents of Pimple Saudagar can also book home visits. This neighboring locality is just a short distance away, and we often help patients there with back pain, post-surgery rehab, and more.
+- **Pimple Saudagar:** Residents of Pimple Saudagar can also book home visits. This neighboring locality is just a short distance away, and we often help patients there with [back pain](/back-ache), post-surgery rehab, and more.
 - **Wakad & Hinjawadi:** If you're located in Wakad or the Hinjawadi IT Park area (only 3–5 km from Vishal Nagar), we've got you covered. IT professionals with desk-related neck pain, or anyone recovering from sports injuries in these areas, can greatly benefit from our convenient home service.
 - **Balewadi & Baner:** We extend our services to nearby Balewadi and Baner as well. These prime residential areas bordering Vishal Nagar are within our reach for home physiotherapy. You can avoid the traffic of heading into the city for physio – we'll come to your Balewadi or Baner residence with all necessary equipment and expertise.
 - **Sangvi & Aundh Road Area:** For those near New Sangvi, Old Sangvi, or along Aundh Road (across the river from Vishal Nagar), we can arrange home visits too. These areas are a quick drive for our therapists, ensuring you don't miss out on quality care due to location.
@@ -114,7 +114,7 @@ All our physiotherapists are **highly qualified and licensed** professionals. In
 
 ### What conditions can be treated with physiotherapy at home?
 
-We can address a wide range of conditions through home physiotherapy. This includes **orthopedic issues** like back pain, neck pain, knee pain, shoulder injuries, arthritis, and post-fracture rehab; **sports injuries** such as sprains, ligament tears (e.g. ACL injuries), and tendonitis; **post-surgical recovery** for surgeries like joint replacements, ACL reconstruction, spine surgery, etc.; **neurological conditions** like stroke recovery, Parkinson's disease, multiple sclerosis, cerebral palsy; **pediatric conditions** (developmental delays, injuries in kids); and **chronic pain management** for conditions such as fibromyalgia or chronic neck/back pain. Essentially, any injury or ailment affecting your movement and function can often be improved with physiotherapy. During the initial assessment, our physiotherapist will determine if physio is suitable for your specific condition. If for any reason your case needs a different approach, we'll guide you on the next steps. But in most cases, **physiotherapy at home is an excellent choice** to treat the above conditions and more.
+We can address a wide range of conditions through home physiotherapy. This includes **orthopedic issues** like back pain, neck pain, [knee pain](/knee-pain), shoulder injuries, arthritis, and post-fracture rehab; **sports injuries** such as sprains, ligament tears (e.g. ACL injuries), and tendonitis; **post-surgical recovery** for surgeries like joint replacements, ACL reconstruction, spine surgery, etc.; **neurological conditions** like stroke recovery, Parkinson's disease, multiple sclerosis, cerebral palsy; **pediatric conditions** (developmental delays, injuries in kids); and **chronic pain management** for conditions such as fibromyalgia or chronic neck/back pain. Essentially, any injury or ailment affecting your movement and function can often be improved with physiotherapy. During the initial assessment, our physiotherapist will determine if physio is suitable for your specific condition. If for any reason your case needs a different approach, we'll guide you on the next steps. But in most cases, **physiotherapy at home is an excellent choice** to treat the above conditions and more.
 
 ### How many sessions will I need to recover?
 
@@ -122,7 +122,7 @@ The number of physiotherapy sessions required varies from person to person. It d
 
 ### How much does a home physiotherapy session cost in Vishal Nagar?
 
-The cost of a physiotherapy home visit can depend on the type of treatment and duration, but we maintain **transparent and affordable pricing**. Generally, in Pune, a single at-home physiotherapy session costs around **₹700 to ₹1,000** on average. Your exact quote will depend on factors like the complexity of your case and the length of each session (usually 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting **personalized one-on-one care and you save on travel time/costs**. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your situation
+The cost of a physiotherapy home visit can depend on the type of treatment and duration, but we maintain **transparent and affordable pricing**. Generally, in Pune, a single at-home physiotherapy session costs around **₹799–₹1,099** on average. Your exact quote will depend on factors like the complexity of your case and the length of each session (usually 45 minutes to 1 hour). We will discuss the fees with you upfront when you book, so there are no surprises. Package deals for multiple sessions or weekly plans are often available, which can lower the per-session cost. While home services might seem to cost slightly more than clinic visits, remember you're getting **personalized one-on-one care and you save on travel time/costs**. We strive to provide great value – expert care that is worth every rupee in helping you recover faster. Feel free to contact us for a detailed quote for your situation
 
 ### Is physiotherapy at home safe (especially for seniors or post-surgery)?
 

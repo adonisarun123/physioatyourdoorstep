@@ -38,11 +38,11 @@ Our physiotherapists in Chandan Nagar offer a wide range of at-home services, ea
 
 ### Post-Surgery Rehabilitation
 
-After surgery, starting rehabilitation early is crucial. We help patients at home following procedures such as **knee or hip replacement, ACL reconstruction, shoulder repair, spinal surgery and fracture fixation**. You receive a progressive exercise programme and hands-on therapy to reduce pain, improve joint movement and rebuild muscle strength. Because we come to you, even patients fresh out of surgery can begin gentle exercises — with their surgeon's approval — without risking a trip to a clinic. We monitor swelling and ensure safe mobility practice so you regain confidence step by step.
+After surgery, starting rehabilitation early is crucial. We help patients at home following procedures such as **knee or hip replacement, [ACL reconstruction](/acl-reconstruction-rehabilitation), shoulder repair, spinal surgery and fracture fixation**. You receive a progressive exercise programme and hands-on therapy to reduce pain, improve joint movement and rebuild muscle strength. Because we come to you, even patients fresh out of surgery can begin gentle exercises — with their surgeon's approval — without risking a trip to a clinic. We monitor swelling and ensure safe mobility practice so you regain confidence step by step.
 
 ### Orthopaedic Physiotherapy
 
-For bone, muscle and joint problems, our orthopaedic therapy gets you back on your feet. Conditions we commonly treat at home include **chronic back and neck pain, sciatica, arthritis-related knee pain, frozen shoulder, sports sprains, muscle strains and post-fracture stiffness**. Our therapists use therapeutic exercise, stretching, manual joint mobilisation and pain-relief techniques such as heat, ice or TENS to address the root cause. We also teach posture correction and ergonomics, which is particularly useful for IT workers spending long hours at a desk.
+For bone, muscle and joint problems, our orthopaedic therapy gets you back on your feet. Conditions we commonly treat at home include **chronic back and neck pain, [sciatica](/sciatica-physiotherapy), arthritis-related [knee pain](/knee-pain), frozen shoulder, sports sprains, muscle strains and post-fracture stiffness**. Our therapists use therapeutic exercise, stretching, manual joint mobilisation and pain-relief techniques such as heat, ice or TENS to address the root cause. We also teach posture correction and ergonomics, which is particularly useful for IT workers spending long hours at a desk.
 
 ### Neurological Physiotherapy
 
@@ -50,7 +50,7 @@ Patients with neurological conditions benefit greatly from rehabilitation at hom
 
 ### Sports Injury Rehabilitation
 
-Whether you're a weekend warrior or an aspiring athlete in Chandan Nagar, we can get you back in the game. Our sports rehabilitation covers **sprains, ligament tears including ankle sprains and ACL injuries, muscle strains, tendinopathy such as tennis elbow and runner's knee, and post-surgical recovery**. We first focus on reducing pain and swelling through gentle mobilisation and cryotherapy, then restore strength, flexibility and correct movement patterns through targeted exercise and stability training. Because we come to you there's no risk of jostling an injury in transit, and we customise workouts for your sport so you return stronger and avoid re-injury.
+Whether you're a weekend warrior or an aspiring athlete in Chandan Nagar, we can get you back in the game. Our sports rehabilitation covers **sprains, ligament tears including ankle sprains and ACL injuries, muscle strains, tendinopathy such as [tennis elbow](/tennis-elbow-physiotherapy-treatment) and runner's knee, and post-surgical recovery**. We first focus on reducing pain and swelling through gentle mobilisation and [cryotherapy](/thermotherapy-vs-cryotherapy-in-physiotherapy), then restore strength, flexibility and correct movement patterns through targeted exercise and stability training. Because we come to you there's no risk of jostling an injury in transit, and we customise workouts for your sport so you return stronger and avoid re-injury.
 
 ### Geriatric Physiotherapy
 

@@ -122,7 +122,7 @@ Maitland accessory mobilisation of the elbow and Maitland or Mulligan techniques
 
 ### 4. Electrotherapy Modalities
 
-Several electrotherapy modalities have demonstrated evidence of benefit in tennis elbow management:
+Several [electrotherapy](/electrotherapy-modalities-in-physiotherapy) modalities have demonstrated evidence of benefit in tennis elbow management:
 
 - **Therapeutic Ultrasound:** Promotes tissue healing through thermal and non-thermal effects; shown to reduce pain and improve function
 - **Low-Level Laser Therapy (LLLT):** A systematic review of multiple randomised trials found LLLT to be effective at reducing pain and disability in lateral elbow tendinopathy
@@ -134,7 +134,7 @@ Several electrotherapy modalities have demonstrated evidence of benefit in tenni
 
 External support is a commonly used adjunct to physiotherapy, particularly for symptom management during activity:
 
-- **Kinesio Taping:** A randomised controlled trial found that kinesio taping significantly reduced elbow pain during resisted wrist extension compared to sham taping; it is thought to reduce muscle load and improve proprioception
+- **Kinesio Taping:** A randomised controlled trial found that [kinesio taping](/taping) significantly reduced elbow pain during resisted wrist extension compared to sham taping; it is thought to reduce muscle load and improve proprioception
 - **Counterforce Brace (Tennis Elbow Strap):** Worn just below the elbow, it disperses forces away from the lateral epicondyle; useful as an adjunct, particularly during return to aggravating activities
 
 ### 6. Cervical and Neural Mobilisation
@@ -225,20 +225,38 @@ If you are dealing with persistent elbow pain and would like an expert assessmen
 
 Below are answers to the most commonly searched questions about tennis elbow physiotherapy treatment:
 
-- [Is physiotherapy effective for tennis elbow?](#acc-v1ks939-0) Yes, physiotherapy is widely considered the most effective conservative treatment for tennis elbow. Multiple systematic reviews confirm that a multimodal physiotherapy programme combining exercise, manual therapy, and electrotherapy produces significant improvements in pain, strength, and function, and helps prevent recurrence
+### Is physiotherapy effective for tennis elbow?
 
-- [How many physiotherapy sessions will I need for tennis elbow?](#acc-v1ks939-1) The number of sessions varies based on severity and duration. Most patients with acute tennis elbow begin to see meaningful improvement within 6 to 10 sessions over 4 to 6 weeks. Chronic cases may require 12 to 20 sessions over 3 to 6 months, often with a structured home exercise programme running in parallel.
+Yes, physiotherapy is widely considered the most effective conservative treatment for tennis elbow. Multiple systematic reviews confirm that a multimodal physiotherapy programme combining exercise, manual therapy, and electrotherapy produces significant improvements in pain, strength, and function, and helps prevent recurrence.
 
-- [Should I rest completely if I have tennis elbow?](#acc-v1ks939-2) Complete rest is generally not recommended. While you should avoid the specific aggravating activities that caused the injury, staying entirely inactive can weaken the tendon and delay healing. Your physiotherapist will guide you through controlled loading that promotes tendon repair without causing further damage.
+### How many physiotherapy sessions will I need for tennis elbow?
 
-- [Can tennis elbow heal on its own without physiotherapy?](#acc-v1ks939-3) Tennis elbow can resolve naturally over time, but this process may take 12 to 18 months. Physiotherapy significantly accelerates recovery and reduces the risk of the condition becoming chronic or recurring. Without addressing the underlying causes such as muscle weakness or biomechanical issues, recurrence is common.
+The number of sessions varies based on severity and duration. Most patients with acute tennis elbow begin to see meaningful improvement within 6 to 10 sessions over 4 to 6 weeks. Chronic cases may require 12 to 20 sessions over 3 to 6 months, often with a structured home exercise programme running in parallel.
 
-- [What is the best exercise for tennis elbow?](#acc-v1ks939-4) Eccentric wrist extension exercises are among the most evidence-supported exercises for tennis elbow rehabilitation. Isometric holds are useful in the early, painful phase. A complete physiotherapy programme will progress you through isometric, eccentric, and concentric exercises tailored to your stage of recovery.
+### Should I rest completely if I have tennis elbow?
 
-- [Can I play sports with tennis elbow?](#acc-v1ks939-5) It is generally advised to reduce or modify sport participation during the acute and early rehabilitation phases to allow the tendon to recover. Your physiotherapist will give you a graduated return-to-sport plan, which may include taping, equipment adjustments, and technique modification to allow safe return to activity.
+Complete rest is generally not recommended. While you should avoid the specific aggravating activities that caused the injury, staying entirely inactive can weaken the tendon and delay healing. Your physiotherapist will guide you through controlled loading that promotes tendon repair without causing further damage.
 
-- [Is massage good for tennis elbow?](#acc-v1ks939-6) Yes, targeted massage techniques such as deep transverse friction massage (Cyriax physiotherapy) and myofascial release of the forearm extensors have shown clinical benefit in reducing pain and improving function in tennis elbow. These are best performed by a trained physiotherapist as part of a broader treatment plan.
+### Can tennis elbow heal on its own without physiotherapy?
 
-- [When should I consider a steroid injection for tennis elbow?](#acc-v1ks939-7) Corticosteroid injections may be considered when conservative physiotherapy has not produced adequate relief after 6 to 8 weeks. While injections provide rapid short-term pain relief, evidence suggests that physiotherapy produces better long-term outcomes. If you are considering injections, discuss them with your treating physiotherapist and doctor.
+Tennis elbow can resolve naturally over time, but this process may take 12 to 18 months. Physiotherapy significantly accelerates recovery and reduces the risk of the condition becoming chronic or recurring. Without addressing the underlying causes such as muscle weakness or biomechanical issues, recurrence is common.
 
-- [Can physiotherapy be done at home for tennis elbow?](#acc-v1ks939-8) Absolutely. Home physiotherapy is an increasingly popular and effective option, particularly for those who find clinic visits inconvenient. [Physio at Your Doorstep](/) offers qualified physiotherapists who visit your home across Bangalore, providing all the same treatment modalities as a clinic including manual therapy, exercise prescription, and electrotherapy where applicable. You can also start with an [online physiotherapy consultation](/service/online-physiotherapy-consultation-india) for an initial assessment and advice.
+### What is the best exercise for tennis elbow?
+
+Eccentric wrist extension exercises are among the most evidence-supported exercises for tennis elbow rehabilitation. Isometric holds are useful in the early, painful phase. A complete physiotherapy programme will progress you through isometric, eccentric, and concentric exercises tailored to your stage of recovery.
+
+### Can I play sports with tennis elbow?
+
+It is generally advised to reduce or modify sport participation during the acute and early rehabilitation phases to allow the tendon to recover. Your physiotherapist will give you a graduated return-to-sport plan, which may include taping, equipment adjustments, and technique modification to allow safe return to activity.
+
+### Is massage good for tennis elbow?
+
+Yes, targeted massage techniques such as deep transverse friction massage (Cyriax physiotherapy) and myofascial release of the forearm extensors have shown clinical benefit in reducing pain and improving function in tennis elbow. These are best performed by a trained physiotherapist as part of a broader treatment plan.
+
+### When should I consider a steroid injection for tennis elbow?
+
+Corticosteroid injections may be considered when conservative physiotherapy has not produced adequate relief after 6 to 8 weeks. While injections provide rapid short-term pain relief, evidence suggests that physiotherapy produces better long-term outcomes. If you are considering injections, discuss them with your treating physiotherapist and doctor.
+
+### Can physiotherapy be done at home for tennis elbow?
+
+Absolutely. Home physiotherapy is an increasingly popular and effective option, particularly for those who find clinic visits inconvenient. [Physio at Your Doorstep](/) offers qualified physiotherapists who visit your home across Bangalore, providing all the same treatment modalities as a clinic including manual therapy, exercise prescription, and electrotherapy where applicable. You can also start with an [online physiotherapy consultation](/service/online-physiotherapy-consultation-india) for an initial assessment and advice.

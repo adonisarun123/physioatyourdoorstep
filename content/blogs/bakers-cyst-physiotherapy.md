@@ -44,11 +44,11 @@ Understanding the underlying causes is crucial for effective Baker’s cyst phys
 
 ***Knee Joint Disorders:***
 
-- Osteoarthritis: Most common cause in adults over 40
-- Rheumatoid arthritis: Inflammatory condition causing joint destruction
+- [Osteoarthritis](/physiotherapy-for-osteoarthritis): Most common cause in adults over 40
+- [Rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis): Inflammatory condition causing joint destruction
 - Meniscus tears: Particularly posterior horn tears
 - Cartilage damage: Chondromalacia or osteochondral defects
-- Ligament injuries: ACL or PCL tears causing instability
+- Ligament injuries: ACL or [PCL tears](/physiotherapy-for-pcl-injury) causing instability
 
 ***Inflammatory Conditions:***
 
@@ -60,7 +60,7 @@ Understanding the underlying causes is crucial for effective Baker’s cyst phys
 **Risk Factors in Indian Population:**
 
 - Age: Peak incidence between 40-70 years
-- Occupation: Prolonged sitting (IT professionals) or standing (healthcare workers)
+- Occupation: [Prolonged sitting](/desk-job-syndrome-physiotherapy) (IT professionals) or standing (healthcare workers)
 - Sports participation: Cricket, football, running popular in Indian cities
 - Obesity: Higher BMI common in urban Indian populations
 - Previous knee injuries: Sports or accident-related trauma
@@ -331,7 +331,7 @@ Progressive muscle strengthening to support knee function.
 
 Using electrical energy for therapeutic effects.
 
-*TENS (Transcutaneous Electrical Nerve Stimulation):*
+*[TENS](/tens-vs-traction-physiotherapy) (Transcutaneous Electrical Nerve Stimulation):*
 
 - Pain gate mechanism: Blocking pain signals to brain
 - Endorphin release: Natural pain relief hormone stimulation

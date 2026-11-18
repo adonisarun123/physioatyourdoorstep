@@ -42,11 +42,11 @@ Recovering from surgery (like a **hip/knee replacement, ACL repair, shoulder sur
 
 ### Orthopedic Physiotherapy
 
-Our orthopedic physiotherapy addresses any bone, muscle, or joint issues. Whether you have **chronic back pain, neck stiffness, knee pain (ACL or meniscus injuries), frozen shoulder, arthritis, or sciatica**, we provide targeted treatment at home. We combine therapeutic exercises, manual therapy, and modalities
+Our orthopedic physiotherapy addresses any bone, muscle, or joint issues. Whether you have **chronic back pain, neck stiffness, [knee pain](/knee-pain) (ACL or meniscus injuries), frozen shoulder, arthritis, or [sciatica](/sciatica-physiotherapy)**, we provide targeted treatment at home. We combine therapeutic exercises, manual therapy, and modalities
 
 ### Neurological Physiotherapy
 
-Neurological conditions often require consistent rehabilitation to improve mobility and independence. We offer specialized neuro-physio right at your Kothrud home for issues such as **stroke recovery, Parkinson's disease, multiple sclerosis (MS), neuropathies, cerebral palsy, or spinal cord injuries**.
+Neurological conditions often require consistent rehabilitation to improve mobility and independence. We offer specialized neuro-physio right at your Kothrud home for issues such as **stroke recovery, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy) (MS), neuropathies, cerebral palsy, or spinal cord injuries**.
 
 ### Sports Injury Rehabilitation
 
@@ -58,7 +58,7 @@ For elderly patients in Kothrud, we provide gentle and effective physiotherapy a
 
 ### Pediatric Physiotherapy
 
-Children and teens sometimes need physiotherapy too – for injuries or developmental conditions. Our pediatric physiotherapy brings child-friendly, playful rehab exercises right to your Kothrud home. We treat conditions such as developmental delays, cerebral palsy, torticollis, or injuries in young patients.
+Children and teens sometimes need physiotherapy too – for injuries or developmental conditions. Our pediatric physiotherapy brings child-friendly, playful rehab exercises right to your Kothrud home. We treat conditions such as developmental delays, cerebral palsy, [torticollis](/torticollis-physiotherapy-treatment), or injuries in young patients.
 
 ## How It Works: Your Home Physio Journey
 
@@ -117,7 +117,7 @@ It varies by individual. Factors include the type and severity of your condition
 
 ### How much does a home physiotherapy session cost in Kothrud (Pune)?
 
-In Pune, home physiotherapy typically costs around **₹700 to ₹1,000 per session**. The exact price depends on the session duration (usually 45–60 minutes) and your needs. We are transparent about fees, and we'll give you a quote when you book. Package discounts are often available if you book multiple sessions. While home service may seem slightly higher than a basic clinic visit, remember you save on travel expenses and time. We believe in providing excellent value – personalized care that helps you recover faster is worth the investment.
+In Pune, home physiotherapy typically costs around **₹799–₹1,099 per session**. The exact price depends on the session duration (usually 45–60 minutes) and your needs. We are transparent about fees, and we'll give you a quote when you book. Package discounts are often available if you book multiple sessions. While home service may seem slightly higher than a basic clinic visit, remember you save on travel expenses and time. We believe in providing excellent value – personalized care that helps you recover faster is worth the investment.
 
 ### Is physiotherapy at home safe (especially for seniors or post-surgery patients)?
 

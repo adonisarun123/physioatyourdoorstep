@@ -8,7 +8,7 @@ coverImage: "/images/blog/new-project-1-1.jpg"
 category: "Physiotherapy"
 ---
 
-You’ve probably heard a physiotherapist mention TENS, IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without fully understanding what was happening or why. That’s more common than you’d think.
+You’ve probably heard a physiotherapist mention [TENS](/tens-vs-traction-physiotherapy), IFT, or ultrasound therapy. Maybe you’ve even had one of these treatments applied during a session without fully understanding what was happening or why. That’s more common than you’d think.
 
 Electrotherapy is one of the oldest tool sets in physiotherapy practice, and it remains one of the most widely used globally. But in recent years, the conversation around it has shifted significantly. Modern physiotherapy now places active, exercise-based rehabilitation at the centre of treatment, while electrotherapy modalities are used as adjuncts at the right stage of healing.
 
@@ -47,14 +47,14 @@ TENS is one of the most widely used electrotherapy modalities in physiotherapy. 
 **The Endorphin Release Mechanism**
  involves low-frequency TENS (2–10 Hz), which stimulates the release of endogenous opioids including beta-endorphins and met-enkephalin, providing longer-lasting but delayed pain relief.
 
-TENS is used for chronic musculoskeletal pain, nerve pain, post-surgical pain, osteoarthritis, and as part of labour pain management. It is non-invasive, can be used at home with appropriate guidance, and has a strong safety record. Notably, it is one of the few electrotherapy modalities where the evidence remains meaningful for short-term pain relief, though the 2019 Cochrane review on chronic pain noted that the quality of long-term evidence remains low, warranting cautious interpretation.
+TENS is used for chronic musculoskeletal pain, nerve pain, post-surgical pain, [osteoarthritis](/physiotherapy-for-osteoarthritis), and as part of labour pain management. It is non-invasive, can be used at home with appropriate guidance, and has a strong safety record. Notably, it is one of the few electrotherapy modalities where the evidence remains meaningful for short-term pain relief, though the 2019 Cochrane review on chronic pain noted that the quality of long-term evidence remains low, warranting cautious interpretation.
 
 **Contraindications:**
  cardiac pacemaker, pregnancy (over abdomen or uterus), active malignancy, epilepsy, and broken or irritated skin at electrode sites.
 
 ### 2. Interferential Therapy (IFT)
 
-Interferential therapy uses two medium-frequency alternating currents (typically around 4,000 Hz) applied through four electrodes positioned so the currents intersect within the target tissue. Where the two currents interfere with each other, they produce a low-frequency beat frequency, usually between 1 and 150 Hz, within the deeper tissue itself.
+[Interferential therapy](/ict-vs-ipt-vs-ift-in-physiotherapy) uses two medium-frequency alternating currents (typically around 4,000 Hz) applied through four electrodes positioned so the currents intersect within the target tissue. Where the two currents interfere with each other, they produce a low-frequency beat frequency, usually between 1 and 150 Hz, within the deeper tissue itself.
 
 This is a significant advantage over standard TENS. Medium-frequency currents meet less skin resistance and penetrate deeper into tissue, while the interference effect produces low-frequency stimulation at depth without the discomfort of applying low-frequency current at the skin surface.
 
@@ -134,7 +134,7 @@ LLLT has a growing body of evidence supporting its use for musculoskeletal condi
 
 Iontophoresis uses a low-level direct electrical current to drive ionised medication through the skin into the underlying tissue. This allows targeted drug delivery to a specific area without injections or systemic effects.
 
-Common medications delivered via iontophoresis include dexamethasone (a corticosteroid for localised inflammation), lidocaine (a local anaesthetic), and acetic acid (used for calcific deposits). It is used for conditions such as plantar fasciitis, bursitis, tendinitis, and hyperhidrosis.
+Common medications delivered via iontophoresis include dexamethasone (a corticosteroid for localised inflammation), lidocaine (a local anaesthetic), and acetic acid (used for calcific deposits). It is used for conditions such as [plantar fasciitis](/plantar-fascitis), bursitis, tendinitis, and hyperhidrosis.
 
 While iontophoresis is widely used clinically, the evidence base remains relatively limited, with most studies showing modest benefits for conditions like lateral epicondylitis and plantar fasciitis. It is typically used as an adjunct to manual therapy and exercise rather than as a standalone treatment.
 
@@ -237,7 +237,7 @@ The following peer-reviewed publications and clinical resources form part of the
 - Page MJ, Green S, McBain B, et al. *Electrotherapy modalities for rotator cuff disease.* Cochrane Database of Systematic Reviews. 2016. [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8570637/)
 - Johnson, M.I. *Transcutaneous Electrical Nerve Stimulation (TENS): Research to support clinical practice.* Oxford University Press. 2014.
 - Leal-Junior EC, et al. *Photobiomodulation therapy and musculoskeletal conditions.* BMJ Open Sport & Exercise Medicine. 2019.
-- Nadler SF, Weingand K, Kruse RJ. *The Physiologic Basis and Clinical Applications of Cryotherapy and Thermotherapy.* Pain Physician. 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16858479/)
+- Nadler SF, Weingand K, Kruse RJ. *The Physiologic Basis and Clinical Applications of [Cryotherapy](/thermotherapy-vs-cryotherapy-in-physiotherapy) and Thermotherapy.* Pain Physician. 2004. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16858479/)
 *This article is authored by the physiotherapy team at Physio at Your Doorstep, Bangalore, and is reviewed for clinical accuracy. It is intended for educational purposes and does not replace professional medical or physiotherapy advice. Always consult a qualified physiotherapist before beginning any new treatment.*
 
 ## Frequently Asked Questions (FAQs)

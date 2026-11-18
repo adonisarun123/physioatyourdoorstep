@@ -604,16 +604,26 @@ If you or a loved one are facing pulmonary edema, don’t overlook the
 
 Note: This guide is for informational purposes only and does not replace professional medical advice. Always consult with a healthcare provider for personalized recommendations.
 
-## FAQs
-
-- [Can physiotherapy alone treat pulmonary edema?](#acc-7t5s65-0) No. Physiotherapy supports the treatment but is not a standalone cure. It works alongside medications, oxygen therapy, and other medical interventions to speed up recovery and improve outcomes.
-
-- [How soon can I start physiotherapy after being diagnosed with pulmonary edema?](#acc-7t5s65-1) If you’re stable and your doctor clears it, physiotherapy can start within 24–48 hours, even in the hospital. Early intervention leads to better results.
-
-- [Are there specific exercises to avoid with pulmonary edema?](#acc-7t5s65-2) Yes. Avoid high-intensity cardio, heavy lifting, or any exercise that triggers breathlessness. Always follow a physiotherapist-designed plan.
-
-- [How long does it take to recover with physiotherapy?](#acc-7t5s65-3) Recovery varies, but most patients notice improvements within 2–4 weeks of consistent therapy. Full recovery may take longer depending on underlying conditions.
-
-- [Is pulmonary edema physiotherapy suitable for elderly patients?](#acc-7t5s65-4) Absolutely. In fact, physiotherapy is crucial for elderly patients to regain strength, mobility, and respiratory function after an episode of pulmonary edema.
-
 **Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
+
+## Frequently Asked Questions
+
+### Can physiotherapy alone treat pulmonary edema?
+
+No. Physiotherapy supports the treatment but is not a standalone cure. It works alongside medications, oxygen therapy, and other medical interventions to speed up recovery and improve outcomes.
+
+### How soon can I start physiotherapy after being diagnosed with pulmonary edema?
+
+If you’re stable and your doctor clears it, physiotherapy can start within 24–48 hours, even in the hospital. Early intervention leads to better results.
+
+### Are there specific exercises to avoid with pulmonary edema?
+
+Yes. Avoid high-intensity cardio, heavy lifting, or any exercise that triggers breathlessness. Always follow a physiotherapist-designed plan.
+
+### How long does it take to recover with physiotherapy?
+
+Recovery varies, but most patients notice improvements within 2–4 weeks of consistent therapy. Full recovery may take longer depending on underlying conditions.
+
+### Is pulmonary edema physiotherapy suitable for elderly patients?
+
+Absolutely. In fact, physiotherapy is crucial for elderly patients to regain strength, mobility, and respiratory function after an episode of pulmonary edema.

@@ -1,4 +1,5 @@
 import CTABar from "@/components/CTABar";
+import { OG_DEFAULTS } from "@/lib/seo";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import {
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
     title: "Our Services | Professional Physiotherapy Treatments",
     description: "Physiotherapy at home: sports, post-surgical, neurological, geriatric, orthopaedic, pediatric and pulmonary care from expert physiotherapists near you.",
     alternates: { canonical: "/service" },
-    openGraph: { title: "Our Services", url: "/service", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { ...OG_DEFAULTS, title: "Our Services", url: "/service", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 // Icons keyed to the real service slugs from lib/content.

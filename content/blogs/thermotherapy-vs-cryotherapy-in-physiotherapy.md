@@ -39,7 +39,7 @@ Thermotherapy in a clinical setting comes in two forms, **superficial heat** and
 
 Physiotherapists typically recommend heat therapy for:
 
-- **Chronic musculoskeletal conditions** such as chronic low back pain, neck stiffness, and long-standing joint pain
+- **Chronic musculoskeletal conditions** such as chronic low [back pain](/back-ache), neck stiffness, and long-standing joint pain
 - **Muscle tension and spasm**: heat is highly effective at relieving tight, knotted muscles
 - **Osteoarthritis**: particularly during the sub-acute and chronic phases to improve joint flexibility
 - **Delayed Onset Muscle Soreness (DOMS)** after exercise
@@ -82,7 +82,7 @@ Physiotherapists use cold therapy for:
 - **Post-surgical swelling and pain**: cryotherapy reduces inflammation in the early post-operative period
 - **Acute muscle strains and ligament sprains**
 - **Tendinopathies**: particularly following exercise-loading sessions
-- **Acute flare-ups of chronic conditions** like rheumatoid arthritis during active inflammation
+- **Acute flare-ups of chronic conditions** like [rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis) during active inflammation
 - **Sports injury management**: rapid return to activity often begins with effective cryotherapy
 - **Headaches and migraines**: cold application to the neck and head can provide relief
 
@@ -125,7 +125,7 @@ As the acute inflammation begins to settle, the body moves into tissue repair mo
 
 ### The Chronic Phase (Weeks to Months)
 
-In the chronic phase, including long-standing conditions like osteoarthritis, chronic low back pain, or old sports injuries, thermotherapy is typically the preferred modality. Heat improves tissue extensibility, making physiotherapy exercises more effective and reducing the residual stiffness that characterises chronic conditions.
+In the chronic phase, including long-standing conditions like [osteoarthritis](/physiotherapy-for-osteoarthritis), chronic low back pain, or old sports injuries, thermotherapy is typically the preferred modality. Heat improves tissue extensibility, making physiotherapy exercises more effective and reducing the residual stiffness that characterises chronic conditions.
 
 ## What Does the Research Say?
 

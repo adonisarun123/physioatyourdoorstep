@@ -5,7 +5,7 @@ metaTitle: "Torticollis Physiotherapy Treatment: Causes & Techniques"
 metaDescription: "Waking up with your neck twisted to one side, or watching your newborn hold their head at an awkward angle, can be alarming. These are the defining experiences "
 excerpt: "Waking up with your neck twisted to one side, or watching your newborn hold their head at an awkward angle, can be alarming. These are the defining experiences of torticollis, a condition that affects people across all age groups. The good news is that torticollis physiotherapy treatment is highly e"
 coverImage: "/images/blog/new-project-2-1.jpg"
-category: "Physiotherapy"
+category: "Pediatric Physiotherapy"
 ---
 
 Waking up with your neck twisted to one side, or watching your newborn hold their head at an awkward angle, can be alarming. These are the defining experiences of torticollis, a condition that affects people across all age groups. The good news is that torticollis physiotherapy treatment is highly effective and, in most cases, can fully restore normal head and neck positioning without surgery.
@@ -122,7 +122,7 @@ For infants, active exercises are embedded into play and positioning activities,
 
 ### 5. Kinesio Taping
 
-Kinesio taping has gained significant traction as an adjunct therapy in CMT management. By applying elastic tape over or around the affected muscle, therapists can either facilitate weakened muscles or inhibit overactive ones, depending on the application technique. A study by Öhman (2012) demonstrated that kinesio taping produced immediate improvements in muscular imbalance in infants with CMT.
+[Kinesio taping](/taping) has gained significant traction as an adjunct therapy in CMT management. By applying elastic tape over or around the affected muscle, therapists can either facilitate weakened muscles or inhibit overactive ones, depending on the application technique. A study by Öhman (2012) demonstrated that kinesio taping produced immediate improvements in muscular imbalance in infants with CMT.
 
 In adults with spasmodic torticollis, kinesio taping is used alongside other techniques to provide proprioceptive feedback and support postural correction during daily activities.
 
@@ -140,7 +140,7 @@ Improving posture involves maintaining a neutral spine, ensuring ears are aligne
 
 ### 8. Electrotherapy Modalities
 
-Ultrasound therapy and transcutaneous electrical nerve stimulation (TENS) are sometimes used as supportive modalities in torticollis physiotherapy treatment. Therapeutic ultrasound delivers gentle heat to deep tissues, helping to reduce fibrosis and improve the extensibility of shortened muscles. TENS helps manage pain and muscle spasm, particularly in adult patients with acute or subacute presentations. These modalities are most effective when used as part of a comprehensive program rather than in isolation.
+Ultrasound therapy and transcutaneous electrical nerve stimulation ([TENS](/tens-vs-traction-physiotherapy)) are sometimes used as supportive modalities in torticollis physiotherapy treatment. Therapeutic ultrasound delivers gentle heat to deep tissues, helping to reduce fibrosis and improve the extensibility of shortened muscles. TENS helps manage pain and muscle spasm, particularly in adult patients with acute or subacute presentations. These modalities are most effective when used as part of a comprehensive program rather than in isolation.
 
 ## Physiotherapy for Congenital Muscular Torticollis: A Note on Timing
 
@@ -257,4 +257,6 @@ Yes. Untreated congenital muscular torticollis can lead to plagiocephaly (flatte
 
 Home physiotherapy can be highly effective when it is provided by a qualified, experienced physiotherapist who conducts a proper assessment and teaches the correct techniques. At Physio at Your Doorstep, our physiotherapists bring evidence-based treatment directly to your home across Bangalore, ensuring convenience without compromising quality of care. For infant CMT in particular, having a physiotherapist at home allows for direct observation of feeding and carrying positions and more personalized parent guidance.
 
-- [What is torticollis and how does physiotherapy help?](#acc-mxzz258-0) Torticollis is a condition where the neck muscles cause the head to tilt and rotate abnormally, most often due to shortening or spasm of the sternocleidomastoid muscle. Physiotherapy helps by using stretching, manual therapy, and targeted exercises to lengthen the shortened muscle, restore full range of motion, and correct the underlying postural and muscular imbalances. It is the most effective first-line treatment for both infant and adult forms of the condition.
+### What is torticollis and how does physiotherapy help?
+
+Torticollis is a condition where the neck muscles cause the head to tilt and rotate abnormally, most often due to shortening or spasm of the sternocleidomastoid muscle. Physiotherapy helps by using stretching, manual therapy, and targeted exercises to lengthen the shortened muscle, restore full range of motion, and correct the underlying postural and muscular imbalances. It is the most effective first-line treatment for both infant and adult forms of the condition.

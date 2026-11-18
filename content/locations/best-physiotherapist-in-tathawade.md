@@ -40,11 +40,11 @@ Recovering from surgery can be challenging. Our at-home post-operative rehab hel
 
 ### Orthopedic Physiotherapy
 
-This service addresses bone, muscle, and joint issues – from chronic back or neck pain to acute injuries like fractures and sprains. Whether you have arthritis, knee pain, shoulder stiffness or post-fracture weakness, our physiotherapist provides targeted exercises
+This service addresses bone, muscle, and joint issues – from chronic back or neck pain to acute injuries like fractures and sprains. Whether you have arthritis, [knee pain](/knee-pain), shoulder stiffness or post-fracture weakness, our physiotherapist provides targeted exercises
 
 ### Neurological Physiotherapy
 
-Patients with neurological conditions (stroke, Parkinson's disease, multiple sclerosis, cerebral palsy, neuropathies, etc.) benefit greatly from dedicated home therapy. We offer neurological rehab that focuses on improving balance, coordination, strength and independence
+Patients with neurological conditions (stroke, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), cerebral palsy, neuropathies, etc.) benefit greatly from dedicated home therapy. We offer neurological rehab that focuses on improving balance, coordination, strength and independence
 
 ### Sports Injury Rehabilitation
 
@@ -56,7 +56,7 @@ For seniors in Tathawade, we provide gentle, effective physiotherapy to address 
 
 ### Pediatric Physiotherapy
 
-Children and teens sometimes need physiotherapy too, whether recovering from injuries or addressing developmental concerns. Our pediatric physiotherapy uses fun, age-appropriate exercises and activities right in your home. We help young patients improve strength, coordination, and movement patterns in a playful way
+Children and teens sometimes need physiotherapy too, whether recovering from injuries or addressing developmental concerns. Our [pediatric physiotherapy](/service/pediatric-physiotherapy) uses fun, age-appropriate exercises and activities right in your home. We help young patients improve strength, coordination, and movement patterns in a playful way
 
 ## How It Works?
 
@@ -86,7 +86,7 @@ We're proud to serve Tathawade and the surrounding neighborhoods with our home p
 
 - **Tathawade (Pimple Nilakh)**: All parts of Tathawade and broader Pimple Nilakh fall within our reach. Whether you're near Bhumkar Chowk or Prahar Panchavati, our physio will come to you with all necessary equipment.
 - **Wakad & Hinjawadi**: Just 3–5 km from Tathawade, the bustling Wakad and Hinjawadi IT Park area are covered. If you live in Wakad, Rajarampuri, or Hinjewadi Phase 1, we'll reach your home for neck/back pain, tech-neck, or post-workout rehab without the commute.
-- **Punawale & Ravet**: Residents of Punawale and [Ravet](/best-physiotherapist-in-ravet) can also book our home visits. These areas are only a short drive away, so we often help patients there with back pain, knee arthritis, post-surgery recovery and more.
+- **Punawale & Ravet**: Residents of Punawale and [Ravet](/best-physiotherapist-in-ravet) can also book our home visits. These areas are only a short drive away, so we often help patients there with [back pain](/back-ache), knee arthritis, post-surgery recovery and more.
 - **Kiwale & Chandni Chowk**: Nearby Pimpri-Chinchwad localities like Kiwale or Chandni Chowk are also in our service zone. If you're along the Bhosari Road or Pune-Mumbai Highway near Tathawade, we can arrange home physiotherapy at your doorstep.
 
 If your specific Tathawade neighborhood isn't listed but is nearby, feel free to contact us – we likely cover it. Our mission is making quality physiotherapy accessible across north-west Pune without leaving your home.
@@ -115,7 +115,7 @@ Every patient is different. The number of sessions depends on the nature and sev
 
 ### How much does a home physiotherapy session cost in Pune?
 
-In Pune (including Tathawade), a single home physio visit generally costs in the range of ₹799–₹1099 for a 45–60 minute session. The exact fee depends on the complexity of your condition and session length. We're transparent about pricing, and package discounts are often available. Note that home service includes travel, so while it may be slightly higher per visit than a clinic, you save on travel time and transport costs. We'll give you an exact quote when you book
+In Pune (including Tathawade), a single home physio visit generally costs in the range of ₹799–₹1,099 for a 45–60 minute session. The exact fee depends on the complexity of your condition and session length. We're transparent about pricing, and package discounts are often available. Note that home service includes travel, so while it may be slightly higher per visit than a clinic, you save on travel time and transport costs. We'll give you an exact quote when you book
 
 ### Is physiotherapy at home safe for seniors or post-surgery patients?
 

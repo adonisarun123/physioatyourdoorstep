@@ -1,4 +1,5 @@
 import CTABar from "@/components/CTABar";
+import { OG_DEFAULTS } from "@/lib/seo";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { MapPin, ArrowRight } from "lucide-react";
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
     title: "Our Locations | Home Physiotherapy Services",
     description: "We provide professional home physiotherapy services across multiple locations in Bangalore and Pune. Find a physiotherapist near you.",
     alternates: { canonical: "/locations" },
-    openGraph: { title: "Our Locations", url: "/locations", type: "website", images: ["/images/logo-square.webp"], },
+    openGraph: { ...OG_DEFAULTS, title: "Our Locations", url: "/locations", type: "website", images: ["/images/logo-square.webp"], },
 };
 
 export default async function LocationsPage() {

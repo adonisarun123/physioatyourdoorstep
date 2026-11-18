@@ -9,7 +9,7 @@ category: "Post-Surgical Physiotherapy"
 ---
 ## Introduction
 
-Exercises that can help you recover from your knee specials can be time-consuming ensure you take the few moments needed to do them. Be it Total KNEE replacement, ACL reconstruction, or MENISCUS surgery, [physiotherapy](/) is a significant treatment in restoring mobility and strength. Moreover, how vital it is to stick to a structured rehabilitation program at each stage of the healing process, including various exercises.
+Exercises that can help you recover from your knee specials can be time-consuming ensure you take the few moments needed to do them. Be it [Total KNEE replacement](/physiotherapy-after-total-knee-replacement), ACL reconstruction, or MENISCUS surgery, [physiotherapy](/service) is a significant treatment in restoring mobility and strength. Moreover, how vital it is to stick to a structured rehabilitation program at each stage of the healing process, including various exercises.
 
 In this guide, we will discuss the [most effective physiotherapy exercises](/back-ache) for knee surgery recovery, when to begin them and the contribution that physiotherapy makes in restoring the knee to normal function.
 

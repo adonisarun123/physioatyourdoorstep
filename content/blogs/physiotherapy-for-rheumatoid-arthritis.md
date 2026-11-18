@@ -9,7 +9,7 @@ category: "Orthopaedic Physiotherapy"
 ---
 ### Introduction
 
-Rheumatoid arthritis (RA) is a chronic autoimmune condition that causes inflammation, pain, and joint stiffness. Unlike osteoarthritis, which results from wear and tear, RA occurs when the immune system mistakenly attacks the joints, leading to damage over time. Managing RA effectively requires a combination of medication, lifestyle modifications, and physiotherapy.
+Rheumatoid arthritis (RA) is a chronic autoimmune condition that causes inflammation, pain, and joint stiffness. Unlike [osteoarthritis](/physiotherapy-for-osteoarthritis), which results from wear and tear, RA occurs when the immune system mistakenly attacks the joints, leading to damage over time. Managing RA effectively requires a combination of medication, lifestyle modifications, and physiotherapy.
 
 Physiotherapy plays a crucial role in RA management by helping patients maintain mobility, reduce pain, and prevent joint deformities. With the right [physiotherapy approach](/service/orthopaedic-physiotherapy), individuals with RA can improve their quality of life and continue performing daily activities with less discomfort.
 
@@ -108,7 +108,7 @@ Manual therapy should always be performed by a trained professional to avoid fur
 
 #### How Hydrotherapy Benefits Rheumatoid Arthritis (RA) Patients
 
-Hydrotherapy, or aquatic therapy, involves performing exercises in warm water. The buoyancy of water reduces stress on joints, making movement easier and less painful. Warm water also soothes sore muscles and improves circulation.
+[Hydrotherapy](/types-of-hydrotherapy-in-physiotherapy), or aquatic therapy, involves performing exercises in warm water. The buoyancy of water reduces stress on joints, making movement easier and less painful. Warm water also soothes sore muscles and improves circulation.
 
 #### Recommended Water Exercises
 
@@ -130,7 +130,7 @@ Hydrotherapy is an excellent option for RA patients who struggle with land-based
 
 #### How Electrotherapy Helps with RA Pain
 
-Electrotherapy uses electrical impulses to stimulate nerves and muscles, helping to relieve pain and inflammation. It is a non-invasive, drug-free method of managing RA symptoms.
+[Electrotherapy](/electrotherapy-modalities-in-physiotherapy) uses electrical impulses to stimulate nerves and muscles, helping to relieve pain and inflammation. It is a non-invasive, drug-free method of managing RA symptoms.
 
 #### Types of Electrotherapy Used in Physiotherapy
 

@@ -22,7 +22,7 @@ A sports assessment in physiotherapy is a structured evaluation of your movement
 - Load tolerance and readiness (training load history, recovery, sleep, and stress)
 - Return-to-sport criteria (if you’re coming back after injury or surgery)
 
-Semantic terms you might recognize: musculoskeletal screening, functional movement assessment, sports physiotherapy evaluation, pre-participation screening, biomechanical analysis, injury risk assessment, performance testing, return-to-play/return-to-sport testing, athlete screening.
+Semantic terms you might recognize: musculoskeletal screening, functional movement assessment, [sports physiotherapy](/service/sports-physiotherapy) evaluation, pre-participation screening, biomechanical analysis, injury risk assessment, performance testing, return-to-play/return-to-sport testing, athlete screening.
 
 ## When should athletes get a sports assessment?
 
@@ -191,7 +191,7 @@ Whether you’re a runner, weekend footballer, badminton player, or a competitiv
 ## Related internal links (unique URLs, used once each)
 
 - Orthopaedic conditions in physiotherapy: </orthopaedic-conditions-in-physiotherapy/>
-- Post-surgical rehabilitation: </physiotherapy-in-post-surgical-rehabilitation/>
+- [Post-surgical rehabilitation](/service/post-surgical-physiotherapy): </physiotherapy-in-post-surgical-rehabilitation/>
 - Neurological assessment in physiotherapy: </neurological-assessment-in-physiotherapy/>
 - Baker’s cyst physiotherapy: </bakers-cyst-physiotherapy/>
 - Physiotherapy vs remedial vs chiropractic: </physiotherapy-vs-remedial-vs-chiropractic/>

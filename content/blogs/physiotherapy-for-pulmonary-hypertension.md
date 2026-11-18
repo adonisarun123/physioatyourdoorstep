@@ -5,7 +5,7 @@ metaTitle: "Physiotherapy for Pulmonary Hypertension in Pregnancy"
 metaDescription: "Learn how physiotherapy for pulmonary hypertension during pregnancy supports safe mobility, controlled exertion, and better maternal health."
 excerpt: "Pregnancy brings joy and anticipation, but for women diagnosed with pulmonary hypertension, it also introduces complex medical challenges that require specialized care and management."
 coverImage: "/images/blog/physiotherapy-for-pulmonary-hypertension.jpg"
-category: "Physiotherapy at Pregnancy"
+category: "Pulmonary Physiotherapy"
 ---
 
 Pregnancy brings joy and anticipation, but for women diagnosed with pulmonary hypertension, it also introduces complex medical challenges that require specialized care and management. Understanding the role of physiotherapy in pulmonary hypertension during pregnancy has become increasingly crucial as more women with this condition seek to have healthy pregnancies and deliveries.
@@ -381,7 +381,7 @@ Remember that every pregnancy with pulmonary hypertension is unique, and treatme
 
 - Physio At Your Doorstep – Specialized home-based physiotherapy services
 - [Orthopedic Physiotherapy](/service/orthopaedic-physiotherapy) – Comprehensive musculoskeletal care
-- [Neurological Physiotherapy](/service/neurological-physiotherapy) – Specialized neurological rehabilitation
+- [Neurological Physiotherapy](/service/neurological-physiotherapy) – Specialized [neurological rehabilitation](/types-of-neurological-rehabilitation)
 - [Sports Physiotherapy](/service/sports-physiotherapy) – Athletic injury management and prevention
 
 *Serving areas including JP Nagar, BTM Layout, Jayanagar, Koramangala, HSR Layout, and Whitefield*

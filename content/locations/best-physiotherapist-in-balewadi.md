@@ -42,15 +42,15 @@ Recovering from surgery can be challenging, but our at-home post-operative rehab
 
 ### Orthopedic Physiotherapy
 
-Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like sprains or fractures. If you're suffering from, knee injuries, frozen shoulder, arthritis pain, or sciatica, our physiotherapist will provide targeted treatment at home
+Our orthopedic physiotherapy service addresses any muscle, bone, or joint issues – from chronic back/neck pain to acute injuries like sprains or fractures. If you're suffering from, knee injuries, frozen shoulder, arthritis pain, or [sciatica](/sciatica-physiotherapy), our physiotherapist will provide targeted treatment at home
 
 ### Neurological Physiotherapy
 
-Patients with neurological conditions can greatly benefit from physiotherapy. We offer specialized neuro physiotherapy at your doorstep for conditions such as stroke recovery, Parkinson's disease, multiple sclerosis(MS), cerebral palsy, neuropathies, and paralysis rehabilitation
+Patients with neurological conditions can greatly benefit from physiotherapy. We offer specialized neuro physiotherapy at your doorstep for conditions such as stroke recovery, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy)(MS), cerebral palsy, neuropathies, and paralysis rehabilitation
 
 ### Sports Injury Rehabilitation
 
-If you've suffered a sports-related injury or sprain, our home physiotherapy can get you back in the game safely. Sports injuries often involve muscles, ligaments, or joints – for example, ligament tears, muscle strains, tennis elbow, runner's knee, or ankle sprains
+If you've suffered a sports-related injury or sprain, our home physiotherapy can get you back in the game safely. Sports injuries often involve muscles, ligaments, or joints – for example, ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, or ankle sprains
 
 ### Geriatric Physiotherapy
 
@@ -122,7 +122,7 @@ The cost of home physiotherapy in Balewadi depends on the type of treatment you 
 
 ### Do you provide physiotherapy for senior citizens at home in Balewadi?
 
-Absolutely. We specialize in geriatric physiotherapy and frequently treat senior citizens in the Balewadi area. Our physiotherapists are experienced in addressing age-related conditions such as osteoarthritis, knee pain, back pain, osteoporosis, post-stroke rehabilitation, and general weakness in the elderly. We understand that seniors may move at a slower pace or have multiple health considerations – our therapists take a gentle, patient-centric approach. By having the sessions at home, older adults can exercise in a comfortable and familiar setting. We also guide family members on how to assist or create a safe home environment (for example, fall-proofing the house). Our goal is to improve our senior patients' mobility, reduce their pain, and help them maintain independence through dedicated at-home care.
+Absolutely. We specialize in geriatric physiotherapy and frequently treat senior citizens in the Balewadi area. Our physiotherapists are experienced in addressing age-related conditions such as osteoarthritis, [knee pain](/knee-pain), back pain, osteoporosis, post-stroke rehabilitation, and general weakness in the elderly. We understand that seniors may move at a slower pace or have multiple health considerations – our therapists take a gentle, patient-centric approach. By having the sessions at home, older adults can exercise in a comfortable and familiar setting. We also guide family members on how to assist or create a safe home environment (for example, fall-proofing the house). Our goal is to improve our senior patients' mobility, reduce their pain, and help them maintain independence through dedicated at-home care.
 
 ### Can children receive physiotherapy at home in Balewadi?
 

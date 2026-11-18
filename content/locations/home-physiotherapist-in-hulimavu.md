@@ -38,7 +38,7 @@ We provide a comprehensive range of physiotherapy services in Hulimavu, all deli
 
 ### Post-Surgery Rehabilitation
 
-Personalized rehab programs to help you regain strength and mobility after operations. Whether you've had a knee replacement, hip surgery, or back surgery at a nearby hospital, our physiotherapists will guide you through safe exercises and pain management techniques at home.
+Personalized rehab programs to help you regain strength and mobility after operations. Whether you've had a [knee replacement](/physiotherapy-exercises-after-knee-surgery), hip surgery, or back surgery at a nearby hospital, our physiotherapists will guide you through safe exercises and pain management techniques at home.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -148,11 +148,11 @@ Absolutely. We understand that some patients may be more comfortable with a fema
 
 ### What conditions do your home physiotherapists treat in Hulimavu?
 
-Our physiotherapists are trained to treat a wide range of conditions. In Hulimavu, we regularly help patients with **orthopedic issues** (like back pain, neck pain, knee injuries, frozen shoulder), **post-operative rehab** (after fractures, joint replacements, etc.), **neurological conditions** (such as stroke recovery, Parkinson's disease, neuropathy), **sports injuries** (e.g. ligament tears, sprains), and **chronic pain conditions**. We also handle **pediatric cases** (e.g. cerebral palsy therapy) and **geriatric problems** (like arthritis management, improving mobility in seniors). If you're unsure whether your condition can be treated with physiotherapy, just call us – in most cases, physiotherapy can significantly help, and if not, we will guide you on the next steps.
+Our physiotherapists are trained to treat a wide range of conditions. In Hulimavu, we regularly help patients with **orthopedic issues** (like [back pain](/back-ache), neck pain, knee injuries, frozen shoulder), **post-operative rehab** (after fractures, joint replacements, etc.), **neurological conditions** (such as stroke recovery, Parkinson's disease, neuropathy), **sports injuries** (e.g. ligament tears, sprains), and **chronic pain conditions**. We also handle **pediatric cases** (e.g. cerebral palsy therapy) and **geriatric problems** (like arthritis management, improving mobility in seniors). If you're unsure whether your condition can be treated with physiotherapy, just call us – in most cases, physiotherapy can significantly help, and if not, we will guide you on the next steps.
 
 ### Do I need to have any special equipment at home for the therapy?
 
-No special equipment is required from your side. Our physiotherapist will bring basic therapy essentials with them **to your home in Hulimavu**, such as resistance bands, therapy balls, or other small devices if needed. They can get creative with the space and furniture you have – for instance, using a chair for certain exercises or a towel for stretches. If your treatment plan requires a specific device (like a TENS machine or ultrasound), the therapist will arrange for it and bring it along. They may also recommend affordable equipment for long-term use (like a theraband or ankle weights), but that's completely up to you. Essentially, we make sure your home becomes the therapy space without you having to invest in expensive machines.
+No special equipment is required from your side. Our physiotherapist will bring basic therapy essentials with them **to your home in Hulimavu**, such as resistance bands, therapy balls, or other small devices if needed. They can get creative with the space and furniture you have – for instance, using a chair for certain exercises or a towel for stretches. If your treatment plan requires a specific device (like a [TENS](/tens-vs-traction-physiotherapy) machine or ultrasound), the therapist will arrange for it and bring it along. They may also recommend affordable equipment for long-term use (like a theraband or ankle weights), but that's completely up to you. Essentially, we make sure your home becomes the therapy space without you having to invest in expensive machines.
 
 ### Is home physiotherapy suitable for seniors or elderly patients?
 

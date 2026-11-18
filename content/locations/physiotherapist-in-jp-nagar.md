@@ -42,7 +42,7 @@ We offer a wide range of **home physiotherapy services in JP Nagar** designed to
 
 ### Post-Surgery Rehabilitation
 
-Recovering from surgery? We help restore movement and strength post knee replacement, spine surgery, ligament repair, or fractures.
+Recovering from surgery? We help restore movement and strength post [knee replacement](/physiotherapy-exercises-after-knee-surgery), spine surgery, ligament repair, or fractures.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -54,7 +54,7 @@ Our expert therapists combine manual therapy, stretching, and ergonomic correcti
 
 ### Stroke & Neurological Rehabilitation
 
-Our therapists help patients with stroke, Parkinson's, multiple sclerosis, and neuropathies through targeted rehabilitation and neuro-motor training.
+Our therapists help patients with stroke, Parkinson's, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), and neuropathies through targeted rehabilitation and neuro-motor training.
 
 [Learn More](/service/neurological-physiotherapy)
 
@@ -137,7 +137,7 @@ Not in JP Nagar? We also serve patients in **Koramangala**, **HSR Layout**, **Be
 
 ### What is the cost of home physiotherapy in JP Nagar, Bangalore?
 
-The **cost of home physiotherapy in JP Nagar** can vary depending on the type of condition being treated, the complexity of the therapy, and the number of sessions required. On average, per-session charges in Bangalore typically range from ₹500 to ₹1,200. At *Physio At Your Doorstep*, we provide transparent pricing with no hidden charges. We also offer discounts on package bookings for long-term rehabilitation or chronic condition management. To get an accurate quote, simply contact us with details about your condition, and we'll guide you with the best pricing options suited to your recovery goals.
+The **cost of home physiotherapy in JP Nagar** can vary depending on the type of condition being treated, the complexity of the therapy, and the number of sessions required. On average, per-session charges in Bangalore typically range from ₹799–₹1,099. At *Physio At Your Doorstep*, we provide transparent pricing with no hidden charges. We also offer discounts on package bookings for long-term rehabilitation or chronic condition management. To get an accurate quote, simply contact us with details about your condition, and we'll guide you with the best pricing options suited to your recovery goals.
 
 ### How can I find the best home physiotherapist in JP Nagar?
 
@@ -163,7 +163,7 @@ Yes, we strive to provide **same-day home physiotherapy appointments in JP Nagar
 
 We treat a wide range of conditions, including:
 
-- **Orthopedic issues** like back pain, sciatica, cervical spondylosis, and frozen shoulder
+- **Orthopedic issues** like back pain, [sciatica](/sciatica-physiotherapy), [cervical spondylosis](/cervical-spondylitis-physiotherapy-treatment), and frozen shoulder
 - **Post-surgical rehab** for knee replacements, ligament repairs, fractures, and spinal surgeries
 - **Neurological rehab** for stroke recovery, Parkinson's disease, and nerve damage
 - **Sports injuries** such as sprains, strains, and tendon injuries

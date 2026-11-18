@@ -3,7 +3,7 @@ title: "Best Physiotherapist on MG Road, Camp Pune | Professional Home Physiothe
 city: "Pune"
 area: "MG Road"
 metaTitle: "Best Physiotherapist in MG Road, Camp Pune | Physio at Home"
-metaDescription: "Looking for the best physiotherapist on MG Road or in Camp, Pune? Certified physios at your home for knee pain, back pain, stroke rehab, elderly & post-surgery care."
+metaDescription: "Best physiotherapist on MG Road and Camp, Pune: certified physios at home for knee and back pain, stroke rehab, elderly and post-surgery care."
 ---
 
 ## Expert Physiotherapy Care at Your Doorstep on MG Road
@@ -38,7 +38,7 @@ When therapy doesn't depend on travel, patients rarely miss sessions. Regular, u
 
 ### [Post-Surgery Rehabilitation](/service/post-surgical-physiotherapy)
 
-Guided recovery at home after surgery. If you've had a knee replacement, hip replacement, hip fracture surgery, ACL reconstruction, spine surgery or shoulder surgery, our physiotherapists help you control pain and swelling, rebuild strength and get back to walking confidently, right from your home in Camp.
+Guided recovery at home after surgery. If you've had a knee replacement, hip replacement, hip fracture surgery, [ACL reconstruction](/acl-reconstruction-rehabilitation), spine surgery or shoulder surgery, our physiotherapists help you control pain and swelling, rebuild strength and get back to walking confidently, right from your home in Camp.
 
 ### [Orthopedic Physiotherapy](/service/orthopaedic-physiotherapy)
 
@@ -115,15 +115,15 @@ Yes. Pune Cantonment is home to many serving and retired defence personnel and t
 
 ### Is paralysis and stroke physiotherapy available at home in Camp, Pune?
 
-Yes, we provide [**paralysis physiotherapy at home**](/service/neurological-physiotherapy) **in Camp** and on MG Road for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, Guillain-Barré syndrome and other neurological conditions. For these patients, travelling through Camp several times a week is often difficult or unsafe, so home-based neuro rehabilitation is the most practical option. Our **neuro physiotherapists** work on strength, balance, walking, sitting and standing control, hand function and daily activities like dressing and eating, and train family members and caregivers in safe transfers and simple exercises between sessions.
+Yes, we provide [**paralysis physiotherapy at home**](/service/neurological-physiotherapy) **in Camp** and on MG Road for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, [Guillain-Barré syndrome](/gbs-physiotherapy-assessment-and-recovery) and other neurological conditions. For these patients, travelling through Camp several times a week is often difficult or unsafe, so home-based neuro rehabilitation is the most practical option. Our **neuro physiotherapists** work on strength, balance, walking, sitting and standing control, hand function and daily activities like dressing and eating, and train family members and caregivers in safe transfers and simple exercises between sessions.
 
 ### Do you offer physiotherapy at home after knee replacement or hip fracture surgery?
 
-Absolutely. [**Physiotherapy after knee replacement**](/service/post-surgical-physiotherapy) and after hip fracture surgery are among the most common reasons families in Camp call us, particularly for elderly patients. After a total knee replacement (TKR), hip replacement, fracture fixation or ACL reconstruction, structured physiotherapy is essential to regain movement, strength and a safe walking pattern. Our physiotherapist follows your surgeon's protocol and progresses you step by step, from bed exercises and walker training to independent walking and climbing stairs, which is especially important for homes without lifts. Home sessions mean you don't need to travel while you're in pain or using a walker.
+Absolutely. [**Physiotherapy after knee replacement**](/service/post-surgical-physiotherapy) and after hip fracture surgery are among the most common reasons families in Camp call us, particularly for elderly patients. After a [total knee replacement](/physiotherapy-after-total-knee-replacement) (TKR), hip replacement, fracture fixation or ACL reconstruction, structured physiotherapy is essential to regain movement, strength and a safe walking pattern. Our physiotherapist follows your surgeon's protocol and progresses you step by step, from bed exercises and walker training to independent walking and climbing stairs, which is especially important for homes without lifts. Home sessions mean you don't need to travel while you're in pain or using a walker.
 
 ### Can you treat back pain, leg pain and heel pain from standing all day at work?
 
-Yes. Many shop owners, staff and traders on MG Road, East Street and Centre Street spend long hours standing or sitting at a counter, which often leads to **lower back pain, sciatica, knee pain, heel pain (plantar fasciitis), tired and aching legs, and neck pain**. Our physiotherapist identifies what is driving your pain and treats it with manual therapy, targeted stretching and strengthening, posture correction and pain-relief modalities like TENS where needed. We also give you simple routines and footwear and posture tips to use during your working day, and early morning or late evening slots so treatment fits around shop timings.
+Yes. Many shop owners, staff and traders on MG Road, East Street and Centre Street spend long hours standing or sitting at a counter, which often leads to **lower back pain, sciatica, knee pain, heel pain ([plantar fasciitis](/plantar-fascitis)), tired and aching legs, and neck pain**. Our physiotherapist identifies what is driving your pain and treats it with manual therapy, targeted stretching and strengthening, posture correction and pain-relief modalities like TENS where needed. We also give you simple routines and footwear and posture tips to use during your working day, and early morning or late evening slots so treatment fits around shop timings.
 
 ### Can I get a female physiotherapist at home in Camp?
 

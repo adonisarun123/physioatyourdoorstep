@@ -30,7 +30,7 @@ Pulmonary physiotherapy helps to:
 
 ## Conditions Treated in Pulmonary Physiotherapy
 
-- Chronic obstructive pulmonary disease (COPD)  
+- Chronic obstructive pulmonary disease ([COPD](/copd-physiotherapy-management))  
 - Bronchiectasis  
 - Cystic fibrosis  
 - Post-pneumonia recovery  

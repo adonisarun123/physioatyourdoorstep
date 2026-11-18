@@ -42,11 +42,11 @@ Recover safely after surgeries (such as knee or hip replacement, ACL repair, spi
 
 ### Orthopedic Physiotherapy
 
-We treat bone, muscle, and joint problems at home. This includes chronic back pain, neck pain, knee pain (meniscus or ligament injuries), shoulder stiffness (frozen shoulder), and arthritis. Using targeted exercises, stretching, manual therapy, and simple modalities like heat/ice, we relieve pain and improve function
+We treat bone, muscle, and joint problems at home. This includes chronic back pain, neck pain, [knee pain](/knee-pain) (meniscus or ligament injuries), shoulder stiffness (frozen shoulder), and arthritis. Using targeted exercises, stretching, manual therapy, and simple modalities like heat/ice, we relieve pain and improve function
 
 ### Neurological Physiotherapy
 
-Conditions like stroke, Parkinson's, multiple sclerosis, neuropathies, and cerebral palsy benefit from dedicated neuro-physio. Our neuro rehab at home focuses on improving balance, coordination, muscle control and daily function. The therapist will guide exercises that retrain movements, such as sitting up, standing, or walking.
+Conditions like stroke, Parkinson's, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), neuropathies, and cerebral palsy benefit from dedicated neuro-physio. Our neuro rehab at home focuses on improving balance, coordination, muscle control and daily function. The therapist will guide exercises that retrain movements, such as sitting up, standing, or walking.
 
 ### Sports Injury Rehabilitation
 
@@ -76,7 +76,7 @@ On our first visit, the therapist will assess your physical condition, pain leve
 
 ### Treatment & Recovery
 
-We conduct regular therapy sessions at your home (each 45–60 minutes). During each session, you'll do guided exercises, manual therapy, and any needed stretches under the therapist's supervision. We bring portable equipment (such as exercise bands, small weights, and TENS unit) so you can receive clinic-quality treatment.
+We conduct regular therapy sessions at your home (each 45–60 minutes). During each session, you'll do guided exercises, manual therapy, and any needed stretches under the therapist's supervision. We bring portable equipment (such as exercise bands, small weights, and [TENS](/tens-vs-traction-physiotherapy) unit) so you can receive clinic-quality treatment.
 
 ### Ongoing Support
 
@@ -114,11 +114,11 @@ A very wide range. We treat orthopedic issues (like back pain, neck pain, knee i
 
 ### How many physiotherapy sessions will I need?
 
-It depends on the nature and severity of your condition. A minor injury might need just a few weeks of therapy, while chronic or major cases (like post-stroke or knee replacement) may require months of regular sessions. Most patients notice improvement (less pain, better movement) within the first 2–3 sessions. We usually start with a package of about 10 sessions and reassess progress afterwards. Your therapist will discuss the estimated number of sessions needed during the assessment. Staying consistent with your exercises at home will help speed up recovery.
+It depends on the nature and severity of your condition. A minor injury might need just a few weeks of therapy, while chronic or major cases (like post-stroke or [knee replacement](/physiotherapy-exercises-after-knee-surgery)) may require months of regular sessions. Most patients notice improvement (less pain, better movement) within the first 2–3 sessions. We usually start with a package of about 10 sessions and reassess progress afterwards. Your therapist will discuss the estimated number of sessions needed during the assessment. Staying consistent with your exercises at home will help speed up recovery.
 
 ### How much does home physiotherapy cost in Pimple Saudagar (Pune)?
 
-Home physiotherapy in Pune generally costs around **₹700–₹1,000 per session** for a 45–60 minute visit. The exact fee depends on your condition's complexity and the session length. We are transparent about pricing: when you call to book, we'll provide a clear quote. Packages or multiple-session discounts are available. While home care might be slightly higher than a basic clinic session, remember you save on travel and time. We ensure you get great value for expert one-on-one care.
+Home physiotherapy in Pune generally costs around **₹799–₹1,099 per session** for a 45–60 minute visit. The exact fee depends on your condition's complexity and the session length. We are transparent about pricing: when you call to book, we'll provide a clear quote. Packages or multiple-session discounts are available. While home care might be slightly higher than a basic clinic session, remember you save on travel and time. We ensure you get great value for expert one-on-one care.
 
 ### Is physiotherapy at home safe (especially for seniors or post-surgery patients)?
 

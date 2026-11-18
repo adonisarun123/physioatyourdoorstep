@@ -14,7 +14,7 @@ Caring for a family member after a stroke, or living with Parkinson's, paralysis
 
 Neurological physiotherapy helps people affected by conditions of the brain, spinal cord and nerves regain as much movement, balance and independence as possible. Recovery works by encouraging the nervous system to relearn movement through repeated, task-specific practice — which is why consistency and the right environment matter so much.
 
-We work with stroke and paralysis, Parkinson's disease, multiple sclerosis, neuropathy, Bell's palsy and balance and gait disorders, always alongside the patient's neurologist and medical team. You can read more about our full [neurological physiotherapy service](/service/neurological-physiotherapy) and how it is delivered across Bangalore.
+We work with stroke and paralysis, Parkinson's disease, [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy), neuropathy, Bell's palsy and balance and gait disorders, always alongside the patient's neurologist and medical team. You can read more about our full [neurological physiotherapy service](/service/neurological-physiotherapy) and how it is delivered across Bangalore.
 
 ## Why home care is the right setting in HSR Layout
 

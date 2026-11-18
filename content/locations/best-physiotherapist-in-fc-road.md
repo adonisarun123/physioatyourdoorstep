@@ -42,7 +42,7 @@ Guided recovery after knee and hip replacement, ACL reconstruction, meniscus rep
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Relief for knee pain and osteoarthritis, lower back pain, slip disc, sciatica, cervical spondylosis, neck pain, frozen shoulder, heel pain (plantar fasciitis), sprains and fracture rehab — including the posture-related pain that comes from long hours of studying, laptop work and phone use.
+Relief for knee pain and osteoarthritis, lower back pain, slip disc, sciatica, cervical spondylosis, neck pain, frozen shoulder, heel pain ([plantar fasciitis](/plantar-fascitis)), sprains and fracture rehab — including the posture-related pain that comes from long hours of studying, laptop work and phone use.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
@@ -74,7 +74,7 @@ On the first visit, the physiotherapist reviews your history, reports and X-rays
 
 ### 3. A personalised plan
 
-You get a clear plan — therapeutic exercise, manual therapy (joint mobilisation, soft-tissue release), pain-relief modalities such as TENS or ultrasound and kinesio taping where needed, how often we visit and what to do between sessions — with realistic short- and long-term goals.
+You get a clear plan — therapeutic exercise, manual therapy (joint mobilisation, soft-tissue release), pain-relief modalities such as TENS or ultrasound and [kinesio taping](/taping) where needed, how often we visit and what to do between sessions — with realistic short- and long-term goals.
 
 ### 4. Ongoing sessions and review
 
@@ -114,7 +114,7 @@ For senior citizens, home-based geriatric physiotherapy is usually the best opti
 
 ### Is a lady physiotherapist available for home visits on FC Road?
 
-Yes, on request. Many women prefer a female physiotherapist, especially for pregnancy-related back pain and postnatal recovery, pelvic-floor weakness, or for elderly female family members — and many students in PGs and hostels near FC Road feel more comfortable with a woman therapist. Tell us your preference when you book and we will assign a qualified female physiotherapist, subject to availability on your preferred dates.
+Yes, on request. Many women prefer a female physiotherapist, especially for pregnancy-related back pain and [postnatal recovery](/postnatal-physiotherapy), pelvic-floor weakness, or for elderly female family members — and many students in PGs and hostels near FC Road feel more comfortable with a woman therapist. Tell us your preference when you book and we will assign a qualified female physiotherapist, subject to availability on your preferred dates.
 
 ### Do you treat sports injuries for college students and athletes near Fergusson College?
 
@@ -130,11 +130,11 @@ Yes. Colleges, coaching classes and offices surround FC Road, and we see a lot o
 
 ### Do you offer physiotherapy at home after knee replacement surgery near FC Road?
 
-Yes. Central Pune has several leading orthopaedic hospitals, and many patients from FC Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a total knee replacement, hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through FC Road traffic while you are in pain or on a walker.
+Yes. Central Pune has several leading orthopaedic hospitals, and many patients from FC Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a [total knee replacement](/physiotherapy-after-total-knee-replacement), hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through FC Road traffic while you are in pain or on a walker.
 
 ### Is paralysis and stroke physiotherapy available at home on FC Road?
 
-Yes. We provide neuro rehabilitation at home on FC Road and in Deccan, Model Colony and Shivajinagar for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, Guillain-Barré syndrome and other neurological conditions. Home-based rehab is often the safest and most practical choice, since travelling to a clinic several times a week is very hard for these patients. We work on strength, balance, walking, sitting and standing control, hand function and daily activities, and train family members in safe transfers and simple exercises between sessions.
+Yes. We provide neuro rehabilitation at home on FC Road and in Deccan, Model Colony and Shivajinagar for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, [Guillain-Barré syndrome](/gbs-physiotherapy-assessment-and-recovery) and other neurological conditions. Home-based rehab is often the safest and most practical choice, since travelling to a clinic several times a week is very hard for these patients. We work on strength, balance, walking, sitting and standing control, hand function and daily activities, and train family members in safe transfers and simple exercises between sessions.
 
 ### Is home physiotherapy on FC Road as effective as going to a clinic?
 

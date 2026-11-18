@@ -29,7 +29,7 @@ Neurological disorders often lead to decreased mobility, balance impairments, mu
 
 ## Role of Physiotherapy in Neurological Rehabilitation
 
-Physiotherapy plays an essential role in neurological rehabilitation by:
+Physiotherapy plays an essential role in [neurological rehabilitation](/types-of-neurological-rehabilitation) by:
 
 - **Enhancing neuroplasticity** – Helping the brain form new connections to compensate for lost functions.
 - **Preventing secondary complications** – Such as muscle stiffness, contractures, and pressure sores.
@@ -74,7 +74,7 @@ These physiotherapy techniques form the foundation of neurological rehabilitatio
 #### Multiple Sclerosis (MS)
 
 - Addresses fatigue, balance issues, and muscle weakness.
-- Involves endurance training and aquatic therapy.
+- Involves endurance training and [aquatic therapy](/types-of-hydrotherapy-in-physiotherapy).
 
 #### Spinal Cord Injury (SCI)
 
@@ -108,7 +108,7 @@ Advancements in physiotherapy have led to specialized techniques that enhance ne
 
 - Uses electrical impulses to stimulate weak or paralyzed muscles.
 - Enhances muscle strength and prevents atrophy.
-- Beneficial for spinal cord injuries, stroke, and multiple sclerosis.
+- Beneficial for spinal cord injuries, stroke, and [multiple sclerosis](/multiple-sclerosis-neurological-physiotherapy).
 
 #### Vestibular Rehabilitation for Balance Disorders
 
@@ -172,7 +172,7 @@ Neurological disorders often lead to muscle weakness and reduced stamina. Physio
 #### Cardiovascular Fitness for Neurological Patients
 
 - Enhances heart and lung function, reducing fatigue.
-- Involves cycling, swimming, and aerobic exercises.
+- Involves cycling, swimming, and [aerobic exercises](/types-of-aerobic-training-in-physiotherapy).
 
 #### Role of Resistance and Aerobic Exercises
 
@@ -256,7 +256,7 @@ Despite its benefits, neurological physiotherapy has challenges that impact pati
 #### Financial and Accessibility Challenges
 
 - High costs of long-term rehabilitation.
-- Limited access to [specialized physiotherapy centers](/) in some regions.
+- Limited access to [specialized physiotherapy centers](/service) in some regions.
 
 #### Overcoming Plateaus in Recovery
 

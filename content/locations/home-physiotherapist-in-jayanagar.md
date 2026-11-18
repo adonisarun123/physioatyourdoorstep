@@ -8,7 +8,7 @@ metaDescription: "Get a Certified home physiotherapist in Jayanagar. Expert phys
 
 ## Expert Home Physiotherapy Services in Jayanagar
 
-Are you searching for a trusted **home physiotherapist in Jayanagar, Bangalore**? At **Physio At Your Doorstep**, we bring quality physiotherapy care straight to your home, helping you heal faster in a stress-free environment. Whether you're recovering from surgery, struggling with back pain, or seeking rehabilitation for a loved one, our certified physiotherapists in Jayanagar offer personalized treatment without you needing to step outside your home.
+Are you searching for a trusted **home physiotherapist in Jayanagar, Bangalore**? At **Physio At Your Doorstep**, we bring quality physiotherapy care straight to your home, helping you heal faster in a stress-free environment. Whether you're recovering from surgery, struggling with [back pain](/back-ache), or seeking rehabilitation for a loved one, our certified physiotherapists in Jayanagar offer personalized treatment without you needing to step outside your home.
 
 Jayanagar is one of Bangalore's most iconic neighborhoods, known for its tree-lined streets, established communities, senior citizens, and growing base of professionals. As the demand for **home physiotherapy in Jayanagar** increases, more people are realizing the value of receiving care in the safety and convenience of their homes. Whether you're in Jayanagar 4th Block, 9th Block, or near South End Circle, we ensure you get expert physiotherapy right where you are—without the hassle of travel.
 
@@ -40,7 +40,7 @@ We offer comprehensive **physiotherapy at home in Jayanagar** for various condit
 
 ### Post-Surgery Rehabilitation
 
-Whether it's knee replacement, spinal surgery, or fracture recovery, we help you regain movement and strength at home.
+Whether it's [knee replacement](/physiotherapy-exercises-after-knee-surgery), spinal surgery, or fracture recovery, we help you regain movement and strength at home.
 
 [Learn More](/service/post-surgical-physiotherapy)
 
@@ -58,7 +58,7 @@ We provide effective therapy for patients recovering from strokes or neurologica
 
 ### Sports Injury Therapy
 
-From tennis elbow to ankle sprains, our therapists offer rehabilitation and recovery plans to get you back to action.
+From [tennis elbow](/tennis-elbow-physiotherapy-treatment) to ankle sprains, our therapists offer rehabilitation and recovery plans to get you back to action.
 
 [Learn More](/service/sports-physiotherapy)
 
@@ -122,7 +122,7 @@ We provide consistent care, track progress, and make changes to your program as 
 
 ### What is the cost of home physiotherapy in Jayanagar, Bangalore?
 
-The **cost of physiotherapy at home in Jayanagar** typically ranges between ₹500 to ₹1,200 per session. The price depends on several factors including the type of condition being treated (e.g., orthopedic, neurological, pediatric), the duration of the session, the complexity of the treatment, and the number of sessions required. At *Physio At Your Doorstep*, we offer affordable rates along with customizable packages for long-term care, especially for conditions like **stroke rehabilitation, arthritis, and post-surgical physiotherapy**. Get in touch with us directly to receive a personalized quote based on your location and condition.
+The **cost of physiotherapy at home in Jayanagar** typically ranges between ₹799–₹1,099 per session. The price depends on several factors including the type of condition being treated (e.g., orthopedic, neurological, pediatric), the duration of the session, the complexity of the treatment, and the number of sessions required. At *Physio At Your Doorstep*, we offer affordable rates along with customizable packages for long-term care, especially for conditions like **stroke rehabilitation, arthritis, and post-surgical physiotherapy**. Get in touch with us directly to receive a personalized quote based on your location and condition.
 
 ### How do I find the best home physiotherapist near me in Jayanagar?
 
@@ -154,11 +154,11 @@ Yes. We frequently treat patients in Jayanagar suffering from **chronic back pai
 
 ### Can home physiotherapy help me recover after knee or hip replacement surgery?
 
-Absolutely. Our **post-surgery rehabilitation physiotherapists in Jayanagar** specialize in recovery after procedures like **total knee replacement (TKR), hip replacement, ACL reconstruction, rotator cuff repairs**, and spinal surgeries. We guide you through each phase of recovery—pain management, regaining joint range of motion, muscle strengthening, gait training, and full functional restoration—ensuring safe and steady progress right at home.
+Absolutely. Our **post-surgery rehabilitation physiotherapists in Jayanagar** specialize in recovery after procedures like **[total knee replacement](/physiotherapy-after-total-knee-replacement) (TKR), hip replacement, ACL reconstruction, rotator cuff repairs**, and spinal surgeries. We guide you through each phase of recovery—pain management, regaining joint range of motion, muscle strengthening, gait training, and full functional restoration—ensuring safe and steady progress right at home.
 
 ### Do you offer pediatric physiotherapy at home in Jayanagar?
 
-Yes. We provide **pediatric physiotherapy services in Jayanagar** for children dealing with developmental delays, cerebral palsy, muscular dystrophy, torticollis, and post-injury rehabilitation. Our child-friendly therapists use play-based techniques and family-inclusive approaches to make therapy engaging and effective. Home therapy is particularly beneficial for children as it offers comfort and routine, helping them respond better to exercises and interventions.
+Yes. We provide **pediatric physiotherapy services in Jayanagar** for children dealing with developmental delays, cerebral palsy, muscular dystrophy, [torticollis](/torticollis-physiotherapy-treatment), and post-injury rehabilitation. Our child-friendly therapists use play-based techniques and family-inclusive approaches to make therapy engaging and effective. Home therapy is particularly beneficial for children as it offers comfort and routine, helping them respond better to exercises and interventions.
 
 ### Do you treat sports injuries at home in Jayanagar?
 

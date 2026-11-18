@@ -91,7 +91,7 @@ During the acute phase, treatment focuses on providing immediate pain relief thr
 
 - Therapeutic heat application to relax muscles and improve circulation
 - Cold therapy to reduce inflammation during acute flare-ups
-- TENS (Transcutaneous Electrical Nerve Stimulation) for natural pain relief
+- [TENS](/tens-vs-traction-physiotherapy) (Transcutaneous Electrical Nerve Stimulation) for natural pain relief
 - Ultrasound therapy to promote tissue healing
 
 **Gentle Movement Education** Your physiotherapist will teach you optimal positions for sleeping, sitting, and standing that minimize nerve irritation. This education empowers you to manage symptoms between treatment sessions.
@@ -216,7 +216,7 @@ If you work at a desk:
 
 **What to Avoid:**
 
-- Prolonged sitting (limit to 30-minute intervals)
+- [Prolonged sitting](/desk-job-syndrome-physiotherapy) (limit to 30-minute intervals)
 - Heavy lifting, especially with twisting
 - High-impact activities during acute phases
 - Forward bending with straight legs

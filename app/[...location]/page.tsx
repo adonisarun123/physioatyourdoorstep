@@ -4,7 +4,8 @@ import Header from "@/components/Header";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import ServiceAreaPage from "@/components/ServiceAreaPage";
-import { localBusinessSchema, faqSchema, SITE } from "@/lib/seo";
+import { careerPath, getAllCareerAreas } from "@/lib/careers";
+import { localBusinessSchema, faqSchema, SITE, OG_DEFAULTS } from "@/lib/seo";
 import { MarkdownContent } from "@/components/MarkdownContent";
 import {
     getAllLocations,
@@ -54,7 +55,14 @@ export async function generateMetadata({ params }: { params: Promise<{ location:
         title: (page.metaTitle || page.title).replace(/\s*\|\s*Physio At Your Doorstep\s*$/i, ""),
         description,
         alternates: { canonical: `/${slug}` },
-        openGraph: { title: page.title, description, url: `/${slug}`, type: "website" },
+        openGraph: {
+            ...OG_DEFAULTS,
+            title: page.title,
+            description,
+            url: `/${slug}`,
+            type: "website",
+            images: [serviceArea ? `/images/services/${serviceArea.service}.webp` : "/images/hero-home.webp"],
+        },
     };
 }
 
@@ -88,6 +96,7 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
     const locationIndex = allLocations.findIndex((l) => l.slug === locationData.slug);
     const relatedBlogs = pickWindow(getAllBlogs(), Math.max(0, locationIndex) * 3, 3);
     const services = getAllServices();
+    const careerArea = getAllCareerAreas().find((a) => a.locationSlug === slug);
     // If this area has its own localised service pages, link to those instead of
     // the global service pages — they are the more relevant next click.
     const areaServices = getServiceAreasByArea(locationData.area);
@@ -258,6 +267,15 @@ export default async function LocationDetailPage({ params }: { params: Promise<{
                             <Link href="/locations" className="mt-6 inline-flex items-center gap-1 text-sm font-medium text-[#E31E24]">
                                 All areas we serve <ArrowRight className="h-4 w-4" />
                             </Link>
+                            {careerArea && (
+                                <p className="mt-4 text-sm text-[#4B5563]">
+                                    Are you a physiotherapist?{" "}
+                                    <Link href={careerPath(careerArea.slug)} className="font-medium text-[#3B3B6D] underline underline-offset-2">
+                                        We&apos;re hiring physiotherapists in {careerArea.area}
+                                    </Link>
+                                    .
+                                </p>
+                            )}
                         </div>
                     </section>
                 )}

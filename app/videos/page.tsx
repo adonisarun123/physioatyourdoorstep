@@ -13,7 +13,7 @@ import {
     thumbnailUrl,
     videoPagePath,
 } from "@/lib/videos";
-import { SITE, absoluteUrl } from "@/lib/seo";
+import { SITE, absoluteUrl, OG_DEFAULTS } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     description:
         "Patient recovery stories, home exercises and sports physiotherapy videos: ACL rehab, frozen shoulder, posture, back pain and more from our physiotherapists.",
     alternates: { canonical: "/videos" },
-    openGraph: {
+    openGraph: { ...OG_DEFAULTS,
         title: "Physiotherapy Videos — Recovery Stories & Home Exercises",
         url: "/videos",
         type: "website",

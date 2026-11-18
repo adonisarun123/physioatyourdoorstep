@@ -1,6 +1,6 @@
 # Physiotherapy During Pregnancy – Supporting Comfort, Mobility & Safe Childbirth
 
-Physiotherapy during pregnancy is a specialised service designed to help expectant mothers manage physical discomfort, maintain mobility, and prepare their bodies for childbirth. Pregnancy brings significant changes in posture, muscle balance, and joint stability due to hormonal shifts and increased body weight. These changes often lead to back pain, pelvic discomfort, muscle tightness, and reduced physical endurance.
+Physiotherapy during pregnancy is a specialised service designed to help expectant mothers manage physical discomfort, maintain mobility, and prepare their bodies for childbirth. Pregnancy brings significant changes in posture, muscle balance, and joint stability due to hormonal shifts and increased body weight. These changes often lead to [back pain](/back-ache), pelvic discomfort, muscle tightness, and reduced physical endurance.
 
 With evidence-based exercises and movement strategies, pregnancy physiotherapy supports both maternal wellbeing and functional independence throughout all stages of pregnancy.
 

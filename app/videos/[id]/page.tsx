@@ -17,7 +17,7 @@ import {
     videoPagePath,
     watchUrl,
 } from "@/lib/videos";
-import { SITE, absoluteUrl, isoDateTimeIST } from "@/lib/seo";
+import { SITE, absoluteUrl, isoDateTimeIST, OG_DEFAULTS } from "@/lib/seo";
 
 /**
  * Watch page — one per YouTube video. Google only indexes a video when it is
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         title: video.title,
         description: video.description,
         alternates: { canonical: path },
-        openGraph: {
+        openGraph: { ...OG_DEFAULTS,
             title: video.title,
             description: video.description,
             url: path,

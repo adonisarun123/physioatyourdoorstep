@@ -31,7 +31,7 @@ The common causes include:
 - Deep cuts or lacerations to the arm that sever the nerve
 - Tumors or cysts pressing on the radial nerve
 - Systemic conditions like diabetes mellitus, which can cause peripheral neuropathy and increase the risk of nerve dysfunction
-- Autoimmune conditions such as Guillain-Barre syndrome or rheumatoid arthritis
+- Autoimmune conditions such as [Guillain-Barre syndrome](/gbs-physiotherapy-assessment-and-recovery) or [rheumatoid arthritis](/physiotherapy-for-rheumatoid-arthritis)
 - Lead poisoning or prolonged exposure to certain toxins
 - Medical procedures involving the arm or shoulder that inadvertently damage the nerve
 
@@ -83,7 +83,7 @@ A wrist cock-up splint or dynamic extension splint is among the first interventi
 
 ### 2. Electrotherapy Modalities
 
-Several electrotherapy tools help address pain, promote circulation, and stimulate weakened muscles before voluntary motor return is possible:
+Several [electrotherapy](/electrotherapy-modalities-in-physiotherapy) tools help address pain, promote circulation, and stimulate weakened muscles before voluntary motor return is possible:
 
 - **Transcutaneous Electrical Nerve Stimulation (TENS)**: Low-voltage electrical currents applied through skin electrodes help relieve pain and stimulate nerve pathways.
 - **Neuromuscular Electrical Stimulation (NMES):** This modality uses electrical impulses to trigger muscle contractions in the wrist and finger extensors, helping to prevent muscle atrophy and maintain joint mobility while the nerve regenerates.
@@ -96,7 +96,7 @@ Several electrotherapy tools help address pain, promote circulation, and stimula
 
 Hands-on techniques play a vital role in maintaining tissue health during the recovery period. Manual therapy for wrist drop may include:
 
-- Soft tissue mobilization to reduce adhesions and restore flexibility in forearm muscles
+- Soft tissue mobilization to reduce [adhesions](/adhesion-in-physiotherapy) and restore flexibility in forearm muscles
 - Joint mobilization of the wrist, hand, and elbow to maintain cartilage health and prevent stiffness
 - Passive range of motion (PROM) exercises to keep all joints supple while active muscle control is limited
 - Nerve mobilization techniques that gently glide and stretch the radial nerve, improving its mobility within surrounding tissues and reducing neural tension
@@ -178,7 +178,7 @@ While recovery progresses, there are several practical strategies to make daily 
 1. National Institutes of Health (NIH) – Integrated Physical Therapy in Radial Palsy Case Report: <https://pmc.ncbi.nlm.nih.gov/articles/PMC11055539/>
 2. Neurological Physiotherapy Services at Physio at Your Doorstep: </service/neurological-physiotherapy/>
 3. Post Surgical Physiotherapy at Physio at Your Doorstep: </service/post-surgical-physiotherapy/>
-4. Orthopaedic Physiotherapy at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>
+4. [Orthopaedic Physiotherapy](/service/orthopaedic-physiotherapy) at Physio at Your Doorstep: </service/orthopaedic-physiotherapy/>
 5. Neurological Physiotherapy Tests Blog: </neurological-physiotherapy-tests/>
 
 **Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)

@@ -24,7 +24,7 @@ It also means consistency in those critical early weeks, when doing the right mo
 
 ## Surgeries we rehabilitate
 
-- Total knee replacement (TKR) and total hip replacement (THR)
+- [Total knee replacement](/physiotherapy-after-total-knee-replacement) (TKR) and total hip replacement (THR)
 - ACL and other ligament reconstructions
 - Spine surgery (discectomy, fusion) rehabilitation
 - Rotator cuff and other shoulder repairs

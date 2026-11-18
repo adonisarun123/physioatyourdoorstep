@@ -1,4 +1,5 @@
 import CTABar from "@/components/CTABar";
+import { OG_DEFAULTS } from "@/lib/seo";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { SITE } from "@/lib/seo";
@@ -8,6 +9,7 @@ export const metadata: Metadata = {
     title: "Terms of Service | Physio At Your Doorstep",
     description: "Terms governing use of the Physio At Your Doorstep website and home physiotherapy services, including appointments, cancellations, payments and liability.",
     alternates: { canonical: "/terms-of-service" },
+    openGraph: { ...OG_DEFAULTS, url: "/terms-of-service", type: "website" },
     robots: { index: true, follow: true },
 };
 

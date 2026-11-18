@@ -114,7 +114,7 @@ Ultrasound therapy can also be combined with pelvic floor exercises and manual t
 
 ### Sciatica and Nerve-Related Pain
 
-Sciatica is another all-too-common pregnancy woe. As the uterus expands, it can put pressure on the sciatic nerve that runs from the lower back down through the hips and legs. This pressure can result in sharp, shooting pain that radiates down one side of the body. Not only is it painful, but it can also be disabling, affecting sleep and daily movement.
+[Sciatica](/sciatica-physiotherapy) is another all-too-common pregnancy woe. As the uterus expands, it can put pressure on the sciatic nerve that runs from the lower back down through the hips and legs. This pressure can result in sharp, shooting pain that radiates down one side of the body. Not only is it painful, but it can also be disabling, affecting sleep and daily movement.
 
 Physiotherapy ultrasound helps by targeting the surrounding tissues of the sciatic nerve—not the nerve directly. The pulsed ultrasound waves reduce muscle spasms and inflammation in the lower back, glutes, and hamstrings, which in turn relieves pressure on the nerve. Plus, the gentle warmth helps muscles relax, improving mobility and reducing sharp, stabbing sensations.
 
@@ -220,14 +220,24 @@ When administered by skilled professionals, ultrasound therapy is not just safe�
 
 The key is to stay informed, communicate with your healthcare team, and invest in supportive therapies that prioritize both your well-being and your baby’s safety. After all, a more comfortable pregnancy leads to a more empowered mom—and a smoother transition into motherhood.
 
-## FAQs
+## Frequently Asked Questions
 
-- [Is ultrasound therapy safe in all trimesters of pregnancy?](#acc-xcmo124-0) Yes, when applied correctly and away from the uterus, it is generally safe throughout pregnancy. Always consult your physiotherapist and OB-GYN first.
+### Is ultrasound therapy safe in all trimesters of pregnancy?
 
-- [Can ultrasound therapy harm my baby?](#acc-xcmo124-1) No. It poses no risk to the fetus when used in approved areas (like shoulders, thighs, or upper back) and in pulsed mode.
+Yes, when applied correctly and away from the uterus, it is generally safe throughout pregnancy. Always consult your physiotherapist and OB-GYN first.
 
-- [How quickly can I see results from ultrasound therapy?](#acc-xcmo124-2) Most pregnant women experience relief after 1–3 sessions, depending on the severity and type of discomfort.
+### Can ultrasound therapy harm my baby?
 
-- [Can I do ultrasound therapy at home with portable devices?](#acc-xcmo124-3) It’s strongly discouraged unless prescribed and guided by a professional. Incorrect use can be dangerous during pregnancy.
+No. It poses no risk to the fetus when used in approved areas (like shoulders, thighs, or upper back) and in pulsed mode.
 
-- [Does ultrasound therapy replace other prenatal exercises?](#acc-xcmo124-4) No. It complements them. A complete prenatal physiotherapy plan includes exercises, posture correction, manual therapy, and lifestyle tips.
+### How quickly can I see results from ultrasound therapy?
+
+Most pregnant women experience relief after 1–3 sessions, depending on the severity and type of discomfort.
+
+### Can I do ultrasound therapy at home with portable devices?
+
+It’s strongly discouraged unless prescribed and guided by a professional. Incorrect use can be dangerous during pregnancy.
+
+### Does ultrasound therapy replace other prenatal exercises?
+
+No. It complements them. A complete [prenatal physiotherapy](/prenatal-physiotherapy-during-pregnancy) plan includes exercises, posture correction, manual therapy, and lifestyle tips.

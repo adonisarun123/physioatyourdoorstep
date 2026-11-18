@@ -42,7 +42,7 @@ Guided recovery after knee and hip replacement, ACL reconstruction, spine or sho
 
 ### [Orthopaedic physiotherapy](/service/orthopaedic-physiotherapy)
 
-Relief for knee pain and osteoarthritis, lower back pain, slip disc, sciatica, cervical spondylosis, neck pain, frozen shoulder, heel pain, sprains and fracture rehab — including posture-related pain from long hours of desk work, studying or standing at a shop counter.
+Relief for [knee pain](/knee-pain) and osteoarthritis, lower back pain, slip disc, sciatica, cervical spondylosis, neck pain, frozen shoulder, heel pain, sprains and fracture rehab — including posture-related pain from long hours of desk work, studying or standing at a shop counter.
 
 ### [Neurological physiotherapy](/service/neurological-physiotherapy)
 
@@ -50,7 +50,7 @@ Paralysis and stroke physiotherapy at home, along with care for Parkinson's dise
 
 ### [Sports injury physiotherapy](/service/sports-physiotherapy)
 
-Whether you are a college athlete, a gym-goer, a member of one of Deccan's sports clubs or a morning walker at Sambhaji Park, we treat ligament tears, muscle strains, tennis elbow, runner's knee, shin splints and ankle sprains, and get you back to activity safely.
+Whether you are a college athlete, a gym-goer, a member of one of Deccan's sports clubs or a morning walker at Sambhaji Park, we treat ligament tears, muscle strains, [tennis elbow](/tennis-elbow-physiotherapy-treatment), runner's knee, shin splints and ankle sprains, and get you back to activity safely.
 
 ### [Geriatric physiotherapy](/service/geriatric-physiotherapy)
 
@@ -114,11 +114,11 @@ Yes — geriatric physiotherapy is one of our most requested services around JM 
 
 ### Do you offer physiotherapy at home after knee replacement surgery on JM Road?
 
-Yes. Central Pune has several leading orthopaedic hospitals, and many patients from JM Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a total knee replacement, hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through JM Road traffic while you are in pain or on a walker.
+Yes. Central Pune has several leading orthopaedic hospitals, and many patients from JM Road, Deccan and Shivajinagar continue their physiotherapy at home once discharged. After a [total knee replacement](/physiotherapy-after-total-knee-replacement), hip replacement, ACL reconstruction or fracture surgery, structured rehab is essential to regain knee bending, straightening, strength and a normal walking pattern. We follow your surgeon's protocol and progress you step by step, from bed exercises and walker training to independent walking and stairs — without a trip through JM Road traffic while you are in pain or on a walker.
 
 ### Is paralysis and stroke physiotherapy available at home on JM Road?
 
-Yes. We provide neuro rehabilitation at home on JM Road and in Deccan, Shivajinagar and Model Colony for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, Guillain-Barré syndrome and other neurological conditions. For these patients, travelling to a clinic several times a week is often difficult or unsafe, so home-based rehab is the practical option. We work on strength, balance, walking, sitting and standing control, hand function and daily activities such as dressing and eating, and train family members in safe transfers, positioning and simple exercises between sessions. Starting early after a stroke gives the best chance of recovery.
+Yes. We provide neuro rehabilitation at home on JM Road and in Deccan, Shivajinagar and Model Colony for patients recovering from stroke (hemiplegia), spinal cord injury, Bell's palsy, [Guillain-Barré syndrome](/gbs-physiotherapy-assessment-and-recovery) and other neurological conditions. For these patients, travelling to a clinic several times a week is often difficult or unsafe, so home-based rehab is the practical option. We work on strength, balance, walking, sitting and standing control, hand function and daily activities such as dressing and eating, and train family members in safe transfers, positioning and simple exercises between sessions. Starting early after a stroke gives the best chance of recovery.
 
 ### Can you treat neck pain, back pain and posture problems for students and office workers near JM Road?
 
@@ -126,7 +126,7 @@ Yes. With so many colleges, coaching classes and offices around JM Road, FC Road
 
 ### Can I get a female physiotherapist at home on JM Road?
 
-Yes, on request. Many women prefer a female physiotherapist, especially for pregnancy-related back pain and postnatal recovery, pelvic-floor weakness, or for elderly female family members. Tell us your preference when you book and we will assign a qualified female physiotherapist, subject to availability on your preferred dates.
+Yes, on request. Many women prefer a female physiotherapist, especially for pregnancy-related back pain and [postnatal recovery](/postnatal-physiotherapy), pelvic-floor weakness, or for elderly female family members. Tell us your preference when you book and we will assign a qualified female physiotherapist, subject to availability on your preferred dates.
 
 ### Is home physiotherapy on JM Road as effective as visiting a clinic?
 

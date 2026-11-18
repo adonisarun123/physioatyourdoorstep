@@ -12,56 +12,53 @@ import { GALLERY_EVENTS, galleryVideoPath } from "@/lib/gallery";
 
 const BASE_URL = "https://www.physioatyourdoorstep.com";
 
+// lastModified is only emitted where we know the real date (blog `date`).
+// Stamping every URL with the build time teaches Google to ignore our lastmod.
 export default function sitemap(): MetadataRoute.Sitemap {
-    const now = new Date();
 
     const staticPages: MetadataRoute.Sitemap = [
-        { url: `${BASE_URL}/`, lastModified: now, changeFrequency: "weekly", priority: 1 },
-        { url: `${BASE_URL}/about-us`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-        { url: `${BASE_URL}/contact-us`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
-        { url: `${BASE_URL}/booking`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
-        { url: `${BASE_URL}/service`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
-        { url: `${BASE_URL}/locations`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
-        { url: `${BASE_URL}/blogs`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
-        { url: `${BASE_URL}/media-coverage`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-        { url: `${BASE_URL}/videos`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-        { url: `${BASE_URL}/gallery`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-        { url: `${BASE_URL}/careers`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
-        { url: `${BASE_URL}/privacy-policy`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
-        { url: `${BASE_URL}/terms-of-service`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
+        { url: `${BASE_URL}/`, changeFrequency: "weekly", priority: 1 },
+        { url: `${BASE_URL}/about-us`, changeFrequency: "monthly", priority: 0.7 },
+        { url: `${BASE_URL}/contact-us`, changeFrequency: "monthly", priority: 0.7 },
+        { url: `${BASE_URL}/booking`, changeFrequency: "monthly", priority: 0.9 },
+        { url: `${BASE_URL}/service`, changeFrequency: "monthly", priority: 0.8 },
+        { url: `${BASE_URL}/locations`, changeFrequency: "monthly", priority: 0.8 },
+        { url: `${BASE_URL}/blogs`, changeFrequency: "weekly", priority: 0.8 },
+        { url: `${BASE_URL}/media-coverage`, changeFrequency: "monthly", priority: 0.6 },
+        { url: `${BASE_URL}/videos`, changeFrequency: "monthly", priority: 0.6 },
+        { url: `${BASE_URL}/gallery`, changeFrequency: "monthly", priority: 0.6 },
+        { url: `${BASE_URL}/careers`, changeFrequency: "weekly", priority: 0.7 },
+        { url: `${BASE_URL}/privacy-policy`, changeFrequency: "yearly", priority: 0.3 },
+        { url: `${BASE_URL}/terms-of-service`, changeFrequency: "yearly", priority: 0.3 },
     ];
 
     const services: MetadataRoute.Sitemap = getAllServices().map((s) => ({
         url: `${BASE_URL}/service/${s.slug}`,
-        lastModified: now,
         changeFrequency: "monthly",
         priority: 0.9,
     }));
 
     const locations: MetadataRoute.Sitemap = getAllLocations().map((l) => ({
         url: `${BASE_URL}/${l.slug}`,
-        lastModified: now,
         changeFrequency: "monthly",
         priority: 0.8,
     }));
 
     const serviceAreas: MetadataRoute.Sitemap = getAllServiceAreas().map((s) => ({
         url: `${BASE_URL}/${s.slug}`,
-        lastModified: now,
         changeFrequency: "monthly",
         priority: 0.8,
     }));
 
     const categories: MetadataRoute.Sitemap = getAllCategories().map((c) => ({
         url: `${BASE_URL}/category/${c.slug}`,
-        lastModified: now,
         changeFrequency: "weekly",
         priority: 0.6,
     }));
 
     const blogs: MetadataRoute.Sitemap = getAllBlogs().map((b) => ({
         url: `${BASE_URL}/${b.slug}`,
-        lastModified: b.publishedAt ? new Date(b.publishedAt) : now,
+        ...(b.publishedAt ? { lastModified: new Date(b.publishedAt) } : {}),
         changeFrequency: "monthly",
         priority: 0.7,
     }));
@@ -69,7 +66,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // One job page per hiring area (see lib/careers.ts).
     const careers: MetadataRoute.Sitemap = getAllCareerAreas().map((a) => ({
         url: `${BASE_URL}${careerPath(a.slug)}`,
-        lastModified: now,
         changeFrequency: "weekly",
         priority: 0.6,
     }));

@@ -26,7 +26,7 @@ It also protects consistency in those critical early weeks, when doing the right
 
 ## Surgeries we rehabilitate
 
-- Total knee replacement (TKR) and total hip replacement (THR)
+- Total [knee replacement](/physiotherapy-exercises-after-knee-surgery) ([TKR](/physiotherapy-after-total-knee-replacement)) and total hip replacement (THR)
 - ACL and other ligament reconstructions
 - Spine surgery (discectomy, fusion) rehabilitation
 - Rotator cuff and other shoulder repairs
