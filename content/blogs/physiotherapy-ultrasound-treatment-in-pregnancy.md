@@ -2,9 +2,9 @@
 title: "Physiotherapy Ultrasound Treatment in Pregnancy"
 date: "2025-04-30"
 metaTitle: "Physiotherapy Ultrasound Treatment in Pregnancy"
-metaDescription: "Pregnancy is a beautiful journey, but let’s be honest—it’s also a time when your body throws you into a whirlwind of aches, pains, and unexpected discomforts. A"
+metaDescription: "Is therapeutic ultrasound safe in pregnancy? How physiotherapists use it for back, pelvic and wrist pain, which areas are avoided, and safer alternatives."
 excerpt: "Pregnancy is a beautiful journey, but let’s be honest—it’s also a time when your body throws you into a whirlwind of aches, pains, and unexpected discomforts. As the baby grows, your body starts adjusting in ways that can cause significant physical strain. Enter physiotherapy—a go-to remedy for many"
-coverImage: "/images/blog/new-project-2.jpg"
+coverImage: "/images/blog/physiotherapy-ultrasound-treatment-in-pregnancy-cover.jpg"
 category: "Physiotherapy at Pregnancy"
 ---
 

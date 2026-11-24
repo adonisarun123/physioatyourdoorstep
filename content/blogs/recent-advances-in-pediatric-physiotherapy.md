@@ -2,7 +2,7 @@
 title: "Recent Advances in Pediatric Physiotherapy for Children"
 date: "2026-01-23"
 metaTitle: "Recent Advances in Pediatric Physiotherapy for Children"
-metaDescription: "Pediatric physiotherapy has experienced remarkable transformation over the past few years, with groundbreaking technological innovations and evidence-based trea"
+metaDescription: "Recent advances in pediatric physiotherapy: robotics, virtual reality, early intervention and family-centred care, and what they mean for your child."
 excerpt: "Pediatric physiotherapy has experienced remarkable transformation over the past few years, with groundbreaking technological innovations and evidence-based treatment approaches revolutionizing how we support children with developmental challenges, neurological conditions, and physical disabilities. "
 coverImage: "/images/blog/new-project.jpg"
 category: "Pediatric Physiotherapy"

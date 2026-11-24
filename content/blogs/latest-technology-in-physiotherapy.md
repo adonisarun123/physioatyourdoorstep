@@ -2,9 +2,9 @@
 title: "Latest Technology in Physiotherapy: Smarter Recovery Techniques"
 date: "2025-10-15"
 metaTitle: "Latest Technology in Physiotherapy: Smarter Recovery"
-metaDescription: "The landscape of rehabilitation medicine has undergone a remarkable transformation in recent years. What was once limited to manual techniques and conventional "
+metaDescription: "The latest technology in physiotherapy: robotics, virtual reality, wearables and shockwave. What works, what is hype, and how it can speed recovery."
 excerpt: "The landscape of rehabilitation medicine has undergone a remarkable transformation in recent years. What was once limited to manual techniques and conventional exercise protocols has evolved into a sophisticated field powered by cutting-edge innovations. The latest technology in physiotherapy is not"
-coverImage: "/images/blog/new-project-2.jpg"
+coverImage: "/images/blog/latest-technology-in-physiotherapy-cover.jpg"
 category: "Physiotherapy"
 ---
 

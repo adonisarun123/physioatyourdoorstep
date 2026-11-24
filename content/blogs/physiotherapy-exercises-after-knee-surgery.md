@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-4.jpg"
+coverImage: "/images/blog/physiotherapy-exercises-after-knee-surgery-cover.jpg"
 title: "Best Physiotherapy Exercises After Knee Surgery Recovery"
 date: "2025-03-24"
 metaTitle: "Best Physiotherapy Exercises After Knee Surgery Recovery"
@@ -389,26 +389,27 @@ If these symptoms disrupt your daily life, reach out to your surgeon or physioth
 
 Post knee surgery rehabilitation is a gradual, systematic process that demands patience, commitment as well as a suitable physiotherapy regimen. Stretching and following exercises paired with a healthy lifestyle allows you to regain full function, making it easier to return to your routine. As always, be consistent and listen to your body, and put together a plan with the help of professionals to achieve the best recovery!
 
-## FAQs
+**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)
 
-**When can I start walking after knee surgery?**
+## Frequently Asked Questions
+
+
+### When can I start walking after knee surgery?
 
 In fact most of our patients will be walking with assistance within 24-48 hours after the surgery. Depending upon the surgery and one's individual recovery, the time frame for achieving full independent walking could be as little as 3 weeks (or longer up to 6) post-operatively.
 
-**Should I do physio exercises at home?**
+### Should I do physio exercises at home?
 
 Yes! There are many exercises you can do at home, but seeing a physiotherapist will make sure you're doing them right — and safely.
 
-**How Long Does it Take to Fully Recover from Knee Surgery?**
+### How Long Does it Take to Fully Recover from Knee Surgery?
 
 Depending on the operation type and person heal, full recovery can take between 3 months to a year.
 
-**How long should you swim for knee rehab?**
+### How long should you swim for knee rehab?
 
 Yes! Swimming is low-impact and can be ideal for rebuilding strength and flexibility without putting the knee under strain.
 
-**What exercises should I not do after knee surgery?**
+### What exercises should I not do after knee surgery?
 
 Steer clear of high-impact activities for now, such as running, jumping and deep squats, until you get clearance from your doctor or physiotherapist.
-
-**Related reading:** [Agonist and Antagonist Muscles in Physiotherapy](/agonist-and-antagonist-in-physiotherapy)

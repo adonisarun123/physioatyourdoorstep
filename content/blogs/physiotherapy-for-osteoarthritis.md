@@ -4,7 +4,7 @@ date: "2025-11-17"
 metaTitle: "Physiotherapy for Osteoarthritis: Techniques for Pain Relief"
 metaDescription: "Physiotherapy for osteoarthritis: effective techniques for knee, hip and hand joint pain, exercises that work, and how home physiotherapy restores mobility."
 excerpt: "Physiotherapy for osteoarthritis: effective techniques for knee, hip and hand joint pain, exercises that work, and how home physiotherapy restores mobility."
-coverImage: "/images/blog/new-project-1.jpg"
+coverImage: "/images/blog/physiotherapy-for-osteoarthritis-cover.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
 

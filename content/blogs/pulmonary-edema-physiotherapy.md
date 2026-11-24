@@ -2,8 +2,8 @@
 title: "Pulmonary Edema Physiotherapy: Complete Recovery Guide"
 date: "2025-04-18"
 metaTitle: "Pulmonary Edema Physiotherapy: Complete Recovery Guide"
-metaDescription: "Introduction to Pulmonary Edema What is Pulmonary Edema? Pulmonary edema is a serious condition that happens when excess fluid collects in the lungs’ air sacs, "
-excerpt: "Introduction to Pulmonary Edema What is Pulmonary Edema? Pulmonary edema is a serious condition that happens when excess fluid collects in the lungs’ air sacs, making it tough to breathe. It’s not a disease on its own but a complication that usually stems from other medical issues, most often heart "
+metaDescription: "Pulmonary edema physiotherapy: positioning, breathing exercises, airway clearance and graded activity that support recovery alongside medical treatment."
+excerpt: "Pulmonary edema physiotherapy: positioning, breathing exercises, airway clearance and graded activity that support recovery alongside medical treatment."
 coverImage: "/images/blog/new-project-4-1.jpg"
 category: "Pulmonary Physiotherapy"
 ---

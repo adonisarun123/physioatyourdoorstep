@@ -5,11 +5,15 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import JsonLd from "@/components/JsonLd";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import BlogCard from "@/components/BlogCard";
+import { getBlogBySlug, getAllServices } from "@/lib/content";
+import { MarkdownContent } from "@/components/MarkdownContent";
 import { Calendar, Clock, Phone, Youtube } from "lucide-react";
 import type { Metadata } from "next";
 import {
     CHANNEL_VIDEOS,
     VIDEO_CATEGORIES,
+    VIDEO_TOPICS,
     formatDuration,
     getVideo,
     isoDuration,
@@ -38,13 +42,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const video = getVideo(id);
     if (!video) return {};
     const path = videoPagePath(video.id);
+    // Short channel titles make weak <title>s; qualify them for search.
+    const title = video.title.length < 35 ? `${video.title} | Physiotherapy Video` : video.title;
+    const description =
+        video.description.length < 90
+            ? `${video.description} Watch now, then book home physio in Bangalore & Pune.`
+            : video.description;
     return {
-        title: video.title,
-        description: video.description,
+        title,
+        description,
         alternates: { canonical: path },
         openGraph: { ...OG_DEFAULTS,
-            title: video.title,
-            description: video.description,
+            title,
+            description,
             url: path,
             type: "video.other",
             images: [thumbnailUrl(video.id)],
@@ -70,6 +80,9 @@ export default async function VideoWatchPage({ params }: Props) {
     const pageUrl = absoluteUrl(videoPagePath(video.id));
     const category = VIDEO_CATEGORIES.find((c) => c.key === video.category);
     const related = CHANNEL_VIDEOS.filter((v) => v.id !== video.id && v.category === video.category).slice(0, 3);
+    const topics = VIDEO_TOPICS[video.id];
+    const topicService = topics ? getAllServices().find((s) => s.slug === topics.service) : undefined;
+    const topicBlogs = (topics?.blogs ?? []).map((s) => getBlogBySlug(s)).filter((b): b is NonNullable<typeof b> => b !== undefined);
 
     const videoSchema = {
         "@context": "https://schema.org",
@@ -142,6 +155,27 @@ export default async function VideoWatchPage({ params }: Props) {
                                 </a>
                             </div>
                             <p className="mt-5 text-lg leading-relaxed text-[#4B5563]">{video.description}</p>
+                            {category && (
+                                <p className="mt-3 text-base text-[#6B7280]">
+                                    Part of our <Link href="/videos" className="font-medium text-[#3B3B6D] hover:text-[#E31E24]">{category.label}</Link> series: {category.blurb}
+                                </p>
+                            )}
+                            {video.summary && (
+                                <div className="mt-8">
+                                    <h2 className="heading-subsection mb-4">About This Video</h2>
+                                    <MarkdownContent>{video.summary}</MarkdownContent>
+                                </div>
+                            )}
+                            {topicService && (
+                                <div className="mt-8 rounded-2xl border border-[#DCDCEC] bg-[#EEEEF7]/40 p-5">
+                                    <p className="text-sm font-semibold text-[#E31E24] uppercase tracking-wide">Related Service</p>
+                                    <p className="mt-1 text-lg font-semibold text-[#1F2933]">{topicService.title} at Home</p>
+                                    <p className="mt-1 text-sm text-[#4B5563]">{topicService.metaDescription}</p>
+                                    <Link href={`/service/${topicService.slug}`} className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-[#E31E24]">
+                                        Explore {topicService.title} →
+                                    </Link>
+                                </div>
+                            )}
 
                             <div className="mt-8 flex flex-col sm:flex-row gap-3">
                                 <Link href="/booking" className="btn-primary">
@@ -155,6 +189,19 @@ export default async function VideoWatchPage({ params }: Props) {
                         </div>
                     </div>
                 </section>
+
+                {topicBlogs.length > 0 && (
+                    <section className="section bg-[#F6F6FB]">
+                        <div className="container">
+                            <h2 className="heading-section mb-8 text-center">Read More on This Topic</h2>
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                                {topicBlogs.map((b) => (
+                                    <BlogCard key={b.slug} blog={b} />
+                                ))}
+                            </div>
+                        </div>
+                    </section>
+                )}
 
                 {related.length > 0 && (
                     <section className="section bg-white">

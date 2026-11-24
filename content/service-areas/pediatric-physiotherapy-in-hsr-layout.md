@@ -54,6 +54,7 @@ A pediatric physiotherapist begins with a careful assessment of your child's mov
 - Flexible scheduling around school and nap routines
 - Transparent pricing — typically ₹799–₹1,099 per session, with package rates for multi-session plans
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around HSR Layout
 

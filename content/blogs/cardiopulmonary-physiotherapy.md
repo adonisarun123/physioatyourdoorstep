@@ -4,7 +4,7 @@ date: "2026-10-06"
 metaTitle: "Cardiopulmonary Physiotherapy: Conditions & Techniques"
 metaDescription: "What cardiopulmonary physiotherapy is, who needs it, the techniques used, what research shows, and how home cardiorespiratory physiotherapy works in Bangalore."
 excerpt: "Cardiopulmonary physiotherapy uses breathing retraining, airway clearance and graded exercise to rebuild stamina after heart and lung illness. Here is who needs it, what treatment involves, and when home care is safe."
-coverImage: "/images/blog/copd-physiotherapy-management.jpg"
+coverImage: "/images/blog/cardiopulmonary-physiotherapy-cover.jpg"
 category: "Pulmonary Physiotherapy"
 ---
 Cardiopulmonary physiotherapy is a specialised branch of physiotherapy that assesses, treats and rehabilitates people with heart and lung conditions. It uses breathing techniques, airway clearance, supervised exercise and education to improve breathing, stamina and independence. It is also called cardiorespiratory physiotherapy, and it covers both cardiac rehabilitation and pulmonary rehabilitation.

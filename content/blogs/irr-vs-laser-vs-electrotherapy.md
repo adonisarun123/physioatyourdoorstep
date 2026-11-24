@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-1-1.jpg"
+coverImage: "/images/blog/irr-vs-laser-vs-electrotherapy-cover.jpg"
 title: "IRR vs Laser vs Electrotherapy Physiotherapy Treatment: The Complete Guide"
 date: "2025-08-30"
 metaTitle: "IRR vs Laser vs Electrotherapy Physiotherapy Treatment Guide"

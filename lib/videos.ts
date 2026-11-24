@@ -23,6 +23,11 @@ export interface ChannelVideo {
     uploadDate: string;
     /** Length in seconds. */
     seconds: number;
+    /**
+     * Optional longer write-up (key points / transcript summary) shown under the
+     * player. Watch pages are thin without it — add 150–300 words per video.
+     */
+    summary?: string;
 }
 
 /** The video shown large at the top of /videos. Change this to re-feature. */
@@ -288,3 +293,34 @@ export function videoPagePath(id: string): string {
 export function getVideo(id: string): ChannelVideo | undefined {
     return CHANNEL_VIDEOS.find((v) => v.id === id);
 }
+
+/**
+ * Topical cross-links for each video watch page: the closest service and
+ * three articles on the same subject, so thin watch pages connect to the
+ * content that answers the viewer’s next question.
+ */
+export const VIDEO_TOPICS: Record<string, { service: string; blogs: string[] }> = {
+    "V1-EHfdn148": { service: "orthopaedic-physiotherapy", blogs: ["tennis-elbow-physiotherapy-treatment", "desk-job-syndrome-physiotherapy", "taping"] },
+    "G3pr4mo7Esw": { service: "orthopaedic-physiotherapy", blogs: ["physiotherapy-for-shoulder-blade-pain", "cervical-spondylitis-physiotherapy-treatment", "orthopaedic-conditions-in-physiotherapy"] },
+    "jB_UHoNLDe0": { service: "orthopaedic-physiotherapy", blogs: ["desk-job-syndrome-physiotherapy", "back-ache", "cervicogenic-headache"] },
+    "y9OUgw_i54I": { service: "post-surgical-physiotherapy", blogs: ["post-operative-stiffness", "physiotherapy-in-post-surgical-rehabilitation", "adhesion-in-physiotherapy"] },
+    "2oOc-DDpMj0": { service: "orthopaedic-physiotherapy", blogs: ["back-ache", "knee-pain", "musculoskeletal-and-orthopedic-physiotherapy"] },
+    "lGaRJnj129Y": { service: "post-surgical-physiotherapy", blogs: ["physiotherapy-in-post-surgical-rehabilitation", "physiotherapy-exercises-after-knee-surgery", "post-operative-stiffness"] },
+    "5hGblRy2VuM": { service: "orthopaedic-physiotherapy", blogs: ["back-ache", "physiotherapy-for-shoulder-blade-pain", "desk-job-syndrome-physiotherapy"] },
+    "PEh9GZVKLow": { service: "orthopaedic-physiotherapy", blogs: ["plantar-fascitis", "types-of-active-and-passive-movement-in-physio", "orthopaedic-conditions-in-physiotherapy"] },
+    "3Irvx-DUlnE": { service: "orthopaedic-physiotherapy", blogs: ["back-ache", "sciatica-physiotherapy", "lumbar-spondylosis-physiotherapy"] },
+    "j3arQeCZBUA": { service: "sports-physiotherapy", blogs: ["sports-assessment-in-physiotherapy", "taping", "physiotherapy-for-pcl-injury"] },
+    "u_5-pklRvzc": { service: "sports-physiotherapy", blogs: ["acl-reconstruction-rehabilitation", "physiotherapy-for-knee-surgery", "sports-assessment-in-physiotherapy"] },
+    "O5RL77T3ZC0": { service: "post-surgical-physiotherapy", blogs: ["physiotherapy-in-post-surgical-rehabilitation", "types-of-aerobic-training-in-physiotherapy", "agonist-and-antagonist-in-physiotherapy"] },
+    "-WmHuuOEkcY": { service: "orthopaedic-physiotherapy", blogs: ["cervical-spondylitis-physiotherapy-treatment", "cervicogenic-headache", "desk-job-syndrome-physiotherapy"] },
+    "WXGBgUfUJkk": { service: "sports-physiotherapy", blogs: ["taping", "sports-assessment-in-physiotherapy", "physiotherapy-for-pcl-injury"] },
+    "TMfLfDtduRM": { service: "orthopaedic-physiotherapy", blogs: ["musculoskeletal-and-orthopedic-physiotherapy", "back-ache", "knee-pain"] },
+    "OaEMS4wKABI": { service: "post-surgical-physiotherapy", blogs: ["physiotherapy-in-post-surgical-rehabilitation", "post-operative-stiffness", "sports-assessment-in-physiotherapy"] },
+    "5-Lr_rtMZcA": { service: "sports-physiotherapy", blogs: ["acl-reconstruction-rehabilitation", "physiotherapy-for-knee-surgery", "physiotherapy-exercises-after-knee-surgery"] },
+    "L9o-a4K9OUc": { service: "post-surgical-physiotherapy", blogs: ["physiotherapy-after-total-knee-replacement", "physiotherapy-exercises-after-knee-surgery", "physiotherapy-for-osteoarthritis"] },
+    "vrkXkR6DKFM": { service: "orthopaedic-physiotherapy", blogs: ["back-ache", "desk-job-syndrome-physiotherapy", "cervicogenic-headache"] },
+    "TdazeAX58yE": { service: "sports-physiotherapy", blogs: ["acl-reconstruction-rehabilitation", "physiotherapy-for-knee-surgery", "sports-assessment-in-physiotherapy"] },
+    "DesVjQESo5Q": { service: "sports-physiotherapy", blogs: ["acl-reconstruction-rehabilitation", "physiotherapy-exercises-after-knee-surgery", "physiotherapy-for-knee-surgery"] },
+    "MAU3m_YMZns": { service: "orthopaedic-physiotherapy", blogs: ["physiotherapy-for-shoulder-blade-pain", "orthopaedic-conditions-in-physiotherapy", "musculoskeletal-and-orthopedic-physiotherapy"] },
+    "wD6MtOPWPfY": { service: "post-surgical-physiotherapy", blogs: ["acl-reconstruction-rehabilitation", "physiotherapy-for-knee-surgery", "physiotherapy-in-post-surgical-rehabilitation"] },
+};

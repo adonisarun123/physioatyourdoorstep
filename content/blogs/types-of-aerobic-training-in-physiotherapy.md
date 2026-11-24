@@ -4,7 +4,7 @@ date: "2026-09-24"
 metaTitle: "Types of Aerobic Training in Physiotherapy: Full Guide"
 metaDescription: "The 8 types of aerobic training used in physiotherapy, how intensity is dosed with FITT, which type suits your condition, and how to progress safely."
 excerpt: "Rehabilitation cardio is not a gym session. Learn the eight types of aerobic training physiotherapists use, how intensity is measured, which type fits your condition, and how to progress safely."
-coverImage: "/images/blog/geriatric-cardio-physiotherapy.jpg"
+coverImage: "/images/blog/types-of-aerobic-training-in-physiotherapy-cover.jpg"
 category: "Physiotherapy"
 ---
 If your physiotherapist has asked you to walk, cycle, swim or "build your stamina", you may be wondering what that actually means in a rehabilitation setting. Aerobic training in physiotherapy is not the same as a gym cardio session. It is a carefully dosed, condition-specific form of exercise therapy that improves your heart, lungs and muscles while protecting the part of your body that is healing.

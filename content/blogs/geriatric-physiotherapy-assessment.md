@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-2.jpg"
+coverImage: "/images/blog/geriatric-physiotherapy-assessment-cover.jpg"
 title: "Geriatric Physiotherapy Assessment: Guide to Senior Care"
 date: "2025-02-27"
 metaTitle: "Geriatric Physiotherapy Assessment: Guide to Senior Care"

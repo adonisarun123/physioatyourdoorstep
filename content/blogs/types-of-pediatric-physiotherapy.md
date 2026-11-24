@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-2.jpg"
+coverImage: "/images/blog/types-of-pediatric-physiotherapy-cover.jpg"
 title: "Types of Pediatric Physiotherapy: Benefits & Approaches"
 date: "2025-09-18"
 metaTitle: "Types of Pediatric Physiotherapy: Benefits & Approaches"
@@ -234,10 +234,10 @@ If you’re new to our clinic, read about our ethos and team here: [About Physio
 ## SEO-friendly internal links for deeper reading
 
 - Pediatric physiotherapy service (Bangalore): </service/pediatric-physiotherapy/>
-- Pediatric physical rehabilitation guide: </pediatric-physical-rehabilitation/>
-- Conditions pediatric physiotherapists treat: </pediatric-physiotherapy-conditions/>
-- About Physio at Your Doorstep: </about-us/>
-- Neurological physiotherapy exercises: </neurological-physiotherapy-exercises/>
+- [Pediatric physical rehabilitation guide](/pediatric-physical-rehabilitation)
+- [Conditions pediatric physiotherapists treat](/pediatric-physiotherapy-conditions)
+- [About Physio at Your Doorstep](/about-us)
+- [Neurological physiotherapy exercises](/neurological-physiotherapy-exercises)
 - Physiotherapy blog insights: </category/physiotherapy/>
 
 ## Conclusion
@@ -254,7 +254,10 @@ If you’re in Bangalore and would like an assessment or at-home plan tailored t
 - KidsHealth — Physical Therapy for Children (parent-friendly overview): <https://kidshealth.org/en/parents/phys-therapy.html>
 - Example of clinical “types of paediatric physiotherapy” page for structure benchmarking: <https://www.physio.co.uk/treatments/paediatric-physiotherapy/types-of-paediatric-physiotherapy/>
 
-## FAQs: Types of pediatric physiotherapy and what parents ask most
+**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)
+
+## Frequently Asked Questions
+
 
 ### What are the main types of pediatric physiotherapy?
 
@@ -299,5 +302,3 @@ It’s different, not “better.” Water reduces load and can unlock movements;
 ### Should we choose clinic or home-based sessions?
 
 Hybrid models often win: clinic sessions for specialized equipment and assessments; home sessions for real-life carryover and convenience. Families in Bangalore often find home sessions reduce missed visits and boost consistency.
-
-**Related reading:** [Erb's Palsy Physiotherapy Treatment](/erbs-palsy-physiotherapy-treatment)

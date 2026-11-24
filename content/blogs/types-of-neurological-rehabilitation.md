@@ -2,9 +2,9 @@
 title: "Types of Neurological Rehabilitation: A Recovery Guide"
 date: "2025-11-24"
 metaTitle: "Types of Neurological Rehabilitation: A Recovery Guide"
-metaDescription: "Neurological conditions can dramatically alter life as you know it, affecting everything from basic movements to cognitive abilities and emotional well-being. W"
+metaDescription: "Types of neurological rehabilitation explained: physio, OT, speech, cognitive and vestibular rehab for stroke, Parkinson's, MS and spinal cord injury."
 excerpt: "Neurological conditions can dramatically alter life as you know it, affecting everything from basic movements to cognitive abilities and emotional well-being. Whether you’re recovering from a stroke, managing Parkinson’s disease, or supporting a loved one through a spinal cord injury, understanding "
-coverImage: "/images/blog/new-project-2-1.jpg"
+coverImage: "/images/blog/types-of-neurological-rehabilitation-cover.jpg"
 category: "Neurological Physiotherapy"
 ---
 

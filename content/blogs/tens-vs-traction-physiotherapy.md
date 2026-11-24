@@ -2,8 +2,8 @@
 title: "TENS vs Traction Physiotherapy Care and Rehab Guide"
 date: "2026-06-17"
 metaTitle: "TENS vs Traction Physiotherapy Care and Rehab Guide"
-metaDescription: "Introduction: Two Powerful Physiotherapy Modalities, One Important Decision When a physiotherapist recommends either TENS or traction as part of your treatment "
-excerpt: "Introduction: Two Powerful Physiotherapy Modalities, One Important Decision When a physiotherapist recommends either TENS or traction as part of your treatment plan, it is natural to wonder what each therapy does, how they differ, and which one is better suited for your specific condition. Both are "
+metaDescription: "TENS vs traction in physiotherapy: how each works, which conditions they suit, what the evidence says and how your physio chooses between them."
+excerpt: "TENS vs traction in physiotherapy: how each works, which conditions they suit, what the evidence says and how your physio chooses between them."
 coverImage: "/images/blog/new-project-1-2.jpg"
 category: "Physiotherapy"
 ---

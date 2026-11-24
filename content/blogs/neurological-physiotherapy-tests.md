@@ -2,9 +2,9 @@
 title: "Neurological Physiotherapy Tests for Patient Evaluation"
 date: "2026-01-28"
 metaTitle: "Neurological Physiotherapy Tests for Patient Evaluation"
-metaDescription: "Neurological physiotherapy tests form the cornerstone of effective rehabilitation for individuals dealing with nervous system disorders. Whether you’re recoveri"
+metaDescription: "Neurological physiotherapy tests explained: strength, tone, reflexes, sensation, balance and gait scales, and how results shape a rehab plan."
 excerpt: "Neurological physiotherapy tests form the cornerstone of effective rehabilitation for individuals dealing with nervous system disorders. Whether you’re recovering from a stroke, managing Parkinson’s disease, or dealing with spinal cord injuries, understanding these specialized assessment techniques "
-coverImage: "/images/blog/new-project-1-1.jpg"
+coverImage: "/images/blog/neurological-physiotherapy-tests-cover.jpg"
 category: "Neurological Physiotherapy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-coverImage: "/images/blog/new-project-1.jpg"
+coverImage: "/images/blog/geriatric-physiotherapy-conditions-cover.jpg"
 title: "Geriatric Physiotherapy Conditions: Complete Home Care Guide"
 date: "2025-09-10"
 metaTitle: "Geriatric Physiotherapy Conditions: Complete Home Care Guide"
@@ -177,10 +177,10 @@ For a full breakdown of what happens during a geriatric assessment, revisit: [Ge
 **Step 2:** A geriatric-specialist physiotherapist assesses you at home, sets goals, and initiates treatment.
 **Step 3:** You receive a personalized home program with progressive targets and regular follow-ups. Caregivers are coached for safe assistance.
 
-**Coverage**: Services are available across Bangalore neighborhoods. See the full list of service areas here: </locations/>
-**Team expertise**: Learn about the clinicians who deliver this care: </about-us/>
+**Coverage**: Services are available across Bangalore neighborhoods. See the full list of service areas here: [Locations](/locations)
+**Team expertise**: Learn about the clinicians who deliver this care: [About us](/about-us)
 
-Want to explore more topics? Browse the latest physiotherapy articles and **resources**: </blogs/>
+Want to explore more topics? Browse the latest physiotherapy articles and **resources**: [Blogs](/blogs)
 
 ## Local SEO note for Bangalore seniors and families
 
@@ -218,7 +218,7 @@ Yes. Structured, cue-based, repetitive training improves mobility and reduces fa
 
 ### What’s the best exercise for knee osteoarthritis?
 
-There’s no single “best,” but consistent quadriceps and hip strengthening, cycling or walking as tolerated, and balance drills produce strong results. See this knee-specific guide for more ideas: </knee-pain/>
+There’s no single “best,” but consistent quadriceps and hip strengthening, cycling or walking as tolerated, and balance drills produce strong results. See this knee-specific guide for more ideas: [Knee Pain: Causes, Symptoms and Best Treatment Options](/knee-pain)
 
 ### I’m afraid of falling. How can physio help quickly?
 
@@ -226,7 +226,7 @@ A therapist will test your balance and gait, recommend the right assistive devic
 
 ### Can I do physiotherapy after a stroke at home?
 
-Absolutely. Early, intensive, task-specific training drives neuroplasticity. Learn how physiotherapy supports neurological recovery: </physiotherapy-in-neurological-conditions/>
+Absolutely. Early, intensive, task-specific training drives neuroplasticity. Learn how physiotherapy supports neurological recovery: [Physiotherapy in Neurological Conditions & Recovery](/physiotherapy-in-neurological-conditions)
 
 ### Is pain normal during exercises?
 
@@ -234,11 +234,11 @@ Mild muscular soreness is common when starting, but sharp or joint pain isn’t.
 
 ### Do you offer support for chest or lung conditions?
 
-Yes. Programs include breathing exercises, pacing, endurance training, and safe activity progression. For pulmonary edema recovery details, visit: </pulmonary-edema-physiotherapy/>
+Yes. Programs include breathing exercises, pacing, endurance training, and safe activity progression. For pulmonary edema recovery details, visit: [Pulmonary Edema Physiotherapy: Complete Recovery Guide](/pulmonary-edema-physiotherapy)
 
 ### I’ve had bypass surgery. Is it safe to exercise?
 
-With medical clearance and proper monitoring, graded cardiac rehab is strongly recommended. Here’s a detailed guide specific to CABG recovery: </cabg-post-surgical-physiotherapy-management/>
+With medical clearance and proper monitoring, graded cardiac rehab is strongly recommended. Here’s a detailed guide specific to CABG recovery: [CABG Post Surgical Physiotherapy Management: Rehab Guide](/cabg-post-surgical-physiotherapy-management)
 
 ### How do I choose between orthopaedics and physiotherapy?
 
@@ -246,4 +246,4 @@ Orthopaedics diagnoses and manages medical/surgical aspects; physiotherapy resto
 
 ### Which areas in Bangalore do you cover?
 
-Most major neighborhoods are covered. Check your locality here: </locations/>
+Most major neighborhoods are covered. Check your locality here: [Locations](/locations)

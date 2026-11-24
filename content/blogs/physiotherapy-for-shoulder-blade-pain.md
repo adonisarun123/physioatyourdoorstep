@@ -2,9 +2,9 @@
 title: "Physiotherapy for Shoulder Blade Pain: Complete Relief Guide"
 date: "2025-12-29"
 metaTitle: "Physiotherapy for Shoulder Blade Pain: Complete Relief Guide"
-metaDescription: "Are you experiencing persistent pain between your shoulder blades that disrupts your daily activities? You’re not alone. Shoulder blade pain, medically known as"
+metaDescription: "Shoulder blade pain: common causes, warning signs and the physiotherapy exercises, posture fixes and manual therapy that bring lasting relief."
 excerpt: "Are you experiencing persistent pain between your shoulder blades that disrupts your daily activities? You’re not alone. Shoulder blade pain, medically known as scapular pain, affects millions of people worldwide and can significantly impact your quality of life. Whether it’s a dull ache that won’t "
-coverImage: "/images/blog/new-project-3.jpg"
+coverImage: "/images/blog/physiotherapy-for-shoulder-blade-pain-cover.jpg"
 category: "Orthopaedic Physiotherapy"
 ---
 

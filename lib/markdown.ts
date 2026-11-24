@@ -18,7 +18,7 @@ export async function getServiceMarkdown(slug: string): Promise<ServiceContent |
         }
 
         const fileContents = fs.readFileSync(markdownPath, 'utf8');
-        const { data, content } = matter(fileContents);
+        const { content } = matter(fileContents);
 
         // Extract title from first H1
         const titleMatch = content.match(/^#\s+(.+)$/m);
@@ -50,7 +50,7 @@ export async function getServiceMarkdown(slug: string): Promise<ServiceContent |
         }
 
         // Remove FAQ section and schema from main content
-        let mainContent = content
+        const mainContent = content
             .replace(/##\s+Frequently Asked Questions.*?\n[\s\S]*?(?=\n##\s+Schema|$)/i, '')
             .replace(/##\s+Schema Markup.*?\n[\s\S]*$/i, '')
             .trim();

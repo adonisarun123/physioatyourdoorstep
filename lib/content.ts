@@ -132,7 +132,7 @@ function readDir(dir: string): string[] {
 /** Extract "## Frequently Asked Questions" section into structured FAQs. */
 function extractFaqs(md: string): { body: string; faqs: FaqItem[] } {
     const faqs: FaqItem[] = [];
-    const match = md.match(/^##[ \t]+Frequently Asked Questions[^\n]*\r?\n([\s\S]*?)(?=\n##[ \t](?!#)|$(?![\s\S]))/im);
+    const match = md.match(/^##[ \t]+(?:Frequently Asked Questions|FAQs?\b)[^\n]*\r?\n([\s\S]*?)(?=\n##[ \t](?!#)|$(?![\s\S]))/im);
     if (!match) return { body: md, faqs };
 
     const section = match[1];

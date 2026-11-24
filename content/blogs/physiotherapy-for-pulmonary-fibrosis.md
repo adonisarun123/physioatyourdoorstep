@@ -248,24 +248,25 @@ Incorporating these techniques into daily routines, along with proper medical tr
 
 **Related reading:** [Cardiopulmonary Physiotherapy](/cardiopulmonary-physiotherapy)
 
-## Frequently Asked Questions (FAQs)
+## Frequently Asked Questions
 
-**1. How often should a pulmonary fibrosis patient do breathing exercises?**
+
+### How often should a pulmonary fibrosis patient do breathing exercises?
 
 Breathing exercises should be done at least 2-3 times a day for optimal results. However, it depends on the patient's condition and tolerance.
 
-**2. Can physiotherapy cure pulmonary fibrosis?**
+### Can physiotherapy cure pulmonary fibrosis?
 
 No, physiotherapy cannot cure pulmonary fibrosis, but it can significantly help manage symptoms and improve quality of life.
 
-**3. Is it safe for pulmonary fibrosis patients to exercise?**
+### Is it safe for pulmonary fibrosis patients to exercise?
 
 Yes, but exercises should be done under medical supervision and adjusted according to the patient's condition.
 
-**4. What is the best sleeping position for pulmonary fibrosis patients?**
+### What is the best sleeping position for pulmonary fibrosis patients?
 
 Sleeping in a slightly elevated position with pillows can help reduce breathlessness and improve comfort.
 
-**5. How does oxygen therapy work with physiotherapy?**
+### How does oxygen therapy work with physiotherapy?
 
 Oxygen therapy provides necessary oxygen during physiotherapy exercises, preventing oxygen desaturation and improving endurance.

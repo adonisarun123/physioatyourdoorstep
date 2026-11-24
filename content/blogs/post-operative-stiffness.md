@@ -4,7 +4,7 @@ date: "2026-11-11"
 metaTitle: "Post-Operative Stiffness: Causes and Treatment Options"
 metaDescription: "Post-operative stiffness and arthrofibrosis explained: causes, warning signs, physiotherapy and when surgery helps. Book a home assessment."
 excerpt: "Post-operative stiffness happens when swelling, pain, limited movement and scar tissue stop a joint from regaining its normal range after surgery. Some stiffness is a normal part of healing."
-coverImage: "/images/blog/physiotherapy-in-post-surgical-rehabilitation.jpg"
+coverImage: "/images/blog/post-operative-stiffness-cover.jpg"
 category: "Post-Surgical Physiotherapy"
 ---
 
