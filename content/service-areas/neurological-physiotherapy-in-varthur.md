@@ -64,6 +64,7 @@ Progress in neuro rehab is steady rather than instant — regular, consistent se
 - Qualified BPT/MPT physiotherapists, one-on-one
 - 24×7 availability with transparent pricing confirmed upfront
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Varthur
 

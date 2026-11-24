@@ -62,6 +62,7 @@ Progress in neuro rehabilitation is steady rather than instant — regular, cons
 - Qualified BPT/MPT physiotherapists, one-on-one
 - 24×7 availability, transparent pricing — typically ₹799–₹1,099 per session, with package rates
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Haralur
 

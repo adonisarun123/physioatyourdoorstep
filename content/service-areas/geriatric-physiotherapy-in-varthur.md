@@ -63,6 +63,7 @@ Consistency at a manageable pace is what builds strength and steadiness over tim
 - Practical home-safety guidance to reduce everyday risks
 - 24×7 availability with transparent pricing confirmed upfront
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Varthur
 

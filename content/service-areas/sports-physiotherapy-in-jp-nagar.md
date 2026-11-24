@@ -63,6 +63,7 @@ Early-morning and evening slots suit training and work schedules, and same-day v
 - One-on-one care at home, on your training schedule
 - 24×7 availability with transparent pricing confirmed upfront
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover in JP Nagar
 

@@ -65,6 +65,7 @@ Progress is tracked visit by visit and the plan adjusted as you improve. Mild st
 - 24×7 availability, all days, with same-day slots subject to availability
 - Transparent pricing with package discounts for long-term care
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover in JP Nagar
 

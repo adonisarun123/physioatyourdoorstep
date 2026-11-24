@@ -59,6 +59,7 @@ Progress is tracked and shared, and the plan advances only as your healing allow
 - 24×7 availability, all days, with same-day slots subject to availability
 - Transparent pricing — typically ₹799–₹1,099 per session, with package rates for longer rehabilitation programmes
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Haralur
 

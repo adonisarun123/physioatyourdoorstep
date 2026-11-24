@@ -57,6 +57,7 @@ Progress is reviewed regularly and shared with you in plain language, so you alw
 - A comfortable, familiar setting that helps children engage
 - Flexible scheduling around school and nap routines, with transparent pricing — typically ₹799–₹1,099 per session
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Haralur
 

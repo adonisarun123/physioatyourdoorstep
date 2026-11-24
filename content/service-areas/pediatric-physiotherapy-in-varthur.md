@@ -59,6 +59,7 @@ Progress is reviewed regularly and shared with you in plain language, so you alw
 - A comfortable, familiar setting that helps children engage
 - Flexible scheduling around school and nap routines, transparent pricing upfront
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Varthur
 

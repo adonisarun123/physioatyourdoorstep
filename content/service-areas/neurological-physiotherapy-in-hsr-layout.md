@@ -57,6 +57,7 @@ Sessions are unhurried and tailored to the patient's stamina, usually 45–60 mi
 - 24×7 availability, all days, with flexible scheduling
 - Transparent pricing — typically ₹799–₹1,099 per session, with package rates for multi-session plans
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around HSR Layout
 

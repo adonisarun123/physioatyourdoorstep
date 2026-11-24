@@ -64,6 +64,7 @@ Progress is tracked each visit and the plan adjusted as you improve. Early-morni
 - Transparent pricing — typically ₹799–₹1,099 per session, with package rates for multi-session plans
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
 - Proper invoices for every session, useful for insurance or reimbursement
+- Female physiotherapists available on request
 
 ## Areas we cover around HSR Layout
 
