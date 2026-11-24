@@ -63,6 +63,7 @@ Sessions are private, unhurried and scheduled around your comfort — including 
 - Qualified BPT/MPT physiotherapists, one-on-one
 - Flexible scheduling around rest, feeding and newborn routines
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
+- Female physiotherapists available on request
 
 ## Areas we cover around Bellandur
 
@@ -95,6 +96,10 @@ Yes — safe pelvic-floor work and graded core recovery, including guidance for 
 ### What does pregnancy physiotherapy at home in Bellandur cost?
 
 A single 45–60 minute session typically costs around ₹799–₹1,099, depending on the condition and the therapist's specialty. We offer discounted rates on weekly (4-session) and monthly (8–12 session) packages, and confirm the exact pricing upfront with no hidden charges.
+
+### Can I request a female physiotherapist?
+
+Yes — female physiotherapists are available on request. Many mothers prefer one for prenatal and pelvic-floor care; just mention it when you book and we will arrange it.
 
 ### How do I book?
 

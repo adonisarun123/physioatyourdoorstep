@@ -66,6 +66,7 @@ Progress is tracked visit by visit and the plan adjusted as you improve. Early-m
 - 4.9★ from 468+ Google reviews and 10+ years across Bangalore
 - Doorstep care that skips the Sarjapur Road traffic entirely
 - Proper invoices for every session, useful for insurance or reimbursement
+- Female physiotherapists available on request
 
 ## Areas we cover around Sarjapur Road
 
